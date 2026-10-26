@@ -1,99 +1,3 @@
-<<<<<<< HEAD
-# InFact: A Strong Baseline for Automated Fact-Checking
-[📄 Paper](https://aclanthology.org/2024.fever-1.12/)
-
-This is the implementation of **Information-Retrieving Fact-Checker (InFact)**, the text-only claim verification system that won the [AVeriTeC fact-checking challenge](https://fever.ai/task.html), see also the [AVeriTeC Leaderboard](https://eval.ai/web/challenges/challenge-page/2285/leaderboard/5655).
-
-> [!NOTE]
-> InFact got superseded by its multimodal successor [DEFAME](https://github.com/multimodal-ai-lab/DEFAME). If you want to run the latest and most capable fact-checking system, pick DEFAME. Otherwise, if your focus is to exactly reproduce the results from the InFact paper, we recommend the InFact code. (Yes, DEFAME has the capabilities to "imitate" InFact, but there are minor differences.)
-
-<img src="resources%2FConcept%20Figure.png" width="500">
-
-InFact is a text-only, 6-stage LLM pipeline for fact-checking with external evidence retrieval through Google Search. For evaluation on benchmarks that provide a knowledge store (like AVeriTeC or FEVER), it supports the retrieval of relevant evidence by leveraging an embedding model to perform semantic search.
-
-> [!NOTE]
-> The execution of the embedding model and the Llama LLMs requires GPUs.
-
-
-## Installation
-### Option A: Docker Image
-If you have [Docker](https://www.docker.com/) installed, simply run
-```bash
-docker run -it tudamailab/infact bash
-```
-You can also find the Docker image [here](https://hub.docker.com/r/tudamailab/infact).
-
-### Option B: Manual Setup
-  1. **Clone the InFact branch**
-      ```bash
-      git -b infact https://github.com/multimodal-ai-lab/DEFAME
-      mv DEFAME InFact  # Rename the directory name coming from the repository
-      cd InFact
-      ```
-
-  2. **Optional: Set up a virtual environment and activate it**
-      ```bash
-      python -m venv venv
-      source venv/bin/activate  # On Windows: venv\Scripts\activate
-      ```
-
-  3. **Install required packages**
-      ```bash
-      pip install -r requirements.txt
-      ```
-
-
-## Configuration & Building
-### 1. Configure API Keys
-To this end, run the script `scripts/setup.py` with
-```bash
-python -m scripts.setup
-```
-> [!NOTE]
-> Whenever running a script, ensure the project root to be the working directory. You can accomplish that by using the `-m` parameter as in the command above (note the script path notation):
-
-Alternatively, you may manually insert all necessary API keys into the file `config/api_keys.yaml`.
-
-
-### 2. Optional: Configure Datasets & Results Paths
-In `config/globals.py`, insert the paths to the respective input/output directories. If you want to evaluate on AVeriTeC, you'll need to download the benchmark separately [here](https://huggingface.co/chenxwh/AVeriTeC/tree/main/data).
-
-
-### 3. Optional: Build AVeriTeC Knowledge Base (KB)
-Simply run the script `scripts/averitec/build.py`with
-```bash
-python -m scripts.averitec.build
-```
-This will download, extract, and embed the entire AVeriTeC KB for `train`, `dev`, and `test`. Embedding computation requires at least 1 GPU (with 24 GB VRAM) and will take a while.
-
-Alternatively, you can either
-1. Download the **pre-computed embedding kNN models** [here](https://huggingface.co/MaggiR/averitec_embeddings), so you don't have to compute the embeddings or train the kNN models by yourself. Place the downloaded kNN model files in the corresponding locations and run the build script (see above) to automatically download the raw KB resource files.
-2. Or use a smaller, more efficient embedding model than `Alibaba-NLP/gte-base-en-v1.5`. You can change it in the `config/globals.py` file. You can find a list of public state-of-the-art embedding models in the [MTEB Leaderboard](https://huggingface.co/spaces/mteb/leaderboard).
-
-
-## Usage
-All execution scripts are located in (subfolders of) `scripts/`. Make sure to run the scripts from the project root's folder as the working directory.
-
-**Hardware requirements**: You'll need GPUs if you want to use the AVeriTeC Knowledge Base (required for reproduction) or if you want to employ your local LLM.
-
-### Run Your Own Fact-Check
-With `scripts/run.py`, you can fact-check your own claims. The command to run it from the project root is
-```bash
-python -m scripts.run
-```
-If you configured a Serper API key, InFact will automatically use Google Search to verify your claim, otherwise it falls back to DuckDuckGo (which has strong rate limits).
-
-### Reproduce InFact Paper Results
-To reproduce InFact's result on AVeriTeC using its default hyperparameters, run
-```bash
-python -m scripts.averitec.evaluate
-```
-The number of workers executing the evaluation is based on the number of GPUs in your machine.
-
-
-## License
-This repository and all its contents are licensed under the [Apache 2.0 License](http://www.apache.org/licenses/LICENSE-2.0).
-=======
 # Analizator Fake News — Proiect de licență / Bachelor's Thesis Project
 
 🇷🇴 [Română](#-română) | 🇬🇧 [English](#-english)
@@ -103,42 +7,145 @@ This repository and all its contents are licensed under the [Apache 2.0 License]
 ## 🇷🇴 Română
 
 ### Descriere
-Sistem automat de verificare a faptelor, bazat pe dovezi, pentru limba română. Primește o afirmație în limbaj natural și returnează un verdict structurat — **CONFIRMAT**, **INFIRMAT** sau **INSUFICIENT VERIFICAT** — înscărcinat de o justificare argumentată și de surse trasabile.
+Sistem automat de verificare a faptelor pentru limba română. Primește o afirmație și returnează un verdict (**CONFIRMAT**, **INFIRMAT** sau **INSUFICIENT VERIFICAT**), o justificare și sursele folosite, fiecare cu un nivel de credibilitate (`trusted`, `mixed`, `untrusted`, `unknown`) și un scor global (TruthScore).
 
-### Arhitectură (lanț de prelucrare cu 4 module)
-1. **Regăsirea dovezilor** — descompune afirmația în interogări țintite și adună dovezi web prin Serper API.
-2. **SourceRanker** — clasifică domeniile-sursă pe patru niveluri de credibilitate, calibrate pe peisajul media românesc, și calculează un scor compozit (TruthScore).
-3. **LLMVerifier** — asamblează afirmația, dovezile și scorul de credibilitate într-un prompt structurat și generează verdictul cu justificare.
-4. **Strat API (FastAPI)** — validează ieșirea (Pydantic), expune endpoint-ul `POST /check` și servește o interfață web HTML cu redare progresivă prin Server-Sent Events.
+Pipeline-ul folosește căutare web prin Serper (Google, scopat pe România) și Wikipedia în română, un model de limbaj **local** (`google/gemma-3-4b-it`, rulat prin Hugging Face Transformers) și un modul `SourceRanker` pentru credibilitatea surselor. Aplicația este expusă printr-un API **FastAPI**, cu interfață web proprie și compatibilitate OpenAI pentru Open WebUI.
 
-### Evaluare
-Set de test propriu, adnotat manual: 90 de afirmații (15 CONFIRMAT, 45 INFIRMAT, 30 INSUFICIENT VERIFICAT). Acuratețe globală: 52,2%; macro F1: 0,50.
+### Cerințe
+- Python 3.10+ și Git
+- Cont Hugging Face cu un token de acces și acces acceptat la modelul [google/gemma-3-4b-it](https://huggingface.co/google/gemma-3-4b-it)
+- Cheie API Serper (https://serper.dev)
+- Spațiu pe disc și memorie suficientă pentru modelul local (la prima rulare se descarcă automat)
+
+### Instalare
+```bash
+git clone https://github.com/RaduChivu/Proiect-licenta-Analizator-Fake-News.git
+cd Proiect-licenta-Analizator-Fake-News
+
+python -m venv venv
+source venv/bin/activate        # Windows: venv\Scripts\activate
+
+pip install -r requirements.txt
+pip install fastapi uvicorn      # dacă nu sunt deja instalate
+python -c "import nltk; nltk.download('wordnet')"
+```
+
+### Configurare chei API
+Creează fișierul `config/api_keys.yaml` (este ignorat de Git, nu îl urca pe GitHub):
+```yaml
+huggingface_user_access_token: "hf_..."
+serper_api_key: "..."
+openai_api_key: ""
+```
+
+### Pornire
+```bash
+uvicorn main:app --host 0.0.0.0 --port 8000
+```
+Deschide http://localhost:8000 pentru interfața web. Documentația interactivă a API-ului este la http://localhost:8000/docs. La prima verificare, modelul este încărcat în memorie, deci prima cerere durează mai mult.
+
+Pe Mac cu Apple Silicon, codul folosește automat acceleratorul MPS; pe sisteme cu NVIDIA, CUDA.
+
+### Endpoint-uri API
+| Metodă | Cale | Rol |
+|---|---|---|
+| GET | `/` | Interfața web |
+| GET | `/health` | Verificare stare |
+| POST | `/chat` (alias `/ro/chat`) | Verificare, răspuns JSON complet |
+| POST | `/chat/stream` | Verificare cu progres în timp real (SSE) |
+| POST | `/v1/chat/completions` | Format compatibil OpenAI (pentru Open WebUI) |
+| GET | `/v1/models` | Lista modelelor (`infact-ro`) |
+| GET | `/history?limit=20` | Ultimele verificări |
+
+Exemplu:
+```bash
+curl -X POST http://localhost:8000/chat \
+  -H "Content-Type: application/json" \
+  -d '{"messages": [{"role": "user", "content": "Bucureștiul este capitala României."}]}'
+```
+
+### Open WebUI (opțional)
+În Open WebUI adaugă o conexiune OpenAI cu URL-ul `http://localhost:8000/v1` și orice cheie (de exemplu `dummy`). Alternativ, `docker compose up --build` pornește API-ul pe portul 8000 și Open WebUI pe portul 3000. Docker de obicei nu folosește accelerarea GPU de pe Mac, deci modelul local va fi lent în container.
+
+### Istoric și fișiere generate
+Rezultatele se salvează în folderul `out/` (istoric SQLite în `out/history.db`, documente și surse pe verificare).
 
 ### Lucrarea de licență
-Textul complet al lucrării (Radu Chivu) va fi adăugat în acest repository, în folderul `docs/`.
+Textul complet al lucrării este în fișierul `RaduChivu_Final.docx`.
 
-### Stare
-Repository inițial. Codul sursa va fi adăugat ulterior.
+### Atribuire
+Proiectul pornește de la [InFact](https://github.com/multimodal-ai-lab/DEFAME) (TU Darmstadt, licență Apache 2.0), adaptat pentru limba română, cu SourceRanker, interfață FastAPI și integrare Open WebUI.
 
 ---
 
 ## 🇬🇧 English
 
 ### Description
-An evidence-based automated fact-checking system for the Romanian language. It takes a natural-language claim and returns a structured verdict — **CONFIRMED**, **REFUTED**, or **INSUFFICIENTLY VERIFIED** — backed by a reasoned justification and traceable sources.
+An automated fact-checking system for the Romanian language. It takes a claim and returns a verdict (**CONFIRMED**, **REFUTED**, or **INSUFFICIENTLY VERIFIED**; the API returns the Romanian labels), a justification, and the sources used, each with a credibility tier (`trusted`, `mixed`, `untrusted`, `unknown`) and an overall TruthScore.
 
-### Architecture (4-module pipeline)
-1. **Evidence retrieval** — decomposes the claim into targeted queries and gathers web evidence via the Serper API.
-2. **SourceRanker** — classifies source domains into four reliability tiers calibrated to the Romanian media landscape and computes a composite credibility score (TruthScore).
-3. **LLMVerifier** — assembles the claim, evidence, and credibility signal into a structured prompt and generates the verdict with justification.
-4. **API layer (FastAPI)** — validates output (Pydantic), exposes a `POST /check` endpoint, and serves a lightweight HTML web UI with progressive rendering via Server-Sent Events.
+The pipeline uses web search through Serper (Google, scoped to Romania) and Romanian Wikipedia, a **local** language model (`google/gemma-3-4b-it`, run with Hugging Face Transformers), and a `SourceRanker` module for source credibility. It is exposed through a **FastAPI** service with its own web UI and OpenAI-compatible endpoints for Open WebUI.
 
-### Evaluation
-Custom manually annotated test set: 90 claims (15 CONFIRMED, 45 REFUTED, 30 INSUFFICIENTLY VERIFIED). Overall accuracy: 52.2%; macro F1: 0.50.
+### Requirements
+- Python 3.10+ and Git
+- A Hugging Face account with an access token and accepted access to [google/gemma-3-4b-it](https://huggingface.co/google/gemma-3-4b-it)
+- A Serper API key (https://serper.dev)
+- Enough disk space and memory for the local model (downloaded automatically on first run)
+
+### Installation
+```bash
+git clone https://github.com/RaduChivu/Proiect-licenta-Analizator-Fake-News.git
+cd Proiect-licenta-Analizator-Fake-News
+
+python -m venv venv
+source venv/bin/activate        # Windows: venv\Scripts\activate
+
+pip install -r requirements.txt
+pip install fastapi uvicorn      # if not already installed
+python -c "import nltk; nltk.download('wordnet')"
+```
+
+### API key configuration
+Create `config/api_keys.yaml` (it is git-ignored, never commit it):
+```yaml
+huggingface_user_access_token: "hf_..."
+serper_api_key: "..."
+openai_api_key: ""
+```
+
+### Run
+```bash
+uvicorn main:app --host 0.0.0.0 --port 8000
+```
+Open http://localhost:8000 for the web UI. Interactive API docs are at http://localhost:8000/docs. The model is loaded on the first check, so the first request is slower.
+
+On Apple Silicon the code uses the MPS accelerator automatically; on NVIDIA systems it uses CUDA.
+
+### API endpoints
+| Method | Path | Purpose |
+|---|---|---|
+| GET | `/` | Web UI |
+| GET | `/health` | Health check |
+| POST | `/chat` (alias `/ro/chat`) | Fact-check, full JSON response |
+| POST | `/chat/stream` | Fact-check with live progress (SSE) |
+| POST | `/v1/chat/completions` | OpenAI-compatible (for Open WebUI) |
+| GET | `/v1/models` | Model list (`infact-ro`) |
+| GET | `/history?limit=20` | Latest checks |
+
+Example:
+```bash
+curl -X POST http://localhost:8000/chat \
+  -H "Content-Type: application/json" \
+  -d '{"messages": [{"role": "user", "content": "Bucureștiul este capitala României."}]}'
+```
+
+### Open WebUI (optional)
+In Open WebUI, add an OpenAI connection with the URL `http://localhost:8000/v1` and any key (for example `dummy`). Alternatively, `docker compose up --build` starts the API on port 8000 and Open WebUI on port 3000. Docker usually cannot use Apple GPU acceleration on a Mac, so the local model will be slow inside a container.
+
+### History and generated files
+Results are stored in `out/` (SQLite history in `out/history.db`, plus per-check documents and sources).
 
 ### Bachelor's thesis
-The full thesis text (Radu Chivu) will be added to this repository under the `docs/` folder.
+The full thesis text is in `RaduChivu_Final.docx`.
 
-### Status
-Initial repository. Source code will be added later.
->>>>>>> 1c46a25ef19450fa6eaf5612d9a50522ac168a7f
+### Attribution
+This project builds on [InFact](https://github.com/multimodal-ai-lab/DEFAME) (TU Darmstadt, Apache 2.0 license), adapted for Romanian with SourceRanker, a FastAPI interface, and Open WebUI integration.
