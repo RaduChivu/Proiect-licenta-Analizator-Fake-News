@@ -1,0 +1,12 @@
+[
+  {
+    "url": "https://ro.wikipedia.org/wiki/Everest",
+    "question": "Este Everestul efectiv considerat ca fiind un munte?",
+    "domain": "ro.wikipedia.org",
+    "tier": "trusted",
+    "trust_score": 72.0,
+    "title": "Everest",
+    "snippet": "Vârful Everest este cel mai înalt punct de pe Pământ, cu o altitudine de 8.848,86 m deasupra nivelului mării. Se află în Munții Himalaya, pe granița dintre Nepal și Tibet (China). În nepaleză numele muntelui este सगरमाथा, Sagarmāthā (Mama oceanului), iar în Tibet este cunoscut sub numele de Chomolungma (mama universului). Numele din limba engleză, Everest, a fost dat în onoarea topografului britanic Sir George Everest.",
+    "reason": "Sursă recunoscută cu scor 72/100 din lista de surse de încredere."
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "url": "https://gov.ro/ro",
+    "question": null,
+    "domain": "gov.ro",
+    "tier": "trusted",
+    "trust_score": 95.0,
+    "title": null,
+    "snippet": null,
+    "reason": "Sursă recunoscută cu scor 95/100 din lista de surse de încredere."
+  },
+  {
+    "url": "https://www.factual.ro/declaratii/anamaria-gavrila-despre-anularea-alegerilor-si-revolutia-din-1989",
+    "question": null,
+    "domain": "factual.ro",
+    "tier": "trusted",
+    "trust_score": 88.0,
+    "title": "FALS | Anamaria Găvrilă, despre anularea alegerilor și revoluția ...",
+    "snippet": "Aceasta a îndemnat la calm, să nu se organizeze proteste violente, și a insinuat că politicienii aflați la putere așteaptă să se întâmple astfel ... (data publicării: 18 feb. 2025)",
+    "reason": "Sursă recunoscută cu scor 88/100 din lista de surse de încredere."
+  },
+  {
+    "url": "https://stirileprotv.ro/divers/cum-se-formeaza-fulgerul.html",
+    "question": null,
+    "domain": "stirileprotv.ro",
+    "tier": "trusted",
+    "trust_score": 82.0,
+    "title": "Cum se formează fulgerul. Lucruri pe care nu le știai ...",
+    "snippet": "Etapa liderului - Descărcarea fulgerului începe când apare liderul, având un efect termic, mecanic și electric asupra obiectelor prin care trece. Liderul constă ...",
+    "reason": "Sursă recunoscută cu scor 82/100 din lista de surse de încredere."
+  },
+  {
+    "url": "https://ro.wikipedia.org/wiki/Tanc",
+    "question": "Este Fulgerul capabil să lovească?",
+    "domain": "ro.wikipedia.org",
+    "tier": "trusted",
+    "trust_score": 72.0,
+    "title": "Tanc",
+    "snippet": "Tancul este un vehicul blindat de atac cu tracțiune pe șenile, conceput pentru a combate forțe inamice folosind focul direct. Un tanc de luptă se caracterizează prin armele și blindajul greu, o mare mobilitate care îi permite să traverseze terenuri dificile la viteze relativ mari.\nLegea nr. 18 din 4 martie 1992 pentru ratificarea Tratatului cu privire la forțele armate convenționale în Europa stipulează că: Termenul tanc de luptă înseamnă un vehicul blindat de luptă autopropulsat, cu mare capacitate de foc, dispunând de un tun principal pentru foc direct cu viteză inițială ridicată, necesar pentru a angaja ținte blindate sau alte obiective, cu o mare mobilitate în orice teren, asigurând un nivel ridicat de protecție, care nu este conceput și nici echipat în mod special pentru transportul de efective de luptă. Astfel de vehicule blindate reprezintă principalele sisteme de arme pentru formațiunile de tancuri și alte formațiuni blindate ale trupelor de uscat.",
+    "reason": "Sursă recunoscută cu scor 72/100 din lista de surse de încredere."
+  },
+  {
+    "url": "https://www.antena3.ro/meteo/cum-te-aperi-de-fulgere-ce-este-golul-de-potential-si-cum-il-eviti-758348.html",
+    "question": null,
+    "domain": "antena3.ro",
+    "tier": "trusted",
+    "trust_score": 70.0,
+    "title": "Cum te aperi de fulgere. Ce este golul de potențial și cum îl eviți",
+    "snippet": "În fiecare an, fulgerele provoacă accidente grave, uneori fatale, atât în zonele urbane cât și în natură. Pentru a te proteja eficient, este ... (data publicării: 3 sept. 2025)",
+    "reason": "Sursă recunoscută cu scor 70/100 din lista de surse de încredere."
+  },
+  {
+    "url": "https://workinromania.gov.ro",
+    "question": null,
+    "domain": "workinromania.gov.ro",
+    "tier": "unknown",
+    "trust_score": 80.8,
+    "title": "Work in Romania",
+    "snippet": "Informațiile disponibile pe platforma WorkinRomania.gov.ro au caracter informativ și orientativ, fiind destinate sprijinirii utilizatorilor în înțelegerea ...",
+    "reason": "Domeniu necunoscut. Subdomeniu al sursei de încredere gov.ro."
+  },
+  {
+    "url": "https://studyinromania.gov.ro/safety",
+    "question": null,
+    "domain": "studyinromania.gov.ro",
+    "tier": "unknown",
+    "trust_score": 80.8,
+    "title": null,
+    "snippet": null,
+    "reason": "Domeniu necunoscut. Subdomeniu al sursei de încredere gov.ro."
+  },
+  {
+    "url": "https://mmuncii.gov.ro/wp-content/uploads/2025/10/RAPORT_HARTA__ZONELOR_MARGINALIZATE.pdf",
+    "question": null,
+    "domain": "mmuncii.gov.ro",
+    "tier": "unknown",
+    "trust_score": 80.8,
+    "title": "[PDF] Raport",
+    "snippet": "- Zone marginalizate socio- economic în mediul urban și ...: În cadrul acestei secţiuni vom prezenta, succint, principalele elemente ale unor studii recente (2015-2016) realizate în România și concretizate în două ... (data publicării: 13 oct. 2025)",
+    "reason": "Domeniu necunoscut. Subdomeniu al sursei de încredere gov.ro."
+  },
+  {
+    "url": "https://www.workadis.com/blog/cum-functioneaza-workinromania-gov-ro",
+    "question": null,
+    "domain": "workadis.com",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Cum funcționează WorkinRomania.gov.ro — tutorial angajatori",
+    "snippet": "Aici te înregistrezi ca angajator, aici se depune cererea unică, aici se publică Lista ocupațiilor deficitare. Iată cum funcționează, pas cu pas ... (data publicării: 11 iun. 2026)",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://www.meteoromania.ro",
+    "question": null,
+    "domain": "meteoromania.ro",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Meteo Romania | Site-ul Administratiei Nationale de ...",
+    "snippet": "ADAMCLISI · : 27.2 ºC · : 2.4 m/s, directia : V ; ADJUD · : 25.1 ºC · : 2.6 m/s, directia : S ; ALBA IULIA · : 25.5 ºC · : 2.9 m/s, directia : VNV ; ALEXANDRIA · : 26.8 ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://observatornews.ro/eveniment/prapad-in-romania-dupafenomenele-meteo-extreme-doua-case-lovite-de-fulger-zeci-de-locuinte-inundate-657310.html",
+    "question": null,
+    "domain": "observatornews.ro",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Prăpăd în România, după fenomenele meteo extreme. ...",
+    "snippet": "Este cod galben de furtuni în zece judeţe şi în Capitală, iar temperaturile au scăzut brusc de la o zi la alta şi cu 10 grade Celsius. (data publicării: 12 iun. 2026)",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://www.facebook.com/meteosiradarRomania/photos/%EF%B8%8F-%C3%AEn-acest-moment-%C3%AEn-mai-multe-zone-ale-%C8%9B%C4%83rii-au-loc-primele-furtuni-cu-fulgere-/1330574355157055",
+    "question": null,
+    "domain": "facebook.com",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Meteo - ⚡️ În acest moment, în mai multe zone ale țării ...",
+    "snippet": "În acest moment, în mai multe zone ale țării au loc primele furtuni cu fulgere ale anului: puteți vedea dacă ajung și la voi pe harta ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://www.meteoradar.ro/harta-meteo",
+    "question": null,
+    "domain": "meteoradar.ro",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Ploaie, furtuni, ninsori și nori în timp real",
+    "snippet": "Radar meteo - vezi evoluția vremii interactiv și în timp real: ploi, furtuni, ninsori și nori, în România cât și în întreaga lume.",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://drivemagazine.ro/util/ce-facem-fulger-aer-liber",
+    "question": null,
+    "domain": "drivemagazine.ro",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Ce să facem dacă ne prind fulgerele în aer liber?",
+    "snippet": "Fulgerul nu lovește niciodată de două ori în același loc. Fulgerul lovește deseori în același loc, mai ales dacă este vorba de un lucru înalt și ascuțit ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://descoperiri.ro/fulgerul-chiar-loveste-de-doua-ori-in-acelasi-loc-iar-acestea-sunt-locurile-in-care-se-intampla-cel-mai-des",
+    "question": null,
+    "domain": "descoperiri.ro",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Fulgerul chiar lovește de două ori în acelaşi loc, iar ...",
+    "snippet": "„Expresia «fulgerul nu lovește niciodată de două ori în acelaşi loc» este pusă sub semnul întrebării în această lucrare, deoarece arată că unele ... (data publicării: 6 apr. 2024)",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  }
+]

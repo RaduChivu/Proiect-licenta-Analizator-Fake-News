@@ -1,0 +1,12 @@
+[
+  {
+    "url": "https://ro.wikipedia.org/wiki/Virus",
+    "question": "Este definită o definiție oficială a unui virus care îl clasează drept organism viu?",
+    "domain": "ro.wikipedia.org",
+    "tier": "trusted",
+    "trust_score": 72.0,
+    "title": "Virus",
+    "snippet": "Un virus este un agent infecțios submicroscopic care se poate replica doar în interiorul celulelor vii ale unui organism. Virusurile pot infecta toate formele de viață, de la animale și plante până la microorganisme, inclusiv bacterii și archaea.  Acestea sunt prezente în aproape toate ecosistemele de pe Pământ și constituie cea mai numeroasă entitate biologică. De la articolul lui Dmitri Ivanovski din 1892, care descria un agent patogen non-bacterian ce infecta plantele de tutun, și până la identificarea virusului mozaicului tutunului de către Martinus Beijerinck în 1898, au fost descrise în detaliu peste 16.000 dintre milioanele de specii virale existente. Studiul virusurilor poartă denumirea de virologie și reprezintă o ramură a microbiologiei.",
+    "reason": "Sursă recunoscută cu scor 72/100 din lista de surse de încredere."
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "url": "https://ro.wikipedia.org/wiki/Pancreas",
+    "question": "Este Insulina efectiv un tip de hormon?",
+    "domain": "ro.wikipedia.org",
+    "tier": "trusted",
+    "trust_score": 72.0,
+    "title": "Pancreas",
+    "snippet": "Pancreasul este un organ ce este localizat în partea stângă a cavității abdominale (hipocondrul stâng), sub stomac, în potcoava duodenală. Este o glandă anexă a tubului digestiv, având atât o funcție exocrină (producând sucul pancreatic, ce participă la digestie), cât și una endocrină (secretând doi hormoni antagoniști, insulina, care este un hormon hipoglicemiant, și glucagonul, care este un hormon hiperglicemiant).",
+    "reason": "Sursă recunoscută cu scor 72/100 din lista de surse de încredere."
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "url": "https://ro.wikipedia.org/wiki/Statistic%C4%83_descriptiv%C4%83",
+    "question": "Este media aritmetică un tip de indicator utilizat în statistică?",
+    "domain": "ro.wikipedia.org",
+    "tier": "trusted",
+    "trust_score": 72.0,
+    "title": "Statistică descriptivă",
+    "snippet": "Statistica descriptivă este o sinteză statistică care descrie sau rezumă cantitativ caracteristicile unei colecții de informații, dar poate face referire și la procesul de utilizare și analiză a acestor statistici. Statistica descriptivă se distinge de statistica inferențială (sau statistica inductivă) prin scopul său de a rezuma un eșantion de date, mai degrabă decât de a utiliza datele pentru a afla informații despre populația pe care se consideră că eșantionul de date o reprezintă. Acest lucru înseamnă, în general, că statistica descriptivă, spre deosebire de statistica inferențială, nu este dezvoltată pe baza teoriei probabilităților și este frecvent o statistică neparametrică. Chiar și atunci când o analiză a datelor își trage principalele concluzii utilizând statistici inferențiale, sunt prezentate, în general, și statistici descriptive. De exemplu, în lucrările care prezintă rapoarte privind subiecții umani, se include, de obicei, un tabel care prezintă dimensiunea generală a eșantionului, dimensiunea eșantionului în subgrupuri importante (de ex, pentru fiecare grup de tratament sau de expunere) și caracteristicile demografice sau clinice, cum ar fi vârsta medie, proporția de subiecți de fiecare sex, proporția de subiecți cu comorbidități asociate etc.",
+    "reason": "Sursă recunoscută cu scor 72/100 din lista de surse de încredere."
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "url": "https://ro.wikipedia.org/wiki/Antibiotic",
+    "question": "Este Sahara un termen geografic definit și recunoscut?",
+    "domain": "ro.wikipedia.org",
+    "tier": "trusted",
+    "trust_score": 72.0,
+    "title": "Antibiotic",
+    "snippet": "Antibioticele (cunoscute și ca antibacteriene, greacă ἀντί- contra, βίος- viață) alcătuiesc o clasă de medicamente, produse de microorganisme sau obținute pe cale sintetică sau semisintetică, fiind cele mai importante substanțe medicamentoase implicate în tratamentul și în prevenirea infecțiilor bacteriene de diverse tipuri. \nAntibioticele sunt utilizate în medicina umană și veterinară, însă au o mare utilitate și în agricultură. În mod normal, ele prezintă toxicitate doar pentru microorganismele cauzatoare ale infecțiilor, fără să afecteze organismul uman sau animal, dar în anumite cazuri acestea pot induce reacții adverse, cea mai frecventă fiind afectarea florei intestinale normale. Din punctul de vedere al acțiunii, antibioticele pot face parte din două clase, ele manifestându-și efectul bacteriostatic (prin oprirea creșterii bacteriei) sau bactericid (prin distrugerea acesteia), însă există și exemple care prezintă ambele mecanisme. Există mai multe criterii conform cărora se mai poate realiza clasificarea antibioticelor, de exemplu structura chimică sau activitatea lor asupra bacteriilor.",
+    "reason": "Sursă recunoscută cu scor 72/100 din lista de surse de încredere."
+  }
+]

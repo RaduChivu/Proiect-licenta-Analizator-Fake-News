@@ -1,0 +1,12 @@
+[
+  {
+    "url": "https://ro.wikipedia.org/wiki/Thomas_Edison",
+    "question": "Este Thomas Edison considerat oficial ca fiind inventorul becului?",
+    "domain": "ro.wikipedia.org",
+    "tier": "trusted",
+    "trust_score": 72.0,
+    "title": "Thomas Edison",
+    "snippet": "Thomas Alva Edison (n. 11 februarie 1847, Milan⁠(d), Ohio, SUA – d. 18 octombrie 1931, West Orange⁠(d), New Jersey, SUA) a fost un important inventator și om de afaceri american al sfârșitului de secol XIX și început de secol XX.\nA fost cunoscut și ca „Magicianul din Menlo Park”, fiind și cel mai prolific inventator al timpului prin aplicarea practică a descoperirilor științifice (1093 brevete). A fost un autodidact, însă acest lucru nu l-a împiedicat să realizeze invenții în domeniul electricității (becul cu filament), al telefoniei, al sistemului de transmisie multiplă a telegramelor, al înregistrării mecanice a sunetului (fonograful) și al cinematografiei (kinetoscopul).\nÎn lumea industriei introduce noțiunea de producție de serie.",
+    "reason": "Sursă recunoscută cu scor 72/100 din lista de surse de încredere."
+  }
+]

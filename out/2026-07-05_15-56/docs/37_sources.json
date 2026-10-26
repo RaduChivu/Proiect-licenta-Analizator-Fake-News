@@ -1,0 +1,152 @@
+[
+  {
+    "url": "https://www.gov.ro",
+    "question": null,
+    "domain": "gov.ro",
+    "tier": "trusted",
+    "trust_score": 95.0,
+    "title": "Guvernul României",
+    "snippet": "Guvernul este autoritatea publică a puterii executive, care funcționează în baza votului de încredere acordat de Parlament și care asigură realizarea politicii ...",
+    "reason": "Sursă recunoscută cu scor 95/100 din lista de surse de încredere."
+  },
+  {
+    "url": "https://www.veridica.ro",
+    "question": null,
+    "domain": "veridica.ro",
+    "tier": "trusted",
+    "trust_score": 88.0,
+    "title": "Veridica",
+    "snippet": "Platformă anti dezinformare și fake news - analize ...: Veridica este o publicație specializată în monitorizarea, analiza și demontarea campaniilor de fake news, dezinformare și manipulare din Europa Centrală și ...",
+    "reason": "Sursă recunoscută cu scor 88/100 din lista de surse de încredere."
+  },
+  {
+    "url": "https://www.factual.ro/declaratii/alin-colesa-despre-emisiile-de-carbon-care-nu-ar-fi-poluante",
+    "question": null,
+    "domain": "factual.ro",
+    "tier": "trusted",
+    "trust_score": 88.0,
+    "title": "Alin Coleșa despre cum emisiile de carbon nu ar fi poluante - Factual",
+    "snippet": "Foarte pe scurt: ele nu sunt un factor poluant! Ele nu sunt responsabile de manifestările climatice extreme, de secetă, de inundații, de ... (data publicării: 21 dec. 2022)",
+    "reason": "Sursă recunoscută cu scor 88/100 din lista de surse de încredere."
+  },
+  {
+    "url": "https://ro.wikipedia.org/wiki/Chimie",
+    "question": "Este Sticla efectiv un lichid?",
+    "domain": "ro.wikipedia.org",
+    "tier": "trusted",
+    "trust_score": 72.0,
+    "title": "Chimie",
+    "snippet": "Chimia (denumirea provine din cuvântul egiptean kēme pronunțat [k'em], care înseamnă „pământ”) reprezintă una dintre ramurile științelor naturale al cărei obiect de studiu îl constituie compoziția, structura, proprietățile și schimbarea materiei; chimia mai este numită și „știința de mijloc” sau „știința centrală”, întrucât conține elemente combinate din cadrul celorlalte științe ale naturii precum astronomia, fizica, biologia și geologia. Ca obiect de studiu, chimia a apărut acum câteva milenii în anumite părți ale lumii, mai exact în Orientul Mijlociu sub forma alchimiei, iar aceasta din urmă a permis elaborarea chimiei moderne ca urmare a revoluției chimice (1773).\nObiectivele acestui domeniu implică în special:\n\nstudierea materiei la nivel atomic,\nproprietățile atomilor,\nmodul de formare a legăturilor chimice,\nformarea compușilor chimici,\nmodul în care anumite substanțe interacționează la nivel molecular și conferă materiei anumite proprietăți generale,\nprecum și modul în care nivelul de interacțiune dintre aceste substanțe poate conduce la crearea altor substanțe prin intermediul unor reacții chimice.\nÎn majoritatea studiilor chimiei energia și entropia sunt deosebit de importante.\nDisciplinele cuprinse în chimie sunt grupate tradițional după tipul de materie studiată sau tipul de studiu.",
+    "reason": "Sursă recunoscută cu scor 72/100 din lista de surse de încredere."
+  },
+  {
+    "url": "https://blog.factual.ro/2024/09/17/lingvistul-dan-ungureanu-romanii-au-nevoie-sa-fie-fascinati-de-stramosii-lor",
+    "question": null,
+    "domain": "blog.factual.ro",
+    "tier": "unknown",
+    "trust_score": 74.8,
+    "title": "Lingvistul Dan Ungureanu",
+    "snippet": "Românii au nevoie să fie fascinați de ...: România a fost și este o țară de analfabeți. Faptul că unii sau alții folosesc accidental cuvîntul scris e complet irelevant. (data publicării: 17 sept. 2024)",
+    "reason": "Domeniu necunoscut. Subdomeniu al sursei de încredere factual.ro."
+  },
+  {
+    "url": "https://www.reddit.com/r/roFrugal/comments/1uh3e47/parfumuri_tip_tester_merita",
+    "question": null,
+    "domain": "reddit.com",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Parfumuri tip tester - merita?",
+    "snippet": "r/roFrugal - Reddit: Cu tot cu eticheta sticla lichid etc era cu cost de vreo 20 de lei:)) Atat valoareaza si diferenta de la 50 la 100ml dupa e de genul 5 10 lei. (data publicării: 27 iun. 2026)",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://ro.scribd.com/document/970196076/Laptele-condensat-%C8%99i-uscat-pdf",
+    "question": null,
+    "domain": "ro.scribd.com",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Laptele Condensat Și Uscat PDF - Scribd",
+    "snippet": "... sticlă–lichid va accelera puternic majoritatea reacț iilor ș i schimbărilor fizice care au loc într-un praf. 42.2.2. Caracteristici de culoare, aromă ș i ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://www.fizichim.ro/docs/biologie/chimiainlumeavie/II-apa-sursa-vitala/II-5-proprietatile-fizice-ale-apei",
+    "question": "Curgerea Sticlei este realmente încetă?",
+    "domain": "fizichim.ro",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "II.5. Proprietățile fizice ale apei - Fizichim",
+    "snippet": "Proprietățile fizice ale apei. Stare de agregare: lichidă (la temperatură obișnuită). La temperaturi mai mari sau mai mici decât temperatura de 20°C, ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://www.scribd.com/document/369960559/Curs-STICLA-doc",
+    "question": null,
+    "domain": "scribd.com",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Curs STICLA | PDF - Scribd",
+    "snippet": "MĂRFURI DIN STICLĂ. 2.1 Proprietăţile sticlei. 2.1.1 Compoziţia chimică. Sticla este un material solid, amorf, casant, izotrop, având o strălucire ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://library.livresq.com/details/60fdc6f47992070007cc6dba",
+    "question": null,
+    "domain": "library.livresq.com",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Sticla. Proprietati, clasificare, utilizare. - Library - LIVRESQ",
+    "snippet": "Cunoașterea materialelor din care se obtine sticla; · Cunoașterea proprietatilor sticlei; · Cunoașterea domeniilor de utilizare a sticlei; ... (data publicării: 25 iul. 2021)",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://www.sticlatermorezistenta.ro/downloads/sticla_termorezistenta_keralite__glass_ceramic_1208_1.pdf?srsltid=AfmBOoo9iXgBZi3UrRQKkiM3VtOnDTCmGRGfCtb6fn6IRfjgYdEGSMwZ",
+    "question": null,
+    "domain": "sticlatermorezistenta.ro",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "[PDF] 2 Proprietatile fizice al sticlei ceramice termorezistente",
+    "snippet": "Forma si dimensiunile nu modifica proprietatile calitatile acestui produs. 2.1 Proprietatile termice. -temperatura maxima de utilizare. 700 ºC. -variatia de ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://manuale.edu.ro/manuale/Clasa%20a%20VII-a/Chimie/SU5UVUlURVhU/07chi/pages/raspunsuri.html",
+    "question": "Aceasta este o proprietate comună a tuturor tipurilor de sticle?",
+    "domain": "manuale.edu.ro",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Răspunsuri",
+    "snippet": "... sticlă; proprietăţi fizice/ fenomene fizice: albi, negri, dulce, gaz, sparge, au fost rupți, zdrobit; proprietăţi chimice/ fenomene chimice: fermentare, se ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://www.edu.ro/sites/default/files/fisiere%20articole/PRECIZ%C4%82RI%20CU%20PRIVIRE%20LA%20ORGANIZAREA%20%C8%98I%20DESF%C4%82%C8%98URAREA%20OLIMPIADEI%20%C8%98TIIN%C8%9AE%20PENTRU%20JUNIORI%202018-2019.pdf",
+    "question": null,
+    "domain": "edu.ro",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "[PDF] DIRECȚIA GENERALĂ EDUCAȚIE TIMPURIE, ÎNVĂȚĂMÂNT ...",
+    "snippet": "Sticla. Proprietăți fizice și chimice ale unor acizi și baze. Proprietăți fizice și chimice ale unor săruri. Materiale de construcții. Sărurile ca ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://ro.yukanglab.com/info/manufacturing-process-and-characteristics-of-g-17854995679339520.html",
+    "question": null,
+    "domain": "ro.yukanglab.com",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Procesul de fabricație și caracteristicile eprubetelor din sticlă ...",
+    "snippet": "Acest material conferă eprubetelor din sticlă proprietăți fizice și chimice excepționale, permițându-le să joace un rol vital într-o gamă variată de domenii.",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://www.isj.tm.edu.ro/public/data_files/specializari/fisier-4945.pdf",
+    "question": null,
+    "domain": "isj.tm.edu.ro",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "[PDF] ecizari osj 2023 - Inspectoratul Şcolar Judeţean Timiş",
+    "snippet": "Sticla. Proprietăţi fizice şi chimice ale unor acizi şi baze. Proprietăţi fizice şi chimice ale unor săruri. Materiale de construcţii ... (data publicării: 5 mar. 2023)",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  }
+]

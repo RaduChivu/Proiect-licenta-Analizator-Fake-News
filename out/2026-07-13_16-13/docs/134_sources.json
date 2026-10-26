@@ -1,0 +1,12 @@
+[
+  {
+    "url": "https://ro.wikipedia.org/wiki/Bere",
+    "question": "Ce este definiția \"apă pe zi\" în contextul acestei afirmații?",
+    "domain": "ro.wikipedia.org",
+    "tier": "trusted",
+    "trust_score": 72.0,
+    "title": "Bere",
+    "snippet": "Berea este o băutură alcoolică obținută din 4 produse naturale: drojdia de bere, malț, hamei și apă. Aceasta are aproximativ 5% alcool; așa-numita bere fără alcool are între 0 și 0,5% alcool.\nTemperatura ideală de consumat berea este cuprinsă între 6 și 8 °C.\nDe obicei energia berii provine din grâne, dar poate să vină și din energia cartofilor sau a mazării. Se poate spune că și băutura japoneză sake se poate încadra în definiția berii. În Rusia, berea se încadra (până în anul 2011) oficial la categoria băuturilor nealcoolice.",
+    "reason": "Sursă recunoscută cu scor 72/100 din lista de surse de încredere."
+  }
+]

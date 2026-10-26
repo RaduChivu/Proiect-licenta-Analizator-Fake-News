@@ -1,0 +1,293 @@
+Se selectează 'web_search' ca opțiune de rezervă dacă nu poate fi identificată nicio acțiune.
+Conținut de verificat:
+'Content: "Was Mihai Eminescu a man who lived in Romania?"'
+Se verifică afirmațiile...
+Answering question: Este Mihai Eminescu considerat un om?
+Se caută în google cu interogarea: Mihai Eminescu biografie
+S-au obținut 5 rezultat(e) noi:
+	1. https://ro.wikipedia.org/wiki/Mihai_Eminescu
+	2. https://ro.scribd.com/document/492085382/Biografia-Lui-Mihai-Eminescu
+	3. https://poezie.ro/clasici/mihai-eminescu/biografie
+	4. https://copiibjc.bjc.ro/?p=7096
+	5. http://enciclopediaromaniei.ro/wiki/Mihai_Eminescu
+Se caută în google cu interogarea: Eminescu Mihai viață personală
+S-au obținut 4 rezultat(e) noi:
+	1. https://adevarul.ro/stiri-locale/botosani/viata-secreta-a-poetului-mihai-eminescu-1844088.html
+	2. https://historia.ro/sectiune/general/cei-mai-negri-ani-din-viata-lui-mihai-eminescu-de-567833.html
+	3. https://infocultural.eu/mihai-eminescu-viata-si-opera-celebrului-poet-roman/
+	4. https://ro.scribd.com/document/621459755/Mihai-Eminescu-Viata-Personala
+Se caută în google cu interogarea: Biografia lui Mihai Eminescu
+S-au obținut 1 rezultat(e) noi:
+	1. https://brainly.ro/tema/9516461
+Se caută în google cu interogarea: Locul nașterii și vieții lui Mihai Eminescu
+S-au obținut 4 rezultat(e) noi:
+	1. https://luceafarul.net/mihai-eminescu-175-ani-de-la-nastere-data-si-locul-nasterii-lui-mihai-eminescu
+	2. https://www.twinkl.ro/teaching-wiki/cine-a-fost-mihai-eminescu
+	3. https://www.facebook.com/puriceionnistor/videos/-mihai-eminescu-s-a-n%C4%83scut-pe-15-ianuarie-1850-%C3%AEn-boto%C8%99ani-%C8%99i-a-fost-un-poet-jur/880594051566878/
+	4. https://www.libertatea.ro/lifestyle/mihai-eminescu-biografie-3391645
+Se caută în google cu interogarea: Originea și locuirea lui Mihai Eminescu în România
+S-au obținut 3 rezultat(e) noi:
+	1. https://www.facebook.com/tvriasi/videos/pe-urmele-lui-eminescu/908173931427429/
+	2. https://adevarul.ro/stiri-locale/botosani/a-fost-sau-nu-eminescu-roman-cele-mai-1616131.html
+	3. https://luceafarul.net/mihai-eminescu-si-originea-sa-taraneasca-2
+Got answer: Da, Mihai Eminescu este considerat un om care a trăit în România. Potrivit Wikipedia, el s-a născut la Botoșani din Moldova și a murit la București, ambele orașe fiind situate în România. ("Mihai Eminescu: Mihail Eminovici; n. 15 ianuarie 1850, Botoșani, Moldova – d. 15 iunie 1889, București, România)".
+Answering question: A existat vreodată oameni cu numele Mihai Eminescu?
+Se caută în google cu interogarea: Mihai Eminescu biografie
+S-au obținut 5 rezultat(e) noi:
+	1. https://ro.wikipedia.org/wiki/Mihai_Eminescu
+	2. https://ro.scribd.com/document/492085382/Biografia-Lui-Mihai-Eminescu
+	3. https://poezie.ro/clasici/mihai-eminescu/biografie
+	4. http://enciclopediaromaniei.ro/wiki/Mihai_Eminescu
+	5. https://copiibjc.bjc.ro/?p=7096
+Se caută în google cu interogarea: Eminescu Mihai viață personală
+S-au obținut 4 rezultat(e) noi:
+	1. https://historia.ro/sectiune/portret/cum-era-cu-adevarat-mihai-eminescu-secretele-577747.html
+	2. https://adevarul.ro/stiri-locale/botosani/viata-secreta-a-poetului-mihai-eminescu-1844088.html
+	3. https://stirileprotv.ro/stiri/actualitate/ce-nu-se-spune-despre-mihai-eminescu-curiozitati-si-lucruri-mai-putin-stiute-din-viata-poetului.html
+	4. https://filialatargoviste.wordpress.com/2025/01/14/viata-si-opera-lui-mihai-eminescu/
+Se caută în google cu interogarea: Oamenii care au purtat numele Mihai Eminescu în România
+S-au obținut 4 rezultat(e) noi:
+	1. https://www.ziuaconstanta.ro/stiri/cultura/din-dragoste-de-eminescu-cati-poarta-in-romania-numele-de-eminovici-si-cati-se-numesc-mihai-eminescu-620546.html
+	2. https://newsweek.ro/cultura/cine-i-a-schimbat-numele-lui-mihai-eminescu-cum-se-semna-poetul
+	3. https://www.instagram.com/reel/DE9OqC8Ius_/
+	4. https://www.intelligenceinfo.org/controverse-fara-rost-privind-pecetea-identitara-a-lui-mihai-eminescu/
+Se caută în google cu interogarea: Listă de persoane cu numele Mihai Eminescu din istorie română
+S-au obținut 3 rezultat(e) noi:
+	1. https://www.twinkl.ro/teaching-wiki/cine-a-fost-mihai-eminescu
+	2. https://liceunet.ro/mihai-eminescu
+	3. https://www.instagram.com/reel/DViHUH4jMa-/
+Got answer: Da, au existat persoane care au purtat numele Mihai Eminescu, printre acestea fiind și celebrul poet și scriitor român Mihai Eminescu născut în 1850 la Botoșani și decedat în 1889 la București. ("Mihai Eminescu", Wikipedia.ro)
+Answering question: Mihai Eminescu s-a născut în România?
+Se caută în google cu interogarea: "biografia lui Mihai Eminescu"
+S-au obținut 5 rezultat(e) noi:
+	1. https://ro.scribd.com/document/492085382/Biografia-Lui-Mihai-Eminescu
+	2. https://www.academia.edu/33275544/Biografia_lui_Mihai_Eminescu
+	3. https://brainly.ro/tema/9516461
+	4. https://radiorenasterea.ro/mihai-eminescu-1850-1889-omul-deplin-al-culturii-romanesti/
+	5. https://nordliterar.ro/2025/03/05/viena-un-capitol-important-in-biografia-lui-mihai-eminescu/
+Se caută în google cu interogarea: "locul nașterii Mihai Eminescu"
+S-au obținut 4 rezultat(e) noi:
+	1. https://ro.scribd.com/document/628240490/Data-si-locul-na%C8%99terii-Mihai-Eminescu
+	2. https://www.slideshare.net/slideshow/via-a-i-opera-lui-mihai-eminescu-poetul-na-ional-al-romaniei/286238012
+	3. https://www.scribd.com/document/520641471/Mihai-Eminescu-Biografie
+	4. https://pt.scribd.com/document/520641471/Mihai-Eminescu-Biografie
+Se caută în google cu interogarea: "data și loc de naștere al poetului român Mihai Eminescu"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "data și loc de naștere al poetului român Mihai Eminescu"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=data+%C8%99i+loc+de+na%C8%99tere+al+poetului+rom%C3%A2n+Mihai+Eminescu&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Got answer: Da, conform biografiei sale publicate de scribd, Mihai Eminescu s-a născut în România, exact la data de 15 ianuarie 1850. ("...născut pe 15 ianuarie 1850 în..." - citată din [Sursa](https://ro.scribd.com/document/492085382/Biografia-Lui-Mihai-Eminescu)).
+Answering question: Când s-a născut Mihai Eminescu?
+Se caută în google cu interogarea: Mihai Eminescu data nașterii
+S-au obținut 5 rezultat(e) noi:
+	1. https://ro.wikipedia.org/wiki/Mihai_Eminescu
+	2. https://romanialiterara.com/2022/11/cand-s-a-nascut-eminescu/
+	3. https://newsweek.ro/cultura/cand-s-a-nascut-mihai-eminescu-de-fapt-care-a-fost-data-declarata-de-poet-la-junimea
+	4. https://tvrinfo.ro/controverse-privind-data-exacta-a-nasterii-lui-mihai-eminescu-a-fost-capricorn-cu-ascendent-in-rac-sau-sagetator-cu-ascendent-in-scorpion/
+	5. https://ziarulunirea.ro/15-ianuarie-1850-ziua-de-nastere-a-lui-mihai-eminescu-poetul-national-al-romaniei-238578/
+Se caută în google cu interogarea: Eminescu biografie
+S-au obținut 4 rezultat(e) noi:
+	1. https://ro.scribd.com/document/492085382/Biografia-Lui-Mihai-Eminescu
+	2. http://enciclopediaromaniei.ro/wiki/Mihai_Eminescu
+	3. https://poezie.ro/clasici/mihai-eminescu/biografie
+	4. https://copiibjc.bjc.ro/?p=7096
+Se caută în google cu interogarea: Mihai Eminescu locul și data nașterii
+S-au obținut 3 rezultat(e) noi:
+	1. https://visitbotosani.ro/2015/02/locul-nasterii-poetului-mihai-eminescu/
+	2. https://luceafarul.net/mihai-eminescu-175-ani-de-la-nastere-data-si-locul-nasterii-lui-mihai-eminescu
+	3. https://romanialiterara.com/2023/02/unde-s-a-nascut-eminescu/
+Se caută în google cu interogarea: Romania istorie literară Mihai Eminescu
+S-au obținut 3 rezultat(e) noi:
+	1. https://www.twinkl.ro/teaching-wiki/cine-a-fost-mihai-eminescu
+	2. https://www.muzeulliteraturiiiasi.ro/e-arhiva-mihai-eminescu/
+	3. https://www.contemporanul.ro/polemice/mihai-eminescu-o-viata-dedicata-cauzei-nationale.html
+Got answer: Mihai Eminescu s-a născut la data de 15 ianuarie 1850 în orașul Botoșani din regiunea Moldova. ("...născut Mihail Eminovici; n. 15 ianuarie 1850, Botoșani, Moldova...", conform Wikipedia).
+Answering question: A trăit Mihai Eminescu totdeauna în România?
+Se caută în google cu interogarea: Mihai Eminescu locuit în România întotdeauna?
+S-au obținut 5 rezultat(e) noi:
+	1. https://ro.wikipedia.org/wiki/Mihai_Eminescu
+	2. https://www.twinkl.ro/teaching-wiki/cine-a-fost-mihai-eminescu
+	3. https://www.facebook.com/EmbassyofRomaniaPrague/posts/-%F0%9D%9F%8F%F0%9D%9F%91%F0%9D%9F%95-%F0%9D%90%9D%F0%9D%90%9E-%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A2-%F0%9D%90%9D%F0%9D%90%9E-%F0%9D%90%A5%F0%9D%90%9A-%F0%9D%90%A6%F0%9D%90%A8%F0%9D%90%9A%F0%9D%90%AB%F0%9D%90%AD%F0%9D%90%9E%F0%9D%90%9A-%F0%9D%90%A9%F0%9D%90%A8%F0%9D%90%9E%F0%9D%90%AD%F0%9D%90%AE%F0%9D%90%A5%F0%9D%90%AE%F0%9D%90%A2-%F0%9D%90%A7%F0%9D%90%A8%F0%9D%90%AC%F0%9D%90%AD%F0%9D%90%AB%F0%9D%90%AE-%F0%9D%90%A7%F0%9D%90%9A%F0%9D%90%AD%CC%A6%F0%9D%90%A2%F0%9D%90%A8%F0%9D%90%A7%F0%9D%90%9A%F0%9D%90%A5-%F0%9D%90%8C%F0%9D%90%A2%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A2-%F0%9D%90%84%F0%9D%90%A6%F0%9D%90%A2%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%9C%F0%9D%90%AE-ast%C4%83zi-15-iun/1535169378651135/
+	4. https://adevarul.ro/stiri-interne/societate/singurul-loc-din-romania-unde-amintirea-lui-mihai-2332572.html
+	5. https://portal.revistatimpul.ro/blog-andreimonica/ultimii-pasi-ai-lui-eminescu-pe-strazile-din-bucurestiul-de-secol-xix/
+Se caută în google cu interogarea: Biografia lui Mihai Eminescu - locul nașterii și vieții sale
+S-au obținut 4 rezultat(e) noi:
+	1. https://www.libertatea.ro/lifestyle/mihai-eminescu-biografie-3391645
+	2. https://luceafarul.net/mihai-eminescu-175-ani-de-la-nastere-data-si-locul-nasterii-lui-mihai-eminescu
+	3. https://ro.scribd.com/document/492085382/Biografia-Lui-Mihai-Eminescu
+	4. https://visitbotosani.ro/2015/02/locul-nasterii-poetului-mihai-eminescu/
+Se caută în google cu interogarea: Mihai Eminescu român sau străin?
+S-au obținut 4 rezultat(e) noi:
+	1. https://tribunainvatamantului.ro/eminescu-si-neprietenii-tarii-sale-si-ai-poporului-roman/
+	2. https://doxologia.ro/fiecare-roman-se-numeste-eminescu
+	3. https://mihaiandreialdea.org/2017/11/15/noi-suntem-romani-mihai-eminescu-si-dacismul-un-raspuns-minciunilor-deznationalizatoare-ii/
+	4. https://www.facebook.com/victoriafurtunarm/posts/mihai-eminescu-este-una-dintre-cele-mai-puternice-%C8%99i-profunde-personalit%C4%83%C8%9Bi-n%C4%83sc/122228194244258656/
+Se caută în google cu interogarea: Date despre viața personală a poetului Mihai Eminescu
+S-au obținut 3 rezultat(e) noi:
+	1. https://infocultural.eu/mihai-eminescu-viata-si-opera-celebrului-poet-roman/
+	2. https://ro.scribd.com/presentation/332916429/Via%C8%9Ba-%C8%98i-Activitatea-Lui-Mihai-Eminescu
+	3. https://copiibjc.bjc.ro/?p=7096
+Got answer: Da, conform biografiei lui Mihai Eminescu prezentate pe Wikipedia, el a locuit efectiv în România, respectiv la Botoșani și apoi la București. ("Mihai Eminescu:...născut...Botoșani, Moldova – d. 15 iunie 1889, București, România)".
+Answering question: Care au fost locurile unde a trăit Mihai Eminescu în România?
+Se caută în google cu interogarea: Mihai Eminescu biografie
+S-au obținut 5 rezultat(e) noi:
+	1. https://ro.wikipedia.org/wiki/Mihai_Eminescu
+	2. https://ro.scribd.com/document/492085382/Biografia-Lui-Mihai-Eminescu
+	3. https://poezie.ro/clasici/mihai-eminescu/biografie
+	4. http://enciclopediaromaniei.ro/wiki/Mihai_Eminescu
+	5. https://copiibjc.bjc.ro/?p=7096
+Se caută în google cu interogarea: locuri de trai Mihai Eminescu România
+S-au obținut 4 rezultat(e) noi:
+	1. https://www.radioromaniacultural.ro/sectiuni-articole/literatura/portret-mihai-eminescu-geniul-pustiu-al-culturii-nationale-id10190.html
+	2. https://www.twinkl.ro/teaching-wiki/cine-a-fost-mihai-eminescu
+	3. https://radiorenasterea.ro/mihai-eminescu-1850-1889-omul-deplin-al-culturii-romanesti/
+	4. https://www.youtube.com/watch?v=qgNsJR3afxg
+Se caută în google cu interogarea: viața personală Mihai Eminescu
+S-au obținut 3 rezultat(e) noi:
+	1. https://www.libertatea.ro/lifestyle/mihai-eminescu-biografie-3391645
+	2. https://eduboom.ro/video/1041/mihai-eminescu-o-scurta-biografie
+	3. https://prezi.com/p/e9ytxczm9f7b/viata-lui-mihai-eminescu/
+Se caută în google cu interogarea: adresele lui Mihai Eminescu din România
+S-au obținut 4 rezultat(e) noi:
+	1. https://www.aosr.ro/ziua-lui-mihai-eminescu-si-ziua-culturii-nationale-celebrate-de-academia-oamenilor-de-stiinta-din-romania-printr-un-eveniment-de-elita/
+	2. https://www.litoralulromanesc.ro/statuia_eminescu.htm
+	3. https://www.travellerinromania.com/fig/mihai-eminescu/
+	4. https://www.turistinfo.ro/mihai_eminescu/
+Got answer: Mihai Eminescu a trăit în localitatea natală Botoșani și apoi la București, ultimul oraș fiind cel al morții sale. ("...născut Mihail Eminovici; n. 15 ianuarie 1850, Botoșani, Moldova – d. 15 iunie 1889, București, România") - Wikipedia.
+Answering question: Cum a trăit Mihai Eminescu în România?
+Se caută în google cu interogarea: Mihai Eminescu biografie
+S-au obținut 5 rezultat(e) noi:
+	1. https://ro.wikipedia.org/wiki/Mihai_Eminescu
+	2. https://ro.scribd.com/document/492085382/Biografia-Lui-Mihai-Eminescu
+	3. https://poezie.ro/clasici/mihai-eminescu/biografie
+	4. https://copiibjc.bjc.ro/?p=7096
+	5. http://enciclopediaromaniei.ro/wiki/Mihai_Eminescu
+Se caută în google cu interogarea: Eminescu locul nașterii și vieții
+S-au obținut 5 rezultat(e) noi:
+	1. https://romanialiterara.com/2023/02/unde-s-a-nascut-eminescu/
+	2. https://visitbotosani.ro/2015/02/locul-nasterii-poetului-mihai-eminescu/
+	3. https://www.facebook.com/infoeuropa2020/posts/poetul-mihai-eminescu-eminovici-la-na%C8%99tere-s-a-n%C4%83scut-la-15-ianuarie-1850-la-bot/917241540582430/
+	4. https://luceafarul.net/mihai-eminescu-175-ani-de-la-nastere-data-si-locul-nasterii-lui-mihai-eminescu
+	5. https://evenimentulistoric.ro/toate-variantele-despre-data-si-locul-nasterii-lui-mihai-eminescu.html
+Se caută în google cu interogarea: Mihai Eminescu românitatea sa
+S-au obținut 3 rezultat(e) noi:
+	1. https://www.radioromaniacultural.ro/sectiuni-articole/literatura/portret-mihai-eminescu-geniul-pustiu-al-poeziei-romanesti-id6756.html
+	2. https://alil.academiaromana-is.ro/wp-content/uploads/2012/05/Mihai-Eminescu-%C5%9Fi-Independen%C5%A3a-na%C5%A3ional%C4%83.pdf
+	3. https://matricea.ro/15-ianuarie-mihai-eminescu-simbol-al-culturii-si-identitatii-romanesti/
+Se caută în google cu interogarea: Viața lui Mihai Eminescu în România
+S-au obținut 3 rezultat(e) noi:
+	1. https://www.twinkl.ro/teaching-wiki/cine-a-fost-mihai-eminescu
+	2. https://historia.ro/sectiune/general/cei-mai-negri-ani-din-viata-lui-mihai-eminescu-de-567833.html
+	3. https://www.youtube.com/watch?v=XdNP5CMqAlA
+Got answer: Mihai Eminescu a trăit efectiv în România, conform biografiei sale publicate pe Wikipedia, unde se menționează că s-a născut la Botoșani din Moldova și a murit la București, ambele orașe fiind situate în România. ("...născut Mihail Eminovici; n. 15 ianuarie 1850, Botoșani, Moldova – d. 15 iunie 1889, București, România)".
+Answering question: Există dovezi documentare privind viața lui Mihai Eminescu în România?
+Se caută în google cu interogarea: "Mihai Eminescu biografie"
+S-au obținut 5 rezultat(e) noi:
+	1. https://ro.scribd.com/document/492085382/Biografia-Lui-Mihai-Eminescu
+	2. https://www.youtube.com/watch?v=9DfNRL0kd34
+	3. https://poezie.ro/clasici/mihai-eminescu/biografie
+	4. https://www.libertatea.ro/lifestyle/mihai-eminescu-biografie-3391645
+	5. https://www.storyjumper.com/book/read/96658986/Mihai-Eminescu
+Se caută în google cu interogarea: "Mihai Eminescu locul nașterii"
+S-au obținut 5 rezultat(e) noi:
+	1. https://www.slideshare.net/slideshow/prezentare-despre-mihai-eminescu-romania-pptx/285641686
+	2. https://visitbotosani.ro/author/admin/page/191/
+	3. https://www.facebook.com/groups/1450324760134173/posts/1517880523378596/
+	4. https://visitbotosani.ro/2014/04/ansamblul-urban-pia%C5%A3a-1-decembrie-1918/
+	5. https://vilaturisticafabian.ro/
+Se caută în google cu interogarea: "Mihai Eminescu perioada vieții în România"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "Mihai Eminescu perioada vieții în România"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=Mihai+Eminescu+perioada+vie%C8%9Bii+%C3%AEn+Rom%C3%A2nia&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Got answer: Da, există dovezi documentare care atestă faptul că Mihai Eminescu a trăit în România, de pildă biografia sa publicată pe platforma Scribd menționează locurile și evenimentele din viața poetului român.
+Answering question: Sunt existente surse care să confirme sau infirmă faptul că Mihai Eminescu a trăit în România?
+Se caută în google cu interogarea: Mihai Eminescu locuit în România
+S-au obținut 5 rezultat(e) noi:
+	1. https://ro.wikipedia.org/wiki/Mihai_Eminescu
+	2. https://www.facebook.com/tvriasi/videos/pe-urmele-lui-eminescu/908173931427429/
+	3. https://www.bucuresti.ro/articole/unde-a-locuit-mihai-eminescu-in-bucuresti-insemnari-despre-trecerea-poetului-prin-diferite-locatii-din-capitala-351
+	4. https://www.twinkl.ro/teaching-wiki/cine-a-fost-mihai-eminescu
+	5. https://turismiasi.wixsite.com/blog/mihai-eminescu
+Se caută în google cu interogarea: biografia lui Mihai Eminescu
+S-au obținut 4 rezultat(e) noi:
+	1. https://ro.scribd.com/document/492085382/Biografia-Lui-Mihai-Eminescu
+	2. https://brainly.ro/tema/9516461
+	3. https://www.libertatea.ro/lifestyle/mihai-eminescu-biografie-3391645
+	4. https://eduboom.ro/video/1041/mihai-eminescu-o-scurta-biografie
+Se caută în google cu interogarea: locuri de naștere și moarte ale lui Mihai Eminescu
+S-au obținut 3 rezultat(e) noi:
+	1. https://portokal.ro/blog/viata-cu-cartile/mihai-eminescu-168-de-ani-de-la-nasterea-marelui-poet/?srsltid=AfmBOoqhcWkmDEmp0-uffturMnZgyW03UkoJBmKQrsYkxvHhEIZzaafo
+	2. https://luceafarul.net/mihai-eminescu-173-ani-de-la-nasterea-poetului
+	3. https://curierulnational.ro/moartea-lui-mihai-eminescu-intre-realitate-istorica-si-mit-national/
+Se caută în google cu interogarea: documente istorice despre viața lui Mihai Eminescu
+S-au obținut 3 rezultat(e) noi:
+	1. https://cimec.ro/mihai-eminescu/
+	2. https://www.youtube.com/watch?v=XdNP5CMqAlA
+	3. http://enciclopediaromaniei.ro/wiki/Mihai_Eminescu
+Se caută în google cu interogarea: articole academice despre biografia lui Mihai Eminescu
+S-au obținut 1 rezultat(e) noi:
+	1. https://www.moldova.org/13-lucruri-despre-mihai-eminescu-pe-care-nu-le-invatam-la-scoala/
+Got answer: Raspunsul este DA, deoarece conform articolului Wikipedia despre Mihai Eminescu, el s-a născut la Botoșani din Moldova și a murit la București, ambele orașe fiind situate în România. ("Mihai Eminescu: 15 ianuarie 1850, Botoșani, Moldova – d. 15 iunie 1889, București, România)".
+Answering question: Au existat încercări de a contesta faptul că Mihai Eminescu a trăit în România?
+Se caută în google cu interogarea: Mihai Eminescu locuit în România
+S-au obținut 5 rezultat(e) noi:
+	1. https://ro.wikipedia.org/wiki/Mihai_Eminescu
+	2. https://www.bucuresti.ro/articole/unde-a-locuit-mihai-eminescu-in-bucuresti-insemnari-despre-trecerea-poetului-prin-diferite-locatii-din-capitala-351
+	3. https://adevarul.ro/stiri-interne/societate/singurul-loc-din-romania-unde-amintirea-lui-mihai-2332572.html
+	4. https://www.travellerinromania.com/fig/mihai-eminescu/
+	5. https://portal.revistatimpul.ro/blog-andreimonica/ultimii-pasi-ai-lui-eminescu-pe-strazile-din-bucurestiul-de-secol-xix/
+Se caută în google cu interogarea: biografia lui Mihai Eminescu
+S-au obținut 4 rezultat(e) noi:
+	1. https://ro.scribd.com/document/492085382/Biografia-Lui-Mihai-Eminescu
+	2. https://brainly.ro/tema/9516461
+	3. https://www.libertatea.ro/lifestyle/mihai-eminescu-biografie-3391645
+	4. http://enciclopediaromaniei.ro/wiki/Mihai_Eminescu
+Se caută în google cu interogarea: locuri importante din viața lui Mihai Eminescu
+S-au obținut 4 rezultat(e) noi:
+	1. https://www.moldova.org/13-lucruri-despre-mihai-eminescu-pe-care-nu-le-invatam-la-scoala/
+	2. https://www.twinkl.ro/teaching-wiki/cine-a-fost-mihai-eminescu
+	3. https://infocultural.eu/mihai-eminescu-viata-si-opera-celebrului-poet-roman/
+	4. https://www.facebook.com/StiaiCaR0/videos/15-lucruri-fascinante-pe-care-nu-le-%C8%99tiai-despre-mihai-eminescu/723914640545789/
+Se caută în google cu interogarea: date despre nașterea și moartea lui Mihai Eminescu
+S-au obținut 4 rezultat(e) noi:
+	1. https://alba24.ro/misterele-din-jurul-nasterii-si-mortii-lui-mihai-eminescu-unde-si-cand-s-a-nascut-poetul-si-ce-teorii-circula-despre-moartea-sa-749409.html
+	2. https://www.digi24.ro/magazin/timp-liber/cultura/de-ce-a-murit-mihai-eminescu-raspunsul-a-12-dintre-cei-mai-importanti-medici-romani-347784
+	3. https://www.youtube.com/watch?v=XUfIVxczDOY
+	4. https://luceafarul.net/mihai-eminescu-173-ani-de-la-nasterea-poetului
+Se caută în google cu interogarea: documente istorice care atestă prezența lui Mihai Eminescu în România
+S-au obținut 3 rezultat(e) noi:
+	1. https://ro.scribd.com/document/381919978/Dan-Toma-Dulciu-Contribu%C8%9Bii-la-biografia-lui-Mihai-Eminescu-Documente-Inedite
+	2. https://romanialiterara.com/2020/11/din-nou-despre-debutul-lui-eminescu/
+	3. https://cimec.ro/mihai-eminescu/
+Got answer: Răspunsul este DA, conform articolului Wikipedia despre Mihai Eminescu, care menționează locurile natal și de moarte ale acestuia ca fiind respectiv Botoșani, Moldova și București, România. ("Mihai Eminescu: 15 ianuarie 1850, Botoșani, Moldova – d. 15 iunie 1889, București, România)".
+Answering question: Exista o dovadă concludentă care să demonstreze că Mihai Eminescu nu a trăit în România?
+Se caută în google cu interogarea: Mihai Eminescu locuit în România
+S-au obținut 5 rezultat(e) noi:
+	1. https://ro.wikipedia.org/wiki/Mihai_Eminescu
+	2. https://www.facebook.com/julean.daniel/photos/ieri-rom%C3%A2nia-l-a-omagiat-pe-mihai-eminescu-to%C8%9Bi-ne-m%C3%A2ndrim-cu-poetul-nostru-na%C8%9Bi/27660691650201237/
+	3. https://www.bucuresti.ro/articole/unde-a-locuit-mihai-eminescu-in-bucuresti-insemnari-despre-trecerea-poetului-prin-diferite-locatii-din-capitala-351
+	4. https://www.twinkl.ro/teaching-wiki/cine-a-fost-mihai-eminescu
+	5. https://www.youtube.com/watch?v=kVrRhpGheYk
+Se caută în google cu interogarea: biografia lui Mihai Eminescu
+S-au obținut 4 rezultat(e) noi:
+	1. https://ro.scribd.com/document/492085382/Biografia-Lui-Mihai-Eminescu
+	2. https://brainly.ro/tema/9516461
+	3. https://www.libertatea.ro/lifestyle/mihai-eminescu-biografie-3391645
+	4. https://eduboom.ro/video/1041/mihai-eminescu-o-scurta-biografie
+Se caută în google cu interogarea: locul nașterii și vieții lui Mihai Eminescu
+S-au obținut 3 rezultat(e) noi:
+	1. https://romanialiterara.com/2023/02/unde-s-a-nascut-eminescu/
+	2. https://luceafarul.net/mihai-eminescu-175-ani-de-la-nastere-data-si-locul-nasterii-lui-mihai-eminescu
+	3. http://enciclopediaromaniei.ro/wiki/Mihai_Eminescu
+Se caută în google cu interogarea: documente istorice despre viața lui Mihai Eminescu
+S-au obținut 3 rezultat(e) noi:
+	1. https://cimec.ro/mihai-eminescu/
+	2. https://www.youtube.com/watch?v=XdNP5CMqAlA
+	3. https://curierulnational.ro/moartea-lui-mihai-eminescu-intre-realitate-istorica-si-mit-national/
+Got answer: Răspunsul este negativ, deoarece există dovezi concrete care atestă faptul că Mihai Eminescu s-a născut la Botoșani, din Regatul Munteniei (azi parte a României), ceea ce îl face pe el un om care a trăit efectiv în România. ("Mihai Eminescu:...născut la Botoșani, Moldova...") - Wikipedia.
+Afirmația 'Was Mihai Eminescu a man who lived in Romania?' este supported.
+Justificare: Potrivit cercetărilor realizate, Mihai Eminescu a fost un om care a trăit efectiv în România. Toate sursele consultate, cum ar fi Wikipedia și Biografia lui Mihai Eminescu publicată pe Scribd, menționează locurile natal și de moarte ale poetului român ca fiind Botoșani, Moldova și București, România. Nu există dovezi concludente care să sugereze că Mihai Eminescu nu ar fi trăit în România.
+Scor credibilitate surse: Fără surse (N/A) [inconclusive]
+Veredictu general al conținutului este: supported
+Verificarea factuală a durat 4:35 min.

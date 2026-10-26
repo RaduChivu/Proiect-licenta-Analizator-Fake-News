@@ -1,0 +1,12 @@
+[
+  {
+    "url": "https://ro.wikipedia.org/wiki/Uniunea_European%C4%83",
+    "question": "Este România un stat membru al Uniunii Europene?",
+    "domain": "ro.wikipedia.org",
+    "tier": "trusted",
+    "trust_score": 72.0,
+    "title": "Uniunea Europeană",
+    "snippet": "Uniunea Europeană (UE) este o uniune politică și economică a 27 de state membre situate în principal în Europa. Are o suprafață de 4.233.262 km2 și o populație estimată de aproximativ 447 milioane. UE a dezvoltat o piață unică internă printr-un sistem standardizat de legi care se aplică în toate statele membre. Politicile UE vizează asigurarea liberei circulații a persoanelor, bunurilor, serviciilor și capitalurilor în cadrul pieței interne, adoptarea legislației în domeniul justiției și afacerilor interne și menținerea unor politici comune privind comerțul, agricultura, pescuitul și dezvoltarea regională. Pentru călătoriile în spațiul Schengen, controlul pașapoartelor a fost eliminat.",
+    "reason": "Sursă recunoscută cu scor 72/100 din lista de surse de încredere."
+  }
+]

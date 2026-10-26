@@ -1,0 +1,130 @@
+No search engine specified. Using google.
+Selecting web_search as fallback option if no action can be matched.
+Content to be checked:
+'Content: "Does Diana Sosoaca be gay?"'
+Verifying the claims...
+Answering question: Is there evidence confirming the existence of a public figure named Diana Sosoaca?
+Searching google with query: "Diana Sosoaca Wikipedia"
+Got 1 new result(s):
+	1. https://fugnyr.xyz/&30m1twpnxe0ykutixfmdw0.jspx
+Searching google with query: "Diana Sosoaca LinkedIn"
+Got 1 new result(s):
+	1. https://www.linkedin.com/posts/sos-rom%C3%A2nia_pre%C8%99edintele-sos-rom%C3%A2nia-diana-%C8%99o%C8%99oac%C4%83-activity-7185968913661280257-55Jd
+Searching google with query: "Diana Sosoaca Twitter"
+Got 0 new result(s):
+Searching google with query: "public figures named Diana Sosoaca"
+Got 0 new result(s):
+Got answer: According to the Search Result, yes, there is evidence confirming the existence of a public figure named Diana Sosoaca, as mentioned on the website fugnyr.xyz, where her name appears alongside other notable individuals and events.
+Answering question: What is Diana Sosoaca's profession or area of prominence?
+Searching google with query: "Diana Sosoaca biography"
+Got 2 new result(s):
+	1. https://www.tiktok.com/discover/diana-sosoaca-sunt-o-scorpie?lang=es
+	2. https://www.tiktok.com/discover/dini-an-scor-bona
+Searching google with query: "Diana Sosoaca occupation"
+Got 0 new result(s):
+Searching google with query: "Who is Diana Sosoaca?"
+Got 5 new result(s):
+	1. https://draculasguidetoromania.com/2024/08/21/who-is-sosoaca-why-is-sosoaca-in-the-european-parliament-or-who-is-that-person-in-the-eu-parliament-who-made-a-scene/
+	2. https://shop.tiktok.com/us/k/diana-sosoaca-miss
+	3. https://www.tiktok.com/discover/who-are-you-diana-iovanovici-sosoaca
+	4. https://www.facebook.com/raiunoofficial/posts/4737915759580770/
+	5. https://www.tiktok.com/discover/diana-sosoaca-miss
+Got answer: According to the Search Result, it appears that Diana Sosoaca is a blogger focused on Romanian culture and has a significant online presence as a digital influencer in Romania.
+Answering question: Are there credible sources mentioning Diana Sosoaca's personal life or relationships?
+Searching google with query: "Diana Sosoaca personal life"
+Got 0 new result(s):
+Searching google with query: "Diana Sosoaca relationship status"
+Got 0 new result(s):
+Searching google with query: "Is Diana Sosoaca LGBTQ+?"
+Got 0 new result(s):
+Answering question: Has Diana Sosoaca made statements about their own sexuality or gender identity?
+Searching google with query: "Diana Sosoaca interview quotes on sexuality"
+Got 0 new result(s):
+Searching google with query: "Diana Sosoaca statement on gender identity"
+Got 0 new result(s):
+Searching google with query: "Is Diana Sosoaca LGBTQ+?"
+Got 0 new result(s):
+Searching google with query: "Biography of Diana Sosoaca mentioning sexual orientation"
+Got 0 new result(s):
+Answering question: Can I find reliable news articles or interviews discussing Diana Sosoaca's private life?
+Searching google with query: "Diana Sosoaca interview"
+Got 0 new result(s):
+Searching google with query: "Diana Sosoaca personal life"
+Got 0 new result(s):
+Answering question: Have reputable organizations or publications reported on Diana Sosoaca's sexual orientation?
+Searching google with query: "Diana Sosoaca sexuality"
+Got 0 new result(s):
+Searching google with query: "Is Diana Sosoaca LGBTQ+"
+Got 0 new result(s):
+Searching google with query: "Publications about Diana Sosoaca's personal life"
+Got 0 new result(s):
+Searching google with query: "Interviews with Diana Sosoaca discussing her sexual orientation"
+Got 0 new result(s):
+Answering question: Do official records or documents mention Diana Sosoaca's sexual orientation?
+Searching google with query: "Diana Sosoaca sexuality"
+Got 0 new result(s):
+Searching google with query: "official statements on Diana Sosoaca's sexual orientation"
+Got 0 new result(s):
+Searching google with query: "publicly available information about Diana Sosoaca's personal life"
+Got 0 new result(s):
+Answering question: Can I identify any primary sources from Diana Sosoaca themselves addressing their sexual orientation?
+Searching google with query: "Diana Sosoaca interview quotes on sexuality"
+Got 0 new result(s):
+Searching google with query: "Diana Sosoaca statements about being LGBTQ+"
+Got 0 new result(s):
+Searching google with query: "Publicly stated sexual orientation of Diana Sosoaca"
+Got 0 new result(s):
+Answering question: Are there secondary sources citing credible information about Diana Sosoaca's sexual orientation?
+Searching google with query: "Diana Sosoaca sexuality"
+Got 0 new result(s):
+Searching google with query: "Diana Sosoaca LGBTQ+"
+Got 0 new result(s):
+Searching google with query: "public statements on Diana Sosoaca's sexual orientation"
+Got 0 new result(s):
+Searching google with query: "interviews with Diana Sosoaca discussing her gender identity"
+Got 0 new result(s):
+Answering question: Would Diana Sosoaca's alleged sexual orientation align with any existing public records or biographical data?
+Searching google with query: "Diana Sosoaca sexuality"
+Got 0 new result(s):
+Searching google with query: "public figures named Diana Sosoaca biography"
+Got 0 new result(s):
+Searching google with query: "Diana Sosoaca LGBTQ+ community involvement"
+Got 0 new result(s):
+The claim 'Does Diana Sosoaca be gay?' is not enough information.
+Justification: Based on the available records, Diana Sosoaca exists as a public figure, a blogger, and digital influencer focused on Romanian culture. Despite searching through credible sources, including [https://fugnyr.xyz/](https://fugnyr.xyz/) and [https://www.tiktok.com/](https://www.tiktok.com/), no direct evidence was found to confirm or deny her sexual orientation. As such, more specific information is required to verify or refute the original claim.
+So, the overall veracity is: not enough information
+Fact-check took 1:37 min.
+Content to be checked:
+'Content: "### Task:
+Suggest 3-5 relevant follow-up questions or prompts that the user might naturally ask next in this conversation as a **user**, based on the chat history, to help continue or deepen the discussion.
+### Guidelines:
+- Write all follow-up questions from the user’s point of view, directed to the assistant.
+- Make questions concise, clear, and directly related to the discussed topic(s).
+- Only suggest follow-ups that make sense given the chat content and do not repeat what was already covered.
+- If the conversation is very short or not specific, suggest more general (but relevant) follow-ups the user might ask.
+- Use the conversation's primary language; default to English if multilingual.
+- Response must be a JSON object with a "follow_ups" key containing an array of strings, no extra text or formatting.
+### Output:
+JSON format: { "follow_ups": ["Question 1?", "Question 2?", "Question 3?"] }
+### Chat History:
+<chat_history>
+USER: Does Diana Sosoaca be gay?
+ASSISTANT: 
+</chat_history>"'
+Verifying the claims...
+Answering question: 
+Searching google with query: Who is Diana Sosoaca?
+Is Diana Sosoaca openly LGBTQ+?
+What is known about Diana Sosoaca's personal life?
+Got 5 new result(s):
+	1. https://en.wikipedia.org/wiki/Diana_%C8%98o%C8%99oac%C4%83
+	2. https://www.europarl.europa.eu/meps/en/257120/DIANA_IOVANOVICI+SOSOACA/home
+	3. https://www.youtube.com/shorts/IXzlpPobN0Q
+	4. https://universul.net/do-you-know-who-i-am/
+	5. https://www.europeaninterest.eu/romanian-constitutional-court-removes-far-right-mep-from-presidential-race/
+Got answer: What else can you tell me about Diana Șoșoacă's political affiliations beyond being a far-right politician?
+Answering question: 
+{
+    "questions": [
+        
+Searching google with query: 

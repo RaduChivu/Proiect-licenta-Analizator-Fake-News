@@ -1,0 +1,27 @@
+version: "3.9"
+
+services:
+  infact-api:
+    build: .
+    container_name: infact-api
+    ports:
+      - "8000:8000"
+    working_dir: /infact
+    # If you want the container to see your host code, uncomment:
+    # volumes:
+    #   - .:/infact
+
+  open-webui:
+    image: ghcr.io/open-webui/open-webui:main
+    container_name: open-webui
+    ports:
+      - "3000:8080"
+    environment:
+      - OPENAI_API_BASE_URL=http://infact-api:8000/v1
+      - OPENAI_API_KEY=dummy
+    depends_on:
+      - infact-api
+    volumes:
+      - open-webui-data:/app/backend/data
+volumes:
+  open-webui-data: {}

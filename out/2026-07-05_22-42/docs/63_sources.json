@@ -1,0 +1,12 @@
+[
+  {
+    "url": "https://ro.wikipedia.org/wiki/Viteza_luminii",
+    "question": "Este viteza sunetului în aer o mărime fizică măsurabilă?",
+    "domain": "ro.wikipedia.org",
+    "tier": "trusted",
+    "trust_score": 72.0,
+    "title": "Viteza luminii",
+    "snippet": "Viteza luminii în vid este o importantă constantă fizică universală; conform cunoștințelor existente, este viteza de propagare a luminii în vid  - independent de parametrii fizici ai luminii cum sunt: culoarea, intensitatea, direcția, polarizarea sau durata propagării. Această caracteristică este proprie nu numai luminii din spectrul vizibil, ea este valabilă tuturor radiațiilor de natură electromagnetică cum sunt: undele radio, lumina infraroșie și ultravioletă, radiațiile X și Gamma. Viteza luminii în vid, conform teoriei relativității restrânse a lui Einstein reprezintă valoarea limită a vitezei pe care o poate atinge un corp, indiferent de mediul în care se propagă. Valoarea sa, exprimată în unități din Sistemul Internațional, este de 299 792 458 m/s (metri pe secundă). Determinări experimentale de mare precizie au demonstrat stabilitatea foarte mare a valorii vitezei luminii în vid: măsurătorile de laborator au arătat că variația vitezei de propagare pentru raze de lumină de culori (lungimi de undă) diferite se încadrează într-o abatere de valori ce reprezintă unu la a 1014-a parte din valoarea determinată.",
+    "reason": "Sursă recunoscută cu scor 72/100 din lista de surse de încredere."
+  }
+]

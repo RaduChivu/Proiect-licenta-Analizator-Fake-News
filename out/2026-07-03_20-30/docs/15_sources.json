@@ -1,0 +1,152 @@
+[
+  {
+    "url": "https://ro.wikipedia.org/wiki/Viteza_sunetului",
+    "question": null,
+    "domain": "ro.wikipedia.org",
+    "tier": "trusted",
+    "trust_score": 72.0,
+    "title": "Viteza sunetului",
+    "snippet": "Viteza sunetului este o mărime care descrie propagarea sunetului printr-un mediu ca unde sonore. Această viteză depinde de proprietățile mediului de ...",
+    "reason": "Sursă recunoscută cu scor 72/100 din lista de surse de încredere."
+  },
+  {
+    "url": "https://physics.weber.edu/schroeder/phsx2010/ps12.pdf",
+    "question": "Sunt existente alte surse care raportează o altă valoare pentru viteza sunetului în aer la temperatura camerei?",
+    "domain": "physics.weber.edu",
+    "tier": "unknown",
+    "trust_score": 75.0,
+    "title": "[PDF] Problem Set 12 - Physics",
+    "snippet": "You should memorize the approximate value of the speed of sound in air at room temperature (340 m/s). You should understand the Doppler effect, and be able ...",
+    "reason": "Domeniu necunoscut. TLD oficial/guvernamental (.edu)."
+  },
+  {
+    "url": "https://ro.scribd.com/document/922284746/RO-%C8%98tiin%C8%9Be-Clasa-a-8-a-Q1-LP-3",
+    "question": "Este corect faptul că viteza sunetului în aer există?",
+    "domain": "ro.scribd.com",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Științe Clasa A 8-A Q1 LP 3 | PDF - Scribd",
+    "snippet": "Viteza sunetului în aer la temperatura camerei (25°C) este de 346 m/s. F. Evaluează C 3. O 5. B 2. B 4. D V. REFLECȚIE Completați afirmația de mai jos: Am ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://www.reddit.com/r/AskPhysics/comments/112gdtu/how_do_i_calculate_resonance_for_certain_objects/?tl=ro",
+    "question": null,
+    "domain": "reddit.com",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Cum calculez rezonanța pentru anumite obiecte (cilindru ... - Reddit",
+    "snippet": "Am luat c = 343, viteza sunetului în aer la temperatura camerei. Am calculat că nota Do4 (Do mijlociu, 261.63Hz) ar necesita un cilindru închis/deschis de ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://prezi.com/p/5rb9f1aegyyc/acustica-in-fizica-pentru-clasa-a-11-a",
+    "question": null,
+    "domain": "prezi.com",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Acustica în Fizică pentru Clasa a 11-a by Luca Balaban on Prezi",
+    "snippet": "Viteza sunetului în aer la temperatura camerei. Amplitudinea unui sunet de tunet. Difracția sunetului. Boxele convertesc semnalele electrice în ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://digitalarena.ro/viteza-sunetului-caracteristici-propagare-si-alte-detalii-si-curiozitati",
+    "question": null,
+    "domain": "digitalarena.ro",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Viteza sunetului - caracteristici, propagare și alte detalii și curiozități",
+    "snippet": "Acesta a obținut o valoare apropiată de viteza sunetului în aer la temperatura camerei. Experimente cu ecouri: Un alt mod de a măsura viteza ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://www.scribd.com/document/954773263/Efectul-temperaturii-asupra-vitezei-sunetului",
+    "question": null,
+    "domain": "scribd.com",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Efectul Temperaturii Asupra Vitezei Sunetului | PDF - Scribd",
+    "snippet": "valurile pot călători mai repede. Viteza sunetului în aer la temperatura camerei este 346 metri pe secundă. Temperat Altitudine m/s km/h mph mph ure. Nivelul ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://www.engineeringtoolbox.com/sound-speed-liquids-d_715.html",
+    "question": null,
+    "domain": "engineeringtoolbox.com",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Liquids - Speed of Sound - The Engineering ToolBox",
+    "snippet": "The speed of sound in some common liquids are indicated in the table below. Speed of sound in air at standard conditions is 343 m/s.",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://curiosityfluids.com/2016/06/20/definition-of-the-speed-of-sound",
+    "question": null,
+    "domain": "curiosityfluids.com",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Definition of the Speed of Sound - curiosityFluids",
+    "snippet": "... speed of sound in air at standard conditions is ~343 m/s whereas the speed of sound in water is ~1482 m/s. Additionally, and very ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://www.chegg.com/homework-help/questions-and-answers/wavelength-tuba-s-110hz-tone-air-standard-conditions-q181927008",
+    "question": null,
+    "domain": "chegg.com",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Solved what is the wavelength of a tuba's 110Hz tone in air - Chegg",
+    "snippet": "The speed of sound in air at standard conditions is approximately 343 m/s. #### Concepts The wavelength of a sound wave is the distance ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://iris.polito.it/retrieve/e384c434-1540-d4b2-e053-9f05fe0a1d67/thesis_srijith_acoustic_thermometry.pdf",
+    "question": null,
+    "domain": "iris.polito.it",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "[PDF] Acoustic Thermometry Based on Accurate Measurements of Speed ...",
+    "snippet": "With the help of sound cards and software, they conclude with the speed of sound in air at standard conditions to be. 331.4 m/s and change of ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://quizlet.com/gb/1125148831/sound-waves-practical-flash-cards",
+    "question": null,
+    "domain": "quizlet.com",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Sound Waves + PRACTICAL Flashcards - Quizlet",
+    "snippet": "What is the speed of sound in air at standard conditions? The speed of sound in air is roughly 340 m/s at room temperature. How does the speed of sound ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://istoriiregasite.wordpress.com/2025/01",
+    "question": "Cum se măsoară viteza sunetului în aer?",
+    "domain": "istoriiregasite.wordpress.com",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "ianuarie | 2025 | ISTORII REGĂSITE",
+    "snippet": "... viteza sunetului în aer la 20 de grade Celsius?1500 … Citește în continuare → · 5 ianuarie 2025 Lasă un răspuns. Întrebări din istorie pentru nota 10. 25 de ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://ro.saiyongmarine.com/info/the-principle-of-four-depth-sounder-21114115.html",
+    "question": null,
+    "domain": "ro.saiyongmarine.com",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Principiul patru sonde de adâncime - cunoştinţe",
+    "snippet": "În mediul marin, mai mare cantitatea de fizică, cea mai mare viteza sunetului. La temperatura camerei, viteza sunetului în apa de mare este ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://www.facebook.com/groups/1685507044817357/posts/2533790636655656",
+    "question": "Există o singură valoare standard pentru viteza sunetului în aer la temperatura camerei?",
+    "domain": "facebook.com",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "What is the formula for speed of sound in air at room temperature?",
+    "snippet": "Can I know the working formula of How to find the speed of sound in air at room temperature using a resonance tube ? ... Use a frequency counter.",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  }
+]

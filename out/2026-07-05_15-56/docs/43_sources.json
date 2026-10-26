@@ -1,0 +1,152 @@
+[
+  {
+    "url": "https://www.factual.ro",
+    "question": null,
+    "domain": "factual.ro",
+    "tier": "trusted",
+    "trust_score": 88.0,
+    "title": "Factual.ro - Factual • Adevărul din politică",
+    "snippet": "Factual este prima platformă independentă de fact-checking din România. Verificăm declarațiile politicienilor și impactul dezinformării publice.",
+    "reason": "Sursă recunoscută cu scor 88/100 din lista de surse de încredere."
+  },
+  {
+    "url": "https://www.veridica.ro/fake-news-dezinformare-propaganda/fake-news-vaccinurile-antirujeola-pentru-copii-sunt-o-arma-biologica",
+    "question": null,
+    "domain": "veridica.ro",
+    "tier": "trusted",
+    "trust_score": 88.0,
+    "title": "FAKE NEWS",
+    "snippet": "Vaccinurile antirujeolă pentru copii sunt o armă ...: Copiii vor fi injectaţi cu o armă biologică, în urma declarării epidemiei de rujeolă, potrivit naraţiunii promovate de un cunoscut site conspiraţionist.",
+    "reason": "Sursă recunoscută cu scor 88/100 din lista de surse de încredere."
+  },
+  {
+    "url": "https://ro.wikipedia.org/wiki/DVD",
+    "question": "Este citirea în lumină slabă definită ca o tehnică specifică de lectură?",
+    "domain": "ro.wikipedia.org",
+    "tier": "trusted",
+    "trust_score": 72.0,
+    "title": "DVD",
+    "snippet": "DVD (în engleză Digital Video Disc sau Digital Versatile Disc) este un mediu de stocare optic succesor al CD-ului, cu o capacitate de aproape 7 ori mai mare, lărgind aria de aplicație a acestora. DVD permite stocarea de filme în format digital de înaltă fidelitate pe suport de tip disc compact. Discurile DVD au fost introduse în Japonia și Coreea în 1996, iar în SUA și Europa în 1997.",
+    "reason": "Sursă recunoscută cu scor 72/100 din lista de surse de încredere."
+  },
+  {
+    "url": "https://www.reginamaria.ro/articole-medicale/sanatatea-familiei/ne-stricam-ochii-daca-citim-lumina-slaba",
+    "question": "Care sunt caracteristicile specifice ale citirii în lumină slabă care fac posibilă apariția acestui efect negativ?",
+    "domain": "reginamaria.ro",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Ne stricam ochii daca citim in lumina slaba?",
+    "snippet": "Cititul in conditii de iluminare scazuta (chiar si la TV) este contraindicat persoanelor diagnosticate cu glaucom “cu unghi ingust”. In aceasta ... (data publicării: 26 mai 2025)",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://www.catena.ro/impactul-expunerii-la-lumina-albastra-asupra-ritmului-circadian",
+    "question": null,
+    "domain": "catena.ro",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Efectele luminii albastre asupra ritmului circadian",
+    "snippet": "Pe termen lung, expunerea continua la lumina albastra in momentele nepotrivite poate duce la perturbari persistente ale ritmului circadian, ceea ... (data publicării: 28 nov. 2025)",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://evista.ro/cititul-pe-intuneric-este-rau-pentru-ochii-tai",
+    "question": null,
+    "domain": "evista.ro",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Cititul pe întuneric este rău pentru ochii tăi? - Evista",
+    "snippet": "Citirea în întuneric nu vă va deteriora ochii, adică, nu vă va afecta vederea permanent. Și dacă ați auzit că citirea în lumină slabă poate provoca miopie ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://clinicaoftaprof.ro/lumina-slaba",
+    "question": null,
+    "domain": "clinicaoftaprof.ro",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Dacă citesc în lumină slabă, îmi „stric” ochii?",
+    "snippet": "Ei bine, nu există dovezi medicale care să confirme că unele afecțiuni ale ochiului pot fi cauzate de cititul în lumină slabă. Însă, ceea ce e ... (data publicării: 27 sept. 2018)",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://www.medlife.ro/articole-medicale/vitmatina-e-adevarat-ca-cititul-la-lumina-slaba-dauneaza-vederii.html",
+    "question": null,
+    "domain": "medlife.ro",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "E adevarat ca cititul la lumina slaba dauneaza vederii?",
+    "snippet": "Daca ne concentram citind ore intregi, ne vom trezi obositi, asa cum daca stam prea aproape de televizor, ne putem alege cu o durere de cap. (data publicării: 7 dec. 2011)",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://www.facebook.com/factual.ro/?locale=ro_RO",
+    "question": null,
+    "domain": "facebook.com",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Factual.ro - Facebook",
+    "snippet": "O ediție recentă a programului Fidelis a înregistrat cea mai slabă performanță pentru luna mai din istoria programului în ceea ce privește fondurile atrase.",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://www.instagram.com/factual.ro",
+    "question": null,
+    "domain": "instagram.com",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Factual.ro (@factual.ro) • Instagram photos and videos",
+    "snippet": "O ediție recentă a programului Fidelis a înregistrat cea mai slabă performanță pentru luna mai din istoria programului în ceea ce privește fondurile atrase.",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://ro.tucsen.com/learning/image-quality-scientific-imaging",
+    "question": null,
+    "domain": "ro.tucsen.com",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Ce determină calitatea imaginii în imagistica științifică? - Tucsen |",
+    "snippet": "Detectarea în lumină slabă poate prioritiza zgomotul de citire și stabilitatea întunericului. Imagistica cantitativă poate necesita atât ... (data publicării: 9 mar. 2026)",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://gei.xolani.cx.ua/articles/cum-sa-citesti-corect-cu-vedere-slaba.html",
+    "question": null,
+    "domain": "gei.xolani.cx.ua",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Cum să citești corect cu vedere slabă",
+    "snippet": "Poate citirea în lumină slabă să vă dăuneze ochilor? Găsiți răspunsuri în ... Miopie - Wikipedia. Miopia (de asemenea - miopia, din greaca veche μύω ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://www.yarrae.com/ro/application/travel-reading-light",
+    "question": null,
+    "domain": "yarrae.com",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Lampă de citit premium pentru călătorii",
+    "snippet": "lampă LED portabilă ...: Lampa de citit de călătorie combină portabilitatea cu o tehnologie puternică de iluminare pentru a oferi o lumină concentrată și prietenoasă pentru ochi, exact ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://sonim-tech.files.svdcdn.com/production/documents/XP-Pro-E-downloads/SonimXPPro_E_UG__v1.9_20251226_RO_FINAL.pdf?dm=1768433556",
+    "question": null,
+    "domain": "sonim-tech.files.svdcdn.com",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "XP Pro E",
+    "snippet": "Design durabil. Sonim XP Pro E este proiectat pentru o durabilitate ultra-ridicată, având certificări IP68 și IPX9K care atestă rezistența ... (data publicării: 26 dec. 2025)",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://help.motorola.com/hc/7168/15/pdf/help-motorola-edge-60-neo-15-global-ro-ro.pdf",
+    "question": null,
+    "domain": "help.motorola.com",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "motorola edge 60 neo",
+    "snippet": "noapte, facilitând vizualizarea și citirea în lumină slabă. S-ar putea chiar să adormiți mai ușor. 1. Accesați Setări > Afișaj > Lumină de noapte. 2 ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  }
+]

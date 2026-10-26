@@ -1,0 +1,152 @@
+[
+  {
+    "url": "https://www.who.int/news-room/fact-sheets/detail/tuberculosis",
+    "question": null,
+    "domain": "who.int",
+    "tier": "trusted",
+    "trust_score": 97.0,
+    "title": "Tuberculosis",
+    "snippet": "Tuberculosis (TB) is an infectious disease caused by bacteria that most often affects the lungs. It spreads through the air when people with TB cough, sneeze ... (data publicării: 24 mar. 2026)",
+    "reason": "Sursă recunoscută cu scor 97/100 din lista de surse de încredere."
+  },
+  {
+    "url": "https://www.cdc.gov/tb/hcp/vaccines/index.html",
+    "question": null,
+    "domain": "cdc.gov",
+    "tier": "trusted",
+    "trust_score": 97.0,
+    "title": "Bacille Calmette-Guérin (BCG) Vaccine for Tuberculosis",
+    "snippet": "It protects children from getting severe forms of active TB disease, such as TB meningitis and miliary TB disease. For Everyone: Tuberculosis ... (data publicării: 31 ian. 2025)",
+    "reason": "Sursă recunoscută cu scor 97/100 din lista de surse de încredere."
+  },
+  {
+    "url": "https://www.factual.ro/declaratii/alexandru-rafila-compara-salariul-unui-director-dsp-cu-cel-obtinut-de-alti-medici",
+    "question": null,
+    "domain": "factual.ro",
+    "tier": "trusted",
+    "trust_score": 88.0,
+    "title": "Alexandru Rafila compară salariul unui director DSP cu cel obținut ...",
+    "snippet": "PARȚIAL ADEVĂRAT | Alexandru Rafila compară salariul unui director DSP cu cel obținut de alți medici. (data publicării: 6 nov. 2025)",
+    "reason": "Sursă recunoscută cu scor 88/100 din lista de surse de încredere."
+  },
+  {
+    "url": "https://www.veridica.ro",
+    "question": null,
+    "domain": "veridica.ro",
+    "tier": "trusted",
+    "trust_score": 88.0,
+    "title": "Veridica",
+    "snippet": "Platformă anti dezinformare și fake news - analize, știri ...: Veridica este o publicație specializată în monitorizarea, analiza și demontarea campaniilor de fake news, dezinformare și manipulare din Europa Centrală și ...",
+    "reason": "Sursă recunoscută cu scor 88/100 din lista de surse de încredere."
+  },
+  {
+    "url": "https://ro.wikipedia.org/wiki/Regnul_Monera",
+    "question": "Există dovezi științifice care să demonstreze că tuberculoza este o boală infectoasă?",
+    "domain": "ro.wikipedia.org",
+    "tier": "trusted",
+    "trust_score": 72.0,
+    "title": "Regnul Monera",
+    "snippet": "Regnul Monera (Procariota) include organismele procariote: bacteriile și cianobacteriile (alge albastre-verzi). Caracteristic pentru aceste organisme este organizarea simplă și primitivă a corpului. Celulele procariotelor sunt lipsite de nucleu bine-definit. Datorită dimensiunilor foarte mici ele nu pot fi văzute cu ochiul liber, motiv pentru care sunt incluse în grupa microorganismelor.\nRegnul Monera cuprinde 2 grupe principale de organisme: alge albastre-verzi (cianobacterii) și bacteriile (archebacteriile și eubacteriile).",
+    "reason": "Sursă recunoscută cu scor 72/100 din lista de surse de încredere."
+  },
+  {
+    "url": "https://sgg.gov.ro/1/wp-content/uploads/2022/09/ANEXA-Strategia-Nationala-.pdf",
+    "question": null,
+    "domain": "sgg.gov.ro",
+    "tier": "unknown",
+    "trust_score": 80.8,
+    "title": "Strategia Națională pentru Controlul Tuberculozei în ...",
+    "snippet": "Ministerul Sănătății și autoritățile de sănătate publică au integrat măsurile de control al transmiterii COVID-19 și TB. Prin Hotarârea Guvernului nr. 921 ...",
+    "reason": "Domeniu necunoscut. Subdomeniu al sursei de încredere gov.ro."
+  },
+  {
+    "url": "https://insp.gov.ro/2026/03/24/24-martie-ziua-mondiala-de-lupta-impotriva-tuberculozei-4",
+    "question": null,
+    "domain": "insp.gov.ro",
+    "tier": "unknown",
+    "trust_score": 80.8,
+    "title": "24 martie – Ziua Mondială de Luptă Împotriva Tuberculozei",
+    "snippet": "Semnele și simptomele frecvente ale bolii sunt: tuse care durează mai mult de 3 săptămâni, febră sau transpirații nocturne, scădere în greutate ... (data publicării: 24 mar. 2026)",
+    "reason": "Domeniu necunoscut. Subdomeniu al sursei de încredere gov.ro."
+  },
+  {
+    "url": "https://vaccination-info.europa.eu/ro/tbc",
+    "question": null,
+    "domain": "vaccination-info.europa.eu",
+    "tier": "unknown",
+    "trust_score": 79.9,
+    "title": "TBC - European Vaccination Information Portal",
+    "snippet": "Bacilul tuberculozei se transmite de obicei prin aer și se poate răspândi de la om la om prin picături mici eliberate când o persoană cu tuberculoză pulmonară ...",
+    "reason": "Domeniu necunoscut. Subdomeniu al sursei de încredere europa.eu."
+  },
+  {
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4950406",
+    "question": "A fost descoperit un vaccin eficient împotriva tuberculozei?",
+    "domain": "pmc.ncbi.nlm.nih.gov",
+    "tier": "unknown",
+    "trust_score": 75.0,
+    "title": "Why don't we have an effective tuberculosis vaccine yet? - PMC",
+    "snippet": "de T Davenne · 2016 · Citat de 127 ori — The only licensed vaccine against TB, Bacillle Calmette-Guerin (BCG), is effective at preventing disseminated disease in infants but confers highly variable ...",
+    "reason": "Domeniu necunoscut. TLD oficial/guvernamental (.gov)."
+  },
+  {
+    "url": "https://publichealth.jhu.edu/ivac/the-other-pandemic-the-promise-of-tb-vaccines",
+    "question": null,
+    "domain": "publichealth.jhu.edu",
+    "tier": "unknown",
+    "trust_score": 75.0,
+    "title": "The Other Pandemic",
+    "snippet": "The Promise of TB Vaccines: BCG vaccination was associated with a 44% lower risk of non-TB respiratory infections, a 33% reduction in infection-related mortality, and a 38% reduction in ... (data publicării: de MA Gift)",
+    "reason": "Domeniu necunoscut. TLD oficial/guvernamental (.edu)."
+  },
+  {
+    "url": "https://doh.wa.gov/you-and-your-family/illness-and-disease-z/tuberculosis-tb/clients-and-public/facts-about-tb",
+    "question": null,
+    "domain": "doh.wa.gov",
+    "tier": "unknown",
+    "trust_score": 75.0,
+    "title": "Facts About TB | Washington State Department of Health",
+    "snippet": "Symptoms of TB disease in the lungs include coughing, with or without blood, and chest pain. General symptoms of TB disease also include fever, night sweats ...",
+    "reason": "Domeniu necunoscut. TLD oficial/guvernamental (.gov)."
+  },
+  {
+    "url": "https://www.sfatulmedicului.ro/dictionar-medical/tuberculoza_2534",
+    "question": "Este definitiv stabilit faptul că tuberculoza este o boală?",
+    "domain": "sfatulmedicului.ro",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Tuberculoza - definitie | SfatulMedicului.ro",
+    "snippet": "boala infectioasa contagioasa provocata de o bacterie, mycobacterium tuberculosis sau bacilul koch. Se apreciaza ca, actualmente, exista in lume aproximativ ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://m.dex.ro/tuberculoz%C4%83",
+    "question": null,
+    "domain": "m.dex.ro",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Dex tuberculoză, tuberculoza, definiţie tuberculoză, dex.ro Mobile",
+    "snippet": "TUBERCULÓZĂ, tuberculoze, s. f. Boală infecțioasă și contagioasă produsă de localizarea bacilului Koch la plămâni, la intestine, la oase etc. · TUBERCULÓZĂ s.f. ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://pneumolog-galati.eu/tuberculoza-pulmonara",
+    "question": null,
+    "domain": "pneumolog-galati.eu",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Tuberculoza pulmonara - Pneumologie Galati",
+    "snippet": "Tuberculoza: definitie si cauze. Boala infectioasa produsa de un germen numit bacilul Koch ( BK sau Mycobacterium tuberculosis). (data publicării: 28 aug. 2016)",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://www.slideserve.com/niles/tuberculoza-definitie-etiologe",
+    "question": null,
+    "domain": "slideserve.com",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "PPT - TUBERCULOZA DEFINITIE. ETIOLOGE PowerPoint ...",
+    "snippet": "TUBERCULOZA DEFINITIE. ETIOLOGE. Istoric. Tuberculoza- boala infectocontagioasa Identificata la mumiile egiptene si schelete din epoca de piatra Hippocrate ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  }
+]

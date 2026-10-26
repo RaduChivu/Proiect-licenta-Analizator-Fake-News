@@ -1,0 +1,8 @@
+No search engine specified. Using google.
+Selecting web_search as fallback option if no action can be matched.
+Content to be checked:
+'Content: "Romania has an Eiffel Tower."'
+Verifying the claims...
+Content to be checked:
+'Content: "Romania has an Eiffel Tower in Eastern Europe."'
+Verifying the claims...

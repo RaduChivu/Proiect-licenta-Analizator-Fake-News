@@ -1,0 +1,12 @@
+[
+  {
+    "url": "https://ro.wikipedia.org/wiki/Algoritmul_lui_Euclid",
+    "question": "Cine este autorul celei de-a douăzecea probleme din Arithmetica lui Diophantus?",
+    "domain": "ro.wikipedia.org",
+    "tier": "trusted",
+    "trust_score": 72.0,
+    "title": "Algoritmul lui Euclid",
+    "snippet": "În matematică, algoritmul lui Euclid este o metodă eficientă de calcul al celui mai mare divizor comun (CMMDC). El este denumit după matematicianul grec Euclid, care l-a descris în Cărțile VII și X din Elementele.\nCMMDC a două numere este cel mai mare număr care le divide pe ambele. Algoritmul lui Euclid exploatează observația că cel mai mare divizor comun al două numere nu se modifică dacă numărul cel mai mic este scăzut din cel mai mare. De exemplu, 21 este CMMDC al numerelor 252 și 105 (252 = 21 × 12; 105 = 21 × 5); întrucât 252 − 105 = 147, CMMDC al lui 147 și 105 este tot 21.",
+    "reason": "Sursă recunoscută cu scor 72/100 din lista de surse de încredere."
+  }
+]

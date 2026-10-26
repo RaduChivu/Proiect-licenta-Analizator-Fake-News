@@ -1,0 +1,1 @@
+Se selectează 'web_search' ca opțiune de rezervă dacă nu poate fi identificată nicio acțiune.

@@ -1,0 +1,12 @@
+[
+  {
+    "url": "https://ro.wikipedia.org/wiki/Sistemul_solar",
+    "question": "Este Neptun o planetă din Sistemul Solar?",
+    "domain": "ro.wikipedia.org",
+    "tier": "trusted",
+    "trust_score": 72.0,
+    "title": "Sistemul solar",
+    "snippet": "Sistemul solar (scris și Sistemul Solar) este format din Soare împreună cu sistemul său planetar (care cuprinde opt planete împreună cu sateliții lor naturali) și alte obiecte non-stelare.\nÎn afară de cele opt planete, oamenii de știință au emis ipoteza existenței unei alte planete, denumită provizoriu A noua planetă. Această ipotetică planetă gigantă s-ar afla la marginea Sistemului Solar. Existența planetei ar explica configurarea orbitală neobișnuită a unui grup de obiecte transneptuniene (OTN). La 20 ianuarie 2016, cercetătorii Konstantin Batygin și Michael E. Brown de la Institutul de Tehnologie din California au anunțat că există dovezi suplimentare indirecte privind existența unei a noua planete dincolo de orbita planetei Neptun.",
+    "reason": "Sursă recunoscută cu scor 72/100 din lista de surse de încredere."
+  }
+]

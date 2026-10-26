@@ -1,0 +1,17 @@
+Shorthand,Platform,Name, Context window,Cost per 1M input tokens,Cost per 1M output tokens
+gpt_4o_mini,OPENAI,gpt-4o-mini-2024-07-18, 128_000,0.15,0.6
+gpt_4o,OPENAI,gpt-4o-2024-08-06, 128_000,2.5,10.0
+gpt_4_turbo,OPENAI,gpt-4-0125-preview, 128_000,10.0,30.0
+gpt_4,OPENAI,gpt-4, 8_192,30.0,60.0
+gpt_4_32k,OPENAI,gpt-4-32k, 32_768,60.0,120.0
+gpt_35_turbo,OPENAI,gpt-3.5-turbo-0125, 16_385,0.5,1.5
+gpt_35_turbo_16k,OPENAI,gpt-3.5-turbo-16k-0613, 16_385,3.0,4.0
+llama3_8b,HUGGINGFACE,meta-llama/Meta-Llama-3-8B-Instruct, 8_000,0,0
+gemma3_4b,HUGGINGFACE,google/gemma-3-4b-it, 32_000,0,0
+gemma3_12b,HUGGINGFACE,google/gemma-3-12b-it, 16_000,0,0
+llama3_70b,HUGGINGFACE,meta-llama/Meta-Llama-3-70B-Instruct, 8_000,0,0
+llama31_70b,HUGGINGFACE,meta-llama/Meta-Llama-3.1-70B-Instruct, 8_000,0,0
+mixtral_v0.1,HUGGINGFACE,mistralai/Mixtral-8x7B-Instruct-v0.1, 32_000,0,0
+ladybird,HUGGINGFACE,bobofrut/ladybird-base-7B-v8,8_000,0,0
+llava_16,HUGGINGFACE,liuhaotian/llava-v1.6-34b,4096,0,0
+llava_15,HUGGINGFACE, llava-hf/llava-1.5-7b-hf, 4096,0,0

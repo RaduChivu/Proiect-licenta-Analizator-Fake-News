@@ -1,0 +1,558 @@
+Se selectează 'web_search' ca opțiune de rezervă dacă nu poate fi identificată nicio acțiune.
+Conținut de verificat:
+'Content: "Ilie Bolojan a majiorat salariile profesorilor"'
+Se verifică afirmațiile...
+Answering question: A declarat vreodată Ilie Bolojan public faptul că a majorat salariile profesorilor?
+Se caută în google cu interogarea: Ilie Bolojan salarii profesori declarații publice
+S-au obținut 5 rezultat(e) noi:
+	1. https://www.digi24.ro/stiri/actualitate/politica/cand-spune-ilie-bolojan-ca-vor-creste-salariile-profesorilor-nivelul-actual-nu-e-cel-dorit-dar-este-ce-poate-romania-acum-3405081
+	2. https://www.facebook.com/educatiepentrueducatie/posts/ilie-bolojan-mesaj-pentru-profesori-%C3%AEn-ultimii-ani-am-sc%C4%83zut-normele-didactice-a/1195205605976737/
+	3. https://www.antena3.ro/actualitate/educatie/salariile-profesorilor-nu-vor-fi-taiate-da-asigurari-bolojan-pe-partea-de-educatie-masurile-au-fost-deja-adoptate-767281.html
+	4. https://www.romania-actualitati.ro/stiri/romania/salariile-profesorilor-nu-vor-scadea-spune-premierul-ilie-bolojan-id219484.html
+	5. https://tvrinfo.ro/ilie-bolojan-in-exclusivitate-la-tvr-salariile-profesorilor-ar-putea-creste-dupa-2026/
+Se caută în google cu interogarea: „Ilie Bolojan” majorari salarii educatie
+S-au obținut 4 rezultat(e) noi:
+	1. https://spotmedia.ro/stiri/educatie/bolojan-catre-profesori-am-redus-norme-am-marit-salarii-dar-nu-am-vazut-o-imbunatatire-in-educatie
+	2. https://stirileprotv.ro/stiri/politic/in-plina-criza-a-invatamantului-ilie-bolojan-anunta-cresterea-salariilor-pentru-profesori-dar-nu-acum.html
+	3. https://www.facebook.com/SalariiInvatamant/posts/mesajul-lui-bolojan-pentru-profesori-va-fi-mai-mult%C4%83-munc%C4%83-pentru-aceia%C8%99i-bani/1174273741403258/
+	4. https://www.edupedu.ro/premierul-ilie-bolojan-nivelul-de-salarizare-din-educatie-nu-este-cel-pe-care-mi-l-doresc-dar-asta-poate-romania-acum-de-la-finalul-lui-2026-putem-analiza-serios-nivelul-de-majorare-a-acestor-sal/
+Se caută în google cu interogarea: site:agerpres.ro “ilie bolohan” salarii profesori
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: site:agerpres.ro “ilie bolohan” salarii profesori
+[wiki_ro] 0 rezultate pentru „site:agerpres.ro “ilie bolohan” salarii profesori” — reîncerc cu entitățile principale: „site:agerpres.ro “ilie bolohan” salarii”
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: site:viitorulsf.ro “ilie bolohan” salarii profesori
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: site:viitorulsf.ro “ilie bolohan” salarii profesori
+[wiki_ro] 0 rezultate pentru „site:viitorulsf.ro “ilie bolohan” salarii profesori” — reîncerc cu entitățile principale: „site:viitorulsf.ro “ilie bolohan” salarii”
+S-au obținut 0 rezultat(e) noi:
+Got answer: Da, Ilie Bolujan a declarat în repetate rânduri intenția de a mări salariile profesorilor, chiar dacă nu a oferit încă cifre precise privind procentajul exact al creșterii. Conform Digi24, el menționează că economiile din pachetul 2 de măsuri ar putea acoperi aproximativ 10% din bugetul educațional și va prezenta detalii suplimentare ulterior ("Vom da cifre exacte la...").
+Answering question: În ce calitate a acționat Ilie Bolojan atunci când s-a raportat la salarii?
+Se caută în google cu interogarea: „Ilie Bolojan ministru educație salarii“
+S-au obținut 5 rezultat(e) noi:
+	1. https://www.antena3.ro/actualitate/educatie/urmeaza-un-val-de-concedieri-si-taieri-salariale-in-invatamant-avertizeaza-sindicalistii-ilie-bolojan-a-cerut-noi-reduceri-de-cheltui-774248.html
+	2. https://spotmedia.ro/stiri/educatie/bolojan-catre-profesori-am-redus-norme-am-marit-salarii-dar-nu-am-vazut-o-imbunatatire-in-educatie
+	3. https://www.facebook.com/educatiepentrueducatie/posts/ilie-bolojan-mesaj-pentru-profesori-%C3%AEn-ultimii-ani-am-sc%C4%83zut-normele-didactice-a/1195205605976737/
+	4. https://www.edupedu.ro/premierul-ilie-bolojan-noua-lege-a-salarizarii-trebuie-sa-pastreze-cheltuielile-de-personal-la-maximum-81-din-pib-proiectul-ar-putea-ajunge-saptamana-viitoare-la-guvern-dupa-negocierile-cu-comisia/
+	5. https://www.youtube.com/watch?v=aixAr9yUujs
+Se caută în google cu interogarea: „salariile profesorilor perioada bolohan“
+S-au obținut 5 rezultat(e) noi:
+	1. https://tvrinfo.ro/ilie-bolojan-in-exclusivitate-la-tvr-salariile-profesorilor-ar-putea-creste-dupa-2026/
+	2. https://www.romania-actualitati.ro/stiri/romania/salariile-profesorilor-nu-vor-scadea-spune-premierul-ilie-bolojan-id219484.html
+	3. https://www.digi24.ro/stiri/actualitate/politica/cand-spune-ilie-bolojan-ca-vor-creste-salariile-profesorilor-nivelul-actual-nu-e-cel-dorit-dar-este-ce-poate-romania-acum-3405081
+	4. https://www.facebook.com/portalul.realitatea.net/posts/bolojan-taie-din-salariile-profesorilor-se-preg%C4%83te%C8%99te-greva-anton-had%C4%83r-nu-sunt-/1356139209889377/
+	5. https://stirileprotv.ro/stiri/politic/in-plina-criza-a-invatamantului-ilie-bolojan-anunta-cresterea-salariilor-pentru-profesori-dar-nu-acum.html
+Se caută în google cu interogarea: site:anticorupția.ro “ilie bolojan” salarii
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: site:anticorupția.ro “ilie bolojan” salarii
+S-au obținut 2 rezultat(e) noi:
+	1. https://ro.wikipedia.org/wiki/Rom%C3%A2nia_dup%C4%83_1989
+	2. https://ro.wikipedia.org/wiki/C%C4%83lin_Georgescu
+Got answer: Conform sursei citate, Ilie Bolojan a cerut noi reduceri de cheltuieli pentru sistemul de învățământ, ceea ce implică o posibilă reducere a salariilor profesorilor. “Peste 5.000 de angajați din învățământul universitar sunt vizați de concedieri și de reduceri salariale” (“Urmează un val de concedieri și taieri salariale în invățământ”, 21 Ianuarie 2026).
+Answering question: La ce partid politic aparține Ilie Bolojan?
+Se caută în google cu interogarea: partide politice ilie bolojan
+S-au obținut 5 rezultat(e) noi:
+	1. https://ro.wikipedia.org/wiki/Ilie_Bolojan
+	2. https://www.senat.ro/FisaSenator.aspx?ParlamentarID=813D6A81-CEA1-4AC6-9717-143A859D4BDE&Panou=1
+	3. https://ro.wikipedia.org/wiki/Guvernul_Ilie_Bolojan
+	4. https://www.youtube.com/watch?v=gLJqo87cFYk
+	5. https://www.europafm.ro/cine-este-ilie-bolojan-noul-presedinte-romania/
+Se caută în google cu interogarea: biografia ilie bolojan
+S-au obținut 4 rezultat(e) noi:
+	1. https://www.veridica.ro/stiri/ilie-bolojan-biografie
+	2. https://www.stiripesurse.ro/adevarata-biografie-a-lui-ilie-bolojan---controverse-si-realizari_3614027.html
+	3. https://www.libertatea.ro/stiri/cine-este-ilie-bolojan-cv-religie-declaratie-de-avere-5097230
+	4. https://www.facebook.com/groups/145732050897936/posts/872882191516248/
+Se caută în google cu interogarea: ilies bolojan functia actuala
+[serper] Interogare sensibilă temporal — aplic tbs=qdr:y: ilies bolojan functia actuala
+S-au obținut 5 rezultat(e) noi:
+	1. https://www.digi24.ro/video/ilie-bolojan-a-depasit-recordul-de-interimat-in-fruntea-guvernului-pe-ce-premier-l-a-devansat-liderul-pnl-3865203
+	2. https://tvrinfo.ro/pnl-nu-se-rupe-ci-se-inmulteste-platforma-noua-in-interiorul-partidului-infiintata-de-grupul-opozantilor-lui-bolojan/
+	3. https://www.digi24.ro/video/grupul-anti-bolojan-din-pnl-la-prima-reuniune-a-bpn-dupa-scandalul-din-partid-gorghiu-platforma-conservatoare-nu-e-impotriva-cuiva-3871173
+	4. https://stirileprotv.ro/stiri/politic/grindeanu-convoaca-parlamentul-in-sesiune-extraordinara-aur-si-pnl-pregatesc-revocarea-sa-din-fruntea-camerei.html
+	5. https://www.facebook.com/negrutiu.florin/posts/mo%C8%9Biunea-aur-psd-a-trecut-guvernul-bolojan-a-c%C4%83zut%C3%AEnlocuim-un-guvern-condus-de-u/1531569875000353/
+Se caută în google cu interogarea: site:agerpres.ro ilie bolojan
+S-au obținut 5 rezultat(e) noi:
+	1. https://agerpres.ro/english/2026/06/21/pnl-congress-ilie-bolojan-re-elected-as-pnl-president--1568597
+	2. https://agerpres.ro/english/2026/07/20/ilie-bolojan-congratulates-new-prime-minister-of-united-kingdom--1577724
+	3. https://agerpres.ro/english/2026/06/19/vestea-pnl-statute-amendment-aims-to-concentrate-power-for-bolojan-have-me-expelled--1568288
+	4. https://agerpres.ro/2026/07/06/grindeanu-nicusor-dan-spre-deosebire-de-ilie-bolojan-a-inteles-sa-fie-echilibrat-in-aceasta-perioada--1573605
+	5. https://agerpres.ro/english/2026/07/06/bolojan-did-not-understand-his-role-as-coalition-prime-minister-he-is-kept-in-office-by-aur-grindean--1573674
+Got answer: Informațiile din sursă nu indică afilierea politică actuală a lui Ilie Bolojan, ci faptul că acesta a fost preşedintele interimar al României pe 12 februarie 2025. „Pe 12 februarie 2025, în urma demisiei lui Klaus Iohannis, Bolojan a devenit președinte interimar al României până la inaugurarea lui Nicușor Dan la 26 mai 2025...”.  Prin urmare, nu se poate determina la ce partid politic aparținea atunci.
+Answering question: Există dovezi scrise care indică faptul că Ilie Bolojan a propus sau aprobat legi privind salariile profesorilor?
+Se caută în google cu interogarea: Ilie Bolojan salarii profesori legislatie
+S-au obținut 5 rezultat(e) noi:
+	1. https://spotmedia.ro/stiri/educatie/bolojan-catre-profesori-am-redus-norme-am-marit-salarii-dar-nu-am-vazut-o-imbunatatire-in-educatie
+	2. https://www.facebook.com/educatiepentrueducatie/posts/ilie-bolojan-mesaj-pentru-profesori-%C3%AEn-ultimii-ani-am-sc%C4%83zut-normele-didactice-a/1195205605976737/
+	3. https://www.digi24.ro/stiri/actualitate/educatie/mesajul-lui-ilie-bolojan-pentru-profesori-statul-roman-nu-mai-poate-continua-abordarile-pe-care-le-a-avut-3371053
+	4. https://www.antena3.ro/actualitate/educatie/salariile-profesorilor-nu-vor-fi-taiate-da-asigurari-bolojan-pe-partea-de-educatie-masurile-au-fost-deja-adoptate-767281.html
+	5. https://www.edupedu.ro/premierul-ilie-bolojan-noua-lege-a-salarizarii-trebuie-sa-pastreze-cheltuielile-de-personal-la-maximum-81-din-pib-proiectul-ar-putea-ajunge-saptamana-viitoare-la-guvern-dupa-negocierile-cu-comisia/
+Se caută în google cu interogarea: „Ilie Bolojan” majorari profesori documente oficiale
+S-au obținut 5 rezultat(e) noi:
+	1. https://www.facebook.com/SalariiInvatamant/?locale=ro_RO
+	2. https://nou.siphd.ro/f/2026/00000041842.pdf
+	3. https://www.mediafax.ro/economic/salariile-bugetarilor-raman-la-nivelul-din-2013-majorari-de-pana-la-10-doar-la-profesori-debutanti-11659766
+	4. https://oradea.ro/wp-content/uploads/2024/01/Mayor-Report-2016-Oradea.pdf
+	5. https://adevarul.ro/stiri-locale/pitesti/majorare-controversata-de-lefuri-la-primaria-2105151.html
+Se caută în google cu interogarea: site:agerpres.ro “Ilie Bolojan” salarii profesori
+S-au obținut 5 rezultat(e) noi:
+	1. https://agerpres.ro/educatie-stiinta/2025/08/13/bolojan---mesaj-pentru-profesori-statul-nu-mai-poate-continua-abordarile-pe-care-le-a-avut--1475766
+	2. https://agerpres.ro/educatie-stiinta/2025/11/20/daniel-david-masurile-de-reducere-cu-10-a-cheltuielilor-cu-salariile-nu-se-vor-aplica-in-zona-invata--1504811
+	3. https://agerpres.ro/politic/2026/02/16/grindeanu-daca-cei-de-la-usr-vor-sa-taie-salariile-la-medici-la-profesori-la-militieni-noi-nu-suntem--1528509
+	4. https://agerpres.ro/politic/2025/09/03/bolojan-nu-se-justifica-o-greva-in-sistemul-de-invatamant-sper-sa-nu-ajungem-acolo--1481092
+	5. https://agerpres.ro/educatie-stiinta/2025/10/07/sindicalisti-din-educatie-picheteaza-sediul-ministerului-de-finante--1491034
+Se caută în google cu interogarea: site:viitorulspecialei.ro “Ilie Bolojan” salarii profesori
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: site:viitorulspecialei.ro “Ilie Bolojan” salarii profesori
+[wiki_ro] 0 rezultate pentru „site:viitorulspecialei.ro “Ilie Bolojan” salarii profesori” — reîncerc cu entitățile principale: „Bolojan””
+S-au obținut 5 rezultat(e) noi:
+	1. https://ro.wikipedia.org/wiki/List%C4%83_de_senatori_rom%C3%A2ni
+	2. https://ro.wikipedia.org/wiki/Ilie_Bolojan
+	3. https://ro.wikipedia.org/wiki/Victor_Bolojan
+	4. https://ro.wikipedia.org/wiki/Bolojan
+	5. https://ro.wikipedia.org/wiki/Guvernul_Ilie_Bolojan
+Got answer: Conform sursei citate, Ilie Bolojan a menționat că a redus normele și a majorat salariile profesorilor, însă a recunoscut că s-a muncit “ceva mai mult la clasă” pentru aceeași sumă (“Premierul a precizat că în educație nu au fost tăieri de salarii, dar ‘e adevărat că se muncește ceva mai mult la clasă’”).
+Answering question: Care a fost valoarea specifică a creșterilor salariale anunțate sau implementate?
+Se caută în google cu interogarea: creșteri salarii profesori Ilie Bolohan 2023
+S-au obținut 5 rezultat(e) noi:
+	1. https://stirileprotv.ro/stiri/politic/in-plina-criza-a-invatamantului-ilie-bolojan-anunta-cresterea-salariilor-pentru-profesori-dar-nu-acum.html
+	2. https://spotmedia.ro/stiri/educatie/bolojan-catre-profesori-am-redus-norme-am-marit-salarii-dar-nu-am-vazut-o-imbunatatire-in-educatie
+	3. https://www.digi24.ro/stiri/actualitate/politica/cand-spune-ilie-bolojan-ca-vor-creste-salariile-profesorilor-nivelul-actual-nu-e-cel-dorit-dar-este-ce-poate-romania-acum-3405081
+	4. https://www.edu.ro/sites/default/files/Exemple_cresteri_salariale_ianuarie_iunie%202024_didactic%20de%20predare_conducere_aux_nedid.pdf
+	5. https://www.antena3.ro/actualitate/social/au-fost-ciupiri-la-salarii-taierile-guvernului-bolojan-scot-profesorii-in-strada-sindicalistii-ameninta-cu-greva-generala-775816.html
+Se caută în google cu interogarea: ILIE BOLOHAN salarii educatori legislatie
+S-au obținut 4 rezultat(e) noi:
+	1. https://stirileprotv.ro/stiri/politic/ilie-bolojan-le-da-o-veste-rea-colegilor-sai-salariile-demnitarilor-nu-vor-beneficia-imediat-de-efectele-noi-legi.html
+	2. https://www.facebook.com/guv.ro/videos/%F0%9D%91%B5%F0%9D%92%90%F0%9D%92%96%F0%9D%92%82-%F0%9D%92%8D%F0%9D%92%86%F0%9D%92%88%F0%9D%92%86-%F0%9D%92%82-%F0%9D%92%94%F0%9D%92%82%F0%9D%92%8D%F0%9D%92%82%F0%9D%92%93%F0%9D%92%8A%F0%9D%92%9B%F0%9D%92%82%CC%86%F0%9D%92%93%F0%9D%92%8A%F0%9D%92%8A-%F0%9D%92%95%F0%9D%92%93%F0%9D%92%86%F0%9D%92%83%F0%9D%92%96%F0%9D%92%8A%F0%9D%92%86-%F0%9D%92%94%F0%9D%92%82%CC%86-%F0%9D%92%95%CC%A6%F0%9D%92%8A%F0%9D%92%8F%F0%9D%92%82%CC%86-%F0%9D%92%84%F0%9D%92%90%F0%9D%92%8F%F0%9D%92%95-%F0%9D%92%85%F0%9D%92%86-%F0%9D%92%93%F0%9D%92%86%F0%9D%92%82%F0%9D%92%8D%F0%9D%92%8A%F0%9D%92%95%F0%9D%92%82%CC%86%F0%9D%92%95%CC%A6%F0%9D%92%8A%F0%9D%92%8D%F0%9D%92%86-%F0%9D%91%B9%F0%9D%92%90%F0%9D%92%8E%F0%9D%92%82%CC%82%F0%9D%92%8F%F0%9D%92%8A%F0%9D%92%86%F0%9D%92%8Apremi/1497865571798939/
+	3. https://www.edupedu.ro/premierul-ilie-bolojan-noua-lege-a-salarizarii-trebuie-sa-pastreze-cheltuielile-de-personal-la-maximum-81-din-pib-proiectul-ar-putea-ajunge-saptamana-viitoare-la-guvern-dupa-negocierile-cu-comisia/
+	4. https://www.facebook.com/informativpress/posts/noua-lege-a-salariz%C4%83rii-salariul-lui-ilie-bolojan-ar-cre%C8%99te-cu-4000-de-lei-net-i/976031928689335/
+Se caută în google cu interogarea: site:romanialegislație.ro ILIE BOLOHAN salarii profesori
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: site:romanialegislație.ro ILIE BOLOHAN salarii profesori
+[wiki_ro] 0 rezultate pentru „site:romanialegislație.ro ILIE BOLOHAN salarii profesori” — reîncerc cu entitățile principale: „ILIE BOLOHAN”
+S-au obținut 5 rezultat(e) noi:
+	1. https://ro.wikipedia.org/wiki/1976
+	2. https://ro.wikipedia.org/wiki/FC_Progresul_Bucure%C8%99ti
+	3. https://ro.wikipedia.org/wiki/CS_Inter_Ilfov
+	4. https://ro.wikipedia.org/wiki/List%C4%83_cu_fotbali%C8%99ti_rom%C3%A2ni_expatria%C8%9Bi
+	5. https://ro.wikipedia.org/wiki/AFC_Unirea_Slobozia
+Se caută în google cu interogarea: „majorare salarii profesori” România 2024
+S-au obținut 5 rezultat(e) noi:
+	1. https://spotmedia.ro/tag/salarii-profesori-majorare
+	2. https://www.profit.ro/stiri/social/exclusiv-lista-noi-salarii-in-invatamant-un-profesor-din-preuniversitar-cu-25-de-ani-vechime-si-grad-didactic-i-va-putea-ajunge-la-10-164-de-lei-iar-un-un-preot-gradul-i-la-6-920-lei-22420611
+	3. https://www.wall-street.ro/articol/Educatie/303353/ciuca-sunt-bani-si-pentru-cresterea-salariilor-profesorilor-in-2024-bugetul-pentru-educatie-va-fi-mai-mare-cu-61.html
+	4. https://economedia.ro/breaking-alba-neagra-cu-salariile-profesorilor-au-disparut-procentele-de-majorare-din-ordonanta-austeritatii.html
+	5. https://www.economica.net/acord-intre-guvern-si-sindicatele-din-invatamant-6prc-din-pib-pentru-educatie-si-devansarea-cresterilor-salariale_161902.html
+Got answer: Conform sursei citate, Ilie Bolojan a anunțat că salariile profesorilor vor crește abia după anul 2026, „atunci când vom trece de această perioadă de criză”. Nu este menționată o valoare specifică a creșterii salariale.
+Answering question: Pentru ce perioadă de timp au fost aplicabile aceste creșteri de salarii?
+Se caută în google cu interogarea: creșterea salariilor profesori Ilie Bolohan perioada
+S-au obținut 5 rezultat(e) noi:
+	1. https://stirileprotv.ro/stiri/politic/in-plina-criza-a-invatamantului-ilie-bolojan-anunta-cresterea-salariilor-pentru-profesori-dar-nu-acum.html
+	2. https://tvrinfo.ro/ilie-bolojan-in-exclusivitate-la-tvr-salariile-profesorilor-ar-putea-creste-dupa-2026/
+	3. https://www.romania-actualitati.ro/stiri/romania/salariile-profesorilor-nu-vor-scadea-spune-premierul-ilie-bolojan-id219484.html
+	4. https://m.ziare.com/amp/proteste-profesori/bolojan-anunta-crestere-salarii-profesori-1963220
+	5. https://www.antena3.ro/amp/salariile-profesorilor-nu-vor-fi-taiate-da-asigurari-bolojan-pe-partea-de-educatie-masurile-au-fost-deja-adoptate-767281.html
+Se caută în google cu interogarea: declaratii publice Ilie Bolojan salarii profesori
+S-au obținut 4 rezultat(e) noi:
+	1. https://www.facebook.com/educatiepentrueducatie/posts/ilie-bolojan-mesaj-pentru-profesori-%C3%AEn-ultimii-ani-am-sc%C4%83zut-normele-didactice-a/1195205605976737/
+	2. https://spotmedia.ro/stiri/educatie/bolojan-catre-profesori-am-redus-norme-am-marit-salarii-dar-nu-am-vazut-o-imbunatatire-in-educatie
+	3. https://www.digi24.ro/stiri/actualitate/educatie/mesajul-lui-ilie-bolojan-pentru-profesori-statul-roman-nu-mai-poate-continua-abordarile-pe-care-le-a-avut-3371053
+	4. https://www.edupedu.ro/video-mesajul-premierului-ilie-bolojan-pentru-profesori-am-scazut-normele-didactice-am-scazut-numarul-de-copii-in-clasa-am-crescut-salariile-n-am-vazut-din-pacate-o-imbunatatire-globala-a-sistem/
+Se caută în google cu interogarea: site:romanialibera.ro Ilie Bolojan salarii profesori
+S-au obținut 5 rezultat(e) noi:
+	1. https://romanialibera.ro/la-zi/ilie-bolojan-anunta-ca-va-numi-un-nou-ministru-al-educatiei-zilele-urmatoare/
+	2. https://romanialibera.ro/la-zi/guvernul-introduce-prima-de-cariera-didactica-pentru-profesori-si-universitari-1-500-de-lei-pe-suport-electronic/
+	3. https://romanialibera.ro/tag/ministrul-educatiei-2/
+	4. https://romanialibera.ro/la-zi/protest-in-fata-parlamentului-profesorii-avertizeaza-ca-noul-an-scolar-ar-putea-incepe-cu-greva/
+	5. https://romanialibera.ro/la-zi/angajatii-din-finante-lanseaza-proteste-nationale-si-cer-schimbari-in-noua-lege-a-salarizarii/
+Se caută în google cu interogarea: site:ziaredevreme.ro Ilie Bolojan salarii profesori
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: site:ziaredevreme.ro Ilie Bolojan salarii profesori
+[wiki_ro] 0 rezultate pentru „site:ziaredevreme.ro Ilie Bolojan salarii profesori” — reîncerc cu entitățile principale: „Ilie Bolojan”
+S-au obținut 5 rezultat(e) noi:
+	1. https://ro.wikipedia.org/wiki/Ilie_Bolojan
+	2. https://ro.wikipedia.org/wiki/Bolojan
+	3. https://ro.wikipedia.org/wiki/Guvernul_Ilie_Bolojan
+	4. https://ro.wikipedia.org/wiki/Oana_Gheorghiu
+	5. https://ro.wikipedia.org/wiki/Criza_politic%C4%83_din_Rom%C3%A2nia_din_2026
+Got answer: Creșterile de salarii pentru profesori anunțate de Ilie Bolojan ar fi devenite efective începând cu anul 2026, odată ce România va ieși din criza actuală a sistemului de învățământ, conform declarației sale „atunci când vom trece de această perioadă de criză” citată în sursa furnizată.
+Answering question: Sunt disponibile rapoarte guvernamentale care detaliază modul în care au fost finanțate aceste creșteri de salarii?
+Se caută în google cu interogarea: raport financiar creștere salarii profesori Ilie Bolohan 2018-2026
+[serper] Interogare sensibilă temporal — aplic tbs=qdr:y: raport financiar creștere salarii profesori Ilie Bolohan 2018-2026
+S-au obținut 3 rezultat(e) noi:
+	1. https://www.instagram.com/p/DXG82cOjK5p/
+	2. https://www.instagram.com/reel/DPs1MaSjLpg/
+	3. https://www.instagram.com/p/DZnpMuajP4r/
+Se caută în google cu interogarea: minister educație buget 2018-2026
+[serper] Interogare sensibilă temporal — aplic tbs=qdr:y: minister educație buget 2018-2026
+S-au obținut 5 rezultat(e) noi:
+	1. https://gov.md/sites/default/files/media/documents/sedinte-de-guvern/2026-05/484-MMPS-2026.pdf
+	2. https://www.instagram.com/p/DbAdg8qCTNE/
+	3. https://www.ulbsibiu.ro/news/anunt-privind-acordarea-bursei-sociale-prin-proiectul-interventii-pentru-invatamantul-tertiar-masuri-sistemice-pentru-prevenirea-si-reducerea-abandonului-universitar/
+	4. https://upb.ro/wp-content/uploads/2026/01/01_Regulament_admitere_licenta_2026_CN_Rev-1.0.pdf
+	5. https://www.bancherul.ro/?p=51257
+Se caută în google cu interogarea: site:agerpres.ro creștere salarii profesori
+S-au obținut 5 rezultat(e) noi:
+	1. https://agerpres.ro/politic-extern/2025/09/17/ucraina-zelenski-anunta-salarii-mai-mari-pentru-profesori-si-burse-pentru-studenti-in-2026--1484960
+	2. https://agerpres.ro/educatie-stiinta/2026/06/13/program-de-guvernare-15-din-bugetul-de-stat-pentru-educatie-pana-in-2030--1566027
+	3. https://agerpres.ro/economic/2025/07/03/video-indemnizatia-de-hrana-se-va-acorda-pentru-salarii-brute-de-pana-la-6000-lei-ministrul-muncii--1465416
+	4. https://agerpres.ro/comunicate/2026/02/25/comunicat-de-presa---federatia-alma-mater-fsli-si-federatia-spiru-haret--1531640
+	5. https://agerpres.ro/comunicate/2025/11/19/comunicat-de-presa---federatia-nationala-a-parintilor-proedu--1504372
+Se caută în google cu interogarea: site:viitorulspecialei.ro majorari salarii profesori
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: site:viitorulspecialei.ro majorari salarii profesori
+S-au obținut 0 rezultat(e) noi:
+Got answer: Nu am suficiente informații din sursa furnizată pentru a răspunde direct la întrebare dacă există rapoarte guvernamentale specifice care detaliează finanțarea acestor creșteri de salarii. Sursele menționează doar o „creștere a cheltuielilor” planificată, dar nu oferă detalii despre cum vor fi finanțate acestea.
+Answering question: Au existat proteste sau critici din partea sindicatelor profesorelor legate de aceste modificări salariale?
+Se caută în google cu interogarea: proteste ileia bolohan salarii profesori
+S-au obținut 5 rezultat(e) noi:
+	1. https://www.antena3.ro/actualitate/social/au-fost-ciupiri-la-salarii-taierile-guvernului-bolojan-scot-profesorii-in-strada-sindicalistii-ameninta-cu-greva-generala-775816.html
+	2. https://www.libertatea.ro/educatie/protest-profesori-parlament-cat-castiga-un-profesor-in-prag-de-pensie-5793313
+	3. https://spotmedia.ro/stiri/educatie/bolojan-catre-profesori-am-redus-norme-am-marit-salarii-dar-nu-am-vazut-o-imbunatatire-in-educatie
+	4. https://ziare.com/ilie-bolojan-premier/mesaj-profesori-proteste-masuri-fiscal-bugetare-educatie-1958746
+	5. https://www.youtube.com/watch?v=D_wrVnYNxm4
+Se caută în google cu interogarea: Sindicalele profesoare critic salarii
+S-au obținut 5 rezultat(e) noi:
+	1. https://stirileprotv.ro/educatie/ce-salarii-propun-sindicatele-pentru-profesori-zsuntem-angajati-in-invatamant-nu-acceptam-sa-fim-tratati-in-acest-mod.html
+	2. https://www.europafm.ro/profesori-critici-noua-lege-salarizare/
+	3. https://www.edupedu.ro/vineri-au-loc-noi-discutii-pe-legea-salarizarii-cu-sindicatele-din-educatie-ministrul-muncii-dragos-pislaru-spune-ca-se-vor-concentra-pe-indemnizatia-de-dirigentie-grilele-pentru-salariul-profesorul/
+	4. https://www.euronews.ro/articole/sindicatele-din-educatie-concluzii-dupa-discutiile-despre-salarizare-lider-sindical-pierderi-de-600-700-de-lei-daca-va-fi-cazul-vom-organiza-si-proteste
+	5. https://republica.ro/revendicarile-sindicatelor-din-invatamant-sunt-o-jignire-adusa-profesorilor-care-isi-fac-treaba-cu-responsabilitate
+Se caută în google cu interogarea: site:fspp.org/ sau site:snepr.ro ileia bolohan salarii
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: site:fspp.org/ sau site:snepr.ro ileia bolohan salarii
+[wiki_ro] 0 rezultate pentru „site:fspp.org/ sau site:snepr.ro ileia bolohan salarii” — reîncerc cu entitățile principale: „site:fspp.org/ site:snepr.ro ileia bolohan”
+S-au obținut 0 rezultat(e) noi:
+Got answer: Da, au existat proteste și critici din partea sindicatelor profesorelor. Conform sursei citate, „Au fost ciupiri la salarii” iar sindicaliștii amenințau chiar cu o grevă generală ca urmare a acestor modificări salariale („Au fost ciupiri la salarii”. Tăierile Guvernului Bolojan scot profesorii în stradă.”).
+Answering question: Pot fi citată surse media credibile care relatează despre aceste majorări salariale?
+Se caută în google cu interogarea: majorari salarii profesori Ilie Bolojan articole stiri
+S-au obținut 5 rezultat(e) noi:
+	1. https://www.digi24.ro/amphtml/stiri/actualitate/politica/cand-spune-ilie-bolojan-ca-vor-creste-salariile-profesorilor-nivelul-actual-nu-e-cel-dorit-dar-este-ce-poate-romania-acum-3405081
+	2. https://stirileprotv.ro/stiri/politic/in-plina-criza-a-invatamantului-ilie-bolojan-anunta-cresterea-salariilor-pentru-profesori-dar-nu-acum.html
+	3. https://spotmedia.ro/stiri/educatie/bolojan-catre-profesori-am-redus-norme-am-marit-salarii-dar-nu-am-vazut-o-imbunatatire-in-educatie
+	4. https://www.facebook.com/educatiepentrueducatie/posts/ilie-bolojan-mesaj-pentru-profesori-%C3%AEn-ultimii-ani-am-sc%C4%83zut-normele-didactice-a/1195205605976737/
+	5. https://www.romania-actualitati.ro/stiri/romania/salariile-profesorilor-nu-vor-scadea-spune-premierul-ilie-bolojan-id219484.html
+Se caută în google cu interogarea: Ilie Bolojan guvern salarii educatie 2023
+S-au obținut 3 rezultat(e) noi:
+	1. https://www.antena3.ro/actualitate/social/au-fost-ciupiri-la-salarii-taierile-guvernului-bolojan-scot-profesorii-in-strada-sindicalistii-ameninta-cu-greva-generala-775816.html
+	2. https://www.digi24.ro/stiri/actualitate/politica/cand-spune-ilie-bolojan-ca-vor-creste-salariile-profesorilor-nivelul-actual-nu-e-cel-dorit-dar-este-ce-poate-romania-acum-3405081
+	3. https://www.edupedu.ro/premierul-ilie-bolojan-noua-lege-a-salarizarii-trebuie-sa-pastreze-cheltuielile-de-personal-la-maximum-81-din-pib-proiectul-ar-putea-ajunge-saptamana-viitoare-la-guvern-dupa-negocierile-cu-comisia/
+Se caută în google cu interogarea: site:agerpres.ro majorari salarii profesori
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: site:agerpres.ro majorari salarii profesori
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: site:romaniajournal.ro ilie bolojan salarii
+S-au obținut 1 rezultat(e) noi:
+	1. https://www.romaniajournal.ro/politics/romania-unveils-public-wage-reform-set-for-2027-launch/
+Got answer: Da, pot fi citate surse media credibile precum Digi24, care raportează faptul că Ilie Bolojan a menționat o creștere de aproximativ 10% a bugetului alocat pentru învățământ, ceea ce ar putea duce la îmbunătățirea salariilor profesorilor, dar nu au fost oferite cifre precise privind mărimea exactă a majorărilor ("„Nivelul actual...: Ilie Bolojan a mai explicat că economiile realizate prin pachetul 2 de măsuri reprezintă cam 10% din bugetul educației.”").
+Answering question: Există studii academice sau evaluări economice care examinează impactul financiar al acestor măsuri asupra sistemului educațional român?
+Se caută în google cu interogarea: impact salarii profesori Ilie Bolohan analiza economica 2023
+S-au obținut 5 rezultat(e) noi:
+	1. https://spotmedia.ro/stiri/educatie/bolojan-catre-profesori-am-redus-norme-am-marit-salarii-dar-nu-am-vazut-o-imbunatatire-in-educatie
+	2. https://www.facebook.com/educatiepentrueducatie/posts/ilie-bolojan-mesaj-pentru-profesori-%C3%AEn-ultimii-ani-am-sc%C4%83zut-normele-didactice-a/1195205605976737/
+	3. https://www.romania-actualitati.ro/stiri/romania/salariile-profesorilor-nu-vor-scadea-spune-premierul-ilie-bolojan-id219484.html
+	4. https://www.antena3.ro/actualitate/educatie/salariile-profesorilor-nu-vor-fi-taiate-da-asigurari-bolojan-pe-partea-de-educatie-masurile-au-fost-deja-adoptate-767281.html
+	5. https://www.mediafax.ro/politic/bolojan-despre-salariile-profesorilor-asta-este-ceea-ce-poate-romania-in-momentul-de-fata-el-a-spus-ca-nu-cedeaza-in-fata-sindicatelor-23607603
+Se caută în google cu interogarea: studii efect salarizare educatie Romania Ilie Bolojan
+S-au obținut 4 rezultat(e) noi:
+	1. https://tvrinfo.ro/ilie-bolojan-in-exclusivitate-la-tvr-salariile-profesorilor-ar-putea-creste-dupa-2026/
+	2. https://www.digi24.ro/stiri/actualitate/politica/cand-spune-ilie-bolojan-ca-vor-creste-salariile-profesorilor-nivelul-actual-nu-e-cel-dorit-dar-este-ce-poate-romania-acum-3405081
+	3. https://www.antena3.ro/actualitate/educatie/urmeaza-un-val-de-concedieri-si-taieri-salariale-in-invatamant-avertizeaza-sindicalistii-ilie-bolojan-a-cerut-noi-reduceri-de-cheltui-774248.html
+	4. https://www.edupedu.ro/premierul-ilie-bolojan-nivelul-de-salarizare-din-educatie-nu-este-cel-pe-care-mi-l-doresc-dar-asta-poate-romania-acum-de-la-finalul-lui-2026-putem-analiza-serios-nivelul-de-majorare-a-acestor-sal/
+Se caută în google cu interogarea: site:romanialibera.ro ilie bolojan salarii profesori
+S-au obținut 3 rezultat(e) noi:
+	1. https://romanialibera.ro/tag/ministrul-educatiei-2/
+	2. https://romanialibera.ro/la-zi/sindicatele-anunta-proteste-in-capitala-si-in-tara-suntem-nemultumiti-de-austeritate/
+	3. https://romanialibera.ro/investigatii-romania-libera/cine-vrea-sa-fure-sediul-inst-casa-conspirativa-in-care-au-stat-tudor-arghezi-si-valentin-ceausescu-767074/
+Se caută în google cu interogarea: site:agerpres.ro ilie bolojan salarii profesori
+S-au obținut 5 rezultat(e) noi:
+	1. https://agerpres.ro/educatie-stiinta/2025/08/13/bolojan---mesaj-pentru-profesori-statul-nu-mai-poate-continua-abordarile-pe-care-le-a-avut--1475766
+	2. https://agerpres.ro/educatie-stiinta/2025/11/20/daniel-david-masurile-de-reducere-cu-10-a-cheltuielilor-cu-salariile-nu-se-vor-aplica-in-zona-invata--1504811
+	3. https://agerpres.ro/politic/2026/02/16/grindeanu-daca-cei-de-la-usr-vor-sa-taie-salariile-la-medici-la-profesori-la-militieni-noi-nu-suntem--1528509
+	4. https://agerpres.ro/politic/2025/09/03/bolojan-nu-se-justifica-o-greva-in-sistemul-de-invatamant-sper-sa-nu-ajungem-acolo--1481092
+	5. https://agerpres.ro/educatie-stiinta/2025/10/07/sindicalisti-din-educatie-picheteaza-sediul-ministerului-de-finante--1491034
+Got answer: Nu există informații suficiente în sursa furnizată pentru a răspunde la această întrebare specifică despre studiile academice și evaluările economice privind impactul financiar asupra sistemului educațional român. Sursa menționează doar că Ilie Bolohan a redus normele și a măririt salariile, dar nu oferă o analiză detaliată a efectelor acestei politici asupra sistemului educațional.
+Afirmația 'Ilie Bolojan a majiorat salariile profesorilor' este refuted.
+Justificare: În urma verificării faptelor, rezultă că Ilie Bolojan a exprimat intenția de a mări salariile profesorilor, invocând resurse posibile din cadrul unor programe guvernamentale și reducerea normelor didactice ([Digi24](https://www.digi24.ro/amphtml/stiri/actualitate/politica/cand-spune-ilie-bolojan-ca-vor-creste-salariile-profesorilor-nivelul-actual-nu-e-cel-dorit-dar-este-ce-poate-romania-acum-3405081), [SpotMedia](https://spotmedia.ro/stiri/educatie/bolojan-catre-profesori-am-redus-norme-am-marit-salarii-dar-nu-am-vazut-o-imbunatatire-in-educatie)). Totuși, orice creștere ar fi programată să intre în vigoare abia în 2026, contingentă pe depășirea situației economice dificile actuale, fiind lipsită de detalii precise privind suma concretă și modalitatea de finanțare ([StirileProTv](https://stirilesprotv.ro/stiri/politic/in-plina-criza-a-invatamantului-ilie-bolojan-anunta-cresterea-salariilor-pentru-profesori-dar-nu-acum)). În plus, au apărut proteste din partea sindicatelor și nu există dovezi solide privind existența unor analize independente privind impactul financiar al acestor măsurători asupra sectorului educațional. Prin urmare, nu se poate confirma că Bolojan a efectuat o majorare reală a salariilor profesorilor.
+Scor credibilitate surse: Surse de credibilitate medie-ridicată (74.0/100) [low]
+Veredictu general al conținutului este: refuted
+Verificarea factuală a durat 4:09 min.
+Conținut de verificat:
+'Content: "Ilie Bolojan a majorat salariile profesorilor"'
+Se verifică afirmațiile...
+Answering question: A fost adoptată vreo lege sau hotărâre guvernamentală care să afecteze salariile profesorilor?
+Se caută în google cu interogarea: „Ille Bolojan salarii profesori legi”
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: „Ille Bolojan salarii profesori legi”
+[wiki_ro] 0 rezultate pentru „„Ille Bolojan salarii profesori legi”” — reîncerc cu entitățile principale: „Bolojan”
+S-au obținut 5 rezultat(e) noi:
+	1. https://ro.wikipedia.org/wiki/List%C4%83_de_senatori_rom%C3%A2ni
+	2. https://ro.wikipedia.org/wiki/Ilie_Bolojan
+	3. https://ro.wikipedia.org/wiki/Victor_Bolojan
+	4. https://ro.wikipedia.org/wiki/Bolojan
+	5. https://ro.wikipedia.org/wiki/Guvernul_Ilie_Bolojan
+Se caută în google cu interogarea: „Guvern România salarizare profesori 2025”
+[serper] Interogare sensibilă temporal — aplic tbs=qdr:y: „Guvern România salarizare profesori 2025”
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: „Guvern România salarizare profesori 2025”
+S-au obținut 5 rezultat(e) noi:
+	1. https://ro.wikipedia.org/wiki/18_septembrie
+	2. https://ro.wikipedia.org/wiki/Norvegia
+	3. https://ro.wikipedia.org/wiki/Infla%C8%9Bie
+	4. https://ro.wikipedia.org/wiki/Livadia,_Hunedoara
+	5. https://ro.wikipedia.org/wiki/Corpul_Exper%C8%9Bilor_Contabili_%C8%99i_Contabililor_Autoriza%C8%9Bi_din_Rom%C3%A2nia
+Se caută în google cu interogarea: site:agerpres.ro “Ilie Bolojan” salarii profesori
+S-au obținut 5 rezultat(e) noi:
+	1. https://agerpres.ro/educatie-stiinta/2025/08/13/bolojan---mesaj-pentru-profesori-statul-nu-mai-poate-continua-abordarile-pe-care-le-a-avut--1475766
+	2. https://agerpres.ro/educatie-stiinta/2025/11/20/daniel-david-masurile-de-reducere-cu-10-a-cheltuielilor-cu-salariile-nu-se-vor-aplica-in-zona-invata--1504811
+	3. https://agerpres.ro/comunicate/2025/10/05/comunicat-de-presa---federatia-sindicatelor-libere-din-invatamant--1490413
+	4. https://agerpres.ro/comunicate/2025/12/10/comunicat-de-presa---alianta-pentru-unirea-romanilor--1510615
+	5. https://agerpres.ro/educatie-stiinta/2025/10/07/sindicalisti-din-educatie-picheteaza-sediul-ministerului-de-finante--1491034
+Se caută în google cu interogarea: site:viitorulsf.ro “salariu profesor” ile bolohan
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: site:viitorulsf.ro “salariu profesor” ile bolohan
+[wiki_ro] 0 rezultate pentru „site:viitorulsf.ro “salariu profesor” ile bolohan” — reîncerc cu entitățile principale: „site:viitorulsf.ro “salariu profesor” bolohan”
+S-au obținut 0 rezultat(e) noi:
+Got answer: Nu există informații în sursa furnizată despre o lege sau o hotărâre guvernamentală adoptate de Ilie Bolojan care să afecteze direct salariile profesorilor; textul menționează doar formarea unui nou guvern condus de el, dar nu detaliază măsuri salariale specifice. “Pe 5 mai 2025, prim-ministrul în exercițiu, Marcel Ciolacu, din partea Partidului Social Demokrat (PSD), și-a anunțat demisia.”
+Answering question: Cine a inițiat sau a susținut această lege/hotărâre?
+Se caută în google cu interogarea: „legea salarizare profesori Ilie Bolojan“
+S-au obținut 5 rezultat(e) noi:
+	1. https://www.facebook.com/guv.ro/posts/%F0%9D%91%B3%F0%9D%92%86%F0%9D%92%88%F0%9D%92%86%F0%9D%92%82-%F0%9D%92%94%F0%9D%92%82%F0%9D%92%8D%F0%9D%92%82%F0%9D%92%93%F0%9D%92%8A%F0%9D%92%9B%F0%9D%92%82%CC%86%F0%9D%92%93%F0%9D%92%8A%F0%9D%92%8A-%F0%9D%92%96%F0%9D%92%8F%F0%9D%92%8A%F0%9D%92%95%F0%9D%92%82%F0%9D%92%93%F0%9D%92%86-%F0%9D%92%90-%F0%9D%92%93%F0%9D%92%86%F0%9D%92%87%F0%9D%92%90%F0%9D%92%93%F0%9D%92%8E%F0%9D%92%82%CC%86-%F0%9D%92%8F%F0%9D%92%86%F0%9D%92%84%F0%9D%92%86%F0%9D%92%94%F0%9D%92%82%F0%9D%92%93%F0%9D%92%82%CC%86-premierul-ilie-bolojan-legea-sal/1350003720617205/
+	2. https://www.edupedu.ro/premierul-ilie-bolojan-noua-lege-a-salarizarii-trebuie-sa-pastreze-cheltuielile-de-personal-la-maximum-81-din-pib-proiectul-ar-putea-ajunge-saptamana-viitoare-la-guvern-dupa-negocierile-cu-comisia/
+	3. https://www.romania-actualitati.ro/stiri/romania/salariile-profesorilor-nu-vor-scadea-spune-premierul-ilie-bolojan-id219484.html
+	4. https://www.youtube.com/watch?v=QP1hecRmEdA
+	5. https://www.digi24.ro/stiri/actualitate/politica/cand-spune-ilie-bolojan-ca-vor-creste-salariile-profesorilor-nivelul-actual-nu-e-cel-dorit-dar-este-ce-poate-romania-acum-3405081
+Se caută în google cu interogarea: „hotărârea salarizare profesori Ilie Bolojan“
+S-au obținut 3 rezultat(e) noi:
+	1. https://spotmedia.ro/stiri/educatie/bolojan-catre-profesori-am-redus-norme-am-marit-salarii-dar-nu-am-vazut-o-imbunatatire-in-educatie
+	2. https://www.facebook.com/educatiepentrueducatie/posts/ilie-bolojan-mesaj-pentru-profesori-%C3%AEn-ultimii-ani-am-sc%C4%83zut-normele-didactice-a/1195205605976737/
+	3. https://tvrinfo.ro/ilie-bolojan-in-exclusivitate-la-tvr-salariile-profesorilor-ar-putea-creste-dupa-2026/
+Se caută în google cu interogarea: site:parlamentari.ro “Ilie Bolojan” salarizare profesori
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: site:parlamentari.ro “Ilie Bolojan” salarizare profesori
+[wiki_ro] 0 rezultate pentru „site:parlamentari.ro “Ilie Bolojan” salarizare profesori” — reîncerc cu entitățile principale: „Bolojan””
+S-au obținut 5 rezultat(e) noi:
+	1. https://ro.wikipedia.org/wiki/List%C4%83_de_senatori_rom%C3%A2ni
+	2. https://ro.wikipedia.org/wiki/Ilie_Bolojan
+	3. https://ro.wikipedia.org/wiki/Victor_Bolojan
+	4. https://ro.wikipedia.org/wiki/Bolojan
+	5. https://ro.wikipedia.org/wiki/Guvernul_Ilie_Bolojan
+Got answer: Premierul Ilie Bolojan a fost cel care a subliniat că legile privind salarizarea unitară nu pot fi amânate și au propus acest lucru. „Legea salarzării unitare nu mai poate fi amânată,” a declarat premierul Bolojan. “Reforma este necesară.” ("Legea salarzării unitare nu mai poate fi amânată," a declarat premierul Bolojan.)
+Answering question: Este Ilie Bolojan membru al guvernului la momentul respectiv?
+Se caută în google cu interogarea: cine era ilie bolohan ministru educatie 2026
+[serper] Interogare sensibilă temporal — aplic tbs=qdr:y: cine era ilie bolohan ministru educatie 2026
+S-au obținut 5 rezultat(e) noi:
+	1. https://www.juridice.ro/812323/premierul-ilie-bolojan-asigura-interimatul-la-ministerul-educatiei.html
+	2. https://en.wikipedia.org/wiki/Ilie_Bolojan
+	3. https://romania.europalibera.org/a/ilie-bolojan-la-educatie/33647151.html
+	4. https://www.instagram.com/reel/DUWcrM6D77d/
+	5. https://hotnews.ro/ilie-bolojan-pregateste-noi-taieri-in-educatie-planurile-premierului-pentru-anul-2026-ajustari-financiare-importante-2149429
+Se caută în google cu interogarea: il ie bolohan functia politica 2026
+[serper] Interogare sensibilă temporal — aplic tbs=qdr:y: il ie bolohan functia politica 2026
+S-au obținut 5 rezultat(e) noi:
+	1. https://ro.wikipedia.org/wiki/Guvernul_Ilie_Bolojan
+	2. https://www.youtube.com/watch?v=xH4O9s0lGnw
+	3. https://www.digi24.ro/stiri/actualitate/politica/ilie-bolojan-a-chemat-mai-multi-ministri-la-guvern-pentru-a-discuta-despre-bugetul-pe-2026-ce-portofolii-sunt-vizate-3584273
+	4. https://www.digi24.ro/video/ilie-bolojan-deschide-usa-unui-guvern-minoritar-cand-psd-nu-poate-pnl-si-usr-nu-vor-fugi-de-responsabilitate-3765769
+	5. https://www.facebook.com/fanTVR1/videos/declara%C5%A3ii-ilie-bolojan-dup%C4%83-%C5%9Fedin%C5%A3a-%C3%AEn-care-liberarii-au-decis-c%C4%83-nu-%C3%AEl-sus%C8%9Bin-/27117600614556110/
+Se caută în google cu interogarea: guvern roman 2026 componenta
+[serper] Interogare sensibilă temporal — aplic tbs=qdr:y: guvern roman 2026 componenta
+S-au obținut 4 rezultat(e) noi:
+	1. https://www.gov.ro/
+	2. https://www.bursa.ro/surse-mass-media-componenta-noului-guvern-condus-de-adrian-vestea-44333957
+	3. https://gov.ro/ro/stiri/informatie-de-presa-privind-actele-normative-adoptate-in-edinta-guvernului-romaniei-din-18-iunie-2026
+	4. https://sgg.gov.ro/1/wp-content/uploads/2026/04/INFO-5.pdf
+Se caută în google cu interogarea: site:romanialegislație.ro ilie bolohan mandate
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: site:romanialegislație.ro ilie bolohan mandate
+S-au obținut 0 rezultat(e) noi:
+Got answer: Da, Ilie Bolojan era premierul României în data respectivă, fiind numit pe 14 ianuarie 2026 să asigure interimatul la Ministerul Educației și Cercetării „(Premierul Ilie Bolojan asigură interimatul la Ministerul...)”.
+Answering question: În ce perioadă de timp au loc aceste schimbări salariale pentru profesori?
+Se caută în google cu interogarea: majorari salarii directi profesori ilie bolohan 2017-2026
+[serper] Interogare sensibilă temporal — aplic tbs=qdr:y: majorari salarii directi profesori ilie bolohan 2017-2026
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: majorari salarii directi profesori ilie bolohan 2017-2026
+[wiki_ro] 0 rezultate pentru „majorari salarii directi profesori ilie bolohan 2017-2026” — reîncerc cu entitățile principale: „2017-2026”
+S-au obținut 5 rezultat(e) noi:
+	1. https://ro.wikipedia.org/wiki/2017_%C3%AEn_cinematografie
+	2. https://ro.wikipedia.org/wiki/List%C4%83_de_filme_rom%C3%A2ne%C8%99ti_din_2017
+	3. https://ro.wikipedia.org/wiki/Protestele_anticorup%C8%9Bie_din_Rom%C3%A2nia_din_2017%E2%80%932019
+	4. https://ro.wikipedia.org/wiki/Campionatul_Mondial_de_Fotbal_2026
+	5. https://ro.wikipedia.org/wiki/Turneul_de_tenis_de_la_Wimbledon_2017
+Se caută în google cu interogarea: il ie bolojan salarii educatie 2023
+S-au obținut 5 rezultat(e) noi:
+	1. https://www.edupedu.ro/premierul-ilie-bolojan-nivelul-de-salarizare-din-educatie-nu-este-cel-pe-care-mi-l-doresc-dar-asta-poate-romania-acum-de-la-finalul-lui-2026-putem-analiza-serios-nivelul-de-majorare-a-acestor-sal/
+	2. https://www.romania-actualitati.ro/stiri/romania/salariile-profesorilor-nu-vor-scadea-spune-premierul-ilie-bolojan-id219484.html
+	3. https://www.facebook.com/educatiepentrueducatie/posts/ilie-bolojan-mesaj-pentru-profesori-%C3%AEn-ultimii-ani-am-sc%C4%83zut-normele-didactice-a/1195205605976737/
+	4. https://tvrinfo.ro/ilie-bolojan-in-exclusivitate-la-tvr-salariile-profesorilor-ar-putea-creste-dupa-2026/
+	5. https://wageindicator.org/ro-ro/munca-in-romania/salariu/vip/ilie-bolojan
+Se caută în google cu interogarea: site:romanialegislației.gov.ro modificări salarii profesori
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: site:romanialegislației.gov.ro modificări salarii profesori
+S-au obținut 0 rezultat(e) noi:
+Got answer: Conform sursei citate, premierul Ilie Bolojan a menționat că România ar putea analiza serios nivelul de majorare a salariilor profesorilor începând cu finalul anului 2026. “Nivelul de salarizare din educație nu este cel pe care mi l doresc”, a declarat prim-miniștrii.
+Answering question: Care a fost mărimea creșterii (sau descreșterii) salarială pentru profesori?
+Se caută în google cu interogarea: majorare salarii profesori Ilie Bolojan 2023
+S-au obținut 5 rezultat(e) noi:
+	1. https://tvrinfo.ro/ilie-bolojan-in-exclusivitate-la-tvr-salariile-profesorilor-ar-putea-creste-dupa-2026/
+	2. https://www.edupedu.ro/premierul-ilie-bolojan-nivelul-de-salarizare-din-educatie-nu-este-cel-pe-care-mi-l-doresc-dar-asta-poate-romania-acum-de-la-finalul-lui-2026-putem-analiza-serios-nivelul-de-majorare-a-acestor-sal/
+	3. https://stirileprotv.ro/stiri/politic/in-plina-criza-a-invatamantului-ilie-bolojan-anunta-cresterea-salariilor-pentru-profesori-dar-nu-acum.html
+	4. https://spotmedia.ro/stiri/educatie/bolojan-catre-profesori-am-redus-norme-am-marit-salarii-dar-nu-am-vazut-o-imbunatatire-in-educatie
+	5. https://www.digi24.ro/stiri/actualitate/politica/cand-spune-ilie-bolojan-ca-vor-creste-salariile-profesorilor-nivelul-actual-nu-e-cel-dorit-dar-este-ce-poate-romania-acum-3405081
+Se caută în google cu interogarea: ILIE BOLOHAN salarizare educatie
+S-au obținut 3 rezultat(e) noi:
+	1. https://www.facebook.com/educatiepentrueducatie/posts/ilie-bolojan-mesaj-pentru-profesori-%C3%AEn-ultimii-ani-am-sc%C4%83zut-normele-didactice-a/1195205605976737/
+	2. https://www.antena3.ro/actualitate/educatie/urmeaza-un-val-de-concedieri-si-taieri-salariale-in-invatamant-avertizeaza-sindicalistii-ilie-bolojan-a-cerut-noi-reduceri-de-cheltui-774248.html
+	3. https://www.facebook.com/SalariiInvatamant/videos/bolojaf-sfideaz%C4%83-decizia-instan%C8%9Bei/1497144032429356/
+Se caută în google cu interogarea: site:romanialegislație.ro ILIE BOLOHAN salarii profesori
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: site:romanialegislație.ro ILIE BOLOHAN salarii profesori
+[wiki_ro] 0 rezultate pentru „site:romanialegislație.ro ILIE BOLOHAN salarii profesori” — reîncerc cu entitățile principale: „ILIE BOLOHAN”
+S-au obținut 5 rezultat(e) noi:
+	1. https://ro.wikipedia.org/wiki/1976
+	2. https://ro.wikipedia.org/wiki/FC_Progresul_Bucure%C8%99ti
+	3. https://ro.wikipedia.org/wiki/CS_Inter_Ilfov
+	4. https://ro.wikipedia.org/wiki/List%C4%83_cu_fotbali%C8%99ti_rom%C3%A2ni_expatria%C8%9Bi
+	5. https://ro.wikipedia.org/wiki/AFC_Unirea_Slobozia
+Se caută în google cu interogarea: „creștere salarii profesori” Ilie Bolohan
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: „creștere salarii profesori” Ilie Bolohan
+[wiki_ro] 0 rezultate pentru „„creștere salarii profesori” Ilie Bolohan” — reîncerc cu entitățile principale: „Ilie Bolohan”
+S-au obținut 0 rezultat(e) noi:
+Got answer: Nu se specifică o cifră exactă privind mărimea creșterii salariale pentru profesori, ci doar că premierul Ilie Bolojan susține că acestea ar putea să crească începând cu anul 2026. “Premierul Ilie Bolojan a vorbit în exclusivitate pentru...”, conform sursei citate.
+Answering question: Au existat declarații publice din partea lui Ilie Bolojan referitoare la salarii sau educație?
+Se caută în google cu interogarea: Ilie Bolojan salarii profesori declaratii
+S-au obținut 5 rezultat(e) noi:
+	1. https://www.facebook.com/educatiepentrueducatie/posts/ilie-bolojan-mesaj-pentru-profesori-%C3%AEn-ultimii-ani-am-sc%C4%83zut-normele-didactice-a/1195205605976737/
+	2. https://www.digi24.ro/stiri/actualitate/politica/cand-spune-ilie-bolojan-ca-vor-creste-salariile-profesorilor-nivelul-actual-nu-e-cel-dorit-dar-este-ce-poate-romania-acum-3405081
+	3. https://spotmedia.ro/stiri/educatie/bolojan-catre-profesori-am-redus-norme-am-marit-salarii-dar-nu-am-vazut-o-imbunatatire-in-educatie
+	4. https://www.edupedu.ro/video-mesajul-premierului-ilie-bolojan-pentru-profesori-am-scazut-normele-didactice-am-scazut-numarul-de-copii-in-clasa-am-crescut-salariile-n-am-vazut-din-pacate-o-imbunatatire-globala-a-sistem/
+	5. https://tvrinfo.ro/ilie-bolojan-in-exclusivitate-la-tvr-salariile-profesorilor-ar-putea-creste-dupa-2026/
+Se caută în google cu interogarea: „Ilie Bolojan” educație salarii
+S-au obținut 2 rezultat(e) noi:
+	1. https://www.antena3.ro/actualitate/educatie/salariile-profesorilor-nu-vor-fi-taiate-da-asigurari-bolojan-pe-partea-de-educatie-masurile-au-fost-deja-adoptate-767281.html
+	2. https://www.edupedu.ro/premierul-ilie-bolojan-noua-lege-a-salarizarii-trebuie-sa-pastreze-cheltuielile-de-personal-la-maximum-81-din-pib-proiectul-ar-putea-ajunge-saptamana-viitoare-la-guvern-dupa-negocierile-cu-comisia/
+Se caută în google cu interogarea: site:agerpres.ro “Ilie Bolojan” salarii profesori
+S-au obținut 5 rezultat(e) noi:
+	1. https://agerpres.ro/educatie-stiinta/2025/08/13/bolojan---mesaj-pentru-profesori-statul-nu-mai-poate-continua-abordarile-pe-care-le-a-avut--1475766
+	2. https://agerpres.ro/educatie-stiinta/2025/11/20/daniel-david-masurile-de-reducere-cu-10-a-cheltuielilor-cu-salariile-nu-se-vor-aplica-in-zona-invata--1504811
+	3. https://agerpres.ro/educatie-stiinta/2025/10/07/sindicalisti-din-educatie-picheteaza-sediul-ministerului-de-finante--1491034
+	4. https://agerpres.ro/comunicate/2025/10/05/comunicat-de-presa---federatia-sindicatelor-libere-din-invatamant--1490413
+	5. https://agerpres.ro/comunicate/2025/12/10/comunicat-de-presa---alianta-pentru-unirea-romanilor--1510615
+Got answer: Da, au existat declarații publice din partea lui Ilie Bolojan referitoare la salarii și educație. Conform unei postări pe Facebook din august 2025, „În ultimii ani am scăzut normele didactice, am scăzut numărul de copii în clasă, am crescut salariile” ("Ilie Bolojan, mesaj pentru profesori: În ultimii ani am scăzut...").
+Answering question: Ce documente legislative conțin informații despre procesul de luare a deciziei cu privire la salarii?
+Se caută în google cu interogarea: „Ilie Bolohan salarizare profesori acte normative” site:parlamentari.just.gov.ro
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: „Ilie Bolohan salarizare profesori acte normative” site:parlamentari.just.gov.ro
+[wiki_ro] 0 rezultate pentru „„Ilie Bolohan salarizare profesori acte normative” site:parlamentari.just.gov.ro” — reîncerc cu entitățile principale: „Bolohan”
+S-au obținut 5 rezultat(e) noi:
+	1. https://ro.wikipedia.org/wiki/Bolohan,_Orhei
+	2. https://ro.wikipedia.org/wiki/Ion_%C8%9A%C3%AEbuleac
+	3. https://ro.wikipedia.org/wiki/Mugur_Bolohan
+	4. https://ro.wikipedia.org/wiki/Vadim_Bolohan
+	5. https://ro.wikipedia.org/wiki/Biserica_%E2%80%9EAcoper%C4%83m%C3%A2ntul_Maicii_Domnului%E2%80%9D_din_Bolohan
+Se caută în google cu interogarea: „modificari salarii profesori Ilie Bolojan” site:agerpres.ro
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: „modificari salarii profesori Ilie Bolojan” site:agerpres.ro
+[wiki_ro] Search request failed: 429 Client Error: Too Many Requests for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=%E2%80%9Emodificari+salarii+profesori+Ilie+Bolojan%E2%80%9D+site%3Aagerpres.ro&srlimit=5&srprop=snippet&format=json&utf8=1
+[wiki_ro] 0 rezultate pentru „„modificari salarii profesori Ilie Bolojan” site:agerpres.ro” — reîncerc cu entitățile principale: „Ilie Bolojan””
+[wiki_ro] Search request failed: 429 Client Error: Too Many Requests for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=Ilie+Bolojan%E2%80%9D&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: „legislație creștere salarii cadre didactice 2024-2026”
+[serper] Interogare sensibilă temporal — aplic tbs=qdr:y: „legislație creștere salarii cadre didactice 2024-2026”
+S-au obținut 5 rezultat(e) noi:
+	1. https://unibuc.ro/wp-content/uploads/2026/03/Raportul-Rectorului-2025.pdf
+	2. https://www.uoradea.ro/wp-content/uploads/2026/04/MEC-PSI-2026-2029_Plan-Strategic-Institutional.pdf
+	3. https://old.gov.md/sites/default/files/2025_comisia_europeana_raport_pachet_de_extindere_pentru_republica_moldova_ro_13.11.25.pdf
+	4. https://consiliulfiscal.ro/CF_RA_2024.pdf
+	5. https://anacec.md/files/Curos-teza.pdf
+Got answer: Nu se pot găsi în documentele legislative citate detalii specifice privind procesul exact de luare a deciziilor referitoare la salarii ale profesorilor. Documentul menționează doar un plan strategic instituțional care include formarea profesională continuă și transformarea digitală a educației, dar nu oferă informații concrete despre modificări salariale.
+Answering question: Sunt disponibile rapoarte oficiale care arată cum au fost finanțate aceste modificări salariale?
+Se caută în google cu interogarea: raport financiar majorari salarii profesori Ilie Bolohan
+S-au obținut 5 rezultat(e) noi:
+	1. https://www.facebook.com/guv.ro/posts/premierul-ilie-bolojan-%C3%AEn-ace%C8%99ti-ani-hidroelectrica-a-f%C4%83cut-prea-pu%C8%9Bine-investi%C8%9B/1287765223507722/
+	2. https://www.instagram.com/p/DQUBhLfiQB9/
+	3. https://eueducenter.ro/stiri/
+	4. https://www.instagram.com/reel/Da0GYXBiClN/
+	5. https://www.icemtl.ro/wp-content/uploads/Raport-Activitate_2018_Plan-activitati_2019_ICEM.pdf
+Se caută în google cu interogarea: ILIE BOLOHAN salarii directia generala educatie
+S-au obținut 5 rezultat(e) noi:
+	1. https://www.antena3.ro/actualitate/social/au-fost-ciupiri-la-salarii-taierile-guvernului-bolojan-scot-profesorii-in-strada-sindicalistii-ameninta-cu-greva-generala-775816.html
+	2. https://spotmedia.ro/stiri/educatie/bolojan-catre-profesori-am-redus-norme-am-marit-salarii-dar-nu-am-vazut-o-imbunatatire-in-educatie
+	3. https://www.facebook.com/educatiepentrueducatie/posts/ilie-bolojan-mesaj-pentru-profesori-%C3%AEn-ultimii-ani-am-sc%C4%83zut-normele-didactice-a/1195205605976737/
+	4. https://www.digi24.ro/stiri/actualitate/politica/cand-spune-ilie-bolojan-ca-vor-creste-salariile-profesorilor-nivelul-actual-nu-e-cel-dorit-dar-este-ce-poate-romania-acum-3405081
+	5. https://www.edupedu.ro/premierul-ilie-bolojan-noua-lege-a-salarizarii-trebuie-sa-pastreze-cheltuielile-de-personal-la-maximum-81-din-pib-proiectul-ar-putea-ajunge-saptamana-viitoare-la-guvern-dupa-negocierile-cu-comisia/
+Se caută în google cu interogarea: site:agerpres.ro majorari salarii profesori
+S-au obținut 5 rezultat(e) noi:
+	1. https://agerpres.ro/politic-extern/2025/09/17/ucraina-zelenski-anunta-salarii-mai-mari-pentru-profesori-si-burse-pentru-studenti-in-2026--1484960
+	2. https://agerpres.ro/comunicate/2024/10/04/comunicat-de-presa---federatia-sindicatelor-libere-din-invatamant--1365418
+	3. https://agerpres.ro/politic/2023/05/24/ccr-legea-prin-care-personalul-ani-primea-un-spor-la-salariu-de-25---neconstitutionala-surse--1113183
+	4. https://agerpres.ro/economic/2025/07/03/corectura-indemnizatia-de-hrana-se-va-acorda-pentru-salarii-de-pana-la-6-000-lei-ministrul-muncii--1465416
+	5. https://agerpres.ro/economic/2024/05/16/carmen-maican-sindicat-mipe-ne-dorim-sa-vedem-in-fluturas-maririle-salariale-pentru-ca-avem-un-grad---1296221
+Se caută în google cu interogarea: site:viitoruldearuntimei.ro majorari salarii profesori
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: site:viitoruldearuntimei.ro majorari salarii profesori
+S-au obținut 0 rezultat(e) noi:
+Got answer: Nu se pot găsi rapoarte oficiale direct din sursa furnizată care să detalieze modul specific în care au fost finanțate modificările salariale ale profesorilor. Sursele indică doar faptul că Ministerul Educației analizează o modificare a plafonului salarial și compară cu situația din Luxemburg, dar nu oferă informații despre finanțare.
+Answering question: Au fost consultate sindicatele profesorelor în timpul discuțiilor legate de salarii?
+Se caută în google cu interogarea: sindicatele profesoarelor consultarilie bolohan salarii
+S-au obținut 5 rezultat(e) noi:
+	1. https://www.antena3.ro/actualitate/educatie/urmeaza-un-val-de-concedieri-si-taieri-salariale-in-invatamant-avertizeaza-sindicalistii-ilie-bolojan-a-cerut-noi-reduceri-de-cheltui-774248.html
+	2. https://www.edupedu.ro/premierul-bolojan-catre-sindicatele-profesorilor-dupa-cresterea-normei-didactice-va-fi-mai-multa-munca-pentru-aceeasi-bani-aceasta-este-realitatea-suntem-insa-deschisi-sa-facem-simplificari-in-si/
+	3. https://www.digi24.ro/digieconomic/consumer/ilie-bolojan-dupa-consultarile-cu-sindicatele-din-educatie-va-fi-mai-multa-munca-pe-aceeasi-bani-62553
+	4. https://tribunainvatamantului.ro/sindicatele-critica-un-presupus-proiect-de-lege-al-salarizarii-guvernul-romaniei-ingroapa-educatia-bolojan-nu-va-scadea-niciun-salariu-ce-prevede-proiectul-de-l/
+	5. https://www.euronews.ro/articole/sindicatele-din-educatie-concluzii-dupa-discutiile-despre-salarizare-lider-sindical-pierderi-de-600-700-de-lei-daca-va-fi-cazul-vom-organiza-si-proteste
+Se caută în google cu interogarea: ILIE BOLOHAN discutii salarizare educatie
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: ILIE BOLOHAN discutii salarizare educatie
+[wiki_ro] 0 rezultate pentru „ILIE BOLOHAN discutii salarizare educatie” — reîncerc cu entitățile principale: „ILIE BOLOHAN”
+S-au obținut 5 rezultat(e) noi:
+	1. https://ro.wikipedia.org/wiki/1976
+	2. https://ro.wikipedia.org/wiki/FC_Progresul_Bucure%C8%99ti
+	3. https://ro.wikipedia.org/wiki/CS_Inter_Ilfov
+	4. https://ro.wikipedia.org/wiki/List%C4%83_cu_fotbali%C8%99ti_rom%C3%A2ni_expatria%C8%9Bi
+	5. https://ro.wikipedia.org/wiki/AFC_Unirea_Slobozia
+Se caută în google cu interogarea: site:romanialegislației.ro ilei bolohan salarii profesori
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: site:romanialegislației.ro ilei bolohan salarii profesori
+[wiki_ro] 0 rezultate pentru „site:romanialegislației.ro ilei bolohan salarii profesori” — reîncerc cu entitățile principale: „site:romanialegislației.ro ilei bolohan salarii”
+S-au obținut 0 rezultat(e) noi:
+Got answer: Nu se menționează în sursa citată dacă au fost consultate sindicatele profesorilor în timpul discuțiilor despre salarii. Articolul relatează doar despre propunerile privind concedierile și reducerea salariilor, fără detalii specifice cu privire la implicarea sindicatelor.
+Answering question: Există dovezi concrete care leagă direct acțiunile sau pozițiile lui Ilie Bolojan de rezultatul final privind salariile profesorilor?
+Se caută în google cu interogarea: salarii profesori ilie bolohan guvern Romania
+S-au obținut 5 rezultat(e) noi:
+	1. https://www.digi24.ro/amphtml/stiri/actualitate/politica/cand-spune-ilie-bolojan-ca-vor-creste-salariile-profesorilor-nivelul-actual-nu-e-cel-dorit-dar-este-ce-poate-romania-acum-3405081
+	2. https://spotmedia.ro/stiri/educatie/bolojan-catre-profesori-am-redus-norme-am-marit-salarii-dar-nu-am-vazut-o-imbunatatire-in-educatie
+	3. https://www.antena3.ro/amp/au-fost-ciupiri-la-salarii-taierile-guvernului-bolojan-scot-profesorii-in-strada-sindicalistii-ameninta-cu-greva-generala-775816.html
+	4. https://www.romania-actualitati.ro/stiri/romania/salariile-profesorilor-nu-vor-scadea-spune-premierul-ilie-bolojan-id219484.html
+	5. https://www.mediafax.ro/politic/bolojan-despre-salariile-profesorilor-asta-este-ceea-ce-poate-romania-in-momentul-de-fata-el-a-spus-ca-nu-cedeaza-in-fata-sindicatelor-23607603/amp
+Se caută în google cu interogarea: ilies bolohan declaratii salarii educatie
+S-au obținut 3 rezultat(e) noi:
+	1. https://www.digi24.ro/stiri/actualitate/educatie/mesajul-lui-ilie-bolojan-pentru-profesori-statul-roman-nu-mai-poate-continua-abordarile-pe-care-le-a-avut-3371053
+	2. https://www.facebook.com/educatiepentrueducatie/posts/ilie-bolojan-mesaj-pentru-profesori-%C3%AEn-ultimii-ani-am-sc%C4%83zut-normele-didactice-a/1195205605976737/
+	3. https://www.libertatea.ro/educatie/ilie-bolojan-declaratii-controversate-educatie-taierea-cheltuielilor-5415890
+Se caută în google cu interogarea: minister al educatiei raport salarii profesori 2023-2024
+S-au obținut 5 rezultat(e) noi:
+	1. https://lege5.ro/Gratuit/ge2dmmzvge4to/anexa-nr-i-ordonanta-de-urgenta-128-2023-anexa?dp=gu2tgnzygy3tqny
+	2. https://www.edupedu.ro/grile-salariile-profesorilor-in-2024-detaliate-pe-fiecare-functie-gradatie-si-treapta-de-vechime-publicate-de-ministerul-educatiei/
+	3. https://www.edu.ro/sites/default/files/Exemple_cresteri_salariale_ianuarie_iunie%202024_didactic%20de%20predare_conducere_aux_nedid.pdf
+	4. https://romania.europalibera.org/a/salarii-profesori-marire-2024/32751213.html
+	5. https://www.dailybusiness.ro/stiri-interne/salarii-profesori-2024-lefurile-din-invatamant-au-ajuns-la-o-medie-neta-de-5-700-de-lei-pe-luna-422572/
+Se caută în google cu interogarea: site:romanialibera.ro ilie bolohan salarii profesori
+S-au obținut 3 rezultat(e) noi:
+	1. https://romanialibera.ro/tag/ministrul-educatiei-2/
+	2. https://romanialibera.ro/la-zi/sindicatele-anunta-proteste-in-capitala-si-in-tara-suntem-nemultumiti-de-austeritate/
+	3. https://romanialibera.ro/investigatii-romania-libera/cine-vrea-sa-fure-sediul-inst-casa-conspirativa-in-care-au-stat-tudor-arghezi-si-valentin-ceausescu-767074/
+Se caută în google cu interogarea: site:hotnews.ro ilie bolohan salarii profesori
+S-au obținut 5 rezultat(e) noi:
+	1. https://hotnews.ro/mesajul-lui-ilie-bolojan-pentru-profesori-poate-sa-plece-la-un-moment-dat-ministrul-educatiei-poate-sa-plece-premierul-dar-asta-nu-va-rezolva-o-situatie-reala-2044559
+	2. https://hotnews.ro/marirea-normei-didactice-cu-2-4-ore-inseamna-de-fapt-inseamna-15-000-de-posturi-reduse-spune-un-lider-sindical-din-educatie-evident-se-va-ajunge-si-la-taieri-de-salarii-2042821
+	3. https://hotnews.ro/bolojan-anunta-ca-va-fi-interzis-cumulul-pensiei-speciale-cu-salariul-la-stat-care-vor-fi-exceptiile-2112283
+	4. https://hotnews.ro/cum-a-ajuns-romania-intr-o-situatie-complicata-graficele-lui-ilie-bolojan-pe-deficit-si-datoria-publica-document-2002419
+	5. https://hotnews.ro/cat-va-castiga-succesorul-lui-bolojan-salariile-din-sistemul-public-de-la-1-ianuarie-2027-cel-mai-mare-salariu-va-fi-al-presedintelui-venitul-unui-profesor-sau-al-unui-asistent-medical-2255270
+Got answer: Conform sursei citate, Ilie Bolojan a menționat că economiile din bugetul educațional, generate de pachetul 2 de măsuri, ar putea limita creșterea salarială a profesorilor, reprezentând aproximativ 10%. Nu sunt oferite detalii despre o decizie specifică legată de majorarea directă a salariilor, ci doar referire la impactul limitativ al unor economii asupra acestora ("„Nivelul actual...”. Vom da cifre exacte la..." ). Prin urmare, nu există dovezi concrete care să lege acțiunile sale direct de un rezultat final privind salariile profesorilor în data respectivă.
+Afirmația 'Ilie Bolojan a majorat salariile profesorilor' este not enough information.
+Justificare: Conform surselor analizate, Ilie Bolojan a pus accent pe necesitatea urgentă a legii salarizării unitare și a propus-o, subliniind importanța creșterii salariilor profesorilor. Cu toate acestea, nu există dovezi clare că acesta a fost responsabil direct pentru o majorare reală a salariilor, deoarece discuțiile se concentrau pe potențialele ajustări abia spre sfârşitul anului 2026, influențate de restricții bugetare identificate. Deși a făcut declarații publice despre intenția de a îmbunătăți condițiile de muncă ale profesorilor, nu există date concrete privind sumele alocate, mecanismele de finanţare sau consultarea sindicaturilor, ceea ce face imposibilă evaluarea efectivă a impactului său asupra salariilor lor. Prin urmare, pe baza informaţiilor disponibile, nu putem stabili cu certitudine că salariile profesorilor au fost majoreazăte sub conducerea sa.
+Scor credibilitate surse: Surse de credibilitate medie-ridicată (72.4/100) [low]
+Veredictu general al conținutului este: not enough information
+Verificarea factuală a durat 4:10 min.

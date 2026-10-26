@@ -1,0 +1,12 @@
+[
+  {
+    "url": "https://ro.wikipedia.org/wiki/Biologie",
+    "question": "Este sistemul taxonomic al vieții utilizat de biologi bazat pe conceptele moderne și acceptate?",
+    "domain": "ro.wikipedia.org",
+    "tier": "trusted",
+    "trust_score": 72.0,
+    "title": "Biologie",
+    "snippet": "Biologia este  știința naturală care se ocupă cu studiul vieții și al tuturor organismelor vii. Ca știință a vieții, biologia studiază organismele din punct de vedere structural, al proceselor chimice, al interacțiilor moleculare, al mecanismelor fiziologice, al dezvoltării și al evoluției. În ciuda complexității acestei științe, există doar câteva concepte simple care stau la baza acesteia, și anume teoria celulară, evoluția, genetica și homeostazia. Astfel, în teoria fundamentală a biologiei spune că celula este unitatea de bază a vieții, gena este unitatea de bază a eredității, iar evoluția este motivul pentru apariția sau extincția speciilor. Organismele vii sunt sisteme termodinamice a căror supraviețuire se bazează pe transformarea continuă a energiei și pe descreșterea entropiei locale, cu scopul menținerii homeostaziei (stării de echilibru intern a unui organism).",
+    "reason": "Sursă recunoscută cu scor 72/100 din lista de surse de încredere."
+  }
+]

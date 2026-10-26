@@ -1,0 +1,152 @@
+[
+  {
+    "url": "https://www.factual.ro",
+    "question": null,
+    "domain": "factual.ro",
+    "tier": "trusted",
+    "trust_score": 88.0,
+    "title": "Factual.ro - Factual • Adevărul din politică",
+    "snippet": "Factual este prima platformă independentă de fact-checking din România. Verificăm declarațiile politicienilor și impactul dezinformării publice. POLITICĂ.",
+    "reason": "Sursă recunoscută cu scor 88/100 din lista de surse de încredere."
+  },
+  {
+    "url": "https://www.veridica.ro",
+    "question": null,
+    "domain": "veridica.ro",
+    "tier": "trusted",
+    "trust_score": 88.0,
+    "title": "Veridica",
+    "snippet": "Platformă anti dezinformare și fake news - analize, știri ...: Veridica este o publicație specializată în monitorizarea, analiza și demontarea campaniilor de fake news, dezinformare și manipulare din Europa Centrală și ...",
+    "reason": "Sursă recunoscută cu scor 88/100 din lista de surse de încredere."
+  },
+  {
+    "url": "https://ro.wikipedia.org/wiki/Asem%C4%83nare_(geometrie)",
+    "question": "Este un pătrat definit ca o formă geometrică cu patru laturi egale?",
+    "domain": "ro.wikipedia.org",
+    "tier": "trusted",
+    "trust_score": 72.0,
+    "title": "Asemănare (geometrie)",
+    "snippet": "În geometria euclidiană, două obiecte sunt asemenea dacă ambele au aceeași formă sau unul are aceeași formă ca imaginea în oglindă a celuilalt. Mai precis, unul poate fi obținut din celălalt prin scalare uniformă (mărire sau micșorare), eventual cu translații, rotații și reflexii suplimentare. Aceasta înseamnă că oricare obiect poate fi redimensionat, repoziționat și reflectat, astfel încât să coincidă exact cu celălalt obiect. Dacă două obiecte sunt asemenea, fiecare este congruent cu rezultatul unei anumite redimensionări uniforme a celuilalt. \n\nDe exemplu, toate cercurile sunt asemenea între ele, toate pătratele sunt asemenea între ele și toate triunghiurile echilaterale sunt asemenea între ele.",
+    "reason": "Sursă recunoscută cu scor 72/100 din lista de surse de încredere."
+  },
+  {
+    "url": "https://fs.unm.edu/SN/AD-Models%20to%20a%20Smarandache%20Geometry-romana.pdf",
+    "question": null,
+    "domain": "fs.unm.edu",
+    "tier": "unknown",
+    "trust_score": 75.0,
+    "title": "[PDF] Un model pentru o Geometrie Smarandache - UNM",
+    "snippet": "A Geometrie Smarandache este o geometrie care are cel puţin o axiomă negată în mod smarandachean. A fost introdusă de Florentin Smarandache în 1969 în ...",
+    "reason": "Domeniu necunoscut. TLD oficial/guvernamental (.edu)."
+  },
+  {
+    "url": "https://www.matera.ro/2019/10/patratul-si-proprietatile-patratului",
+    "question": null,
+    "domain": "matera.ro",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Pătratul şi proprietăţile pătratului Probleme rezolvate cu pătrat",
+    "snippet": "Putem defini un pătrat în două moduri: 1. Patratul este dreptunghiul cu două laturi consecutive congruente. 2. Patratul este rombul cu un unghi ... (data publicării: 12 oct. 2019)",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=ZZEfwJU_ZDY",
+    "question": null,
+    "domain": "youtube.com",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Matematică, Clasa a VIII-a, Pătratul. Elemente, proprietăți ...",
+    "snippet": "Tema: Pătratul. Elemente, proprietăți, criterii Profesor: Popovici-Bujor Violeta Autor: Popovici-Bujor Violeta Coloana Sonoră: ”Polii Anna” ... (data publicării: acum 5 ani)",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://profesorjitaruionel.com/2018/11/12/patratul-proprietati-si-probleme-rezolvate-geometrie-clasa-a-7-a",
+    "question": null,
+    "domain": "profesorjitaruionel.com",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "PATRATUL (proprietati si probleme rezolvate geometrie ...",
+    "snippet": "PROPRIETĂȚI: · Dacă un romb are un unghi drept, atunci rombul este PĂTRAT. · Dacă un romb are diagonalele congruente, atunci rombul este PĂTRAT. (data publicării: 12 nov. 2018)",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://dexonline.ro/definitie/p%C4%83trat",
+    "question": null,
+    "domain": "dexonline.ro",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "pătrat - definiție și paradigmă | dexonline",
+    "snippet": "PĂTRAT, -Ă, pătrați, -te, s. n. , adj. I. 1. S. n. Patrulater cu laturile egale și cu unghiurile drepte. ◊ (Rar) Pătrat de tipografie = pătrișor. 2.",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://mathema.ro/memorator/geometrie-plana/patratul",
+    "question": null,
+    "domain": "mathema.ro",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Pătratul",
+    "snippet": "▫ Pătratul este un poligon regulat care are 4 laturi congruente (egale) și 4 unghiuri congruente (egale). Măsura fiecărui unghi este de 90 ∘ .",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://ro.wikibooks.org/wiki/Wikijunior:Figuri/Figuri_de_baz%C4%83/P%C4%83trat",
+    "question": null,
+    "domain": "ro.wikibooks.org",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Wikijunior:Figuri/Figuri de bază/Pătrat",
+    "snippet": "Un pătrat are 4 laturi egale și 4 unghiuri drepte. Ai știut tu ??? ...Un pătrat poate fi denumit și dreptunghi. Uită-te la definiția dreptunghiului și află ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://brainly.ro/tema/10774211",
+    "question": null,
+    "domain": "brainly.ro",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "figura geometrica cu toate cele 4 laturi egale se numeste​",
+    "snippet": "Figura geometrică cu toate cele 4 laturi egale se numește​ ROMB. Reținem: Un caz particularal paralelogramului este rombul: Se numește romb ... (data publicării: 24 aug. 2023)",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://www.twinkl.ro/teaching-wiki/figurile-geometrice",
+    "question": null,
+    "domain": "twinkl.ro",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Care sunt figurile geometrice? - Wiki - România - Twinkl",
+    "snippet": "Pătratul. Acesta are 4 laturi egale și 4 unghiuri (vârfuri). Pătratul Dreapta și unghiul. Mai jos sunt prezentate obiecte ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://fr.scribd.com/document/952165355/numele-formelor-geometrice",
+    "question": null,
+    "domain": "fr.scribd.com",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Numele Formelor Geometrice | PDF",
+    "snippet": "Este un paralelogram cu patru laturi egale, având egale unghiuri opuse inclinate ș i obtuze. . Dreptunghi O formă geometrică plană având laturi opuse de ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://library.livresq.com/details/686a8c5d98d16e000942c628",
+    "question": null,
+    "domain": "library.livresq.com",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Pătratul",
+    "snippet": "Elevii vor învăța să identifice elementele pătratului (laturi, vârfuri, diagonale) și să recunoască proprietățile specifice: unghiuri drepte, ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://knowunity.ro/knows/matematic-ptratul-85e96f42-6f48-4736-ac95-85be11087cda",
+    "question": null,
+    "domain": "knowunity.ro",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Pătratul",
+    "snippet": "Lecție de Geometrie din Clasa 7 - Knowunity: Patratul este un patrulateral convex care este în același timp dreptunghi și romb. Acest lucru îi conferă proprietăți speciale: are toate laturile egale și ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  }
+]

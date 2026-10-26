@@ -1,0 +1,1003 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Snncts &middot; app</title>
+  <style>
+    :root {
+      --bg: #fafafa;
+      --surface: #ffffff;
+      --border: #e5e7eb;
+      --border-light: #f3f4f6;
+      --text-primary: #111827;
+      --text-secondary: #6b7280;
+      --text-muted: #9ca3af;
+      --green: #15803d;
+      --green-light: #16a34a;
+      --green-bg: #f0fdf4;
+      --green-border: #86efac;
+      --green-btn: #15803d;
+      --green-btn-hover: #166534;
+      --red: #dc2626;
+      --red-bg: #fef2f2;
+      --red-border: #fca5a5;
+      --amber: #d97706;
+      --amber-bg: #fffbeb;
+      --amber-border: #fcd34d;
+      --navy: #1e3a5f;
+      --radius: 12px;
+      --radius-lg: 16px;
+      --font: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+    }
+
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      font-family: var(--font);
+      background: var(--bg);
+      color: var(--text-primary);
+      min-height: 100vh;
+    }
+
+    /* ── Navbar ── */
+    .navbar {
+      background: var(--surface);
+      border-bottom: 1px solid var(--border);
+      padding: 14px 32px;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .navbar-logo {
+      width: 30px;
+      height: 30px;
+      background: var(--green-light);
+      border-radius: 7px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .navbar-logo svg { width: 18px; height: 18px; }
+
+    .navbar-title {
+      font-size: 15px;
+      font-weight: 600;
+      color: var(--text-primary);
+    }
+
+    /* ── Container ── */
+    .container {
+      max-width: 960px;
+      margin: 0 auto;
+      padding: 48px 32px;
+    }
+
+    /* ── Search ── */
+    .search-section { margin-bottom: 32px; }
+
+    .search-group {
+      display: flex;
+      align-items: center;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      overflow: hidden;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.04);
+      transition: border-color 0.2s, box-shadow 0.2s;
+    }
+
+    .search-group:focus-within {
+      border-color: #b0b0b0;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+    }
+
+    .search-icon {
+      display: flex;
+      align-items: center;
+      padding: 0 4px 0 20px;
+      color: var(--text-muted);
+      flex-shrink: 0;
+    }
+
+    .search-icon svg { width: 22px; height: 22px; }
+
+    #claim-input {
+      flex: 1;
+      border: none;
+      outline: none;
+      padding: 20px 14px;
+      font-size: 16px;
+      font-family: var(--font);
+      color: var(--text-primary);
+      background: transparent;
+      min-width: 0;
+    }
+
+    #claim-input::placeholder { color: var(--text-muted); }
+    #claim-input:disabled { opacity: 0.5; }
+
+    #check-btn {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      padding: 16px 32px;
+      margin: 6px 6px 6px 0;
+      background: var(--green-btn);
+      color: white;
+      border: none;
+      border-radius: 10px;
+      font-size: 16px;
+      font-weight: 600;
+      font-family: var(--font);
+      cursor: pointer;
+      transition: background 0.15s;
+      white-space: nowrap;
+      flex-shrink: 0;
+    }
+
+    #check-btn:hover:not(:disabled) { background: var(--green-btn-hover); }
+    #check-btn:disabled { opacity: 0.6; cursor: not-allowed; }
+
+    .btn-sparkle { font-size: 18px; }
+
+    .btn-spinner {
+      display: none;
+      width: 18px;
+      height: 18px;
+      border: 2.5px solid rgba(255,255,255,0.3);
+      border-top-color: white;
+      border-radius: 50%;
+      animation: spin 0.6s linear infinite;
+    }
+
+    @keyframes spin { to { transform: rotate(360deg); } }
+
+    #check-btn.loading .btn-sparkle { display: none; }
+    #check-btn.loading .btn-spinner { display: block; }
+
+    /* ── Error ── */
+    .error-card {
+      background: var(--red-bg);
+      border: 1px solid var(--red-border);
+      border-left: 4px solid var(--red);
+      border-radius: 8px;
+      padding: 16px 20px;
+      margin-bottom: 24px;
+      color: var(--red);
+      font-size: 14px;
+      line-height: 1.6;
+    }
+
+    .hidden { display: none !important; }
+
+    /* ── Result Card ── */
+    .result-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-lg);
+      overflow: hidden;
+      box-shadow: 0 1px 4px rgba(0,0,0,0.04);
+    }
+
+    /* ── Verdict Section ── */
+    .verdict-section {
+      display: flex;
+      gap: 28px;
+      padding: 32px 36px;
+      align-items: center;
+    }
+
+    .verdict-badge {
+      display: flex;
+      align-items: center;
+      gap: 14px;
+      padding: 24px 40px;
+      border-radius: var(--radius);
+      font-size: 32px;
+      font-weight: 800;
+      letter-spacing: 1.5px;
+      flex-shrink: 0;
+    }
+
+    .verdict-icon-circle {
+      width: 40px;
+      height: 40px;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .verdict-icon-circle svg { width: 22px; height: 22px; }
+
+    /* Verdict color variants */
+    .verdict-true .verdict-badge {
+      background: var(--green-bg);
+      color: var(--green);
+      border: 2px solid var(--green-border);
+    }
+    .verdict-true .verdict-icon-circle { background: var(--green-light); }
+
+    .verdict-false .verdict-badge {
+      background: var(--red-bg);
+      color: var(--red);
+      border: 2px solid var(--red-border);
+    }
+    .verdict-false .verdict-icon-circle { background: var(--red); }
+
+    .verdict-unverified .verdict-badge {
+      background: var(--amber-bg);
+      color: var(--amber);
+      border: 2px solid var(--amber-border);
+    }
+    .verdict-unverified .verdict-icon-circle { background: var(--amber); }
+
+    .verdict-details { flex: 1; min-width: 0; }
+
+    .verdict-summary {
+      font-size: 15px;
+      font-weight: 700;
+      color: var(--text-primary);
+      margin-bottom: 4px;
+      line-height: 1.45;
+    }
+
+    .verdict-subtitle {
+      font-size: 13px;
+      color: var(--text-secondary);
+      line-height: 1.45;
+    }
+
+    .verdict-meta {
+      flex-shrink: 0;
+      font-size: 13px;
+      display: flex;
+      flex-direction: column;
+      gap: 14px;
+    }
+
+    .meta-row {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      justify-content: flex-end;
+    }
+
+    .meta-icon {
+      color: var(--text-muted);
+      display: flex;
+      align-items: center;
+      flex-shrink: 0;
+    }
+
+    .meta-icon svg { width: 18px; height: 18px; }
+
+    .meta-label { color: var(--text-secondary); font-weight: 500; }
+
+    .meta-value {
+      font-weight: 700;
+      min-width: 70px;
+      text-align: right;
+    }
+
+    .meta-value.verdict-text { color: var(--green); }
+    .verdict-false .meta-value.verdict-text { color: var(--red); }
+    .verdict-unverified .meta-value.verdict-text { color: var(--amber); }
+
+    .meta-value.confidence-text { color: var(--green); }
+    .meta-value.checked-text { color: var(--text-secondary); font-weight: 500; font-size: 12px; }
+
+    /* ── Confidence Bar ── */
+    .confidence-section { padding: 0 36px; }
+
+    .confidence-row {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      padding: 18px 0;
+      border-bottom: 1px solid var(--border-light);
+    }
+
+    .confidence-pct {
+      font-size: 16px;
+      font-weight: 800;
+      color: var(--green);
+      white-space: nowrap;
+    }
+
+    .confidence-label {
+      font-size: 14px;
+      font-weight: 600;
+      color: var(--text-primary);
+    }
+
+    .confidence-bar-track {
+      flex: 1;
+      height: 12px;
+      background: #e5e7eb;
+      border-radius: 6px;
+      overflow: hidden;
+    }
+
+    .confidence-bar-fill {
+      height: 100%;
+      background: var(--green-light);
+      border-radius: 6px;
+      transition: width 0.8s ease;
+    }
+
+    .confidence-bar-marker {
+      width: 14px;
+      height: 14px;
+      background: #9ca3af;
+      border-radius: 50%;
+      flex-shrink: 0;
+    }
+
+    /* ── Sections ── */
+    .section {
+      padding: 28px 36px;
+      border-top: 1px solid var(--border-light);
+    }
+
+    .section-header {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      margin-bottom: 18px;
+    }
+
+    .section-icon {
+      width: 28px;
+      height: 28px;
+      border-radius: 50%;
+      background: #eef2ff;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-shrink: 0;
+    }
+
+    .section-icon svg { width: 16px; height: 16px; color: #6366f1; }
+    .section-icon.info-icon { background: #eff6ff; }
+    .section-icon.info-icon svg { color: #3b82f6; }
+
+    .section-title {
+      font-size: 15px;
+      font-weight: 700;
+      color: var(--text-primary);
+    }
+
+    /* ── Justification ── */
+    .justification-text {
+      font-size: 14px;
+      line-height: 1.75;
+      color: var(--text-secondary);
+      white-space: pre-wrap;
+    }
+
+    /* ── Skeleton ── */
+    @keyframes shimmer {
+      0% { background-position: -600px 0; }
+      100% { background-position: 600px 0; }
+    }
+
+    .skeleton-lines {
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+
+    .skeleton-line {
+      height: 16px;
+      border-radius: 8px;
+      background: linear-gradient(90deg, #d1d5db 25%, #e5e7eb 50%, #d1d5db 75%);
+      background-size: 1200px 100%;
+      animation: shimmer 2s ease-in-out infinite;
+    }
+
+    .skeleton-line:nth-child(1) { width: 100%; }
+    .skeleton-line:nth-child(2) { width: 88%; }
+    .skeleton-line:nth-child(3) { width: 62%; }
+
+    /* ── Reasoning Steps ── */
+    .reasoning-section {
+      padding: 24px 36px 32px;
+      border-top: 1px solid var(--border-light);
+    }
+
+    .reasoning-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      cursor: pointer;
+      user-select: none;
+    }
+
+    .reasoning-left {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+
+    .reasoning-right {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+
+    .reasoning-toggle {
+      position: relative;
+      width: 48px;
+      height: 26px;
+      background: #cbd5e1;
+      border-radius: 13px;
+      border: none;
+      cursor: pointer;
+      transition: background 0.2s;
+      flex-shrink: 0;
+    }
+
+    .reasoning-toggle.active { background: var(--navy); }
+
+    .reasoning-toggle::after {
+      content: '';
+      position: absolute;
+      top: 3px;
+      left: 3px;
+      width: 20px;
+      height: 20px;
+      background: white;
+      border-radius: 50%;
+      transition: transform 0.2s;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.15);
+    }
+
+    .reasoning-toggle.active::after {
+      transform: translateX(22px);
+    }
+
+    .reasoning-chevron {
+      display: flex;
+      align-items: center;
+      color: var(--text-muted);
+      transition: transform 0.2s;
+    }
+
+    .reasoning-chevron svg { width: 20px; height: 20px; }
+    .reasoning-chevron.open { transform: rotate(180deg); }
+
+    /* ── Stepper ── */
+    .stepper {
+      display: flex;
+      align-items: flex-start;
+      justify-content: space-between;
+      margin-top: 28px;
+      padding: 0;
+      position: relative;
+    }
+
+    .step {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 10px;
+      flex: 1;
+      position: relative;
+    }
+
+    .step-circle {
+      width: 38px;
+      height: 38px;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 14px;
+      font-weight: 700;
+      border: 2.5px solid var(--border);
+      background: var(--surface);
+      color: var(--text-muted);
+      position: relative;
+      z-index: 1;
+      transition: all 0.3s;
+    }
+
+    .step-label {
+      font-size: 11px;
+      font-weight: 500;
+      color: var(--text-muted);
+      text-align: center;
+      transition: color 0.3s;
+      max-width: 90px;
+    }
+
+    .step-connector {
+      position: absolute;
+      top: 19px;
+      left: calc(50% + 19px);
+      width: calc(100% - 38px);
+      height: 2px;
+      z-index: 0;
+    }
+
+    .step-connector-line {
+      width: 100%;
+      height: 100%;
+      background: repeating-linear-gradient(
+        90deg,
+        #94a3b8 0,
+        #94a3b8 7px,
+        transparent 7px,
+        transparent 14px
+      );
+    }
+
+    .step:last-child .step-connector { display: none; }
+
+    /* Step states */
+    .step.active .step-circle {
+      border-color: var(--navy);
+      background: var(--navy);
+      color: white;
+      animation: pulse-step 1.5s ease-in-out infinite;
+    }
+
+    .step.active .step-label { color: var(--text-primary); font-weight: 600; }
+
+    .step.complete .step-circle {
+      border-color: var(--navy);
+      background: var(--navy);
+      color: white;
+    }
+
+    .step.complete .step-label { color: var(--text-primary); font-weight: 600; }
+
+    .step.complete .step-connector-line {
+      background: var(--navy);
+    }
+
+    @keyframes pulse-step {
+      0%, 100% { box-shadow: 0 0 0 0 rgba(30,58,95,0.3); }
+      50% { box-shadow: 0 0 0 8px rgba(30,58,95,0); }
+    }
+
+    /* ── Responsive ── */
+    @media (max-width: 700px) {
+      .container { padding: 24px 16px; }
+      .verdict-section { flex-direction: column; gap: 16px; padding: 24px 20px; }
+      .verdict-meta { flex-direction: row; flex-wrap: wrap; gap: 16px; }
+      .meta-row { justify-content: flex-start; }
+      .section, .confidence-section, .reasoning-section { padding-left: 20px; padding-right: 20px; }
+      .search-group { flex-direction: column; }
+      #check-btn { margin: 0 6px 6px; justify-content: center; }
+      .step-label { font-size: 9px; max-width: 60px; }
+      .verdict-badge { padding: 16px 24px; font-size: 24px; }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Navbar -->
+  <nav class="navbar">
+    <div class="navbar-logo">
+      <svg viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
+    </div>
+    <span class="navbar-title">Snncts &middot; app</span>
+  </nav>
+
+  <div class="container">
+
+    <!-- Search -->
+    <div class="search-section">
+      <div class="search-group">
+        <div class="search-icon">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+        </div>
+        <input type="text" id="claim-input" placeholder="Introdu o afirmație de verificat..." autocomplete="off">
+        <button id="check-btn">
+          <span class="btn-sparkle">&#10024;</span>
+          <span class="btn-spinner"></span>
+          Verifică afirmația
+        </button>
+      </div>
+    </div>
+
+    <!-- Error -->
+    <div id="error-card" class="error-card hidden"></div>
+
+    <!-- Result Card -->
+    <div id="result-card" class="result-card hidden">
+
+      <!-- Verdict -->
+      <div id="verdict-wrapper" class="verdict-section verdict-true">
+        <div class="verdict-badge">
+          <span class="verdict-icon-circle" id="verdict-icon">
+            <svg viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
+          </span>
+          <span id="verdict-label">ADEVĂRAT</span>
+        </div>
+        <div class="verdict-details">
+          <div class="verdict-summary" id="verdict-summary">Afirmația este susținută de surse credibile.</div>
+          <div class="verdict-subtitle" id="verdict-subtitle">Pe baza dovezilor găsite, afirmația este corectă factual.</div>
+        </div>
+        <div class="verdict-meta">
+          <div class="meta-row">
+            <span class="meta-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><path d="M9 12l2 2 4-4"/></svg></span>
+            <span class="meta-label">Verdict</span>
+            <span class="meta-value verdict-text" id="meta-verdict">ADEVĂRAT</span>
+          </div>
+          <div class="meta-row">
+            <span class="meta-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><path d="M12 6v6l4 2"/></svg></span>
+            <span class="meta-label">Încredere</span>
+            <span class="meta-value confidence-text" id="meta-confidence">87%</span>
+          </div>
+          <div class="meta-row">
+            <span class="meta-icon"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg></span>
+            <span class="meta-label">Verificat la</span>
+            <span class="meta-value checked-text" id="meta-checked">&mdash;</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Confidence Bar -->
+      <div class="confidence-section">
+        <div class="confidence-row">
+          <span class="confidence-pct" id="confidence-pct">87%</span>
+          <span class="confidence-label">Încredere</span>
+          <div class="confidence-bar-track">
+            <div class="confidence-bar-fill" id="confidence-bar" style="width: 0%"></div>
+          </div>
+          <div class="confidence-bar-marker"></div>
+        </div>
+      </div>
+
+      <!-- AI Justification -->
+      <div class="section">
+        <div class="section-header">
+          <span class="section-icon">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>
+          </span>
+          <span class="section-title">Justificare AI</span>
+        </div>
+        <div id="justification-content">
+          <div class="skeleton-lines" id="justification-skeleton">
+            <div class="skeleton-line"></div>
+            <div class="skeleton-line"></div>
+            <div class="skeleton-line"></div>
+          </div>
+          <div class="justification-text hidden" id="justification-text"></div>
+        </div>
+      </div>
+
+      <!-- Reasoning Steps -->
+      <div class="reasoning-section">
+        <div class="reasoning-header" id="reasoning-header">
+          <div class="reasoning-left">
+            <span class="section-icon info-icon">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><path d="M12 16v-4"/><path d="M12 8h.01"/></svg>
+            </span>
+            <span class="section-title">Pașii de raționament</span>
+          </div>
+          <div class="reasoning-right">
+            <button class="reasoning-toggle active" id="reasoning-toggle"></button>
+            <span class="reasoning-chevron open" id="reasoning-chevron">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="18 15 12 9 6 15"/></svg>
+            </span>
+          </div>
+        </div>
+        <div id="reasoning-body">
+          <div class="stepper" id="stepper"></div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+<script>
+(function() {
+  const VERDICT_MAP = {
+    'CONFIRMAT': {
+      label: 'ADEVĂRAT', cls: 'verdict-true',
+      iconSvg: '<svg viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>',
+      summary: 'Afirmația este susținută de surse credibile.',
+      subtitle: 'Pe baza dovezilor găsite, afirmația este corectă factual.'
+    },
+    'INFIRMAT': {
+      label: 'FALS', cls: 'verdict-false',
+      iconSvg: '<svg viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>',
+      summary: 'Afirmația este contrazisă de surse credibile.',
+      subtitle: 'Pe baza dovezilor găsite, afirmația este incorectă factual.'
+    },
+    'INSUFICIENT VERIFICAT': {
+      label: 'NEVERIFICAT', cls: 'verdict-unverified',
+      iconSvg: '<svg viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M9.09 9a3 3 0 015.83 1c0 2-3 3-3 3"/><circle cx="12" cy="17" r=".5"/></svg>',
+      summary: 'Afirmația nu a putut fi verificată complet.',
+      subtitle: 'Nu s-au găsit suficiente dovezi pentru a confirma sau infirma afirmația.'
+    }
+  };
+
+  const STEPS = [
+    'Pregătire',
+    'Generarea întrebărilor',
+    'Căutare',
+    'Extragerea răspunsurilor',
+    'Verdict'
+  ];
+
+  // G2/G3: etapele reale emise de pipeline prin SSE → indexul pasului din UI
+  const STAGE_TO_STEP = {
+    'pregatire': 0,
+    'intrebari': 1,
+    'cautare': 2,
+    'analiza': 3,
+    'judecata': 4,
+    'justificare': 4,
+    'finalizat': 4
+  };
+
+  const $ = id => document.getElementById(id);
+
+  const claimInput     = $('claim-input');
+  const checkBtn       = $('check-btn');
+  const errorCard      = $('error-card');
+  const resultCard     = $('result-card');
+  const verdictWrap    = $('verdict-wrapper');
+  const verdictIcon    = $('verdict-icon');
+  const verdictLabel   = $('verdict-label');
+  const verdictSummary = $('verdict-summary');
+  const verdictSubtitle= $('verdict-subtitle');
+  const metaVerdict    = $('meta-verdict');
+  const metaConfidence = $('meta-confidence');
+  const metaChecked    = $('meta-checked');
+  const confidencePct  = $('confidence-pct');
+  const confidenceBar  = $('confidence-bar');
+  const justSkeleton   = $('justification-skeleton');
+  const justText       = $('justification-text');
+  const stepper        = $('stepper');
+  const reasoningHeader= $('reasoning-header');
+  const reasoningBody  = $('reasoning-body');
+  const reasoningToggle= $('reasoning-toggle');
+  const reasoningChevron=$('reasoning-chevron');
+
+  let reasoningInterval = null;
+  let currentStep = 0;
+  let reasoningOpen = true;
+
+  reasoningHeader.addEventListener('click', () => {
+    reasoningOpen = !reasoningOpen;
+    reasoningToggle.classList.toggle('active', reasoningOpen);
+    reasoningChevron.classList.toggle('open', reasoningOpen);
+    reasoningBody.style.display = reasoningOpen ? '' : 'none';
+  });
+
+  function renderSteps() {
+    stepper.innerHTML = '';
+    STEPS.forEach((name, i) => {
+      const step = document.createElement('div');
+      step.className = 'step pending';
+      step.dataset.step = i;
+
+      const connector = document.createElement('div');
+      connector.className = 'step-connector';
+      const connLine = document.createElement('div');
+      connLine.className = 'step-connector-line';
+      connector.appendChild(connLine);
+
+      const circle = document.createElement('div');
+      circle.className = 'step-circle';
+      circle.textContent = i + 1;
+
+      const label = document.createElement('div');
+      label.className = 'step-label';
+      label.textContent = name;
+
+      step.appendChild(connector);
+      step.appendChild(circle);
+      step.appendChild(label);
+      stepper.appendChild(step);
+    });
+  }
+
+  function startReasoningAnimation() {
+    // Pașii nu mai avansează pe un timer fictiv: sunt conduși de
+    // etapele reale ale pipeline-ului primite prin SSE (setStepByProgress).
+    currentStep = 0;
+    renderSteps();
+    advanceStep();
+  }
+
+  // Indexul e monoton (max atins): pipeline-ul alternează natural
+  // căutare ↔ extragere pentru fiecare întrebare, dar stepper-ul nu dă înapoi.
+  function setStepByProgress(msg) {
+    const mapped = STAGE_TO_STEP[msg.stage];
+    if (mapped !== undefined && mapped > currentStep) {
+      currentStep = mapped;
+      advanceStep();
+    }
+    const active = stepper.querySelector('.step.active .step-label');
+    if (active) {
+      active.textContent = STEPS[currentStep] + ' · ' + msg.elapsed + 's';
+      if (msg.detail) active.title = msg.detail;
+    }
+  }
+
+  function advanceStep() {
+    stepper.querySelectorAll('.step').forEach((el, i) => {
+      el.classList.remove('pending', 'active', 'complete');
+      if (i < currentStep) el.classList.add('complete');
+      else if (i === currentStep) el.classList.add('active');
+      else el.classList.add('pending');
+    });
+  }
+
+  function stopReasoningAnimation(success) {
+    if (reasoningInterval) {
+      clearInterval(reasoningInterval);
+      reasoningInterval = null;
+    }
+    if (success) {
+      stepper.querySelectorAll('.step').forEach(el => {
+        el.classList.remove('pending', 'active');
+        el.classList.add('complete');
+      });
+    }
+  }
+
+  function setState(state, data) {
+    if (state === 'idle') {
+      claimInput.disabled = false;
+      checkBtn.disabled = false;
+      checkBtn.classList.remove('loading');
+      errorCard.classList.add('hidden');
+      resultCard.classList.add('hidden');
+    }
+
+    if (state === 'loading') {
+      claimInput.disabled = true;
+      checkBtn.disabled = true;
+      checkBtn.classList.add('loading');
+      errorCard.classList.add('hidden');
+      resultCard.classList.remove('hidden');
+      justSkeleton.classList.remove('hidden');
+      justText.classList.add('hidden');
+
+      verdictWrap.className = 'verdict-section verdict-true';
+      verdictLabel.textContent = '...';
+      verdictIcon.innerHTML = '';
+      verdictSummary.textContent = 'Se analizează afirmația...';
+      verdictSubtitle.textContent = 'Te rugăm să aștepți cât timp verificăm afirmația.';
+      metaVerdict.textContent = '...';
+      metaConfidence.textContent = '...';
+      metaChecked.textContent = '...';
+      confidencePct.textContent = '...';
+      confidenceBar.style.width = '0%';
+      startReasoningAnimation();
+    }
+
+    if (state === 'success') {
+      claimInput.disabled = false;
+      checkBtn.disabled = false;
+      checkBtn.classList.remove('loading');
+      stopReasoningAnimation(true);
+
+      const v = VERDICT_MAP[data.verdict] || VERDICT_MAP['INSUFICIENT VERIFICAT'];
+      verdictWrap.className = 'verdict-section ' + v.cls;
+      verdictLabel.textContent = v.label;
+      verdictIcon.innerHTML = v.iconSvg;
+      verdictSummary.textContent = v.summary;
+      verdictSubtitle.textContent = v.subtitle;
+      metaVerdict.textContent = v.label;
+
+      const confVal = data.confidence != null ? Math.round(data.confidence * 100) : null;
+      const confStr = confVal != null ? confVal + '%' : 'N/A';
+      metaConfidence.textContent = confStr;
+      confidencePct.textContent = confStr;
+      confidenceBar.style.width = (confVal != null ? confVal : 0) + '%';
+
+      const now = new Date();
+      metaChecked.textContent = now.toLocaleDateString('ro-RO', { day: 'numeric', month: 'short', year: 'numeric' })
+        + ' • ' + now.toLocaleTimeString('ro-RO', { hour: '2-digit', minute: '2-digit' });
+
+      justSkeleton.classList.add('hidden');
+      justText.classList.remove('hidden');
+      justText.textContent = data.justification || 'Nu există justificare disponibilă.';
+    }
+
+    if (state === 'error') {
+      claimInput.disabled = false;
+      checkBtn.disabled = false;
+      checkBtn.classList.remove('loading');
+      stopReasoningAnimation(false);
+      resultCard.classList.add('hidden');
+      errorCard.classList.remove('hidden');
+      errorCard.textContent = data || 'A apărut o eroare neașteptată.';
+    }
+  }
+
+  // G3: aliniat la fluxul SSE /chat/stream (identic cu index.html,
+  // mai puțin randarea surselor — scopul acestei variante UX)
+  async function checkClaim(claimText) {
+    setState('loading');
+
+    try {
+      const response = await fetch('/chat/stream', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          messages: [{ role: 'user', content: claimText }]
+        })
+      });
+
+      if (!response.ok || !response.body) {
+        let detail = 'Eroare de server (' + response.status + ')';
+        try {
+          const err = await response.json();
+          if (err.detail) detail = typeof err.detail === 'string' ? err.detail : JSON.stringify(err.detail);
+        } catch(e) {}
+        throw new Error(detail);
+      }
+
+      const reader = response.body.getReader();
+      const decoder = new TextDecoder();
+      let buffer = '';
+      let finished = false;
+
+      while (!finished) {
+        const { value, done } = await reader.read();
+        if (done) break;
+        buffer += decoder.decode(value, { stream: true });
+
+        let sep;
+        while ((sep = buffer.indexOf('\n\n')) !== -1) {
+          const rawEvent = buffer.slice(0, sep);
+          buffer = buffer.slice(sep + 2);
+
+          const line = rawEvent.split('\n').find(l => l.startsWith('data: '));
+          if (!line) continue;
+          const payload = line.slice(6).trim();
+          if (payload === '[DONE]') { finished = true; break; }
+
+          let msg;
+          try { msg = JSON.parse(payload); } catch(e) { continue; }
+
+          if (msg.type === 'progress') {
+            setStepByProgress(msg);
+          } else if (msg.type === 'result') {
+            setState('success', msg.data);
+            finished = true;
+            break;
+          } else if (msg.type === 'error') {
+            throw new Error(msg.message || 'Verificarea a eșuat.');
+          }
+        }
+      }
+    } catch (err) {
+      if (err instanceof TypeError) {
+        setState('error', 'Eroare de rețea — verifică dacă serverul rulează și încearcă din nou.');
+      } else {
+        setState('error', err.message);
+      }
+    }
+  }
+
+  checkBtn.addEventListener('click', () => {
+    const claim = claimInput.value.trim();
+    if (claim) checkClaim(claim);
+  });
+
+  claimInput.addEventListener('keydown', (e) => {
+    if (e.key === 'Enter') {
+      const claim = e.target.value.trim();
+      if (claim) checkClaim(claim);
+    }
+  });
+
+  renderSteps();
+})();
+</script>
+</body>
+</html>

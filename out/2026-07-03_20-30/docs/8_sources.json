@@ -1,0 +1,152 @@
+[
+  {
+    "url": "https://adevarul.ro/stiri-locale/craiova/ipoteza-socanta-in-cazul-tanarului-tratat-de-tbc-845684.html",
+    "question": null,
+    "domain": "adevarul.ro",
+    "tier": "trusted",
+    "trust_score": 80.0,
+    "title": "Ipoteză şocantă în cazul tânărului tratat de TBC, care a murit",
+    "snippet": "Acesta a precizat că nu era posibil ca Sorin să fi avut TBC \"pentru că bacilul Koch (bacterie care cauzează tuberculoza - n.r.) se găseşte ...",
+    "reason": "Sursă recunoscută cu scor 80/100 din lista de surse de încredere."
+  },
+  {
+    "url": "https://ro.wikipedia.org/wiki/Tuberculoz%C4%83",
+    "question": null,
+    "domain": "ro.wikipedia.org",
+    "tier": "trusted",
+    "trust_score": 72.0,
+    "title": "Tuberculoză",
+    "snippet": "Tuberculoza se transmite prin aer, când persoanele care suferă de forme active de TBC tușesc, strănută sau elimină spută în aer (picăturile Flügge). Cele mai ...",
+    "reason": "Sursă recunoscută cu scor 72/100 din lista de surse de încredere."
+  },
+  {
+    "url": "https://vaccination-info.europa.eu/ro/tbc",
+    "question": null,
+    "domain": "vaccination-info.europa.eu",
+    "tier": "unknown",
+    "trust_score": 79.9,
+    "title": "TBC - European Vaccination Information Portal",
+    "snippet": "Boală de plămâni cauzată de o bacterie · TBC-ul se răspândește prin aer · Peste 30 000 de cazuri și 3 000 de decese anual · Recuperarea după TBC poate dura mai ...",
+    "reason": "Domeniu necunoscut. Subdomeniu al sursei de încredere europa.eu."
+  },
+  {
+    "url": "https://www.medicover.ro/despre-sanatate/tuberculoza-simptome-investigatii-metode-de-tratament,526,n,295",
+    "question": "Este tuberculoza un tip de boală?",
+    "domain": "medicover.ro",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Tuberculoza - simptome, investigatii, metode de tratament - Medicover",
+    "snippet": "Tuberculoza este o boala contagioasa transmisa aerogen, fara risc prin obiecte sau atingere. Simptomele variaza in functie de localizare si ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://www.aktifinternational.com/ro/care-sunt-metodele-de-tratament-pentru-tuberculoza",
+    "question": null,
+    "domain": "aktifinternational.com",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Care sunt metodele de tratament pentru tuberculoză?",
+    "snippet": "Da, tuberculoza este o boală contagioasă. Cu toate acestea, nu toată lumea are același risc de a contracta această boală. După cum s-a ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://www.medbox.org/index.php/dl/5e148832db60a2044c2d4420",
+    "question": null,
+    "domain": "medbox.org",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "[PDF] TUBERCULOZA - medbox.org",
+    "snippet": "Tuberculoza este o boală contagioasă, ce se transmite pe cale aeriană, de la un bolnav de tuberculoză pulmonară la o persoană neinfectată, susceptibilă ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://www.facebook.com/scanmedclinicamedicala/photos/tuberculoza-tbc-este-o-boal%C4%83-infec%C8%9Bioas%C4%83-cauzat%C4%83-de-bacteria-mycobacterium-tuber/621364013833409",
+    "question": null,
+    "domain": "facebook.com",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Scanmed - Tuberculoza (TBC) este o boală infecțioasă cauzată de ...",
+    "snippet": "Tuberculoza este o boala contagioasa produsa de bacilul Koch care a fost descoperit de Robert Koch ( 1843-1910)de societatea de fiziologie de Mycobacterium ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "http://amtriscani.md/ziua-mondiala-a-tuberculozei",
+    "question": null,
+    "domain": "amtriscani.md",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Ziua Mondială de Combatere a Tuberculozei - AMT Rîșcani",
+    "snippet": "Tuberculoza este o boală contagioasă care se poate trata dacă este depistată la timp. Vindecarea însă nu asigură și imunitatea pentru o ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://www.medlife.ro/glosar-medical/afectiuni-medicale/tuberculoza-cauze-simptome-tratament",
+    "question": null,
+    "domain": "medlife.ro",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Tuberculoza",
+    "snippet": "Cauze, simptome, diagnosticare, tratament: Tuberculoza (sau TBC) este cauzată de un microorganism bacterian, bacilul de tuberculi sau Mycobacterium tuberculosis. Este o boală care există de mii de ani, ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://www.catena.ro/tuberculoza-tbc-transmitere-simptome-tratament-si-prevenire",
+    "question": null,
+    "domain": "catena.ro",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Despre tuberculoza, cum se transmite, simptome si preventie",
+    "snippet": "Tuberculoza este o boala infectioasa cauzata de bacteria Mycobacterium tuberculosis si cel mai frecvent implica afectarea pulmonara. Vorbim ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://www.drmax.ro/articole/tuberculoza-cauze-simptome-transmitere-si-tratament",
+    "question": "Exista tratament efectiv pentru tuberculoză?",
+    "domain": "drmax.ro",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Tuberculoza",
+    "snippet": "cauze, simptome, transmitere si tratament: Bacteria Mycobacterium tuberculosis, numita si bacilul Koch, dupa numele descoperitorului ei, este responsabila pentru aparitia tuberculozei.",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://bioclinica.ro/blog/boli-infectioase/tuberculoza-factori-de-risc-diagnostic-tratament-preventie",
+    "question": null,
+    "domain": "bioclinica.ro",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Tuberculoza",
+    "snippet": "Factori de risc, diagnostic, tratament, prevenție: Tuberculoza (TBC) este o boală infecțioasă provocată de bacteria Mycobacterium tuberculosis, care se transmite predominant pe cale aeriană.",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://marius-nasta.ro/ghidul-pacientului/tuberculoza",
+    "question": null,
+    "domain": "marius-nasta.ro",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "TUBERCULOZA - Marius Nasta",
+    "snippet": "Transmiterea tuberculozei se face aproape exclusiv respirator, prin ... Boala nu se transmite prin contactul cu obiectele sau hainele purtate de bolnavul cu ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://www.reginamaria.ro/utile/dictionar-de-afectiuni/tuberculoza-tbc",
+    "question": null,
+    "domain": "reginamaria.ro",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Tuberculoza (TBC)",
+    "snippet": "Ce este? Cauze, simptome și tratament: Tuberculoza este o afectiune contagioasa, potential fatala daca este netratata, care afecteaza de obicei plamanii, desi poate afecta aproape orice organ din ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://www.york.ca/media/94486/download",
+    "question": null,
+    "domain": "york.ca",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "[PDF] Tuberculoza – TBC",
+    "snippet": "Tuberculoza este o boală contagioasă provocată de microbii TBC. Tuberculoza atacă de obicei plămânii, dar poate afecta orice parte a corpului. Tuberculoza ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  }
+]

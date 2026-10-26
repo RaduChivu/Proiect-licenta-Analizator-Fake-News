@@ -1,0 +1,12 @@
+[
+  {
+    "url": "https://ro.wikipedia.org/wiki/Europa",
+    "question": "Este Moscova situata în Europa?",
+    "domain": "ro.wikipedia.org",
+    "tier": "trusted",
+    "trust_score": 72.0,
+    "title": "Europa",
+    "snippet": "Europa este un continent situat în întregime în emisfera nordică și în cea mai mare parte în emisfera estică. Cuprinde cea mai vestică parte a Eurasiei și este mărginită de Oceanul Arctic la nord, Oceanul Atlantic la vest, Marea Mediterană la sud și de Asia la est. Europa este considerată în mod obișnuit separată de Asia de bazinul hidrografic al Munților Ural, râul Ural, Marea Caspică, Caucazul Mare, Marea Neagră, și căile navigabile ale strâmtorii turcești. Cu toate acestea, granițele pentru Europa, un concept care datează din antichitatea clasică, sunt oarecum arbitrare, deoarece termenul „Europa” se poate referi la o distincție culturală, politică sau geografică.\nEuropa acoperă aproximativ 10.180.000 km2 sau 2 % din suprafața Pământului (6,8 % din suprafața terestră), fiind penultimul continent ca mărime.",
+    "reason": "Sursă recunoscută cu scor 72/100 din lista de surse de încredere."
+  }
+]

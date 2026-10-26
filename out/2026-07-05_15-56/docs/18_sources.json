@@ -1,0 +1,152 @@
+[
+  {
+    "url": "https://www.factual.ro",
+    "question": null,
+    "domain": "factual.ro",
+    "tier": "trusted",
+    "trust_score": 88.0,
+    "title": "Factual.ro - Factual • Adevărul din politică",
+    "snippet": "Factual este prima platformă independentă de fact-checking din România. Verificăm declarațiile politicienilor și impactul dezinformării publice.",
+    "reason": "Sursă recunoscută cu scor 88/100 din lista de surse de încredere."
+  },
+  {
+    "url": "https://www.veridica.ro",
+    "question": null,
+    "domain": "veridica.ro",
+    "tier": "trusted",
+    "trust_score": 88.0,
+    "title": "Veridica",
+    "snippet": "Platformă anti dezinformare și fake news - analize, știri ...: Veridica este o publicație specializată în monitorizarea, analiza și demontarea campaniilor de fake news, dezinformare și manipulare din Europa Centrală și ...",
+    "reason": "Sursă recunoscută cu scor 88/100 din lista de surse de încredere."
+  },
+  {
+    "url": "https://ro.wikipedia.org/wiki/0_(cifr%C4%83)",
+    "question": "Este numărul zero definit ca fiind un număr întreg?",
+    "domain": "ro.wikipedia.org",
+    "tier": "trusted",
+    "trust_score": 72.0,
+    "title": "0 (cifră)",
+    "snippet": "Zero înseamnă, primordial în matematică, dar nu numai în matematică, absența oricărei cantități. Trăind într-o lume materială, omului i-a fost foarte greu să înțeleagă noțiunea de zero ca un concept.\nTotuși, matematicienii și filozofii marilor civilizații ale omenirii au conceptualizat că ne-existența unei cantități reale trebuie să aibă o identitate clară, de sine stătătoare.\nNici grecii antici, dar nici romanii nu recunoșteau zero ca fiind o cifră. \nProbabil că în India, acum circa 4500 de ani, se găsește prima documentare a necesității existenței cifrei zero, cu semnificația de gol, nimic sau absența a ceva ce există.",
+    "reason": "Sursă recunoscută cu scor 72/100 din lista de surse de încredere."
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Ro_(company)",
+    "question": null,
+    "domain": "en.wikipedia.org",
+    "tier": "trusted",
+    "trust_score": 72.0,
+    "title": "Ro (company) - Wikipedia",
+    "snippet": "Ro is an American telehealth company that diagnoses patients, and subsequently prescribes and delivers treatments and ongoing care.",
+    "reason": "Sursă recunoscută cu scor 72/100 din lista de surse de încredere."
+  },
+  {
+    "url": "https://guvernometru.factual.ro",
+    "question": null,
+    "domain": "guvernometru.factual.ro",
+    "tier": "unknown",
+    "trust_score": 74.8,
+    "title": "Guvernometru",
+    "snippet": "Monitorizăm câte face guvernul din cele pe care a promis că le va face. Home · Metodologie · Factual.ro. Realizate: 240. 21.41%.",
+    "reason": "Domeniu necunoscut. Subdomeniu al sursei de încredere factual.ro."
+  },
+  {
+    "url": "https://blog.factual.ro/category/analize",
+    "question": null,
+    "domain": "blog.factual.ro",
+    "tier": "unknown",
+    "trust_score": 74.8,
+    "title": "Categorie",
+    "snippet": "Analize - Blogul Factual: Purtătorul de cuvânt al IGPR, Octavian Dan, ne-a transmis comunicatul inițial și a precizat că falsul a fost identificat pe mai multe conturi de Facebook. Dan a ...",
+    "reason": "Domeniu necunoscut. Subdomeniu al sursei de încredere factual.ro."
+  },
+  {
+    "url": "https://brainly.ro/tema/8279086",
+    "question": null,
+    "domain": "brainly.ro",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "a) Produsul a două numere întregi ... este un număr întreg pozitiv.b ...",
+    "snippet": "c) Produsul dintre un număr întreg şi zero este .... d) Produsul a două numere întregi este zero, dacă cel puţin din tobel si puneti rezultatul în linia N ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://www.scribd.com/document/501397322/Mate-2000-Volum-2",
+    "question": null,
+    "domain": "scribd.com",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Mate 2000 Volum 2 | PDF - Scribd",
+    "snippet": "¢) Produsul dintre un numar intreg si zero este . 4) Produsul a doud numere intregi este zero, dacd cel putin .. 6. Efectuati operatiile din tabel si puneti ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://www.reddit.com/r/mathmemes/comments/yr5zsv/we_were_taught_zero_is_a_whole_number/?tl=ro",
+    "question": null,
+    "domain": "reddit.com",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Ni s-a predat că zero este un număr întreg.",
+    "snippet": "r/mathmemes - Reddit: Ni s-a predat că zero este un număr întreg. Set Theory. r/mathmemes - Ni s-a predat că zero este un ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://capli.wenda.cx.ua/articles/este-un-neintreg-un-numar-natural.html",
+    "question": null,
+    "domain": "capli.wenda.cx.ua",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Este un neîntreg un număr natural | capli.wenda.cx.ua",
+    "snippet": "Iată numerele care se numesc numere naturale: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13. Ce anume nu este un număr natural: Zero este un număr întreg...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://www.rapidtables.org/ro/math/number/zero-number.html",
+    "question": null,
+    "domain": "rapidtables.org",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Număr zero (0)",
+    "snippet": "Deci zero este un număr întreg. Este zero un număr rațional? Un număr rațional este un număr care poate fi exprimat ca coeficientul a două numere întregi: ℚ ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://www.scientia.ro/fizica/4042-de-ce-e-supersimetria-extraordinara.html",
+    "question": null,
+    "domain": "scientia.ro",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Supersimetria pe înţelesul tuturor - Scientia.ro",
+    "snippet": "Pentru că bosonul Higgs are spin zero, iar zero este un număr întreg, bosonul Higgs a fost plasat în clasa bosonilor. Aceste diferenţe par a ... (data publicării: 17 oct. 2012)",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://ro.co",
+    "question": null,
+    "domain": "ro.co",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Ro - Weight loss, better sex, fuller hair, improved skin and more online",
+    "snippet": "Ro is a telehealth company connecting patients with US-licensed professionals entirely online. Get treatment now for weight loss, sexual health, hair loss, ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://www.linkedin.com/company/ro",
+    "question": null,
+    "domain": "linkedin.com",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Ro | LinkedIn",
+    "snippet": "Ro is a direct-to-patient healthcare company with a mission of helping patients achieve their health goals by delivering the easiest, most effective care ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://x.com/ro",
+    "question": null,
+    "domain": "x.com",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Ro (@ro) / Posts / X - Twitter",
+    "snippet": "Ro is the leading provider of branded GLP-1s in the country. Importantly, that leadership has been driven more by product performance than by brand awareness.",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  }
+]

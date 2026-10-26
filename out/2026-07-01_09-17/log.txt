@@ -1,0 +1,6 @@
+Se selectează 'web_search' ca opțiune de rezervă dacă nu poate fi identificată nicio acțiune.
+Conținut de verificat:
+'Content: "Romania joined the European Union on January 1st, 2007."'
+Se verifică afirmațiile...
+Answering question: A fost adoptata o decizie oficială privind aderarea Romaniei la Uniunea Europeană?
+Se caută în google cu interogarea: "Decizia de admitere a României în UE din 2006"

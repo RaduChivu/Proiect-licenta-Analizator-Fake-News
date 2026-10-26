@@ -1,0 +1,9 @@
+Se selectează 'web_search' ca opțiune de rezervă dacă nu poate fi identificată nicio acțiune.
+Conținut de verificat:
+'Content: "Mount Kilimanjaro has permanent snow on its peak."'
+Se verifică afirmațiile...
+Answering question: Este Muntele Kilimandarao un munte care are vârfuri acoperite cu zăpadă?
+Se caută în google cu interogarea: "Vârfurile Mount Kilimanjaro sunt acoperite de zăpadă în mod constant"
+Conținut de verificat:
+'Content: "Is Mount Kilimanjaro covered with snow all year round?"'
+Se verifică afirmațiile...

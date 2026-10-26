@@ -1,0 +1,152 @@
+[
+  {
+    "url": "https://ro.wikipedia.org/wiki/Num%C4%83r_%C3%AEntreg",
+    "question": null,
+    "domain": "ro.wikipedia.org",
+    "tier": "trusted",
+    "trust_score": 72.0,
+    "title": "Număr întreg",
+    "snippet": "Numerele întregi sunt o mulțime compusă din numerele naturale {1, 2, 3, 4, ...}, împreună cu negativele acestora {−1, −2, −3, −4, ...} și cu numărul zero.",
+    "reason": "Sursă recunoscută cu scor 72/100 din lista de surse de încredere."
+  },
+  {
+    "url": "https://www.reddit.com/r/math/comments/8b1yxn/7th_grade_math_teacher_positive_and_negative/?tl=ro",
+    "question": "Ce sunt considerate criteriile pentru a determina dacă un număr este pozitiv sau negativ?",
+    "domain": "reddit.com",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Profesor de matematică de clasa a 7-a",
+    "snippet": "numere întregi ...: Elevii mei se pregătesc pentru testul standardizat de stat și astăzi ne-am concentrat pe combinarea valorilor pozitive și negative. Am ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=JCRqT2JpYrA",
+    "question": null,
+    "domain": "youtube.com",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Numere pozitive si numere negative - RO",
+    "snippet": "In acest scurt tutorial vei afla cum se scriu numerele in baza 10 si care este semnificatia fiecarei pozitii pe care o ocupa o cifra in ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://mquest.ro/home/learnunitnew?id=132",
+    "question": null,
+    "domain": "mquest.ro",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Mulțimea numerelor întregi",
+    "snippet": "Toate numerele pozitive sunt mai mari decât zero. Orice num ăr pozitiv este mai mare decât orice număr negativ. Exemplu: Ionel are o datorie de 100 de ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://scoalavirtuala.ro/numere-intregi-recapitulare-completa",
+    "question": null,
+    "domain": "scoalavirtuala.ro",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Numere întregi — recapitulare completă",
+    "snippet": "Ce sunt numerele întregi și cum le vizualizezi. Numerele întregi sunt toate numerele fără virgulă — pozitive, negative și zero. Mulțimea lor ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://ro.scribd.com/document/926404037/numerele-clasificare",
+    "question": null,
+    "domain": "ro.scribd.com",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Numerele Clasificare | PDF",
+    "snippet": "Documentul prezintă o clasificare a diferitelor tipuri de numere. Arată că numerele se împart în numere reale și numere complexe, iar numerele reale sunt ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://ro.khanacademy.org/math/c6-drumul-maiestriei/x5ebe63ae4c16d421:algebra-modulul-1/x5ebe63ae4c16d421:numere-intregi/v/introduction-to-negative-numbers",
+    "question": null,
+    "domain": "ro.khanacademy.org",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Introducere în numere negative (videoclip)",
+    "snippet": "Facem introducerea în numere negative folosind o axă a numerelor și exemple din viața reală.",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://brainly.ro/tema/6940145",
+    "question": null,
+    "domain": "brainly.ro",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "scrieti un algoritm care verifica daca un numar intreg x este ...",
+    "snippet": "Răspuns: #include <iostream>. using namespace std;. int mai(). {. int x;. cin >> x;. if (x>0). cout << \"pozitiv\";. else. cout << \"negativ\";.",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://edu.litera.ro/manuale/2023_MAT6/pagini/pagina107/index.html",
+    "question": null,
+    "domain": "edu.litera.ro",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Regula semnelor la înmulțirea numerelor raționale",
+    "snippet": "1. Produsul oricăror două numere raționale, ambele pozitive sau ambele negative este un număr rațional pozitiv. Dacă x > 0 și y > 0 sau x < 0 ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://www.mathnasium.com/math-terms/zero",
+    "question": "Cum sunt tratate operațiunile cu numerele zero în calculul algebric și geometric?",
+    "domain": "mathnasium.com",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "What Is Zero? Kid-Friendly Math Definitions - Mathnasium",
+    "snippet": "Grades 6+ – Zero in Algebra and Beyond. Students explore zero as a solution to equations, as the origin on the coordinate plane, and as a key concept in ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://www.tiktok.com/@drmuellersvoice/video/7600103300867968287",
+    "question": null,
+    "domain": "tiktok.com",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Understanding Why We Can't Divide by Zero in Algebra - TikTok",
+    "snippet": "#mathteacher #teachersoftiktok #algebra #math. Keywords: why can't you divide by zero in algebra,division by zero explained,mathematical ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://math.stackexchange.com/questions/3759918/when-is-it-allowed-to-multiply-with-zero-in-algebra",
+    "question": null,
+    "domain": "math.stackexchange.com",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "When is it allowed to multiply with zero in algebra",
+    "snippet": "When is it allowed to multiply with zero in algebra · In your first example, x would have to approach infinity for it to be true. · The equation 7 ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://www.facebook.com/groups/43656089410/posts/10152394878969411",
+    "question": null,
+    "domain": "facebook.com",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "What's the meaning of dividing by zero on calculators? - Facebook",
+    "snippet": "... zero. In algebra, when there is a variable in the denominator, the variable is not allowed to equal anything that would result in the ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://chond.ondo.cx.ua/articles/sunt-un-zero-la-geometrie.html",
+    "question": null,
+    "domain": "chond.ondo.cx.ua",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Sunt un zero la geometrie | chond.ondo.cx.ua",
+    "snippet": "Zero (0, zero din latinescul nullus - niciunul) este un număr întreg care, atunci când se adaugă la orice număr... 1.4 Zero în geometrie; 1.5 Zero în analiza ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://ro.alegsaonline.com/art/27817",
+    "question": null,
+    "domain": "ro.alegsaonline.com",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Împărțirea cu zero - AlegsaOnline.com",
+    "snippet": "Împărțirea cu zero · Cuprins · Probe incorecte bazate pe împărțirea la zero · Calculul · Diviziunea cu zero în calculatoare · Diviziunea cu zero în geometrie.",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  }
+]

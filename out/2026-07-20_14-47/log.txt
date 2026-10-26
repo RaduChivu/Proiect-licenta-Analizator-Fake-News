@@ -1,0 +1,4 @@
+Se selectează 'web_search' ca opțiune de rezervă dacă nu poate fi identificată nicio acțiune.
+Conținut de verificat:
+'Content: "Turnul Eiffel este un obiectiv turistic din Romania"'
+Se verifică afirmațiile...

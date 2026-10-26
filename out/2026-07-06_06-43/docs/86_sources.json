@@ -1,0 +1,12 @@
+[
+  {
+    "url": "https://ro.wikipedia.org/wiki/DVD",
+    "question": "Este citirea în lumină slabă definită ca o tehnică specifică de lectură?",
+    "domain": "ro.wikipedia.org",
+    "tier": "trusted",
+    "trust_score": 72.0,
+    "title": "DVD",
+    "snippet": "DVD (în engleză Digital Video Disc sau Digital Versatile Disc) este un mediu de stocare optic succesor al CD-ului, cu o capacitate de aproape 7 ori mai mare, lărgind aria de aplicație a acestora. DVD permite stocarea de filme în format digital de înaltă fidelitate pe suport de tip disc compact. Discurile DVD au fost introduse în Japonia și Coreea în 1996, iar în SUA și Europa în 1997.",
+    "reason": "Sursă recunoscută cu scor 72/100 din lista de surse de încredere."
+  }
+]

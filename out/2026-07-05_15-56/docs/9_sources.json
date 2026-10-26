@@ -1,0 +1,152 @@
+[
+  {
+    "url": "https://www.factual.ro",
+    "question": null,
+    "domain": "factual.ro",
+    "tier": "trusted",
+    "trust_score": 88.0,
+    "title": "Factual.ro - Factual • Adevărul din politică",
+    "snippet": "Factual este prima platformă independentă de fact-checking din România. Verificăm declarațiile politicienilor și impactul dezinformării publice.",
+    "reason": "Sursă recunoscută cu scor 88/100 din lista de surse de încredere."
+  },
+  {
+    "url": "https://www.veridica.ro/stiri/temperatura-oceanelor-a-atins-un-nivel-record-in-luna-iunie",
+    "question": null,
+    "domain": "veridica.ro",
+    "tier": "trusted",
+    "trust_score": 88.0,
+    "title": "Temperatura oceanelor a atins un nivel record în luna iunie - Veridica",
+    "snippet": "Oceanul Pacific tropical şi Marea Mediterană au fost cele mai afectate. Fiind o mare închisă, foarte sensibilă la schimbările atmosferice ... (data publicării: acum 4 zile)",
+    "reason": "Sursă recunoscută cu scor 88/100 din lista de surse de încredere."
+  },
+  {
+    "url": "https://www.digi24.ro/stiri/externe/oamenii-de-stiinta-explica-ce-s-ar-intampla-in-primele-momente-dupa-detonarea-unei-bombe-cu-hidrogen-in-pacific-800298",
+    "question": null,
+    "domain": "digi24.ro",
+    "tier": "trusted",
+    "trust_score": 85.0,
+    "title": "Oamenii de știință explică ce s-ar întâmpla în primele momente ...",
+    "snippet": "... volumul Oceanului Pacific este mult prea mare pentru ca elementele radioactive să reprezinte o amenințare meteorologică severă. Totuși, cel ... (data publicării: 27 sept. 2017)",
+    "reason": "Sursă recunoscută cu scor 85/100 din lista de surse de încredere."
+  },
+  {
+    "url": "https://ro.wikipedia.org/wiki/Oceanul_Pacific",
+    "question": "Este Oceanul Pacific un ocean recunoscut oficial de organisme internaționale sau guverne?",
+    "domain": "ro.wikipedia.org",
+    "tier": "trusted",
+    "trust_score": 72.0,
+    "title": "Oceanul Pacific - Wikipedia",
+    "snippet": "Oceanul Pacific (de la numele latin Mare Pacificum = mare liniștită) este cel mai mare ocean din lume, acoperind aproximativ 33% din suprafața Pământului.",
+    "reason": "Sursă recunoscută cu scor 72/100 din lista de surse de încredere."
+  },
+  {
+    "url": "https://tile.loc.gov/storage-services/master/gdc/gdcebookspublic/20/19/27/92/10/2019279210/2019279210.pdf",
+    "question": null,
+    "domain": "tile.loc.gov",
+    "tier": "unknown",
+    "trust_score": 75.0,
+    "title": "[PDF] ENCICLOPEDIA GEOGRAFICĂ A ROMÂNIEI - Loc",
+    "snippet": "... Oceanul Atlantic, Oceanul Arctic şi Munţii Ural şi la numai 1 050 km Nord de Marea Mediterană. Suprafaţa: 238 391 km2 (locul 11 în Europa şi ... (data publicării: 1 ian. 2015)",
+    "reason": "Domeniu necunoscut. TLD oficial/guvernamental (.gov)."
+  },
+  {
+    "url": "https://oceanservice.noaa.gov/facts/pacific.html",
+    "question": null,
+    "domain": "oceanservice.noaa.gov",
+    "tier": "unknown",
+    "trust_score": 75.0,
+    "title": "How did the Pacific Ocean get its name?",
+    "snippet": "Explorer Ferdinand Magellan named the Pacific Ocean in the 16th century. ... Covering approximately 155 million square kilometers (59 million ... (data publicării: 16 iun. 2024)",
+    "reason": "Domeniu necunoscut. TLD oficial/guvernamental (.gov)."
+  },
+  {
+    "url": "https://bhav.gitta.cx.ua/articles/povestea-oceanului-pacific-pentru-clasa-a-iii-a.html",
+    "question": null,
+    "domain": "bhav.gitta.cx.ua",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Povestea Oceanului Pacific pentru clasa a III-a | bhav.gitta.cx.ua",
+    "snippet": "Suprafața Oceanului Pacific este de 178,6 milioane de metri pătrați. km, ceea ce corespunde cu 1/3 din suprafața întregului... Vezi mai mult · Legendele lui ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://www.reddit.com/r/interestingasfuck/comments/mks2t6/a_differently_centered_world_map_helps_show_just/?tl=ro",
+    "question": null,
+    "domain": "reddit.com",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "O hartă a lumii cu centrul diferit arată cât de imens este Oceanul ...",
+    "snippet": "114 votes, 12 comments. Calcul pentru probabilitatea de 1/3: Suprafața Oceanului Pacific: 165.200.000 km2 Suprafața Pământului: 510.072.000 ... (data publicării: 5 apr. 2021)",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://ro.scribd.com/presentation/543340810/%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F-Microsoft-Office-PowerPoint",
+    "question": null,
+    "domain": "ro.scribd.com",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Презентация Microsoft Office PowerPoint | PDF - Scribd",
+    "snippet": "emisfera nordică. Caracteristici. Suprafața oceanului Pacific este - socotind și mările secundare - 181,34 milioane km², sau, fără acestea, 166,24 milioane ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://www.libertatea.ro/lifestyle/oceanul-pacific-curiozitati-mai-mare-ocean-lume-3921010",
+    "question": null,
+    "domain": "libertatea.ro",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Oceanul Pacific - Curiozități și Lucruri Impresionante Despre Cel ...",
+    "snippet": "Suprafața oceanului Pacific este de 166,24 milioane km pătrați, ceea ce constituie aproximativ 35 % din suprafața totală a Pământului sau ... (data publicării: 10 ian. 2022)",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://www.scribd.com/presentation/485368316/Oceanul-Pacific-proiect-geografie-pptx",
+    "question": null,
+    "domain": "scribd.com",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Oceanul Pacific Proiect Geografie | PDF - Scribd",
+    "snippet": "volumul Oceanului Pacific. • Spre deosebire de Oceanul Atlantic care era foarte puţin cunoscut. pană la călătoriile lui Cristofor Columb,Oceanul Pacific a ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://www.cunoastelumea.ro/lumea-miraculoasa-a-oceanului-planetar-stiati-ca-oceanul-pacific-are-un-volum-comparabil-cu-al-lunii-sau-ca-90-din-activitatea-vulcanica-a-terrei-se-desfasoara-in-oceane",
+    "question": null,
+    "domain": "cunoastelumea.ro",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Lumea miraculoasă a Oceanului Planetar. Știați că Oceanul Pacific ...",
+    "snippet": "Volumul satelitului natural al Pământului este aproximativ același cu volumul Oceanului Pacific. Trebuie adăugat că există o teorie potrivit căreia Luna s ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://starsibian.ro/8-iunie-ziua-mondiala-a-oceanului-planetar",
+    "question": null,
+    "domain": "starsibian.ro",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "8 iunie- Ziua Mondială a Oceanului Planetar - Star Sibian",
+    "snippet": "• Volumul satelitului natural al Pământului este aproximativ același cu volumul Oceanului Pacific? Trebuie adăugat că există o teorie ... (data publicării: 8 iun. 2020)",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=bxIV_itPWkU",
+    "question": null,
+    "domain": "youtube.com",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "The Greatest Mysteries of the Pacific Ocean - Nat Geo - YouTube",
+    "snippet": "... com/3COE87q Explore the World with National Geographic subscriptions: http://natgeo.com/ytngmagazine ➡ Subscribe: https://on.natgeo.com ... (data publicării: 2 aug. 2025)",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://www.britannica.com/place/Pacific-Ocean",
+    "question": null,
+    "domain": "britannica.com",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Pacific Ocean | Depth, Temperature, Animals, Location, Map, & Facts",
+    "snippet": "The Pacific Ocean is a body of salt water extending from the Antarctic region in the south to the Arctic in the north and lying between the ... (data publicării: 21 iun. 2026)",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  }
+]

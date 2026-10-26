@@ -1,0 +1,2 @@
+No search engine specified. Using google + wiki_ro.
+Selecting web_search as fallback option if no action can be matched.

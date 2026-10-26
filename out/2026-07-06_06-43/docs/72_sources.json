@@ -1,0 +1,12 @@
+[
+  {
+    "url": "https://ro.wikipedia.org/wiki/Hematologie",
+    "question": "Este hemoglobina efectiv o proteină?",
+    "domain": "ro.wikipedia.org",
+    "tier": "trusted",
+    "trust_score": 72.0,
+    "title": "Hematologie",
+    "snippet": "Hematologia este ramura medicinei interne care se ocupă cu sângele, organele care îl produc și bolile acestuia. Hematologia include studiul etiologiei, diagnosticării, tratării, identificării posibilelor complicații si profilaxiei bolilor sangvine. Medicul de laborator este cel care realizează toate testele necesare studiului sângelui.\nBolile sangvine afectează producerea sângelui și/sau a componentelor acestuia, cum ar fi celulele sangvine (hematii, tromobocite si leucocite), hemoglobina, proteine sangvine(ex. albumine, globuline, TGP, TGO, factori ai coagulării, imunoglobuline, anticorpi, transferina, ceruloplasmina, etc), mecanismele coagularii, etc.",
+    "reason": "Sursă recunoscută cu scor 72/100 din lista de surse de încredere."
+  }
+]

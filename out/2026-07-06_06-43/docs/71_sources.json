@@ -1,0 +1,12 @@
+[
+  {
+    "url": "https://ro.wikipedia.org/wiki/Tehnologie",
+    "question": "Este sistemul digestiv definit ca fiind compus numai din organe care procesează alimentele?",
+    "domain": "ro.wikipedia.org",
+    "tier": "trusted",
+    "trust_score": 72.0,
+    "title": "Tehnologie",
+    "snippet": "Tehnologie („știința meșteșugurilor”, din greaca veche τέχνη, techne, „artă, pricepere, abilitate a mâinii”; și -λογία, -logia) este suma tehnicilor, abilităților, metodelor și proceselor utilizate în producția de bunuri sau servicii sau în realizarea obiectivelor, cum ar fi cercetarea științifică.\nTehnologia poate fi cunoașterea tehnicilor, proceselor și altele asemenea sau poate fi încorporată în mașini pentru a permite funcționarea fără cunoștințe detaliate despre funcționarea lor. Sistemele (de exemplu, mașinile) care aplică tehnologia și produc un rezultat sunt denumite sisteme tehnologice.\nCea mai simplă formă de tehnologie este dezvoltarea și utilizarea instrumentelor de bază. Invenția preistorică de unelte din piatră fasonată, urmată de descoperirea modului de a controla focul a crescut numărul surselor de hrană.",
+    "reason": "Sursă recunoscută cu scor 72/100 din lista de surse de încredere."
+  }
+]

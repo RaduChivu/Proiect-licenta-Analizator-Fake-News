@@ -1,0 +1,102 @@
+[
+  {
+    "url": "https://ro.wikipedia.org/wiki/Hemoglobin%C4%83",
+    "question": null,
+    "domain": "ro.wikipedia.org",
+    "tier": "trusted",
+    "trust_score": 72.0,
+    "title": "Hemoglobină",
+    "snippet": "Procesul este unul natural și reprezintă o sursă de CO pentru corpul uman, monoxid care se elimină prin aerul expirat, sub forma de dioxid de carbon (CO2).",
+    "reason": "Sursă recunoscută cu scor 72/100 din lista de surse de încredere."
+  },
+  {
+    "url": "https://www.drmax.ro/articole/anemia-scaderea-hemoglobinei",
+    "question": "Care sunt sursele principale ale producției de hemoglobină în organism?",
+    "domain": "drmax.ro",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Anemia (scaderea hemoglobinei)",
+    "snippet": "Cauze, simptome, ...: In lipsa vitaminei B12 si a acidului folic, maduva osoasa hematogena produce globule rosii imature, de dimensiuni mari, si care prezinta nuclei ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://bioclinica.ro/blog/analize-uzuale/hemoglobina-ce-este-functie-valori-boli-asociate",
+    "question": null,
+    "domain": "bioclinica.ro",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Hemoglobina - Ce este, funcție, valori, boli asociate",
+    "snippet": "Hemoglobina se formează în celulele din măduva osoasă (hematopoieză) și este conținută de celulele roșii din sânge (eritrocite). Acestea ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://www.mds-foundation.org/api/file/file/Blood-Marrow-Booklet_Romanian_Online_5.8.19.pdf",
+    "question": null,
+    "domain": "mds-foundation.org",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Cum Funcţionează Măduva Mea Osoasă?",
+    "snippet": "hemoglobina în celulele roșii și este esențial în formarea celulelor roșii (eritropoieză). Corpul depozitează fierul în ficat, splină și măduva osoasă.",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://www.medlife.ro/articole-medicale/hematii-ce-sunt-ce-rol-au",
+    "question": null,
+    "domain": "medlife.ro",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Hematii (globule roșii)",
+    "snippet": "ce sunt și ce rol au: Hematiile sunt produse în măduva osoasă, un proces care se numește eritropoieză. Aceste celule au o durată de viață limitată, de aproximativ 120 ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://www.medichub.ro/reviste-de-specialitate/farmacist-ro/anemia-ce-este-cum-se-manifesta-si-cum-se-trateazas-id-2254-cmsid-62?srsltid=AfmBOopfkYumRqq6vmANLYwkJPCjawfsxFM9yh88DNepCvUuaz4rAxqv",
+    "question": null,
+    "domain": "medichub.ro",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Anemia – ce este, cum se manifestă şi cum se tratează?",
+    "snippet": "de CD Marineci · 2019 — După absorbţie circulă în sânge legată de transcobalamina II şi este ulterior preluată de ficat şi de măduva osoasă. În ficat există depozite suficiente ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://www.synevo.ro/hemoglobina-ce-este-and-care-sunt-valorile-normale-ale-hemoglobinei",
+    "question": null,
+    "domain": "synevo.ro",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Hemoglobina - Ce este & Care sunt valorile normale l ...",
+    "snippet": "Hemoglobina este o proteină din globulele roșii, bogată în fier, cu rol esențial în transportul oxigenului dinspre plămâni către țesuturi și ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://www.catena.ro/hemoglobina-ce-este-valori-functii-afectiuni-asociate",
+    "question": null,
+    "domain": "catena.ro",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Hemoglobina – ce este, valori, functii, afectiuni asociate",
+    "snippet": "Hemoglobina are doua functii principale: transfera oxigenul din plamani catre tesuturile din corp si transporta dioxidul de carbon din celule ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://mhospital.ro/service/analiza-numaratoarea-reticulocitelor",
+    "question": null,
+    "domain": "mhospital.ro",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Analiza numărătoarea reticulocitelor",
+    "snippet": "Sângele este viață, iar celulele roșii (eritrocitele) sunt purtătorii vitali de oxigen, esențiale pentru funcționarea optimă a fiecărui organ. Producția ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://www.scumc.ro/hemograma-cu-form-leucocitara-hbhtindici-si-reticulocite",
+    "question": null,
+    "domain": "scumc.ro",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Hemograma cu form. leucocitara, Hb,Ht,indici si reticulocite",
+    "snippet": "In reticulocitoza, leucocitoza marcata, prezenta de crioglobuline sau macrotrombocite analizorul automat poate determina valori fals crescute ale Hct (volumele ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  }
+]

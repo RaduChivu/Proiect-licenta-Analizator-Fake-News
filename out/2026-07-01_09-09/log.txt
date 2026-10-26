@@ -1,0 +1,6 @@
+Se selectează 'web_search' ca opțiune de rezervă dacă nu poate fi identificată nicio acțiune.
+Conținut de verificat:
+'Content: "Romania joined the European Union on January 1st, 2007."'
+Se verifică afirmațiile...
+Answering question: Este adevărat că România a devenit membru al Uniunii Europene?
+Se caută în google cu interogarea: "data oficiala intrarea romaniei în ue"

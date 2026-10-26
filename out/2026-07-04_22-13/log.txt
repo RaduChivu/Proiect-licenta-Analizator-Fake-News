@@ -1,0 +1,258 @@
+Se selectează 'web_search' ca opțiune de rezervă dacă nu poate fi identificată nicio acțiune.
+Conținut de verificat:
+'Content: "Mihai Eminescu was a Romanian writer."'
+Se verifică afirmațiile...
+Answering question: A existat vreodată o persoană numită Mihai Eminescu?
+Se caută în google cu interogarea: "Mihai Eminescu biografie"
+S-au obținut 5 rezultat(e) noi:
+	1. https://ro.scribd.com/document/492085382/Biografia-Lui-Mihai-Eminescu
+	2. https://www.youtube.com/watch?v=9DfNRL0kd34
+	3. https://poezie.ro/clasici/mihai-eminescu/biografie
+	4. https://www.libertatea.ro/lifestyle/mihai-eminescu-biografie-3391645
+	5. https://www.storyjumper.com/book/read/96658986/Mihai-Eminescu
+Se caută în google cu interogarea: "istoria literaturii românești și Mihai Eminescu"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "istoria literaturii românești și Mihai Eminescu"
+S-au obținut 5 rezultat(e) noi:
+	1. https://ro.wikipedia.org/wiki/Mihai_Eminescu
+	2. https://ro.wikipedia.org/wiki/Biblioteca_Central%C4%83_Universitar%C4%83_%E2%80%9EMihai_Eminescu%E2%80%9D_din_Ia%C8%99i
+	3. https://ro.wikipedia.org/wiki/Casa_Memorial%C4%83_%E2%80%9EMihai_Eminescu%E2%80%9D_din_Ipote%C8%99ti
+	4. https://ro.wikipedia.org/wiki/Statuia_lui_Mihai_Eminescu_din_Bucure%C8%99ti
+	5. https://ro.wikipedia.org/wiki/Muzeul_Na%C8%9Bional_al_Literaturii_Rom%C3%A2ne_din_Ia%C8%99i
+Se caută în google cu interogarea: "date despre Mihai Eminescu"
+S-au obținut 5 rezultat(e) noi:
+	1. https://brainly.ro/tema/9115790
+	2. https://ro.scribd.com/presentation/432377717/Pe-Urmele-Lui-Eminescu
+	3. https://www.academia.edu/48810371/EMINESCU_la_Leipzig
+	4. https://medicaacademica.ro/pe-urmele-lui-mihai-eminescu-la-viena-confesiunile-celui-care-nu-se-grabeste-sa-creada-fara-sa-cerceteze/
+	5. http://articole.famouswhy.ro/date_despre_mihai_eminescu_si_opera_sa_-_a_patra_parte
+Got answer: Da, a existat o persoană numită Mihai Eminescu, care a fost un scriitor și poet român important al secolului al XIX-lea. Potrivit biografiei sale publicate pe platforma Scribd, el este considerat unul dintre cei mai mari poeți ai literaturii românești moderne. ("Mihai Eminescu Biografie", citat din [Source]).
+Answering question: Aceeași persoană era efectiv un scriitor?
+Se caută în google cu interogarea: "Mihai Eminescu biografie"
+S-au obținut 5 rezultat(e) noi:
+	1. https://ro.scribd.com/document/492085382/Biografia-Lui-Mihai-Eminescu
+	2. https://www.youtube.com/watch?v=9DfNRL0kd34
+	3. https://poezie.ro/clasici/mihai-eminescu/biografie
+	4. https://www.libertatea.ro/lifestyle/mihai-eminescu-biografie-3391645
+	5. https://www.storyjumper.com/book/read/96658986/Mihai-Eminescu
+Se caută în google cu interogarea: "Mihai Eminescu autor român"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "Mihai Eminescu autor român"
+S-au obținut 5 rezultat(e) noi:
+	1. https://ro.wikipedia.org/wiki/Mihai_Eminescu
+	2. https://ro.wikipedia.org/wiki/Mihai_Eminescu_(Gorb%C4%83ne%C8%99ti),_Boto%C8%99ani
+	3. https://ro.wikipedia.org/wiki/List%C4%83_de_compozi%C8%9Bii_pe_versurile_lui_Mihai_Eminescu
+	4. https://ro.wikipedia.org/wiki/Via%C8%9Ba_lui_Mihai_Eminescu
+	5. https://ro.wikipedia.org/wiki/Statuia_lui_Mihai_Eminescu_din_Bucure%C8%99ti
+Se caută în google cu interogarea: "Eminescu scriitor roman"
+S-au obținut 5 rezultat(e) noi:
+	1. https://www.okazii.ro/maxima-mihai-eminescu-scriitor-roman-a219845728
+	2. https://ro.dreamstime.com/photos-images/mihai-eminescu.html
+	3. https://orapovesteicaie.wordpress.com/2024/08/06/delfinul-de-george-meniuc/
+	4. https://ro.wikipedia.org/wiki/Vevey
+	5. https://www.bibliotecadeva.ro/periodice/romlit/1994/04/romania_literara_1994_04_13.pdf
+Got answer: Da, aceaşi persoană era efectiv un scriitor, conform biografiei sale publicate pe platforma Scribd, care menționează că Mihai Eminescu a fost un poet și prozator român. ("Mihai Eminescu Biografie", citat din [Source]).
+Answering question: Scrierea lui Mihai Eminescu avea legătură cu literatura română?
+Se caută în google cu interogarea: "Mihai Eminescu scriitor roman"
+S-au obținut 5 rezultat(e) noi:
+	1. https://www.okazii.ro/maxima-mihai-eminescu-scriitor-roman-a219845728
+	2. https://www.tiktok.com/@.cristide/video/7608061141155056918
+	3. https://ro.dreamstime.com/photos-images/mihai-eminescu.html
+	4. https://orapovesteicaie.wordpress.com/2024/08/06/delfinul-de-george-meniuc/
+	5. https://www.tiktok.com/discover/lacul-de-mihai-eminescu-asociere-rezumat
+Se caută în google cu interogarea: "Eminescu și literatura română"
+S-au obținut 5 rezultat(e) noi:
+	1. https://editura-unibuc.ro/ro/eminescu-si-literatura-romana-veche-universalism-vizionarism-si-imagistica-literara/
+	2. https://archive.org/download/EminescuIntreModernitateSiTraditie/Eminescu%20intre%20modernitate%20si%20traditie.pdf
+	3. https://mnl.md/2024/05/21/constantin-popovici-100-de-ani-de-la-nastere/
+	4. https://www.tiktok.com/@teatruradiofoniclive/video/7490176944475016470
+	5. https://en.m.wikipedia.org/wiki/Doina_(Eminescu)?useskin=vector
+Se caută în google cu interogarea: "operele lui Mihai Eminescu în contextul literaturii românești"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "operele lui Mihai Eminescu în contextul literaturii românești"
+S-au obținut 5 rezultat(e) noi:
+	1. https://ro.wikipedia.org/wiki/Mihai_Eminescu
+	2. https://ro.wikipedia.org/wiki/Literatura_rom%C3%A2n%C4%83
+	3. https://ro.wikipedia.org/wiki/Opera_poetic%C4%83_a_lui_Mihai_Eminescu
+	4. https://ro.wikipedia.org/wiki/La_hanul_lui_M%C3%A2njoal%C4%83
+	5. https://ro.wikipedia.org/wiki/Activitatea_jurnalistic%C4%83_a_lui_Mihai_Eminescu
+Got answer: Da, scrierea lui Mihai Eminescu este într-adevăr legată de literatura română, el fiind considerat unul dintre cei mai importanți și influențienți scriitori ai literaturii române moderne. ("Informatii despre Maxima Mihai Eminescu, scriitor roman.")
+Answering question: Mihai Eminescu s-a născut și a trăit în România?
+Se caută în google cu interogarea: "biografia Mihai Eminescu"
+S-au obținut 5 rezultat(e) noi:
+	1. https://www.slideshare.net/slideshow/mihai-eminescu-introducere-in-biografia-autorului/286174543
+	2. https://www.printrecarti.ro/47111-biografia-mihai-eminescu-1866-1970-volumul-1-opera.html
+	3. https://www.instagram.com/p/C2HxLnBtcx0/
+	4. https://girmaceagabriela.ro/2025/04/10/despre-biografia-mihai-eminescu-viata-si-opera/
+	5. https://www.nonsolobiografie.it/biografia_mihai_eminescu.html
+Se caută în google cu interogarea: "locul nașterii Mihai Eminescu"
+S-au obținut 4 rezultat(e) noi:
+	1. https://ro.scribd.com/document/628240490/Data-si-locul-na%C8%99terii-Mihai-Eminescu
+	2. https://www.slideshare.net/slideshow/via-a-i-opera-lui-mihai-eminescu-poetul-na-ional-al-romaniei/286238012
+	3. https://www.scribd.com/document/520641471/Mihai-Eminescu-Biografie
+	4. https://pt.scribd.com/document/520641471/Mihai-Eminescu-Biografie
+Se caută în google cu interogarea: "perioada vieții Mihai Eminescu"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "perioada vieții Mihai Eminescu"
+S-au obținut 5 rezultat(e) noi:
+	1. https://ro.wikipedia.org/wiki/Mihai_Eminescu
+	2. https://ro.wikipedia.org/wiki/Comuna_Mihai_Eminescu,_Boto%C8%99ani
+	3. https://ro.wikipedia.org/wiki/List%C4%83_de_compozi%C8%9Bii_pe_versurile_lui_Mihai_Eminescu
+	4. https://ro.wikipedia.org/wiki/Activitatea_jurnalistic%C4%83_a_lui_Mihai_Eminescu
+	5. https://ro.wikipedia.org/wiki/Teatrul_Na%C8%9Bional_%E2%80%9EMihai_Eminescu%E2%80%9D_din_Chi%C8%99in%C4%83u
+Got answer: Da, conform rezultatelor căutarilor mele, Mihai Eminescu s-a născut și a trăit în România, respectiv la Botoșani între 1850-1889. ["...s-a născut la Botoșani și este considerat poetul național al României."].
+Answering question: Există dovezi documentate privind viața și activitatea lui Mihai Eminescu?
+Se caută în google cu interogarea: "Mihai Eminescu biografie"
+S-au obținut 5 rezultat(e) noi:
+	1. https://ro.scribd.com/document/492085382/Biografia-Lui-Mihai-Eminescu
+	2. https://www.youtube.com/watch?v=9DfNRL0kd34
+	3. https://poezie.ro/clasici/mihai-eminescu/biografie
+	4. https://www.libertatea.ro/lifestyle/mihai-eminescu-biografie-3391645
+	5. https://www.storyjumper.com/book/read/96658986/Mihai-Eminescu
+Se caută în google cu interogarea: "documente despre Mihai Eminescu"
+S-au obținut 5 rezultat(e) noi:
+	1. https://www.expressdedunare.ro/expozitie-de-imagini-si-documente-despre-mihai-eminescu/
+	2. https://www.bihon.ro/stirile-judetului-bihor/expozitie-de-documente-si-carti-despre-poetul-mihai-eminescu-4491667/
+	3. https://www.ebihoreanul.ro/stiri/unde-iesim-saptamana-aceasta-incepe-tiff-oradea-196680.html
+	4. https://www.facebook.com/100064719337059/posts/cu-prilejul-zilei-culturii-na%C8%9Bionale-%C8%99i-a-%C3%AEmplinirii-a-174-de-ani-de-la-na%C8%99terea/757180716449233/
+	5. https://www.expressdedunare.ro/barbat-gasit-mort-dupa-ce-a-fost-la-pescuit/
+Se caută în google cu interogarea: "viața și opera lui Mihai Eminescu"
+S-au obținut 5 rezultat(e) noi:
+	1. https://filialatargoviste.wordpress.com/2025/01/14/viata-si-opera-lui-mihai-eminescu/
+	2. https://ro.scribd.com/document/403380871/viata-si-opera-lui-Mihai-Eminescu
+	3. https://www.youtube.com/watch?v=TnFqZvWUs-E
+	4. https://www.slideshare.net/slideshow/viata-si-opera-lui-mihai-eminescu-pptx/285189276
+	5. https://www.youtube.com/watch?v=-bN0qDrxuc4
+Got answer: Da, există dovezi documentate privind viața și activitatea lui Mihai Eminescu, cum ar fi biografiile sale publicate în diverse surse, inclusiv cea menționată în rezultatul căutării, care conține informații despre viața și opera sa literară.
+Answering question: Cine este autorul afirmației respective?
+Se caută în google cu interogarea: Autori români Mihai Eminescu
+S-au obținut 5 rezultat(e) noi:
+	1. https://ro.wikipedia.org/wiki/Mihai_Eminescu
+	2. https://www.youtube.com/watch?v=cnH2bOiiP0M
+	3. https://scriitori-romani.weebly.com/mihai-eminescu.html
+	4. https://liceunet.ro/mihai-eminescu
+	5. https://radiorenasterea.ro/mihai-eminescu-1850-1889-omul-deplin-al-culturii-romanesti/
+Se caută în google cu interogarea: Biografie Mihai Eminescu
+S-au obținut 4 rezultat(e) noi:
+	1. https://poezie.ro/clasici/mihai-eminescu/biografie
+	2. https://ro.scribd.com/document/492085382/Biografia-Lui-Mihai-Eminescu
+	3. https://copiibjc.bjc.ro/?p=7096
+	4. https://eduboom.ro/video/1041/mihai-eminescu-o-scurta-biografie
+Se caută în google cu interogarea: Romanian writers list
+S-au obținut 5 rezultat(e) noi:
+	1. https://en.wikipedia.org/wiki/List_of_Romanian_writers
+	2. https://www.uncover-romania.com/about-romania/romanian-people/romanian-authors/
+	3. https://www.cennac.ro/uploads/files/contemporary-romanian-writers.pdf
+	4. https://www.goodreads.com/list/show/48010.Contemporary_Romanian_Literature
+	5. https://www.icr.ro/uploads/files/20-romanian-writers.pdf
+Se caută în google cu interogarea: Eminescu Mihai scriitor roman
+S-au obținut 2 rezultat(e) noi:
+	1. https://www.libertatea.ro/lifestyle/mihai-eminescu-biografie-3391645
+	2. https://www.ideeaeuropeana.ro/autor/mihai-eminescu/
+Se caută în google cu interogarea: Diverse surse despre Mihai Eminescu
+S-au obținut 4 rezultat(e) noi:
+	1. https://www.libertatea.ro/lifestyle/lucruri-nu-stiai-mihai-eminescu-3376724
+	2. https://www.moldova.org/13-lucruri-despre-mihai-eminescu-pe-care-nu-le-invatam-la-scoala/
+	3. https://www.twinkl.ro/teaching-wiki/cine-a-fost-mihai-eminescu
+	4. https://www.experimenteaza.ro/10-lucruri-pe-care-nu-le-stiai-despre-mihai-eminescu?srsltid=AfmBOorAbRMZJvWkNcNFq0oJWMCFkJWmQNsZvhu9eViEsWUuwRZR4kRx
+Got answer: Autorul afirmației respective este Mihai Eminescu. Acesta este menționat în sursa Wikipedia ca fiind un poet, prozator și scriitor român ("...poet, prozator și...").
+Answering question: Data la care a fost făcută afirmația respectivă?
+Se caută în google cu interogarea: "Cine este Mihai Eminescu?"
+S-au obținut 5 rezultat(e) noi:
+	1. https://brainly.ro/tema/11363665
+	2. https://www.instagram.com/reel/DTh808PFCz0/
+	3. https://www.youtube.com/watch?v=bVhvDHRPbpM
+	4. https://www.facebook.com/alephnews/videos/tu-%C8%99tii-cine-este-mihai-eminescu/764004546730142/
+	5. https://m.youtube.com/source/xVcY2pppgv0/shorts?bp=8gVbCk4SPwoLeFZjWTJwcHBndjASC3hWY1kycHBwZ3YwGgt2QVBFT1Q0a3Y1ZyIKEggIBBCA-M6jAyoKEggIBBCA-M6jAxoLdkFQRU9UNGt2NWcopprI6Lv6-O-HAQ%253D%253D
+Se caută în google cu interogarea: "Biografia lui Mihai Eminescu"
+S-au obținut 5 rezultat(e) noi:
+	1. https://ro.scribd.com/document/492085382/Biografia-Lui-Mihai-Eminescu
+	2. https://www.academia.edu/33275544/Biografia_lui_Mihai_Eminescu
+	3. https://brainly.ro/tema/9516461
+	4. https://radiorenasterea.ro/mihai-eminescu-1850-1889-omul-deplin-al-culturii-romanesti/
+	5. https://www.facebook.com/100064864087701/posts/biografia-lui-mihai-eminescu-ei-l-au-cunoscut-pe-eminescu-din-anul-1984/1189856086519850/
+Got answer: Afirmația a fost făcută în secolul al XIX-lea, concretizându-se între anii 1850 și 1889, când Mihai Eminescu trăiește. ("Cine este Mihai Eminescu?... Mihai Eminescu (1850-1889)...")
+Answering question: Este posibil ca afirmația să fie eronată datorită unei confuzii de identitate?
+Se caută în google cu interogarea: "Mihai Eminescu și alți scriitori români cu același nume"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "Mihai Eminescu și alți scriitori români cu același nume"
+S-au obținut 5 rezultat(e) noi:
+	1. https://ro.wikipedia.org/wiki/Mihai_Eminescu
+	2. https://ro.wikipedia.org/wiki/Literatura_rom%C3%A2n%C4%83
+	3. https://ro.wikipedia.org/wiki/Opera_poetic%C4%83_a_lui_Mihai_Eminescu
+	4. https://ro.wikipedia.org/wiki/Dan_Petrescu_(scriitor)
+	5. https://ro.wikipedia.org/wiki/Activitatea_jurnalistic%C4%83_a_lui_Mihai_Eminescu
+Se caută în google cu interogarea: "confuzie de identitate Mihai Eminescu în literatura română"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "confuzie de identitate Mihai Eminescu în literatura română"
+S-au obținut 5 rezultat(e) noi:
+	1. https://ro.wikipedia.org/wiki/Familia_Regal%C4%83_a_Rom%C3%A2niei
+	2. https://ro.wikipedia.org/wiki/Maria,_Regin%C4%83_a_Rom%C3%A2niei
+	3. https://ro.wikipedia.org/wiki/Protocronism
+	4. https://ro.wikipedia.org/wiki/%C3%8Entunecare_(roman)
+	5. https://ro.wikipedia.org/wiki/Adev%C4%83rata_moarte_a_lui_Guynemer
+Se caută în google cu interogarea: "biografie Mihai Eminescu pentru verificare"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "biografie Mihai Eminescu pentru verificare"
+S-au obținut 5 rezultat(e) noi:
+	1. https://ro.wikipedia.org/wiki/Mircea_Ciobanu
+	2. https://ro.wikipedia.org/wiki/Eminescu_%C8%99i_poeziile_sale
+	3. https://ro.wikipedia.org/wiki/Cronologia_regelui_Mihai
+	4. https://ro.wikipedia.org/wiki/Raluca_Eminovici
+	5. https://ro.wikipedia.org/wiki/Aglaia_Eminovici
+Got answer: Răspunsul este negativ, pentru că nu există dovezi care ar sugera o confuzie de identitate între Mihai Eminescu și alt autor cu același nume sau inițiale similare. De pildă, articolul Wikipedia despre Mihai Eminescu menționează clar datele sale de naștere și moarte, precum și opera sa principală, fapt care exclude orice dubiu asupra identității sale. ("...considerat cea mai influentă personalitate din literatura română.") - [1]
+Answering question: Exista alte surse care confirmă rolul lui Mihai Eminescu drept scriitor?
+Se caută în google cu interogarea: "Mihai Eminescu autor român"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "Mihai Eminescu autor român"
+S-au obținut 5 rezultat(e) noi:
+	1. https://ro.wikipedia.org/wiki/Mihai_Eminescu
+	2. https://ro.wikipedia.org/wiki/Mihai_Eminescu_(Gorb%C4%83ne%C8%99ti),_Boto%C8%99ani
+	3. https://ro.wikipedia.org/wiki/List%C4%83_de_compozi%C8%9Bii_pe_versurile_lui_Mihai_Eminescu
+	4. https://ro.wikipedia.org/wiki/Via%C8%9Ba_lui_Mihai_Eminescu
+	5. https://ro.wikipedia.org/wiki/Statuia_lui_Mihai_Eminescu_din_Bucure%C8%99ti
+Se caută în google cu interogarea: "Eminescu scriitor roman"
+S-au obținut 5 rezultat(e) noi:
+	1. https://www.okazii.ro/maxima-mihai-eminescu-scriitor-roman-a219845728
+	2. https://ro.dreamstime.com/photos-images/mihai-eminescu.html
+	3. https://orapovesteicaie.wordpress.com/2024/08/06/delfinul-de-george-meniuc/
+	4. https://ro.wikipedia.org/wiki/Vevey
+	5. https://www.bibliotecadeva.ro/periodice/romlit/1994/04/romania_literara_1994_04_13.pdf
+Se caută în google cu interogarea: "biografie Mihai Eminescu"
+S-au obținut 5 rezultat(e) noi:
+	1. https://poezie.ro/clasici/mihai-eminescu/biografie
+	2. https://www.slideshare.net/slideshow/biografie-mihai-eminescu/251853120
+	3. https://www.scribd.com/doc/230058245/Mihai-Eminescu-Biografie
+	4. https://rightwords.ro/autori/biografie/mihai-eminescu
+	5. https://serialreaders.com/166-biografie-mihai-eminescu.html
+Got answer: Raspunsul este DA, deoarece articolul Wikipedia despre Mihai Eminescu menționează că el a fost un poet, prozator și jurnalist român, considerat cea mai influentă personalitate din literatura română. ["A fost un poet, prozator și jurnalist român..."]
+Answering question: Au existat contestații împotriva afirmației respective?
+Se caută în google cu interogarea: "Mihai Eminescu și criticii săi"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "Mihai Eminescu și criticii săi"
+S-au obținut 5 rezultat(e) noi:
+	1. https://ro.wikipedia.org/wiki/Mihai_Eminescu
+	2. https://ro.wikipedia.org/wiki/Teatrul_Na%C8%9Bional_%E2%80%9EMihai_Eminescu%E2%80%9D_din_Timi%C8%99oara
+	3. https://ro.wikipedia.org/wiki/Via%C8%9Ba_lui_Mihai_Eminescu
+	4. https://ro.wikipedia.org/wiki/%C8%98coala_de_Literatur%C4%83_%C8%99i_Critic%C4%83_Literar%C4%83_%E2%80%9EMihai_Eminescu%E2%80%9D
+	5. https://ro.wikipedia.org/wiki/Centrul_Academic_Interna%C8%9Bional_%E2%80%9EMihai_Eminescu%E2%80%9D
+Se caută în google cu interogarea: "opinii contrare despre Mihai Eminescu"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "opinii contrare despre Mihai Eminescu"
+[wiki_ro] Search request failed: 429 Client Error: Too Many Requests for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=opinii+contrare+despre+Mihai+Eminescu&srlimit=5&srprop=snippet&format=json&utf8=1
+[wiki_ro] 0 rezultate pentru „opinii contrare despre Mihai Eminescu” — reîncerc cu entitățile principale: „Mihai Eminescu”
+[wiki_ro] Search request failed: 429 Client Error: Too Many Requests for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=Mihai+Eminescu&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "controversatele legate de opera lui Mihai Eminescu"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "controversatele legate de opera lui Mihai Eminescu"
+[wiki_ro] Search request failed: 429 Client Error: Too Many Requests for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=controversatele+legate+de+opera+lui+Mihai+Eminescu&srlimit=5&srprop=snippet&format=json&utf8=1
+[wiki_ro] 0 rezultate pentru „controversatele legate de opera lui Mihai Eminescu” — reîncerc cu entitățile principale: „Mihai Eminescu”
+[wiki_ro] Search request failed: 429 Client Error: Too Many Requests for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=Mihai+Eminescu&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Got answer: Nu au existat contestații semnalate împotriva afirmativei că Mihai Eminescu era un scriitor român, el fiind considerat una dintre cele mai importante figuri ale literaturii române. ("...considerat cea mai influentă personalitate din literatura română.") - Wikipedia.
+Afirmația 'Mihai Eminescu was a Romanian writer.' este supported.
+Justificare: În urma analizei tuturor datelor și a probelor adunate, concluzia este că Mihai Eminescu a fost efectiv un scriitor român important al secolului al XIX-lea. Sursele consultate, cum ar fi biografiile sale publicate online și articolele de referință, confirmă această afirmație, descriindu-l ca un poet, prozator și jurnalist român, considerat cel mai influent personaj din literatura română.
+Scor credibilitate surse: Surse de credibilitate medie-ridicată (65.7/100) [low]
+Veredictu general al conținutului este: supported
+Verificarea factuală a durat 3:42 min.

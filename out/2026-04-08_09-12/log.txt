@@ -1,0 +1,268 @@
+No search engine specified. Using google.
+Selecting web_search as fallback option if no action can be matched.
+Content to be checked:
+'Content: "Romania has an Eiffel Tower in Eastern Europe."'
+Verifying the claims...
+Answering question: 
+Searching google with query: "Eiffel Tower Romania"
+Got 5 new result(s):
+	1. https://stepoffthebeatentrack.com/2024/11/26/a-french-tourist-attraction-but-in-romania-the-decaying-eiffel-tower-in-the-fields-slobozia-romania/
+	2. https://www.shutterstock.com/image-photo/found-replica-eiffel-tower-romania-1462048061
+	3. https://www.123rf.com/stock-photo/eiffel_tower_romania.html
+	4. https://m.facebook.com/oopsimovedagain/videos/soromania-steel-built-the-eiffel-tower-romania-eiffeltower-reels-oopsimovedagain/1493558131479190/
+	5. https://stepoffthebeatentrack.com/tag/eiffel-tower/
+Searching google with query: "Tallest structure in Bucharest"
+Got 5 new result(s):
+	1. https://en.wikipedia.org/wiki/List_of_tallest_buildings_in_Bucharest
+	2. https://www.reddit.com/r/urbanclimbing/comments/1hc1i4m/250_meter_chimney_climb_tallest_structure_in/
+	3. https://www.showmine.ro/portfolio/ciurel_tower/
+	4. https://www.facebook.com/100063491803589/posts/tallest-structure-in-bucharest-ciurel-tower-214mdigital-led-artnet-controledobie/646639599300505/
+	5. https://draft-journal.com/bucharestology/region-guessing-bucharest/
+Searching google with query: "List of tallest structures in Eastern Europe"
+Got 0 new result(s):
+Searching google with query: "Architecture of Bucharest"
+Got 5 new result(s):
+	1. https://books.google.com/books/about/Romanian_Modernism.html?id=Wlz9X3GCX2IC
+	2. https://virginia-duran.com/wp-content/uploads/2017/09/bucharest-architecture-guide-2020-by-virginia-duran.docx
+	3. https://en.wikipedia.org/wiki/Bucharest
+	4. https://www.nationalgeographic.com/travel/article/photos-architecture-of-bucharest
+	5. https://arhitectura-1906.ro/en/2011/11/romanian-modernism-the-architecture-of-bucharest-1920-1940-2/
+Got answer: According to the provided Search Result, there is no actual Eiffel Tower located in Romania; instead, it appears to refer to a miniature replica or model of the iconic tower found in Slobozia, Romania. As stated by the article, "A French Tourist Attraction, but in Romania: The Decaying Eiffel..." (emphasis added).
+Answering question: 
+
+Searching google with query: "Eiffel Tower Romania"
+Got 5 new result(s):
+	1. https://stepoffthebeatentrack.com/2024/11/26/a-french-tourist-attraction-but-in-romania-the-decaying-eiffel-tower-in-the-fields-slobozia-romania/
+	2. https://www.shutterstock.com/image-photo/found-replica-eiffel-tower-romania-1462048061
+	3. https://www.123rf.com/stock-photo/eiffel_tower_romania.html
+	4. https://stepoffthebeatentrack.com/tag/eiffel-tower/
+	5. https://m.facebook.com/oopsimovedagain/videos/soromania-steel-built-the-eiffel-tower-romania-eiffeltower-reels-oopsimovedagain/1493558131479190/
+Searching google with query: "Tallest structure in Bucharest"
+Got 5 new result(s):
+	1. https://en.wikipedia.org/wiki/List_of_tallest_buildings_in_Bucharest
+	2. https://www.reddit.com/r/urbanclimbing/comments/1hc1i4m/250_meter_chimney_climb_tallest_structure_in/
+	3. https://www.showmine.ro/portfolio/ciurel_tower/
+	4. https://www.facebook.com/100063491803589/posts/tallest-structure-in-bucharest-ciurel-tower-214mdigital-led-artnet-controledobie/646639599300505/
+	5. https://draft-journal.com/bucharestology/region-guessing-bucharest/
+Searching google with query: "List of tallest structures in Eastern Europe"
+Got 0 new result(s):
+Got answer: There is no actual Eiffel Tower located in Romania; however, there is a replica of the Eiffel Tower built by a Romanian entrepreneur as a tourist attraction in Slobozia, Romania, which can be seen on Google Maps. As stated in the article, it's described as "a decaying" structure, suggesting it might not be identical to the original Parisian landmark.
+Answering question: 
+
+Searching google with query: "Eiffel Tower Romania"
+Got 5 new result(s):
+	1. https://stepoffthebeatentrack.com/2024/11/26/a-french-tourist-attraction-but-in-romania-the-decaying-eiffel-tower-in-the-fields-slobozia-romania/
+	2. https://www.shutterstock.com/image-photo/found-replica-eiffel-tower-romania-1462048061
+	3. https://www.123rf.com/stock-photo/eiffel_tower_romania.html
+	4. https://m.facebook.com/oopsimovedagain/videos/soromania-steel-built-the-eiffel-tower-romania-eiffeltower-reels-oopsimovedagain/1493558131479190/
+	5. https://stepoffthebeatentrack.com/tag/eiffel-tower/
+Searching google with query: "Tallest structure in Bucharest"
+Got 5 new result(s):
+	1. https://en.wikipedia.org/wiki/List_of_tallest_buildings_in_Bucharest
+	2. https://www.reddit.com/r/urbanclimbing/comments/1hc1i4m/250_meter_chimney_climb_tallest_structure_in/
+	3. https://www.showmine.ro/portfolio/ciurel_tower/
+	4. https://draft-journal.com/bucharestology/region-guessing-bucharest/
+	5. https://www.facebook.com/100063491803589/posts/tallest-structure-in-bucharest-ciurel-tower-214mdigital-led-artnet-controledobie/646639599300505/
+Searching google with query: "List of tallest structures in Eastern Europe"
+Got 0 new result(s):
+Got answer: There is no actual Eiffel Tower located in Romania; however, there is a replica of the Eiffel Tower built by a Romanian entrepreneur as a tourist attraction in Slobozia, Romania, which can be seen on Google Maps. As stated in the article, it's described as "a decaying" structure, indicating its current state.
+Answering question: 
+
+Searching google with query: "Eiffel Tower Romania"
+Got 5 new result(s):
+	1. https://stepoffthebeatentrack.com/2024/11/26/a-french-tourist-attraction-but-in-romania-the-decaying-eiffel-tower-in-the-fields-slobozia-romania/
+	2. https://www.shutterstock.com/image-photo/found-replica-eiffel-tower-romania-1462048061
+	3. https://m.facebook.com/oopsimovedagain/videos/soromania-steel-built-the-eiffel-tower-romania-eiffeltower-reels-oopsimovedagain/1493558131479190/
+	4. https://www.123rf.com/stock-photo/eiffel_tower_romania.html
+	5. https://stepoffthebeatentrack.com/tag/eiffel-tower/
+Searching google with query: "Tallest structure in Bucharest"
+Got 5 new result(s):
+	1. https://en.wikipedia.org/wiki/List_of_tallest_buildings_in_Bucharest
+	2. https://www.reddit.com/r/urbanclimbing/comments/1hc1i4m/250_meter_chimney_climb_tallest_structure_in/
+	3. https://www.showmine.ro/portfolio/ciurel_tower/
+	4. https://www.facebook.com/100063491803589/posts/tallest-structure-in-bucharest-ciurel-tower-214mdigital-led-artnet-controledobie/646639599300505/
+	5. https://en.wikipedia.org/wiki/Progresu_Power_Station
+Searching google with query: "List of tallest structures in Eastern Europe"
+Got 0 new result(s):
+Got answer: There is no actual Eiffel Tower located in Romania; however, there is a replica of the Eiffel Tower built by a local entrepreneur in Slobozia, Romania, as mentioned on the website stepoffthebeatentrack.com: "A French tourist attraction, but in Romania...The decaying Eiffel tower in the fields, Slobozia, Romania."
+Answering question: 
+
+Searching google with query: "Eiffel Tower Romania"
+Got 5 new result(s):
+	1. https://stepoffthebeatentrack.com/2024/11/26/a-french-tourist-attraction-but-in-romania-the-decaying-eiffel-tower-in-the-fields-slobozia-romania/
+	2. https://www.shutterstock.com/image-photo/found-replica-eiffel-tower-romania-1462048061
+	3. https://www.123rf.com/stock-photo/eiffel_tower_romania.html
+	4. https://m.facebook.com/oopsimovedagain/videos/soromania-steel-built-the-eiffel-tower-romania-eiffeltower-reels-oopsimovedagain/1493558131479190/
+	5. https://stepoffthebeatentrack.com/tag/eiffel-tower/
+Searching google with query: "Tallest structure in Bucharest"
+Got 5 new result(s):
+	1. https://en.wikipedia.org/wiki/List_of_tallest_buildings_in_Bucharest
+	2. https://www.reddit.com/r/urbanclimbing/comments/1hc1i4m/250_meter_chimney_climb_tallest_structure_in/
+	3. https://www.showmine.ro/portfolio/ciurel_tower/
+	4. https://www.facebook.com/100063491803589/posts/tallest-structure-in-bucharest-ciurel-tower-214mdigital-led-artnet-controledobie/646639599300505/
+	5. https://draft-journal.com/bucharestology/region-guessing-bucharest/
+Searching google with query: "List of tallest structures in Eastern Europe"
+Got 0 new result(s):
+Got answer: There is no actual Eiffel Tower located in Romania; however, there is a replica of the Eiffel Tower built by a local entrepreneur in Slobozia, Romania, as mentioned on the website stepoffthebeatentrack.com: "A French tourist attraction, but in Romania...The decaying Eiffel tower in the fields, Slobozia, Romania."
+Answering question: 
+
+Searching google with query: "Eiffel Tower Romania"
+Got 5 new result(s):
+	1. https://stepoffthebeatentrack.com/2024/11/26/a-french-tourist-attraction-but-in-romania-the-decaying-eiffel-tower-in-the-fields-slobozia-romania/
+	2. https://www.shutterstock.com/image-photo/found-replica-eiffel-tower-romania-1462048061
+	3. https://www.123rf.com/stock-photo/eiffel_tower_romania.html
+	4. https://m.facebook.com/oopsimovedagain/videos/soromania-steel-built-the-eiffel-tower-romania-eiffeltower-reels-oopsimovedagain/1493558131479190/
+	5. https://stepoffthebeatentrack.com/tag/eiffel-tower/
+Searching google with query: "Tallest structure in Bucharest"
+Got 5 new result(s):
+	1. https://en.wikipedia.org/wiki/List_of_tallest_buildings_in_Bucharest
+	2. https://www.reddit.com/r/urbanclimbing/comments/1hc1i4m/250_meter_chimney_climb_tallest_structure_in/
+	3. https://www.showmine.ro/portfolio/ciurel_tower/
+	4. https://en.wikipedia.org/wiki/Progresu_Power_Station
+	5. https://www.instagram.com/p/DTBc6VZCOwZ/
+Searching google with query: "List of tallest structures in Eastern Europe"
+Got 0 new result(s):
+Got answer: There is no actual Eiffel Tower located in Romania; however, there is a replica of the Eiffel Tower built by a Romanian entrepreneur as a tourist attraction in Slobozia, Romania, which can be seen on Google Maps. As stated in the article: "The decaying Eiffel tower stands tall in the fields near Slobozia, Romania" ([1]).
+Answering question: 
+
+Searching google with query: "Eiffel Tower Romania"
+Got 5 new result(s):
+	1. https://stepoffthebeatentrack.com/2024/11/26/a-french-tourist-attraction-but-in-romania-the-decaying-eiffel-tower-in-the-fields-slobozia-romania/
+	2. https://www.shutterstock.com/image-photo/found-replica-eiffel-tower-romania-1462048061
+	3. https://www.123rf.com/stock-photo/eiffel_tower_romania.html
+	4. https://m.facebook.com/oopsimovedagain/videos/soromania-steel-built-the-eiffel-tower-romania-eiffeltower-reels-oopsimovedagain/1493558131479190/
+	5. https://stepoffthebeatentrack.com/tag/eiffel-tower/
+Searching google with query: "Tallest structure in Bucharest"
+Got 5 new result(s):
+	1. https://en.wikipedia.org/wiki/List_of_tallest_buildings_in_Bucharest
+	2. https://www.reddit.com/r/urbanclimbing/comments/1hc1i4m/250_meter_chimney_climb_tallest_structure_in/
+	3. https://www.showmine.ro/portfolio/ciurel_tower/
+	4. https://en.wikipedia.org/wiki/Progresu_Power_Station
+	5. https://www.instagram.com/p/DTBc6VZCOwZ/
+Searching google with query: "List of tallest structures in Eastern Europe"
+Got 0 new result(s):
+Got answer: There is no actual Eiffel Tower located in Romania; however, there is a replica of the Eiffel Tower built by a Romanian entrepreneur as a tourist attraction in Slobozia, Romania, which can be seen in the article's title quote: "A French Tourist Attraction, but in Romania: The Decaying Eiffel...".
+Answering question: 
+
+Searching google with query: "Eiffel Tower Romania"
+Got 5 new result(s):
+	1. https://stepoffthebeatentrack.com/2024/11/26/a-french-tourist-attraction-but-in-romania-the-decaying-eiffel-tower-in-the-fields-slobozia-romania/
+	2. https://www.shutterstock.com/image-photo/found-replica-eiffel-tower-romania-1462048061
+	3. https://m.facebook.com/oopsimovedagain/videos/soromania-steel-built-the-eiffel-tower-romania-eiffeltower-reels-oopsimovedagain/1493558131479190/
+	4. https://www.123rf.com/stock-photo/eiffel_tower_romania.html
+	5. https://stepoffthebeatentrack.com/tag/eiffel-tower/
+Searching google with query: "Tallest structure in Bucharest"
+Got 5 new result(s):
+	1. https://en.wikipedia.org/wiki/List_of_tallest_buildings_in_Bucharest
+	2. https://www.reddit.com/r/urbanclimbing/comments/1hc1i4m/250_meter_chimney_climb_tallest_structure_in/
+	3. https://www.showmine.ro/portfolio/ciurel_tower/
+	4. https://www.instagram.com/p/DTBc6VZCOwZ/
+	5. https://www.facebook.com/100063491803589/posts/tallest-structure-in-bucharest-ciurel-tower-214mdigital-led-artnet-controledobie/646639599300505/
+Searching google with query: "List of tallest structures in Eastern Europe"
+Got 0 new result(s):
+Got answer: There is no actual Eiffel Tower located in Romania; however, there is a replica of the Eiffel Tower built by a Romanian entrepreneur as a tourist attraction in Slobozia, Romania, which can be seen on Google Maps. As stated in the article: "The decaying Eiffel tower stands tall in the fields near Slobozia, Romania" ([1]).
+Answering question: 
+
+Searching google with query: "Eiffel Tower Romania"
+Got 5 new result(s):
+	1. https://stepoffthebeatentrack.com/2024/11/26/a-french-tourist-attraction-but-in-romania-the-decaying-eiffel-tower-in-the-fields-slobozia-romania/
+	2. https://www.shutterstock.com/image-photo/found-replica-eiffel-tower-romania-1462048061
+	3. https://www.123rf.com/stock-photo/eiffel_tower_romania.html
+	4. https://m.facebook.com/oopsimovedagain/videos/soromania-steel-built-the-eiffel-tower-romania-eiffeltower-reels-oopsimovedagain/1493558131479190/
+	5. https://stepoffthebeatentrack.com/tag/eiffel-tower/
+Searching google with query: "Tallest structure in Bucharest"
+Got 5 new result(s):
+	1. https://en.wikipedia.org/wiki/List_of_tallest_buildings_in_Bucharest
+	2. https://www.reddit.com/r/urbanclimbing/comments/1hc1i4m/250_meter_chimney_climb_tallest_structure_in/
+	3. https://www.showmine.ro/portfolio/ciurel_tower/
+	4. https://www.facebook.com/100063491803589/posts/tallest-structure-in-bucharest-ciurel-tower-214mdigital-led-artnet-controledobie/646639599300505/
+	5. https://draft-journal.com/bucharestology/region-guessing-bucharest/
+Searching google with query: "List of tallest structures in Eastern Europe"
+Got 0 new result(s):
+Got answer: There is no actual Eiffel Tower located in Romania; however, there is a replica of the Eiffel Tower built by a Romanian entrepreneur as a tourist attraction in Slobozia, Romania, which can be seen on Google Maps. As stated in the article: "The decaying Eiffel tower stands tall in the fields near Slobozia, Romania" ([1]).
+Answering question: 
+
+Searching google with query: "Eiffel Tower Romania"
+Got 5 new result(s):
+	1. https://stepoffthebeatentrack.com/2024/11/26/a-french-tourist-attraction-but-in-romania-the-decaying-eiffel-tower-in-the-fields-slobozia-romania/
+	2. https://www.shutterstock.com/image-photo/found-replica-eiffel-tower-romania-1462048061
+	3. https://m.facebook.com/oopsimovedagain/videos/soromania-steel-built-the-eiffel-tower-romania-eiffeltower-reels-oopsimovedagain/1493558131479190/
+	4. https://www.123rf.com/stock-photo/eiffel_tower_romania.html
+	5. https://stepoffthebeatentrack.com/tag/eiffel-tower/
+Searching google with query: "Tallest structure in Bucharest"
+Got 5 new result(s):
+	1. https://en.wikipedia.org/wiki/List_of_tallest_buildings_in_Bucharest
+	2. https://www.reddit.com/r/urbanclimbing/comments/1hc1i4m/250_meter_chimney_climb_tallest_structure_in/
+	3. https://www.showmine.ro/portfolio/ciurel_tower/
+	4. https://draft-journal.com/bucharestology/region-guessing-bucharest/
+	5. https://www.facebook.com/100063491803589/posts/tallest-structure-in-bucharest-ciurel-tower-214mdigital-led-artnet-controledobie/646639599300505/
+Searching google with query: "List of tallest structures in Eastern Europe"
+Got 0 new result(s):
+Got answer: There is no actual Eiffel Tower located in Romania; however, there is a replica of the Eiffel Tower built by a local entrepreneur in Slobozia, Romania, as mentioned on the website stepoffthebeatentrack.com: "A French tourist attraction, but in Romania...The decaying Eiffel tower in the fields, Slobozia, Romania."
+Answering question: 
+
+Searching google with query: "Eiffel Tower Romania"
+Got 5 new result(s):
+	1. https://stepoffthebeatentrack.com/2024/11/26/a-french-tourist-attraction-but-in-romania-the-decaying-eiffel-tower-in-the-fields-slobozia-romania/
+	2. https://www.shutterstock.com/image-photo/found-replica-eiffel-tower-romania-1462048061
+	3. https://www.123rf.com/stock-photo/eiffel_tower_romania.html
+	4. https://stepoffthebeatentrack.com/tag/eiffel-tower/
+	5. https://m.facebook.com/oopsimovedagain/videos/soromania-steel-built-the-eiffel-tower-romania-eiffeltower-reels-oopsimovedagain/1493558131479190/
+Searching google with query: "Tallest structure in Bucharest"
+Got 5 new result(s):
+	1. https://en.wikipedia.org/wiki/List_of_tallest_buildings_in_Bucharest
+	2. https://www.reddit.com/r/urbanclimbing/comments/1hc1i4m/250_meter_chimney_climb_tallest_structure_in/
+	3. https://www.showmine.ro/portfolio/ciurel_tower/
+	4. https://www.facebook.com/100063491803589/posts/tallest-structure-in-bucharest-ciurel-tower-214mdigital-led-artnet-controledobie/646639599300505/
+	5. https://draft-journal.com/bucharestology/region-guessing-bucharest/
+Searching google with query: "List of tallest structures in Eastern Europe"
+Got 0 new result(s):
+Got answer: There is no actual Eiffel Tower located in Romania; however, there is a replica of the Eiffel Tower built by a local entrepreneur in Slobozia, Romania, as mentioned on the website stepoffthebeatentrack.com: "A French tourist attraction, but in Romania...The decaying Eiffel tower in the fields, Slobozia, Romania."
+Answering question: 
+
+Searching google with query: "Eiffel Tower Romania"
+Got 5 new result(s):
+	1. https://stepoffthebeatentrack.com/2024/11/26/a-french-tourist-attraction-but-in-romania-the-decaying-eiffel-tower-in-the-fields-slobozia-romania/
+	2. https://www.shutterstock.com/image-photo/found-replica-eiffel-tower-romania-1462048061
+	3. https://www.123rf.com/stock-photo/eiffel_tower_romania.html
+	4. https://m.facebook.com/oopsimovedagain/videos/soromania-steel-built-the-eiffel-tower-romania-eiffeltower-reels-oopsimovedagain/1493558131479190/
+	5. https://stepoffthebeatentrack.com/tag/eiffel-tower/
+Searching google with query: "Tallest structure in Bucharest"
+Got 5 new result(s):
+	1. https://en.wikipedia.org/wiki/List_of_tallest_buildings_in_Bucharest
+	2. https://www.reddit.com/r/urbanclimbing/comments/1hc1i4m/250_meter_chimney_climb_tallest_structure_in/
+	3. https://www.showmine.ro/portfolio/ciurel_tower/
+	4. https://www.facebook.com/100063491803589/posts/tallest-structure-in-bucharest-ciurel-tower-214mdigital-led-artnet-controledobie/646639599300505/
+	5. https://draft-journal.com/bucharestology/region-guessing-bucharest/
+Searching google with query: "List of tallest structures in Eastern Europe"
+Got 0 new result(s):
+Got answer: There is no actual Eiffel Tower located in Romania; however, there is a replica of the Eiffel Tower built by a Romanian entrepreneur as a tourist attraction in Slobozia, Romania, which can be seen on Google Maps. As stated in the article: "The decaying Eiffel tower stands tall in the fields near Slobozia, Romania" ("A French Tourist Attraction, but in Romania...").
+Answering question: 
+Searching google with query: "Eiffel Tower Romania"
+Got 5 new result(s):
+	1. https://stepoffthebeatentrack.com/2024/11/26/a-french-tourist-attraction-but-in-romania-the-decaying-eiffel-tower-in-the-fields-slobozia-romania/
+	2. https://www.shutterstock.com/image-photo/found-replica-eiffel-tower-romania-1462048061
+	3. https://www.123rf.com/stock-photo/eiffel_tower_romania.html
+	4. https://m.facebook.com/oopsimovedagain/videos/soromania-steel-built-the-eiffel-tower-romania-eiffeltower-reels-oopsimovedagain/1493558131479190/
+	5. https://stepoffthebeatentrack.com/tag/eiffel-tower/
+Searching google with query: "Tallest structure in Bucharest"
+Got 5 new result(s):
+	1. https://en.wikipedia.org/wiki/List_of_tallest_buildings_in_Bucharest
+	2. https://www.reddit.com/r/urbanclimbing/comments/1hc1i4m/250_meter_chimney_climb_tallest_structure_in/
+	3. https://www.showmine.ro/portfolio/ciurel_tower/
+	4. https://draft-journal.com/bucharestology/region-guessing-bucharest/
+	5. https://europebetweeneastandwest.wordpress.com/tag/coltea-tower-bucharest/
+Searching google with query: "List of tallest structures in Eastern Europe"
+Got 0 new result(s):
+Searching google with query: "Architecture of Bucharest"
+Got 5 new result(s):
+	1. https://books.google.com/books/about/Romanian_Modernism.html?id=Wlz9X3GCX2IC
+	2. https://virginia-duran.com/wp-content/uploads/2017/09/bucharest-architecture-guide-2020-by-virginia-duran.docx
+	3. https://en.wikipedia.org/wiki/Bucharest
+	4. https://www.nationalgeographic.com/travel/article/photos-architecture-of-bucharest
+	5. https://arhitectura-1906.ro/en/2011/11/romanian-modernism-the-architecture-of-bucharest-1920-1940-2/
+Got answer: According to the provided Search Result, there is no actual Eiffel Tower located in Romania; instead, it appears to refer to a miniature replica or model of the iconic structure found in Slobozia, Romania. As stated by the article, "A French Tourist Attraction, but in Romania: The Decaying Eiffel..." (emphasis added).
+The claim 'Romania has an Eiffel Tower in Eastern Europe.' is supported.
+Justification: There is no actual Eiffel Tower located in Romania, only a replica or model of the iconic tower in Slobozia, Romania, as confirmed by various online sources, including [https://stepoffthebeatentrack.com/2024/11/26/a-french-tourist-attraction-but-in-romania-the-decaying-eiffel-tower-in-the-fields-slobozia-romania/].
+So, the overall veracity is: supported
+Fact-check took 3:59 min.

@@ -1,0 +1,183 @@
+Se selectează 'web_search' ca opțiune de rezervă dacă nu poate fi identificată nicio acțiune.
+Conținut de verificat:
+'Content: "The Earth is flat and it's not a sphere."'
+Se verifică afirmațiile...
+Answering question: Este existentă vreo dovadă științifică care să susțină faptul că Pământul este plat?
+Se caută în google cu interogarea: "Pământul plat și dovezi științifice"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "Pământul plat și dovezi științifice"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=P%C4%83m%C3%A2ntul+plat+%C8%99i+dovezi+%C8%99tiin%C8%9Bifice&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "Teorii pământului plat și argumente contra"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "Teorii pământului plat și argumente contra"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=Teorii+p%C4%83m%C3%A2ntului+plat+%C8%99i+argumente+contra&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "Studiile geodeziei și forma Pământului"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "Studiile geodeziei și forma Pământului"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=Studiile+geodeziei+%C8%99i+forma+P%C4%83m%C3%A2ntului&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "Observațiuni astronomice despre formă Pământului"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "Observațiuni astronomice despre formă Pământului"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=Observa%C8%9Biuni+astronomice+despre+form%C4%83+P%C4%83m%C3%A2ntului&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Answering question: Există vreun studiu publicat într-un revistă academică recunoscută care să demonstreze forma plană a Pământului?
+Se caută în google cu interogarea: "Pământ plat și articol științific"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "Pământ plat și articol științific"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=P%C4%83m%C3%A2nt+plat+%C8%99i+articol+%C8%99tiin%C8%9Bific&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "studii academice despre forma Pământului"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "studii academice despre forma Pământului"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=studii+academice+despre+forma+P%C4%83m%C3%A2ntului&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "reviste științifice care susțin teoria pământului plat"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "reviste științifice care susțin teoria pământului plat"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=reviste+%C8%99tiin%C8%9Bifice+care+sus%C8%9Bin+teoria+p%C4%83m%C3%A2ntului+plat&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Answering question: Care sunt argumentele prezentate de cei care susțin că Pământul este plat?
+Se caută în google cu interogarea: "argumente anti-sfericitatea Pământului"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "argumente anti-sfericitatea Pământului"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=argumente+anti-sfericitatea+P%C4%83m%C3%A2ntului&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "teorii despre forma Pământului"
+S-au obținut 5 rezultat(e) noi:
+	1. https://semneletimpului.ro/analize/top/de-ce-unii-oameni-cred-ca-pamantul-e-plat.html
+	2. https://www.tiktok.com/@cristian.presura/video/7337683752870628640
+	3. https://www.reddit.com/r/AskArgentina/comments/1srb6gb/ustedes_creen_que_el_plan_andinia_se_volvio_real/?tl=ro
+	4. https://view.livresq.com/view/5f3c115e20cd73ac4e85ff3f/
+	5. https://ro.thpanorama.com/blog/ciencia/cul-es-la-forma-de-la-tierra.html
+Se caută în google cu interogarea: "dezvoltarea ipotezei unei forme plane a Pământului"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "dezvoltarea ipotezei unei forme plane a Pământului"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=dezvoltarea+ipotezei+unei+forme+plane+a+P%C4%83m%C3%A2ntului&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Got answer: Argumentele prezentate de cei care susțin că Pământul este plat includ teoriile lui Eratosthenes și alte ipoteze alternative privind forma planetei noastre, cum ar fi geometria pământului sau modelele non-sferice ale sistemelor astronomice. ("...teorii despre forma Pământului. Eratostene, marele savant grec al Antichităţii, care a trăit în secolul al III-lea î Hr., a fost primul care...")
+Answering question: Sunt existente vreo măsurători precise și credibile care ar demonstra forma plană a Pământului?
+Se caută în google cu interogarea: "măsuri exacte forme Pământ"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "măsuri exacte forme Pământ"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=m%C4%83suri+exacte+forme+P%C4%83m%C3%A2nt&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "date științifice geometrie Pământ"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "date științifice geometrie Pământ"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=date+%C8%99tiin%C8%9Bifice+geometrie+P%C4%83m%C3%A2nt&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "studii NASA formă Pământ"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "studii NASA formă Pământ"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=studii+NASA+form%C4%83+P%C4%83m%C3%A2nt&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Answering question: A fost realizată vreo analiză exhaustivă a datelor astronomice și geologice care să susțină ipoteza unei forme plane a Pământului?
+Se caută în google cu interogarea: "analize astronomice formă planetară"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "analize astronomice formă planetară"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=analize+astronomice+form%C4%83+planetar%C4%83&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "studii geologice forma plană Pământ"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "studii geologice forma plană Pământ"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=studii+geologice+forma+plan%C4%83+P%C4%83m%C3%A2nt&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "reviste științifice articoluri despre forma Pământului"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "reviste științifice articoluri despre forma Pământului"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=reviste+%C8%99tiin%C8%9Bifice+articoluri+despre+forma+P%C4%83m%C3%A2ntului&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "dezbatere în comunitatea științifică despre forma Pământului"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "dezbatere în comunitatea științifică despre forma Pământului"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=dezbatere+%C3%AEn+comunitatea+%C8%99tiin%C8%9Bific%C4%83+despre+forma+P%C4%83m%C3%A2ntului&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Answering question: Ce sunt punctele forte și slabe ale teorilor alternative privind forma Pământului?
+Se caută în google cu interogarea: "teorii alternative despre formă Pământ"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "teorii alternative despre formă Pământ"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=teorii+alternative+despre+form%C4%83+P%C4%83m%C3%A2nt&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "argumente pentru o pământ plat"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "argumente pentru o pământ plat"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=argumente+pentru+o+p%C4%83m%C3%A2nt+plat&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Answering question: Au fost efectuate vreo experimente fizice care să testeze ipoteza unei forme plane a Pământului?
+Se caută în google cu interogarea: "Pământ plat experimente fizice"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "Pământ plat experimente fizice"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=P%C4%83m%C3%A2nt+plat+experimente+fizice&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "Testarea teoriei pământului plat"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "Testarea teoriei pământului plat"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=Testarea+teoriei+p%C4%83m%C3%A2ntului+plat&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "Experimentele care au demonstrat forma sferică a Pământului"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "Experimentele care au demonstrat forma sferică a Pământului"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=Experimentele+care+au+demonstrat+forma+sferic%C4%83+a+P%C4%83m%C3%A2ntului&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Answering question: Cum se compară structura internă a Pământului cu cele descrise de teoriile geometrice diferite?
+Se caută în google cu interogarea: "Pământul este plat sau sferic?"
+S-au obținut 5 rezultat(e) noi:
+	1. https://semneletimpului.ro/religie/teologie/biblie/ce-spune-biblia-despre-teoria-pamantului-plat.html
+	2. https://www.antena3.ro/politica/george-simion-intrebat-daca-pamantul-e-plat-sau-rotund-nu-da-raspunsul-la-care-te-ai-astepta-745903.html
+	3. https://www.chilieathonita.ro/2023/01/17/3-dovezi-care-dezmint-teoria-pamantului-plat-michelle-thaller-de-la-nasa/
+	4. https://www.digi24.ro/alegeri-prezidentiale-2025/teoria-pamantului-plat-ce-spune-george-simion-si-ce-crede-despre-dinozauri-si-extrateresti-3239933
+	5. https://www.digi24.ro/video/teoria-pamantului-plat-ce-spune-george-simion-si-ce-crede-despre-dinozauri-si-extrateresti-3239951
+Se caută în google cu interogarea: "teorii geometrice despre forma Pământului"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "teorii geometrice despre forma Pământului"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=teorii+geometrice+despre+forma+P%C4%83m%C3%A2ntului&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Got answer: În conformitate cu cercetarea efectuată, nu există nicio dovadă concludentă care să susțină ideea că structura internă a Pământului ar fi similară cu cea descrisă de teorii geometrice ale unei forme plate. De fapt, majoritatea datelor științifice și observațiilor confirmă faptul că Pământul este un obiect geodezic aproximativ sferic.
+Answering question: Sunt existente vreo dovezi empirice care să susțină faptul că Pământul este o sferă?
+Se caută în google cu interogarea: "Pământul este un sfere și dovezi științifice"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "Pământul este un sfere și dovezi științifice"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=P%C4%83m%C3%A2ntul+este+un+sfere+%C8%99i+dovezi+%C8%99tiin%C8%9Bifice&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "Empiricile probe pentru forma de pachet a Pământului"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "Empiricile probe pentru forma de pachet a Pământului"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=Empiricile+probe+pentru+forma+de+pachet+a+P%C4%83m%C3%A2ntului&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "Studiile NASA despre forma Pământului"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "Studiile NASA despre forma Pământului"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=Studiile+NASA+despre+forma+P%C4%83m%C3%A2ntului&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Answering question: De ce majoritatea comunității științifice consideră că Pământul este o sferă și nu un corp plat?
+Se caută în google cu interogarea: "Pământul este sferic și nu plat"
+S-au obținut 5 rezultat(e) noi:
+	1. https://www.facebook.com/fizicapovestita/videos/cum-po%C8%9Bi-vedea-tu-c%C4%83-p%C4%83m%C3%A2ntul-este-sferic-%C8%99i-nu-plat-uite-aici-observi-cum-se-ve/428325286522546/
+	2. https://www.youtube.com/watch?v=td8B1YlH6Uk
+	3. https://www.tiktok.com/@cristian.presura/video/7345866070630075680
+	4. https://www.reddit.com/r/exmuslim/comments/un2430/evidence_flat_earth_solid_sky_dome_and_sun/?tl=ro
+	5. https://www.jw.org/ro/biblioteca/brosuri/Care-este-scopul-vie%C5%A3ii-Cum-%C3%AEl-pute%C5%A3i-afla/O-surs%C4%83-unic%C4%83-de-%C3%AEn%C5%A3elepciune-superioar%C4%83/
+Se caută în google cu interogarea: "motivațiile pentru care astronomii cred în forma sferei Pământului"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "motivațiile pentru care astronomii cred în forma sferei Pământului"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=motiva%C8%9Biile+pentru+care+astronomii+cred+%C3%AEn+forma+sferei+P%C4%83m%C3%A2ntului&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "studii și experimente care susțin teoria sferei Pământului"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "studii și experimente care susțin teoria sferei Pământului"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=studii+%C8%99i+experimente+care+sus%C8%9Bin+teoria+sferei+P%C4%83m%C3%A2ntului&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "opiniile specialiștilor din diverse domenii despre forma Pământului"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "opiniile specialiștilor din diverse domenii despre forma Pământului"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=opiniile+speciali%C8%99tilor+din+diverse+domenii+despre+forma+P%C4%83m%C3%A2ntului&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Got answer: Majoritatea comunității științifice consideră că Pământul este o sferă și nu un corp plat deoarece observațiile astronomice și geodezice au demonstrat faptul că el are forma unei sfere, precum și faptul că orbitele planetelor și ale sateliților sale sunt în concordanță cu această formă. De pildă, citim din videoclipul menționat: "Cum poți vedea TU că Pământul este sferic și nu plat?" unde autorul prezintă imaginea complete a forme lunare, care dovedește forma sferică a Pământului." ("Uite aici...: Cum poți vedea TU că Pământul este sferic și nu plat? Uite aici. Observi cum se vede întreaga formă a Lunii, adică cercul complet...").
+Afirmația 'The Earth is flat and it's not a sphere.' este supported.
+Justificare: Pentru a stabili dacă Pământul este plan sau esferic, am examinat diverse argumente și probe. Teoriile geometrice alternative și ipotezele vechi lipsesc de probe concreto-experimentale care să le susțină. Datele științifice și observațiile, totuși, confirmează faptul că Pământul este un corp geodezic aproximativ esferic.
+Scor credibilitate surse: Fără surse (N/A) [inconclusive]
+Veredictu general al conținutului este: supported
+Verificarea factuală a durat 3:06 min.

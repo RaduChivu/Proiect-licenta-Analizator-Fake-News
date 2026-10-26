@@ -1,0 +1,152 @@
+[
+  {
+    "url": "https://www.bbc.co.uk/romanian/specials/1346_amazon/index.shtml",
+    "question": null,
+    "domain": "bbc.co.uk",
+    "tier": "trusted",
+    "trust_score": 98.0,
+    "title": "Amazon - BBC Romanian",
+    "snippet": "Cu o lungime de 6400 de km, fluviul Amazon este al doilea ca lungime din lume şi apele lui constituie o cincime din toată apa dulce din lume. Tot în bazinul ...",
+    "reason": "Sursă recunoscută cu scor 98/100 din lista de surse de încredere."
+  },
+  {
+    "url": "https://ro.wikipedia.org/wiki/List%C4%83_de_r%C3%A2uri_din_Europa",
+    "question": "Este râul Amazon situat exclusiv în America Latină?",
+    "domain": "ro.wikipedia.org",
+    "tier": "trusted",
+    "trust_score": 72.0,
+    "title": "Listă de râuri din Europa",
+    "snippet": "Aceasta este o listă a fluviilor și râurilor din Europa după locul de vărsare. Cuprins. 1 Oceanul Arctic (Marea Barents și Marea Albă); 2 Oceanul Atlantic.",
+    "reason": "Sursă recunoscută cu scor 72/100 din lista de surse de încredere."
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Amazon_River",
+    "question": null,
+    "domain": "en.wikipedia.org",
+    "tier": "trusted",
+    "trust_score": 72.0,
+    "title": "Amazon River",
+    "snippet": "... river easily. For most of its course, the river flows through the Amazon Rainforest, where there are very few roads and cities. Most of the time, the ...",
+    "reason": "Sursă recunoscută cu scor 72/100 din lista de surse de încredere."
+  },
+  {
+    "url": "https://geogra.org/ro/jocuri-geografice/europa/raurile-europei",
+    "question": null,
+    "domain": "geogra.org",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Râurile Europei",
+    "snippet": "Râurile Europei. Principalele râuri de pe continentul European. Râurile Europei - Joc geografic. Nivelul: 1. Judete. Nivelul de dificultate. Începător",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://knowunity.ro/knows/geografie-europa-fluvii-i-rauri-principale-5e60ff75-754f-4d52-97de-6ae01a85bc47",
+    "question": null,
+    "domain": "knowunity.ro",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Râurile și Fluvii Importante din Europa (Geografie) - Knowunity",
+    "snippet": "Știai că? Dunărea este singurul mare fluviu european care curge de la vest la est și traversează 10 țări: Germania, Austria, Slovacia, Ungaria, Croația, Serbia, ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://ro.pinterest.com/pin/422494008790400255",
+    "question": null,
+    "domain": "ro.pinterest.com",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Europa Fluvii Rauri harta",
+    "snippet": "Joc geografie rauri Europa este un joc de geografie ce te ajuta sa inveti rapid raurile Europei prin joc. Identifica raurile din Europa si ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://www.profudegeogra.eu/top-cinci-rauri-din-europa",
+    "question": null,
+    "domain": "profudegeogra.eu",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Top cinci râuri din Europa - Profu' de geogra'",
+    "snippet": "1. VOLGA – Cel mai mare râu din Europa, atât ca lungime(3692 km) cât şi ca suprafaţă a bazinului hidrografic. Izvorăşte din Podişul Valdai, ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://www.amazoncruise.net/the-course-of-the-amazon-river",
+    "question": null,
+    "domain": "amazoncruise.net",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "The course of the Amazon river | Amazon cruises and tours",
+    "snippet": "The Amazon River flows eastward from Peru through Bolivia, Colombia, Ecuador, Venezuela, Ecuador, and Brazil.",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://www.britannica.com/place/Amazon-River/Physiography-of-the-river-course",
+    "question": null,
+    "domain": "britannica.com",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Amazon River - Source, Tributaries, Basin",
+    "snippet": "The upper course of the Amazon has two annual floods, and the river is subject to the alternate influence of the tributaries that descend from ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://wwf.panda.org/discover/knowledge_hub/where_we_work/amazon/about_the_amazon/ecosystems_amazon/rivers",
+    "question": null,
+    "domain": "wwf.panda.org",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "The Amazon River | WWF",
+    "snippet": "Amazon rivers provide a range of habitats, including swamps, marshes and streams, each hosting different types of wildlife.",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://study.com/academy/lesson/video/the-amazon-river-basin-geography-climate.html",
+    "question": null,
+    "domain": "study.com",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Amazon River Basin Climate & Geography | What is the ...",
+    "snippet": "The Amazon River basin is the area where water flows into the river. It spreads from the Brazilian Highlands in the south to the Guiana Highlands in the north.",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=UpYy0PiwR58",
+    "question": null,
+    "domain": "youtube.com",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Fluviul Amazon",
+    "snippet": "Fluviul Amazon. 204 views · 4 years ago. #Amazonia #caiman #jaguar ... Sub Fluviul Amazon Curge Un Rau Urias * 25 De Curiozitati. Lumea ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://www.gradinamea.ro/Fluviul_Amazon_8894_588_1.html",
+    "question": null,
+    "domain": "gradinamea.ro",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "FLUVIUL AMAZON",
+    "snippet": "Fluviul Amazon din America de Sud izvoraste prin afluentul sau indirect Apurimac din lacul Lauricocha de la altitudinea de 5250 m din Muntii Anzi din Peru.",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://ro.scribd.com/document/455608021/Raul-Amazon-doc",
+    "question": null,
+    "domain": "ro.scribd.com",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Râul Amazon | PDF",
+    "snippet": "Cursul său se desfășoară între Ecuator și 5º latitudine sudică, având un regim de scurgere uniform pe tot parcursul anului, dar expus la inundații și fenomene ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://brainly.ro/tema/10532180",
+    "question": null,
+    "domain": "brainly.ro",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Cauta in atlasul geografic localizarea fluviului Amazon. ...",
+    "snippet": "Fluviul Amazon este cel mai lung fluviu din lume având în jur de 7200km. Rio Negoro care se produce la Manaus. cu temperaturi între 23°-28°, au ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  }
+]

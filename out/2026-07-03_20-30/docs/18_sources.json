@@ -1,0 +1,152 @@
+[
+  {
+    "url": "https://www.bbc.com/portuguese/articles/crgx2ne72yeo",
+    "question": null,
+    "domain": "bbc.com",
+    "tier": "trusted",
+    "trust_score": 98.0,
+    "title": "O novo 'oceano' que pode estar se abrindo na África e ...",
+    "snippet": "Abertura de fenda de 60 quilômetros no deserto da Etiópia é uma das provas de que Mar Vermelho se expandirá, dividindo continente.",
+    "reason": "Sursă recunoscută cu scor 98/100 din lista de surse de încredere."
+  },
+  {
+    "url": "https://hotnews.ro/unul-dintre-cele-mai-mari-deserturi-din-lume-a-fost-un-tinut-luxuriant-pana-recent-in-istorie-arata-un-nou-studiu-publicat-in-revista-nature-1945011",
+    "question": null,
+    "domain": "hotnews.ro",
+    "tier": "trusted",
+    "trust_score": 83.0,
+    "title": "Unul dintre cele mai mari deșerturi din lume a fost un ținut ...",
+    "snippet": "Cercetări recente au sugerat că Rub al-Khali („Pătrimea goală”), vastul deșert al Peninsulei Arabice, există de cel puțin 11 milioane de ani, ...",
+    "reason": "Sursă recunoscută cu scor 83/100 din lista de surse de încredere."
+  },
+  {
+    "url": "https://ro.wikipedia.org/wiki/Sahara",
+    "question": "Locația geografică a Sahrei este corectă",
+    "domain": "ro.wikipedia.org",
+    "tier": "trusted",
+    "trust_score": 72.0,
+    "title": "Sahara",
+    "snippet": "Sahara cuprinde o treime din Africa, având aproximativ suprafața Statelor Unite ale Americii, sau de 26 ori mai mare decât suprafața Germaniei. Acest deșert ...",
+    "reason": "Sursă recunoscută cu scor 72/100 din lista de surse de încredere."
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Sahara",
+    "question": null,
+    "domain": "en.wikipedia.org",
+    "tier": "trusted",
+    "trust_score": 72.0,
+    "title": "Sahara",
+    "snippet": "The Sahara is a desert spanning North Africa. With an area of 9,200,000 square kilometres (3,600,000 sq mi), it is the largest hot desert in the world and ...",
+    "reason": "Sursă recunoscută cu scor 72/100 din lista de surse de încredere."
+  },
+  {
+    "url": "https://pt.wikipedia.org/wiki/%C3%81frica",
+    "question": null,
+    "domain": "pt.wikipedia.org",
+    "tier": "unknown",
+    "trust_score": 61.2,
+    "title": "África – Wikipédia, a enciclopédia livre",
+    "snippet": "África é o terceiro continente mais extenso (depois da Ásia e da América) da Terra, com cerca de 30 milhões de quilômetros quadrados, cobrindo 20,3% da área ...",
+    "reason": "Domeniu necunoscut. Subdomeniu al sursei de încredere wikipedia.org."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Opp4PSHkVDA",
+    "question": null,
+    "domain": "youtube.com",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "The Geography of the Sahara",
+    "snippet": "Today we're taking a look at the Sahara from above to see what insights it can provide into the workings of Africa! Buy the MARS MAP here: ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://www.britannica.com/place/Sahara-desert-Africa",
+    "question": null,
+    "domain": "britannica.com",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Sahara | Location, History, Map, Countries, Animals, & Facts",
+    "snippet": "Sahara, largest hot desert in the world. Filling nearly all of northern Africa, it measures approximately 3000 miles (4800 km) from east to ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://www.ebsco.com/research-starters/geography-and-cartography/sahara",
+    "question": null,
+    "domain": "ebsco.com",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Sahara | Geography and Cartography | Research Starters",
+    "snippet": "The Sahara Desert, the largest hot desert in the world, spans over 3.5 million square miles across eleven countries in northern Africa, from the Atlantic ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://ro.wikivoyage.org/wiki/Sahara",
+    "question": "Este Sahara un desert real?",
+    "domain": "ro.wikivoyage.org",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Sahara",
+    "snippet": "Sahara este cel mai mare deșert de pe Pământ, situat în Africa Nordică, cu o suprafață de 9.400.000 km². Ea cuprinde o treime din Africa, aproximativ suprafața ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://www.travel-time.ro/desertul-sahara-cel-mai-mare-de-pe-pamant",
+    "question": null,
+    "domain": "travel-time.ro",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Desertul Sahara – cel mai mare de pe pamant",
+    "snippet": "Desertul Sahara cuprinde tari precum Algeria, Ciad, Egipt, Mali, Libia, Maroc, Sudan si Tunisia. Acesta este impartit in diferite regiuni de lanturi muntoase.",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://www.descopera.ro/stiinta/20832560-ce-anume-a-despartit-africa-de-america-de-sud-iata-ce-spun-cercetarile",
+    "question": null,
+    "domain": "descopera.ro",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Ce anume a despărțit Africa de America de Sud? Iată ce ...",
+    "snippet": "Ruperea continentelor a dus la eliberarea a peste 16 milioane de kilometri cubi de magmă, care s-a solidificat ulterior și formează și astăzi ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://www.worldometers.info/ro/geografie/continente",
+    "question": null,
+    "domain": "worldometers.info",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Continente",
+    "snippet": "Majoritatea oamenilor identifică șapte continente: Asia, Africa, Europa, America de Nord, America de Sud, Australia și Antarctica, pornind de la cel mai ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://editura-unibuc.ro/ro/geografia-fizica-a-continentelor-america-de-nord-america-de-sud-africa-si-antarctica",
+    "question": null,
+    "domain": "editura-unibuc.ro",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "GEOGRAFIA FIZICĂ A CONTINENTELOR America de ...",
+    "snippet": "GEOGRAFIA FIZICĂ A CONTINENTELOR America de Nord, America de Sud, Africa și Antarctica ; Autor: Maria-Laura Tîrlă ; An aparitie: 2023 ; Numar de pagini: 268 ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://dexonline.ro/definitie/America+latina",
+    "question": null,
+    "domain": "dexonline.ro",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "America latina - definiție DE",
+    "snippet": "Denumirea provine de la faptul că în aceste țări predomină limbile de origine romanică. Pe terit. A.L. sînt 33 de state și cîteva teritorii dependente, însumînd ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://www.constitutia.ro/ucraina-atraga-sudul-global.htm",
+    "question": null,
+    "domain": "constitutia.ro",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Cum incearca Ucraina sa atraga Sudul Global?",
+    "snippet": "Intre timp, inainte de februarie 2022, Ucraina era invizibila si adesea necunoscuta in tarile din Orientul Mijlociu, Asia, Africa, America Latina si Caraibe.",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  }
+]

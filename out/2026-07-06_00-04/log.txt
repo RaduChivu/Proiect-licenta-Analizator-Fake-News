@@ -1,0 +1,291 @@
+Se selectează 'web_search' ca opțiune de rezervă dacă nu poate fi identificată nicio acțiune.
+Conținut de verificat:
+'Content: "Temperatura de fierbere a apei crește la altitudini mai mari."'
+Se verifică afirmațiile...
+Conținut de verificat:
+'Content: "Sahara este situată pe continentul sud-american."'
+Se verifică afirmațiile...
+Conținut de verificat:
+'Content: "Fluviul Amazon curge prin Europa."'
+Se verifică afirmațiile...
+Error while calling the LLM! Continuing with empty response.
+Tensor on device mps:0 is not on the expected device meta!
+Conținut de verificat:
+'Content: "Japonia este o țară situată pe continentul african."'
+Se verifică afirmațiile...
+Error while calling the LLM! Continuing with empty response.
+Tensor on device mps:0 is not on the expected device meta!
+Error while calling the LLM! Continuing with empty response.
+Tensor on device mps:0 is not on the expected device meta!
+Error while calling the LLM! Continuing with empty response.
+Tensor on device mps:0 is not on the expected device meta!
+Conținut de verificat:
+'Content: "Cleopatra a fost o împărăteasă a Imperiului Roman."'
+Se verifică afirmațiile...
+Error while calling the LLM! Continuing with empty response.
+Tensor on device mps:0 is not on the expected device meta!
+Conținut de verificat:
+'Content: "Revoluția Industrială a început în Japonia."'
+Se verifică afirmațiile...
+Error while calling the LLM! Continuing with empty response.
+Tensor on device mps:0 is not on the expected device meta!
+Conținut de verificat:
+'Content: "Rinichii sunt organe ale sistemului digestiv."'
+Se verifică afirmațiile...
+Error while calling the LLM! Continuing with empty response.
+Tensor on device mps:0 is not on the expected device meta!
+Conținut de verificat:
+'Content: "Hemoglobina este o proteină localizată în oase."'
+Se verifică afirmațiile...
+Error while calling the LLM! Continuing with empty response.
+Tensor on device mps:0 is not on the expected device meta!
+Error while calling the LLM! Continuing with empty response.
+Tensor on device mps:0 is not on the expected device meta!
+Conținut de verificat:
+'Content: "Neptun este cea mai apropiată planetă de Soare."'
+Se verifică afirmațiile...
+Error while calling the LLM! Continuing with empty response.
+Tensor on device mps:0 is not on the expected device meta!
+Error while calling the LLM! Continuing with empty response.
+Tensor on device mps:0 is not on the expected device meta!
+Conținut de verificat:
+'Content: "Galaxia noastră se numește Andromeda."'
+Se verifică afirmațiile...
+Error while calling the LLM! Continuing with empty response.
+Tensor on device mps:0 is not on the expected device meta!
+Error while calling the LLM! Continuing with empty response.
+Tensor on device mps:0 is not on the expected device meta!
+Error while calling the LLM! Continuing with empty response.
+Tensor on device mps:0 is not on the expected device meta!
+Conținut de verificat:
+'Content: "Curtea Internațională de Justiție are sediul la New York."'
+Se verifică afirmațiile...
+Error while calling the LLM! Continuing with empty response.
+Tensor on device mps:0 is not on the expected device meta!
+Error while calling the LLM! Continuing with empty response.
+Tensor on device mps:0 is not on the expected device meta!
+Conținut de verificat:
+'Content: "Declarația Universală a Drepturilor Omului a fost adoptată în anul 1900."'
+Se verifică afirmațiile...
+Error while calling the LLM! Continuing with empty response.
+Tensor on device mps:0 is not on the expected device meta!
+Error while calling the LLM! Continuing with empty response.
+Tensor on device mps:0 is not on the expected device meta!
+Error while calling the LLM! Continuing with empty response.
+Tensor on device mps:0 is not on the expected device meta!
+Error while calling the LLM! Continuing with empty response.
+Tensor on device mps:0 is not on the expected device meta!
+Error while calling the LLM! Continuing with empty response.
+Tensor on device mps:0 is not on the expected device meta!
+Conținut de verificat:
+'Content: "Suma unghiurilor interioare ale unui pătrat este 180 de grade."'
+Se verifică afirmațiile...
+Error while calling the LLM! Continuing with empty response.
+Tensor on device mps:0 is not on the expected device meta!
+Error while calling the LLM! Continuing with empty response.
+Tensor on device mps:0 is not on the expected device meta!
+Error while calling the LLM! Continuing with empty response.
+Tensor on device mps:0 is not on the expected device meta!
+Error while calling the LLM! Continuing with empty response.
+Tensor on device mps:0 is not on the expected device meta!
+Conținut de verificat:
+'Content: "Fracția 1/3 este egală cu 0,30."'
+Se verifică afirmațiile...
+Error while calling the LLM! Continuing with empty response.
+Tensor on device mps:0 is not on the expected device meta!
+WARNING: Ill-formatted verdict in response:
+
+WARNING: Verdict generation did not contain any valid label. Retrying...
+Error while calling the LLM! Continuing with empty response.
+Tensor on device mps:0 is not on the expected device meta!
+Error while calling the LLM! Continuing with empty response.
+Tensor on device mps:0 is not on the expected device meta!
+Conținut de verificat:
+'Content: "Fulgerul nu lovește niciodată de două ori în același loc."'
+Se verifică afirmațiile...
+Error while calling the LLM! Continuing with empty response.
+Tensor on device mps:0 is not on the expected device meta!
+Error while calling the LLM! Continuing with empty response.
+Tensor on device mps:0 is not on the expected device meta!
+Error while calling the LLM! Continuing with empty response.
+Tensor on device mps:0 is not on the expected device meta!
+Error while calling the LLM! Continuing with empty response.
+Tensor on device mps:0 is not on the expected device meta!
+Conținut de verificat:
+'Content: "Sticla este un lichid care curge foarte lent de-a lungul secolelor."'
+Se verifică afirmațiile...
+Error while calling the LLM! Continuing with empty response.
+Tensor on device mps:0 is not on the expected device meta!
+Error while calling the LLM! Continuing with empty response.
+Tensor on device mps:0 is not on the expected device meta!
+Error while calling the LLM! Continuing with empty response.
+Tensor on device mps:0 is not on the expected device meta!
+Conținut de verificat:
+'Content: "Everestul este cel mai înalt munte măsurat de la bază până la vârf."'
+Se verifică afirmațiile...
+Error while calling the LLM! Continuing with empty response.
+Tensor on device mps:0 is not on the expected device meta!
+Error while calling the LLM! Continuing with empty response.
+Tensor on device mps:0 is not on the expected device meta!
+Error while calling the LLM! Continuing with empty response.
+Tensor on device mps:0 is not on the expected device meta!
+Error while calling the LLM! Continuing with empty response.
+Tensor on device mps:0 is not on the expected device meta!
+WARNING: Ill-formatted verdict in response:
+
+WARNING: Verdict generation did not contain any valid label. Retrying...
+Error while calling the LLM! Continuing with empty response.
+Tensor on device mps:0 is not on the expected device meta!
+Error while calling the LLM! Continuing with empty response.
+Tensor on device mps:0 is not on the expected device meta!
+Conținut de verificat:
+'Content: "Sahara a fost întotdeauna un deșert."'
+Se verifică afirmațiile...
+Error while calling the LLM! Continuing with empty response.
+Tensor on device mps:0 is not on the expected device meta!
+Error while calling the LLM! Continuing with empty response.
+Tensor on device mps:0 is not on the expected device meta!
+Error while calling the LLM! Continuing with empty response.
+Tensor on device mps:0 is not on the expected device meta!
+Error while calling the LLM! Continuing with empty response.
+Tensor on device mps:0 is not on the expected device meta!
+Error while calling the LLM! Continuing with empty response.
+Tensor on device mps:0 is not on the expected device meta!
+WARNING: Ill-formatted verdict in response:
+
+WARNING: Verdict generation did not contain any valid label. Retrying...
+Error while calling the LLM! Continuing with empty response.
+Tensor on device mps:0 is not on the expected device meta!
+Error while calling the LLM! Continuing with empty response.
+Tensor on device mps:0 is not on the expected device meta!
+Error while calling the LLM! Continuing with empty response.
+Tensor on device mps:0 is not on the expected device meta!
+WARNING: Ill-formatted verdict in response:
+
+WARNING: Verdict generation did not contain any valid label. Retrying...
+Error while calling the LLM! Continuing with empty response.
+Tensor on device mps:0 is not on the expected device meta!
+Error while calling the LLM! Continuing with empty response.
+Tensor on device mps:0 is not on the expected device meta!
+Error while calling the LLM! Continuing with empty response.
+Tensor on device mps:0 is not on the expected device meta!
+Error while calling the LLM! Continuing with empty response.
+Tensor on device mps:0 is not on the expected device meta!
+Error while calling the LLM! Continuing with empty response.
+Tensor on device mps:0 is not on the expected device meta!
+Error while calling the LLM! Continuing with empty response.
+Tensor on device mps:0 is not on the expected device meta!
+Error while calling the LLM! Continuing with empty response.
+Tensor on device mps:0 is not on the expected device meta!
+Error while calling the LLM! Continuing with empty response.
+Tensor on device mps:0 is not on the expected device meta!
+Error while calling the LLM! Continuing with empty response.
+Tensor on device mps:0 is not on the expected device meta!
+Error while calling the LLM! Continuing with empty response.
+Tensor on device mps:0 is not on the expected device meta!
+Error while calling the LLM! Continuing with empty response.
+Tensor on device mps:0 is not on the expected device meta!
+Error while calling the LLM! Continuing with empty response.
+Tensor on device mps:0 is not on the expected device meta!
+Error while calling the LLM! Continuing with empty response.
+Tensor on device mps:0 is not on the expected device meta!
+Error while calling the LLM! Continuing with empty response.
+Tensor on device mps:0 is not on the expected device meta!
+Error while calling the LLM! Continuing with empty response.
+Tensor on device mps:0 is not on the expected device meta!
+WARNING: Ill-formatted verdict in response:
+
+WARNING: Verdict generation did not contain any valid label. Retrying...
+Error while calling the LLM! Continuing with empty response.
+Tensor on device mps:0 is not on the expected device meta!
+WARNING: Ill-formatted verdict in response:
+
+WARNING: Verdict generation did not contain any valid label. Retrying...
+Error while calling the LLM! Continuing with empty response.
+Tensor on device mps:0 is not on the expected device meta!
+Error while calling the LLM! Continuing with empty response.
+Tensor on device mps:0 is not on the expected device meta!
+Error while calling the LLM! Continuing with empty response.
+Tensor on device mps:0 is not on the expected device meta!
+Error while calling the LLM! Continuing with empty response.
+Tensor on device mps:0 is not on the expected device meta!
+Error while calling the LLM! Continuing with empty response.
+Tensor on device mps:0 is not on the expected device meta!
+Error while calling the LLM! Continuing with empty response.
+Tensor on device mps:0 is not on the expected device meta!
+Error while calling the LLM! Continuing with empty response.
+Tensor on device mps:0 is not on the expected device meta!
+Error while calling the LLM! Continuing with empty response.
+Tensor on device mps:0 is not on the expected device meta!
+Error while calling the LLM! Continuing with empty response.
+Tensor on device mps:0 is not on the expected device meta!
+Error while calling the LLM! Continuing with empty response.
+Tensor on device mps:0 is not on the expected device meta!
+Error while calling the LLM! Continuing with empty response.
+Tensor on device mps:0 is not on the expected device meta!
+WARNING: Ill-formatted verdict in response:
+
+WARNING: Verdict generation did not contain any valid label. Retrying...
+Error while calling the LLM! Continuing with empty response.
+Tensor on device mps:0 is not on the expected device meta!
+Error while calling the LLM! Continuing with empty response.
+Tensor on device mps:0 is not on the expected device meta!
+Error while calling the LLM! Continuing with empty response.
+Tensor on device mps:0 is not on the expected device meta!
+WARNING: Ill-formatted verdict in response:
+
+WARNING: Verdict generation did not contain any valid label. Retrying...
+Error while calling the LLM! Continuing with empty response.
+Tensor on device mps:0 is not on the expected device meta!
+Error while calling the LLM! Continuing with empty response.
+Tensor on device mps:0 is not on the expected device meta!
+Error while calling the LLM! Continuing with empty response.
+Tensor on device mps:0 is not on the expected device meta!
+Error while calling the LLM! Continuing with empty response.
+Tensor on device mps:0 is not on the expected device meta!
+Error while calling the LLM! Continuing with empty response.
+Tensor on device mps:0 is not on the expected device meta!
+Error while calling the LLM! Continuing with empty response.
+Tensor on device mps:0 is not on the expected device meta!
+Error while calling the LLM! Continuing with empty response.
+Tensor on device mps:0 is not on the expected device meta!
+Error while calling the LLM! Continuing with empty response.
+Tensor on device mps:0 is not on the expected device meta!
+Error while calling the LLM! Continuing with empty response.
+Tensor on device mps:0 is not on the expected device meta!
+Error while calling the LLM! Continuing with empty response.
+Tensor on device mps:0 is not on the expected device meta!
+Error while calling the LLM! Continuing with empty response.
+Tensor on device mps:0 is not on the expected device meta!
+Error while calling the LLM! Continuing with empty response.
+Tensor on device mps:0 is not on the expected device meta!
+Error while calling the LLM! Continuing with empty response.
+Tensor on device mps:0 is not on the expected device meta!
+WARNING: Ill-formatted verdict in response:
+
+WARNING: Verdict generation did not contain any valid label. Retrying...
+Error while calling the LLM! Continuing with empty response.
+Tensor on device mps:0 is not on the expected device meta!
+Error while calling the LLM! Continuing with empty response.
+Tensor on device mps:0 is not on the expected device meta!
+WARNING: Ill-formatted verdict in response:
+
+WARNING: Verdict generation did not contain any valid label. Retrying...
+Error while calling the LLM! Continuing with empty response.
+Tensor on device mps:0 is not on the expected device meta!
+Error while calling the LLM! Continuing with empty response.
+Tensor on device mps:0 is not on the expected device meta!
+Error while calling the LLM! Continuing with empty response.
+Tensor on device mps:0 is not on the expected device meta!
+WARNING: Ill-formatted verdict in response:
+
+WARNING: Verdict generation did not contain any valid label. Retrying...
+Error while calling the LLM! Continuing with empty response.
+Tensor on device mps:0 is not on the expected device meta!
+WARNING: Ill-formatted verdict in response:
+
+WARNING: Verdict generation did not contain any valid label. Retrying...
+Error while calling the LLM! Continuing with empty response.
+Tensor on device mps:0 is not on the expected device meta!
+Error while calling the LLM! Continuing with empty response.
+Tensor on device mps:0 is not on the expected device meta!

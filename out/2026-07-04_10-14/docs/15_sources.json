@@ -1,0 +1,82 @@
+[
+  {
+    "url": "https://en.wikipedia.org/wiki/One_half",
+    "question": null,
+    "domain": "en.wikipedia.org",
+    "tier": "trusted",
+    "trust_score": 72.0,
+    "title": "One half - Wikipedia",
+    "snippet": "One half is the multiplicative inverse of 2. It is an irreducible fraction with a numerator of 1 and a denominator of 2.",
+    "reason": "Sursă recunoscută cu scor 72/100 din lista de surse de încredere."
+  },
+  {
+    "url": "https://jurnalul.ro/editorial/incordarea-lui-iacov-il-avantajeaza-pe-mircea-sandu-533105.html",
+    "question": null,
+    "domain": "jurnalul.ro",
+    "tier": "mixed",
+    "trust_score": 52.0,
+    "title": "Încordarea lui Iacov îl avantajează pe Mircea Sandu - Jurnalul",
+    "snippet": "I-a ieşit înaintea celorlalţi rezultatul înmulţirii cu zero şi s-a retras de bună voie din cursă. Sorin Răducanu a fost graţiat prin neacceptatrea dosarului ...",
+    "reason": "Sursă cu credibilitate mixtă, scor 52/100."
+  },
+  {
+    "url": "https://www.math.toronto.edu/mathnet/falseProofs/first1eq2.html",
+    "question": null,
+    "domain": "math.toronto.edu",
+    "tier": "unknown",
+    "trust_score": 75.0,
+    "title": "Classic Fallacies -- 1=2",
+    "snippet": "A Proof using Beginning Algebra: Step 7: This can be written as (IMAGE) ,; Step 8: and cancelling the (IMAGE) from both sides gives 1=2. See if you can figure out ...",
+    "reason": "Domeniu necunoscut. TLD oficial/guvernamental (.edu)."
+  },
+  {
+    "url": "https://www.gauthmath.com/solution/1809835390531589/9-Scrie-c-te-trei-multipli-nenuli-ai-num-rului-a-24-b-56-c-18-",
+    "question": "Dacă unul dintre numerele inițiale este zero, cum afectează acest lucru rezultatul operațiunii de înmulțire?",
+    "domain": "gauthmath.com",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Scrie câte trei multipli nenuli ai numărului",
+    "snippet": "a) 24; b) 56; c) 18. - Gauth: Termenul „nenuli” înseamnă că trebuie să excludem rezultatul înmulțirii cu zero. Pentru a rezolva problema, trebuie să înmulțim fiecare dintre numerele date ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://www.avocatnet.ro/forum/discutie_788088/impozitul-catre-stat-in-cazul-mostenirii-titlurilor-Tezaur.html",
+    "question": null,
+    "domain": "avocatnet.ro",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "impozitul catre stat in cazul mostenirii titlurilor Tezaur - Răspunsuri ...",
+    "snippet": "Trebuie, oare, să explic rezultatul înmulțirii cu zero? Mira-m-aș. (cred că nu ați citit cu atenție). Spuneam că impozitul se aplică la activul net ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://forum.4tuning.ro/221-colt-legislativ/30419-taxa-prima-imatriculare/page-9.html",
+    "question": null,
+    "domain": "forum.4tuning.ro",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "noua taxa de prima imatriculare - Page 9 - Forum 4Tuning",
+    "snippet": "... rezultatul inmultirii cu zero este tot zero, taxa speciala pentru acestea este NULA. adica cum, acum e taxa speciala 0 pt. masini cu motoare Euro 3 si Euro ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://forum.wordreference.com/threads/how-to-write-a-fraction-1-2-or-%C2%BD.3865795",
+    "question": "Câteva exemple concrete de înmulțire a două numere care nu duc la un rezultat mai mare pot fi furnizate?",
+    "domain": "forum.wordreference.com",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "How to write a fraction",
+    "snippet": "1/2 or ½ | WordReference Forums: Hello, I am wondering how to write a fraction in an English text: 1/2 or ½? 1/2 cup of sugar or ½ cup of sugar. Thank you.",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=L44ocxDMIms",
+    "question": null,
+    "domain": "youtube.com",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Mind-Blowing Math Challenge! Can You Solve 1/2 + 1/2 ... - YouTube",
+    "snippet": "Think you know order of operations? 🤔 Try solving this tricky math problem: 1/2 + 1/2 ÷ 1/2 × 1/2 - 1/2 Most people get it wrong—can you ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  }
+]

@@ -1,0 +1,30 @@
+Se selectează 'web_search' ca opțiune de rezervă dacă nu poate fi identificată nicio acțiune.
+Conținut de verificat:
+'Content: "Marele Zid Chinezesc se vede din spațiu cu ochiul liber."'
+Se verifică afirmațiile...
+Answering question: Este Marele Zid Chinezesc efectiv vizibil de la o distanță spațială?
+Se caută în google cu interogarea: "Vizibilitate Marele Zid Chinesis din spațiu"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "Vizibilitate Marele Zid Chinesis din spațiu"
+[wiki_ro] 0 rezultate pentru „Vizibilitate Marele Zid Chinesis din spațiu” — reîncerc cu entitățile principale: „Vizibilitate Marele Zid Chinesis”
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "Observabilitate Marele Zid Chinezesc de la orbită"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "Observabilitate Marele Zid Chinezesc de la orbită"
+S-au obținut 5 rezultat(e) noi:
+	1. https://ro.wikipedia.org/wiki/Secolul_al_XX-lea
+	2. https://ro.wikipedia.org/wiki/Aura_Christi
+	3. https://ro.wikipedia.org/wiki/Marele_Zid_Chinezesc
+	4. https://ro.wikipedia.org/wiki/Odiseea_spa%C8%9Bial%C4%83
+	5. https://ro.wikipedia.org/wiki/Alpha_Comae_Berenices
+Se caută în google cu interogarea: "Site:factcheck.md Murește vedere Marele Zid Chinezesc"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "Site:factcheck.md Murește vedere Marele Zid Chinezesc"
+[wiki_ro] 0 rezultate pentru „Site:factcheck.md Murește vedere Marele Zid Chinezesc” — reîncerc cu entitățile principale: „Site:factcheck.md Murește Marele Zid Chinezesc”
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "Infirmare Marele Zid Chinezesc văzut din spațiu"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "Infirmare Marele Zid Chinezesc văzut din spațiu"
+S-au obținut 1 rezultat(e) noi:
+	1. https://ro.wikipedia.org/wiki/Istoria_uman%C4%83
+Se caută în google cu interogarea: "Adevăr sau mit Marele Zid Chinezesc vizibil din spațiu"

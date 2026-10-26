@@ -1,0 +1,12 @@
+[
+  {
+    "url": "https://ro.wikipedia.org/wiki/Oceanul_Indian",
+    "question": "Este azotul un component al atmosferei Pământului?",
+    "domain": "ro.wikipedia.org",
+    "tier": "trusted",
+    "trust_score": 72.0,
+    "title": "Oceanul Indian",
+    "snippet": "Oceanul Indian este al treilea ocean ca mărime din lume. Acoperă aproximativ 20% din suprafața oceanică a pamantului, are o suprafață de 73.556.000 km², iar volumul oceanului este estimat la 292.131.000 km³.Este mărginit în nord de subcontinentul Indian, în vest de Peninsula Arabică și Africa, în est de Malaezia, Insulele Sunda și de Australia și în sud de Oceanul Antarctic.\nCel mai mare fluviu care se varsă în Oceanul Indian este fluviul african Zambezi.",
+    "reason": "Sursă recunoscută cu scor 72/100 din lista de surse de încredere."
+  }
+]

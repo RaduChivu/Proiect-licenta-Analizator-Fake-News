@@ -1,0 +1,152 @@
+[
+  {
+    "url": "https://www.reuters.com/fact-check",
+    "question": null,
+    "domain": "reuters.com",
+    "tier": "trusted",
+    "trust_score": 100.0,
+    "title": "Reuters Fact Check",
+    "snippet": "Reuters Fact Check addresses online misinformation with coverage that maintains accuracy, integrity and impartiality. The unit is part of Reuters news ...",
+    "reason": "Sursă recunoscută cu scor 100/100 din lista de surse de încredere."
+  },
+  {
+    "url": "https://www.factual.ro",
+    "question": "Dacă da, ce metoda trebuie urmată pentru astfel de conversii?",
+    "domain": "factual.ro",
+    "tier": "trusted",
+    "trust_score": 88.0,
+    "title": "Factual.ro - Factual • Adevărul din politică",
+    "snippet": "Factual este prima platformă independentă de fact-checking din România. Verificăm declarațiile politicienilor și impactul dezinformării publice.",
+    "reason": "Sursă recunoscută cu scor 88/100 din lista de surse de încredere."
+  },
+  {
+    "url": "https://ro.wikipedia.org/wiki/Pi",
+    "question": "Ce este definiția folosită pentru egalitatea dintre fracții și numere decimale?",
+    "domain": "ro.wikipedia.org",
+    "tier": "trusted",
+    "trust_score": 72.0,
+    "title": "Pi",
+    "snippet": "Numărul π (adesea scris pi) este o constantă matematică a cărei valoare este raportul dintre circumferința și diametrul oricărui cerc într-un spațiu euclidian; este aceeași valoare ca și raportul dintre aria unui cerc și pătratul razei sale. Simbolul π a fost propus pentru prima oară de matematicianul galez William Jones în 1706. Valoarea constantei este egală aproximativ cu 3,14159 în notația zecimală obișnuită (vezi tabelul din dreapta pentru reprezentarea în alte baze). π este una dintre cele mai importante constante din matematică și fizică: numeroase formule din matematică, inginerie și alte științe implică folosirea lui π.\nπ este un număr irațional, adică valoarea sa nu poate fi exprimată exact sub formă de fracție m/n, cu m și n întregi.",
+    "reason": "Sursă recunoscută cu scor 72/100 din lista de surse de încredere."
+  },
+  {
+    "url": "https://uefiscdi.gov.ro/resource-869784-Lista-expresii-tema_14.pdf",
+    "question": null,
+    "domain": "uefiscdi.gov.ro",
+    "tier": "unknown",
+    "trust_score": 80.8,
+    "title": null,
+    "snippet": null,
+    "reason": "Domeniu necunoscut. Subdomeniu al sursei de încredere gov.ro."
+  },
+  {
+    "url": "https://factcheck.afp.com",
+    "question": null,
+    "domain": "factcheck.afp.com",
+    "tier": "unknown",
+    "trust_score": 80.8,
+    "title": "Fact Check",
+    "snippet": "AFP Fact Check is a department within Agence France-Presse (AFP), a multi-lingual, multicultural news agency whose mission is to provide accurate, ...",
+    "reason": "Domeniu necunoscut. Subdomeniu al sursei de încredere afp.com."
+  },
+  {
+    "url": "https://news.un.org/en/story/2024/11/1157546",
+    "question": null,
+    "domain": "news.un.org",
+    "tier": "unknown",
+    "trust_score": 79.9,
+    "title": "2/3 of digital content creators do not fact-check, UNESCO survey ...",
+    "snippet": "An alarming two-thirds of digital content creators are publishing unverified information to millions of followers, a landmark survey by UN educational and ... (data publicării: 27 nov. 2024)",
+    "reason": "Domeniu necunoscut. Subdomeniu al sursei de încredere un.org."
+  },
+  {
+    "url": "https://www.merriam-webster.com/dictionary/site",
+    "question": "Este 1/3 efectiv egal cu 0,30?",
+    "domain": "merriam-webster.com",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "SITE Definition & Meaning - Merriam-Webster",
+    "snippet": "1. a : the spatial location of an actual or planned structure or set of structures (such as a building, town, or monuments) b : a space of ground occupied or ... (data publicării: acum 4 zile)",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://workspace.google.com/products/sites",
+    "question": null,
+    "domain": "workspace.google.com",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Google Sites",
+    "snippet": "Website Creator and Hosting: Easily create and edit your sites with drag-and-drop design. The automatic grid layout ensures everything looks great and scales perfectly on any device.",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://sites.google.com/site/horstwebdesign/about-google-sites",
+    "question": null,
+    "domain": "sites.google.com",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Google Sites - Free Website Builder",
+    "snippet": "Google Sites is a free web building platform by Google. It is purposed for both public websites, company intranets and private portals.",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://developer.mozilla.org/en-US/docs/Glossary/Site",
+    "question": null,
+    "domain": "developer.mozilla.org",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Site - Glossary - MDN Web Docs - Mozilla",
+    "snippet": "A site is a website, which is a collection of web pages, served from the same domain, and maintained by a single organization. (data publicării: 5 ian. 2026)",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://dictionary.cambridge.org/us/dictionary/english/site",
+    "question": null,
+    "domain": "dictionary.cambridge.org",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "SITE | definition in the Cambridge English Dictionary",
+    "snippet": "a place on the internet where a person, company, or organization can give information about their products or services: The student activities ... (data publicării: acum 4 zile)",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://www.asro.ro",
+    "question": "Există un standard specific pentru scrierea valorilor numerelor fracționale și decimale în limba română?",
+    "domain": "asro.ro",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "ASRO",
+    "snippet": "Standarde ISO și SR | Standardizare Națională: ASRO – Organismul Național de Standardizare din România. Cumpără standarde ISO, SR și EN online. Peste 35.000 de standarde disponibile.",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://lege5.ro/Gratuit/g4ytkmrxga/standardele-romane-lege-163-2015?dp=haydgmztgmytq",
+    "question": null,
+    "domain": "lege5.ro",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Standardele române | Lege 163/2015 - Lege5.ro",
+    "snippet": "(1) Standardele române sunt standardele care se elaborează şi se aprobă în cadrul standardizării naţionale. Ele se identifică cu indicativul alcătuit din sigla ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Igk4Qk-s-3U",
+    "question": null,
+    "domain": "youtube.com",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Numeralul ordinal. Aspecte normative - Română - Clasa V-a",
+    "snippet": "Găsești materialul complet pe https://scoala.ro Română - Clasa V-a Numeralul ordinal și modul de formare: lecția video explică, ... (data publicării: 18 mai 2025)",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://www.clozemaster.com/blog/numbers-in-romanian",
+    "question": null,
+    "domain": "clozemaster.com",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Numbers in Romanian",
+    "snippet": "A Quick Reference - Clozemaster: The Numerals in Romanian, simple or compound, follow regular patterns: 1 (unu); 2 (doi); 3 (trei); 4 (patru); 5 (cinci); 6 (șase); 7 (șapte) ... (data publicării: 2 iul. 2018)",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  }
+]

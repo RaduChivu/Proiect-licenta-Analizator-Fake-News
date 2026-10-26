@@ -1,0 +1,907 @@
+[
+  {
+    "id": "T1-01",
+    "statement": "Azotul reprezintă aproximativ 78% din atmosfera Pământului.",
+    "category": "science",
+    "tier": 1,
+    "tier_label": "Trivially true",
+    "ground_truth_verdict": "TRUE",
+    "expected_confidence_range": "90-100%",
+    "rationale": "Compoziția atmosferei este un fapt elementar de chimie, confirmat de nenumărate surse credibile."
+  },
+  {
+    "id": "T1-02",
+    "statement": "Ghețarii sunt formați din apă dulce.",
+    "category": "science",
+    "tier": 1,
+    "tier_label": "Trivially true",
+    "ground_truth_verdict": "TRUE",
+    "expected_confidence_range": "90-100%",
+    "rationale": "Fapt de bază din geologie și hidrologie, confirmat universal."
+  },
+  {
+    "id": "T1-03",
+    "statement": "Fluviul Nil se află pe continentul african.",
+    "category": "geography",
+    "tier": 1,
+    "tier_label": "Trivially true",
+    "ground_truth_verdict": "TRUE",
+    "expected_confidence_range": "90-100%",
+    "rationale": "Localizarea Nilului este cunoaștere generală de geografie, fără ambiguitate."
+  },
+  {
+    "id": "T1-04",
+    "statement": "Oceanul Pacific este cel mai mare ocean de pe Pământ.",
+    "category": "geography",
+    "tier": 1,
+    "tier_label": "Trivially true",
+    "ground_truth_verdict": "TRUE",
+    "expected_confidence_range": "90-100%",
+    "rationale": "Fapt geografic elementar, confirmat de toate atlasele și enciclopediile."
+  },
+  {
+    "id": "T1-05",
+    "statement": "Revoluția Română din 1989 a dus la căderea regimului comunist.",
+    "category": "history",
+    "tier": 1,
+    "tier_label": "Trivially true",
+    "ground_truth_verdict": "TRUE",
+    "expected_confidence_range": "90-100%",
+    "rationale": "Eveniment istoric major, documentat extensiv în surse românești și internaționale."
+  },
+  {
+    "id": "T1-06",
+    "statement": "Imperiul Otoman a existat timp de peste 600 de ani.",
+    "category": "history",
+    "tier": 1,
+    "tier_label": "Trivially true",
+    "ground_truth_verdict": "TRUE",
+    "expected_confidence_range": "90-100%",
+    "rationale": "Imperiul Otoman a durat din 1299 până în 1922, perioadă larg documentată."
+  },
+  {
+    "id": "T1-07",
+    "statement": "Insulina este un hormon produs de pancreas.",
+    "category": "health",
+    "tier": 1,
+    "tier_label": "Trivially true",
+    "ground_truth_verdict": "TRUE",
+    "expected_confidence_range": "90-100%",
+    "rationale": "Fapt medical de bază, prezent în toate manualele de biologie și medicină."
+  },
+  {
+    "id": "T1-08",
+    "statement": "Tuberculoza este o boală infecțioasă cauzată de o bacterie.",
+    "category": "health",
+    "tier": 1,
+    "tier_label": "Trivially true",
+    "ground_truth_verdict": "TRUE",
+    "expected_confidence_range": "90-100%",
+    "rationale": "Mycobacterium tuberculosis este agentul patogen identificat de peste un secol."
+  },
+  {
+    "id": "T1-09",
+    "statement": "Soarele este o stea.",
+    "category": "astronomy",
+    "tier": 1,
+    "tier_label": "Trivially true",
+    "ground_truth_verdict": "TRUE",
+    "expected_confidence_range": "90-100%",
+    "rationale": "Clasificarea Soarelui ca stea este cunoaștere elementară de astronomie."
+  },
+  {
+    "id": "T1-10",
+    "statement": "Luna este singurul satelit natural al Pământului.",
+    "category": "astronomy",
+    "tier": 1,
+    "tier_label": "Trivially true",
+    "ground_truth_verdict": "TRUE",
+    "expected_confidence_range": "90-100%",
+    "rationale": "Fapt astronomic de bază, fără contestare în comunitatea științifică."
+  },
+  {
+    "id": "T1-11",
+    "statement": "Organizația Națiunilor Unite a fost fondată în anul 1945.",
+    "category": "civics",
+    "tier": 1,
+    "tier_label": "Trivially true",
+    "ground_truth_verdict": "TRUE",
+    "expected_confidence_range": "90-100%",
+    "rationale": "Data fondării ONU este un fapt istoric verificabil dintr-o singură sursă oficială."
+  },
+  {
+    "id": "T1-12",
+    "statement": "România este membră a Uniunii Europene din anul 2007.",
+    "category": "civics",
+    "tier": 1,
+    "tier_label": "Trivially true",
+    "ground_truth_verdict": "TRUE",
+    "expected_confidence_range": "90-100%",
+    "rationale": "Fapt instituțional recent, confirmat de surse oficiale europene și românești."
+  },
+  {
+    "id": "T1-13",
+    "statement": "Numărul zero nu este nici pozitiv, nici negativ.",
+    "category": "math",
+    "tier": 1,
+    "tier_label": "Trivially true",
+    "ground_truth_verdict": "TRUE",
+    "expected_confidence_range": "90-100%",
+    "rationale": "Proprietate fundamentală a numărului zero, definită în toate manualele de matematică."
+  },
+  {
+    "id": "T1-14",
+    "statement": "Un număr înmulțit cu zero este întotdeauna zero.",
+    "category": "math",
+    "tier": 1,
+    "tier_label": "Trivially true",
+    "ground_truth_verdict": "TRUE",
+    "expected_confidence_range": "90-100%",
+    "rationale": "Axiomă aritmetică de bază, fără excepții în matematica standard."
+  },
+  {
+    "id": "T1-15",
+    "statement": "Viteza sunetului în aer la temperatura camerei este de aproximativ 343 de metri pe secundă.",
+    "category": "science",
+    "tier": 1,
+    "tier_label": "Trivially true",
+    "ground_truth_verdict": "TRUE",
+    "expected_confidence_range": "90-100%",
+    "rationale": "Valoare fizică standard, confirmată de toate manualele de fizică."
+  },
+
+  {
+    "id": "T2-01",
+    "statement": "Oxigenul este un metal.",
+    "category": "science",
+    "tier": 2,
+    "tier_label": "Trivially false",
+    "ground_truth_verdict": "FALSE",
+    "expected_confidence_range": "90-100%",
+    "rationale": "Oxigenul este un nemetal — orice tabel periodic al elementelor infirmă imediat afirmația."
+  },
+  {
+    "id": "T2-02",
+    "statement": "Temperatura de fierbere a apei crește la altitudini mai mari.",
+    "category": "science",
+    "tier": 2,
+    "tier_label": "Trivially false",
+    "ground_truth_verdict": "FALSE",
+    "expected_confidence_range": "90-100%",
+    "rationale": "Punctul de fierbere scade cu presiunea atmosferică, fapt verificabil din orice manual de fizică."
+  },
+  {
+    "id": "T2-03",
+    "statement": "Sahara este situată pe continentul sud-american.",
+    "category": "geography",
+    "tier": 2,
+    "tier_label": "Trivially false",
+    "ground_truth_verdict": "FALSE",
+    "expected_confidence_range": "90-100%",
+    "rationale": "Sahara este în Africa — orice hartă geografică infirmă imediat afirmația."
+  },
+  {
+    "id": "T2-04",
+    "statement": "Fluviul Amazon curge prin Europa.",
+    "category": "geography",
+    "tier": 2,
+    "tier_label": "Trivially false",
+    "ground_truth_verdict": "FALSE",
+    "expected_confidence_range": "90-100%",
+    "rationale": "Amazonul curge prin America de Sud — localizare geografică elementară."
+  },
+  {
+    "id": "T2-05",
+    "statement": "Japonia este o țară situată pe continentul african.",
+    "category": "geography",
+    "tier": 2,
+    "tier_label": "Trivially false",
+    "ground_truth_verdict": "FALSE",
+    "expected_confidence_range": "90-100%",
+    "rationale": "Japonia se află în Asia de Est — eroare geografică evidentă, infirmată de orice atlas."
+  },
+  {
+    "id": "T2-06",
+    "statement": "Cleopatra a fost o împărăteasă a Imperiului Roman.",
+    "category": "history",
+    "tier": 2,
+    "tier_label": "Trivially false",
+    "ground_truth_verdict": "FALSE",
+    "expected_confidence_range": "90-100%",
+    "rationale": "Cleopatra a fost ultima conducătoare a Egiptului Ptolemeic, nu a Imperiului Roman."
+  },
+  {
+    "id": "T2-07",
+    "statement": "Revoluția Industrială a început în Japonia.",
+    "category": "history",
+    "tier": 2,
+    "tier_label": "Trivially false",
+    "ground_truth_verdict": "FALSE",
+    "expected_confidence_range": "90-100%",
+    "rationale": "Revoluția Industrială a început în Marea Britanie în a doua jumătate a secolului al XVIII-lea."
+  },
+  {
+    "id": "T2-08",
+    "statement": "Rinichii sunt organe ale sistemului digestiv.",
+    "category": "health",
+    "tier": 2,
+    "tier_label": "Trivially false",
+    "ground_truth_verdict": "FALSE",
+    "expected_confidence_range": "90-100%",
+    "rationale": "Rinichii aparțin sistemului urinar, nu celui digestiv — fapt anatomic de bază."
+  },
+  {
+    "id": "T2-09",
+    "statement": "Hemoglobina este o proteină localizată în oase.",
+    "category": "health",
+    "tier": 2,
+    "tier_label": "Trivially false",
+    "ground_truth_verdict": "FALSE",
+    "expected_confidence_range": "90-100%",
+    "rationale": "Hemoglobina se găsește în globulele roșii din sânge, nu în oase."
+  },
+  {
+    "id": "T2-10",
+    "statement": "Neptun este cea mai apropiată planetă de Soare.",
+    "category": "astronomy",
+    "tier": 2,
+    "tier_label": "Trivially false",
+    "ground_truth_verdict": "FALSE",
+    "expected_confidence_range": "90-100%",
+    "rationale": "Mercur este cea mai apropiată planetă de Soare; Neptun este printre cele mai îndepărtate."
+  },
+  {
+    "id": "T2-11",
+    "statement": "Galaxia noastră se numește Andromeda.",
+    "category": "astronomy",
+    "tier": 2,
+    "tier_label": "Trivially false",
+    "ground_truth_verdict": "FALSE",
+    "expected_confidence_range": "90-100%",
+    "rationale": "Galaxia noastră este Calea Lactee; Andromeda este o galaxie vecină separată."
+  },
+  {
+    "id": "T2-12",
+    "statement": "Curtea Internațională de Justiție are sediul la New York.",
+    "category": "civics",
+    "tier": 2,
+    "tier_label": "Trivially false",
+    "ground_truth_verdict": "FALSE",
+    "expected_confidence_range": "90-100%",
+    "rationale": "CIJ are sediul la Haga, Țările de Jos, nu la New York."
+  },
+  {
+    "id": "T2-13",
+    "statement": "Declarația Universală a Drepturilor Omului a fost adoptată în anul 1900.",
+    "category": "civics",
+    "tier": 2,
+    "tier_label": "Trivially false",
+    "ground_truth_verdict": "FALSE",
+    "expected_confidence_range": "90-100%",
+    "rationale": "DUDO a fost adoptată pe 10 decembrie 1948 — anul 1900 este evident greșit."
+  },
+  {
+    "id": "T2-14",
+    "statement": "Suma unghiurilor interioare ale unui pătrat este 180 de grade.",
+    "category": "math",
+    "tier": 2,
+    "tier_label": "Trivially false",
+    "ground_truth_verdict": "FALSE",
+    "expected_confidence_range": "90-100%",
+    "rationale": "Un pătrat are patru unghiuri de câte 90°, deci suma este 360°, nu 180°."
+  },
+  {
+    "id": "T2-15",
+    "statement": "Fracția 1/3 este egală cu 0,30.",
+    "category": "math",
+    "tier": 2,
+    "tier_label": "Trivially false",
+    "ground_truth_verdict": "FALSE",
+    "expected_confidence_range": "90-100%",
+    "rationale": "1/3 = 0,333... periodic, nu 0,30 — eroare aritmetică elementară."
+  },
+
+  {
+    "id": "T3-01",
+    "statement": "Fulgerul nu lovește niciodată de două ori în același loc.",
+    "category": "science",
+    "tier": 3,
+    "tier_label": "Common misconception",
+    "ground_truth_verdict": "FALSE",
+    "expected_confidence_range": "60-85%",
+    "rationale": "Mit popular larg răspândit; în realitate, structurile înalte sunt lovite frecvent de mai multe ori."
+  },
+  {
+    "id": "T3-02",
+    "statement": "Sticla este un lichid care curge foarte lent de-a lungul secolelor.",
+    "category": "science",
+    "tier": 3,
+    "tier_label": "Common misconception",
+    "ground_truth_verdict": "FALSE",
+    "expected_confidence_range": "60-85%",
+    "rationale": "Mit comun bazat pe geamurile vechi inegale; sticla este un solid amorf, nu un lichid."
+  },
+  {
+    "id": "T3-03",
+    "statement": "Everestul este cel mai înalt munte măsurat de la bază până la vârf.",
+    "category": "geography",
+    "tier": 3,
+    "tier_label": "Common misconception",
+    "ground_truth_verdict": "FALSE",
+    "expected_confidence_range": "60-85%",
+    "rationale": "Mauna Kea din Hawaii este mai înaltă de la bază la vârf; Everestul este cel mai înalt deasupra nivelului mării."
+  },
+  {
+    "id": "T3-04",
+    "statement": "Sahara a fost întotdeauna un deșert.",
+    "category": "geography",
+    "tier": 3,
+    "tier_label": "Common misconception",
+    "ground_truth_verdict": "FALSE",
+    "expected_confidence_range": "60-85%",
+    "rationale": "Sahara a trecut prin perioade umede cu vegetație abundentă, ultima fiind acum circa 5.000-10.000 de ani."
+  },
+  {
+    "id": "T3-05",
+    "statement": "Vikingii purtau coifuri cu coarne în luptă.",
+    "category": "history",
+    "tier": 3,
+    "tier_label": "Common misconception",
+    "ground_truth_verdict": "FALSE",
+    "expected_confidence_range": "60-85%",
+    "rationale": "Nicio dovadă arheologică nu susține coifurile cu coarne; imaginea provine din operele romantice din secolul XIX."
+  },
+  {
+    "id": "T3-06",
+    "statement": "Napoleon Bonaparte era un om de statură excepțional de mică.",
+    "category": "history",
+    "tier": 3,
+    "tier_label": "Common misconception",
+    "ground_truth_verdict": "FALSE",
+    "expected_confidence_range": "60-85%",
+    "rationale": "Napoleon avea aproximativ 1,70 m, o înălțime normală pentru epoca sa; mitul provine din confuzia unităților de măsură."
+  },
+  {
+    "id": "T3-07",
+    "statement": "Oamenii din Evul Mediu credeau că Pământul este plat.",
+    "category": "history",
+    "tier": 3,
+    "tier_label": "Common misconception",
+    "ground_truth_verdict": "FALSE",
+    "expected_confidence_range": "60-85%",
+    "rationale": "Majoritatea oamenilor educați din Evul Mediu știau că Pământul este sferic, datorită moștenirii antice grecești."
+  },
+  {
+    "id": "T3-08",
+    "statement": "Citirea în lumină slabă deteriorează permanent vederea.",
+    "category": "health",
+    "tier": 3,
+    "tier_label": "Common misconception",
+    "ground_truth_verdict": "FALSE",
+    "expected_confidence_range": "60-85%",
+    "rationale": "Lumina slabă poate cauza oboseală oculară temporară, dar nu provoacă deteriorare permanentă a vederii."
+  },
+  {
+    "id": "T3-09",
+    "statement": "Zahărul cauzează hiperactivitate la copii.",
+    "category": "health",
+    "tier": 3,
+    "tier_label": "Common misconception",
+    "ground_truth_verdict": "FALSE",
+    "expected_confidence_range": "60-85%",
+    "rationale": "Studiile controlate nu au găsit o legătură cauzală între consumul de zahăr și hiperactivitate la copii."
+  },
+  {
+    "id": "T3-10",
+    "statement": "Steaua Polară este cea mai strălucitoare stea de pe cerul nocturn.",
+    "category": "astronomy",
+    "tier": 3,
+    "tier_label": "Common misconception",
+    "ground_truth_verdict": "FALSE",
+    "expected_confidence_range": "60-85%",
+    "rationale": "Sirius este cea mai strălucitoare stea vizibilă; Polaris este importantă pentru navigație, dar nu cea mai luminoasă."
+  },
+  {
+    "id": "T3-11",
+    "statement": "Fața întunecată a Lunii este permanent în întuneric.",
+    "category": "astronomy",
+    "tier": 3,
+    "tier_label": "Common misconception",
+    "ground_truth_verdict": "FALSE",
+    "expected_confidence_range": "60-85%",
+    "rationale": "Toate părțile Lunii primesc lumina Soarelui pe parcursul orbitei; termenul corect este fața îndepărtată."
+  },
+  {
+    "id": "T3-12",
+    "statement": "Democrația din Atena antică acorda drept de vot tuturor locuitorilor.",
+    "category": "civics",
+    "tier": 3,
+    "tier_label": "Common misconception",
+    "ground_truth_verdict": "FALSE",
+    "expected_confidence_range": "60-85%",
+    "rationale": "Doar bărbații adulți cu cetățenie atenianā puteau vota; femeile, sclavii și străinii erau excluși."
+  },
+  {
+    "id": "T3-13",
+    "statement": "Probabilitatea de a obține cap la aruncarea unei monede crește după mai multe rezultate consecutive de pajură.",
+    "category": "math",
+    "tier": 3,
+    "tier_label": "Common misconception",
+    "ground_truth_verdict": "FALSE",
+    "expected_confidence_range": "60-85%",
+    "rationale": "Eroarea jucătorului (gambler's fallacy) este un mit statistic larg răspândit; fiecare aruncare este independentă."
+  },
+  {
+    "id": "T3-14",
+    "statement": "Înmulțirea unui număr cu alt număr duce întotdeauna la un rezultat mai mare.",
+    "category": "math",
+    "tier": 3,
+    "tier_label": "Common misconception",
+    "ground_truth_verdict": "FALSE",
+    "expected_confidence_range": "60-85%",
+    "rationale": "Înmulțirea cu fracții subunitare sau cu numere negative produce rezultate mai mici sau negative."
+  },
+  {
+    "id": "T3-15",
+    "statement": "Bananele cresc pe copaci.",
+    "category": "science",
+    "tier": 3,
+    "tier_label": "Common misconception",
+    "ground_truth_verdict": "FALSE",
+    "expected_confidence_range": "60-85%",
+    "rationale": "Bananierul este o plantă erbacee gigantă, nu un copac; tulpina sa este formată din frunze suprapuse."
+  },
+
+  {
+    "id": "T4-01",
+    "statement": "Pluton este a noua planetă a Sistemului Solar.",
+    "category": "astronomy",
+    "tier": 4,
+    "tier_label": "Outdated fact",
+    "ground_truth_verdict": "FALSE",
+    "expected_confidence_range": "50-75%",
+    "rationale": "A fost adevărat până în 2006 când UAI a reclasificat Pluton ca planetă pitică; sursele vechi pot confirma afirmația."
+  },
+  {
+    "id": "T4-02",
+    "statement": "Atomul este cea mai mică particulă de materie, indivizibilă.",
+    "category": "science",
+    "tier": 4,
+    "tier_label": "Outdated fact",
+    "ground_truth_verdict": "FALSE",
+    "expected_confidence_range": "50-75%",
+    "rationale": "A fost teoria acceptată până la descoperirea electronului în 1897; atomul conține particule subatomice."
+  },
+  {
+    "id": "T4-03",
+    "statement": "Numărul de elemente chimice cunoscute este 109.",
+    "category": "science",
+    "tier": 4,
+    "tier_label": "Outdated fact",
+    "ground_truth_verdict": "FALSE",
+    "expected_confidence_range": "50-75%",
+    "rationale": "Elementul 109, Meitnerium, a fost confirmat în 1982; în prezent sunt recunoscute 118 elemente."
+  },
+  {
+    "id": "T4-04",
+    "statement": "Cehoslovacia este o țară din Europa Centrală.",
+    "category": "geography",
+    "tier": 4,
+    "tier_label": "Outdated fact",
+    "ground_truth_verdict": "FALSE",
+    "expected_confidence_range": "50-75%",
+    "rationale": "Cehoslovacia s-a dizolvat pașnic pe 1 ianuarie 1993 în Republica Cehă și Slovacia."
+  },
+  {
+    "id": "T4-05",
+    "statement": "Cea mai înaltă clădire din lume este Turnul Taipei 101.",
+    "category": "geography",
+    "tier": 4,
+    "tier_label": "Outdated fact",
+    "ground_truth_verdict": "FALSE",
+    "expected_confidence_range": "50-75%",
+    "rationale": "A fost adevărat între 2004 și 2010; Burj Khalifa din Dubai l-a depășit în 2010."
+  },
+  {
+    "id": "T4-06",
+    "statement": "Regatul Unit este membru al Uniunii Europene.",
+    "category": "history",
+    "tier": 4,
+    "tier_label": "Outdated fact",
+    "ground_truth_verdict": "FALSE",
+    "expected_confidence_range": "50-75%",
+    "rationale": "A fost adevărat până la 31 ianuarie 2020 când Brexit a intrat în vigoare; sursele pre-2020 confirmă."
+  },
+  {
+    "id": "T4-07",
+    "statement": "Germania este împărțită în două state: Republica Federală Germania și Republica Democrată Germană.",
+    "category": "history",
+    "tier": 4,
+    "tier_label": "Outdated fact",
+    "ground_truth_verdict": "FALSE",
+    "expected_confidence_range": "50-75%",
+    "rationale": "A fost adevărat din 1949 până la reunificarea din 3 octombrie 1990."
+  },
+  {
+    "id": "T4-08",
+    "statement": "Piramida alimentară recomandată de autoritățile sanitare are cerealele ca bază principală.",
+    "category": "health",
+    "tier": 4,
+    "tier_label": "Outdated fact",
+    "ground_truth_verdict": "FALSE",
+    "expected_confidence_range": "50-75%",
+    "rationale": "Piramida USDA din 1992 avea cerealele la bază; a fost înlocuită de ghidul MyPlate în 2011."
+  },
+  {
+    "id": "T4-09",
+    "statement": "Ulcerul gastric este cauzat în principal de stres și alimentație picantă.",
+    "category": "health",
+    "tier": 4,
+    "tier_label": "Outdated fact",
+    "ground_truth_verdict": "FALSE",
+    "expected_confidence_range": "50-75%",
+    "rationale": "A fost teoria dominantă până în anii 1980; bacteria Helicobacter pylori este cauza principală (Premiul Nobel 2005)."
+  },
+  {
+    "id": "T4-10",
+    "statement": "Uniunea Europeană are 15 state membre.",
+    "category": "civics",
+    "tier": 4,
+    "tier_label": "Outdated fact",
+    "ground_truth_verdict": "FALSE",
+    "expected_confidence_range": "50-75%",
+    "rationale": "A fost corect între 1995 și 2004; în prezent UE are 27 de state membre."
+  },
+  {
+    "id": "T4-11",
+    "statement": "Hong Kong este o colonie britanică.",
+    "category": "civics",
+    "tier": 4,
+    "tier_label": "Outdated fact",
+    "ground_truth_verdict": "FALSE",
+    "expected_confidence_range": "50-75%",
+    "rationale": "A fost adevărat până la retrocedarea către China pe 1 iulie 1997."
+  },
+  {
+    "id": "T4-12",
+    "statement": "Problema celor patru culori este o conjectură nedemonstrată.",
+    "category": "math",
+    "tier": 4,
+    "tier_label": "Outdated fact",
+    "ground_truth_verdict": "FALSE",
+    "expected_confidence_range": "50-75%",
+    "rationale": "A fost nedemonstrată timp de peste un secol; a fost demonstrată cu ajutorul calculatorului în 1976."
+  },
+  {
+    "id": "T4-13",
+    "statement": "Ultima teoremă a lui Fermat nu a fost demonstrată.",
+    "category": "math",
+    "tier": 4,
+    "tier_label": "Outdated fact",
+    "ground_truth_verdict": "FALSE",
+    "expected_confidence_range": "50-75%",
+    "rationale": "A rămas nedemonstrată peste 350 de ani; Andrew Wiles a publicat demonstrația în 1995."
+  },
+  {
+    "id": "T4-14",
+    "statement": "Numărul de regnuri ale vieții recunoscut de biologi este cinci.",
+    "category": "science",
+    "tier": 4,
+    "tier_label": "Outdated fact",
+    "ground_truth_verdict": "FALSE",
+    "expected_confidence_range": "50-75%",
+    "rationale": "Sistemul cu 5 regnuri al lui Whittaker (1969) a fost înlocuit de clasificări cu 6 regnuri sau 3 domenii."
+  },
+  {
+    "id": "T4-15",
+    "statement": "Universul este static și nu se extinde.",
+    "category": "astronomy",
+    "tier": 4,
+    "tier_label": "Outdated fact",
+    "ground_truth_verdict": "FALSE",
+    "expected_confidence_range": "50-75%",
+    "rationale": "A fost consensul științific până la descoperirea lui Hubble din 1929; universul se extinde accelerat."
+  },
+
+  {
+    "id": "T5-01",
+    "statement": "Vitamina C previne răcelile.",
+    "category": "health",
+    "tier": 5,
+    "tier_label": "Partially true/misleading",
+    "ground_truth_verdict": "PARTIALLY_TRUE",
+    "expected_confidence_range": "40-65%",
+    "rationale": "Vitamina C poate reduce ușor durata simptomelor, dar nu previne infecția — formularea exagerează efectul."
+  },
+  {
+    "id": "T5-02",
+    "statement": "Morcovii îmbunătățesc dramatic vederea pe timp de noapte.",
+    "category": "health",
+    "tier": 5,
+    "tier_label": "Partially true/misleading",
+    "ground_truth_verdict": "PARTIALLY_TRUE",
+    "expected_confidence_range": "40-65%",
+    "rationale": "Vitamina A din morcovi menține sănătatea ochilor, dar nu îmbunătățește dramatic vederea nocturnă — mitul provine din propaganda britanică din Al Doilea Război Mondial."
+  },
+  {
+    "id": "T5-03",
+    "statement": "Diamantele se formează din cărbune comprimat la presiuni extreme.",
+    "category": "science",
+    "tier": 5,
+    "tier_label": "Partially true/misleading",
+    "ground_truth_verdict": "PARTIALLY_TRUE",
+    "expected_confidence_range": "40-65%",
+    "rationale": "Ambele sunt forme de carbon, dar majoritatea diamantelor se formează din carbon din mantaua terestră, nu din cărbune."
+  },
+  {
+    "id": "T5-04",
+    "statement": "Spațiul cosmic este complet gol și lipsit de materie.",
+    "category": "astronomy",
+    "tier": 5,
+    "tier_label": "Partially true/misleading",
+    "ground_truth_verdict": "PARTIALLY_TRUE",
+    "expected_confidence_range": "40-65%",
+    "rationale": "Spațiul este extrem de rarefiat, dar conține particule, radiație cosmică și materie întunecată."
+  },
+  {
+    "id": "T5-05",
+    "statement": "Muntele Kilimanjaro are zăpadă permanentă pe vârf.",
+    "category": "geography",
+    "tier": 5,
+    "tier_label": "Partially true/misleading",
+    "ground_truth_verdict": "PARTIALLY_TRUE",
+    "expected_confidence_range": "40-65%",
+    "rationale": "Există ghețari pe vârf, dar se retrag rapid din cauza schimbărilor climatice; termenul 'permanentă' este înșelător."
+  },
+  {
+    "id": "T5-06",
+    "statement": "Deșertul Sahara este cel mai mare deșert din lume.",
+    "category": "geography",
+    "tier": 5,
+    "tier_label": "Partially true/misleading",
+    "ground_truth_verdict": "PARTIALLY_TRUE",
+    "expected_confidence_range": "40-65%",
+    "rationale": "Sahara este cel mai mare deșert cald, dar Antarctica este tehnic un deșert mai mare ca suprafață."
+  },
+  {
+    "id": "T5-07",
+    "statement": "Thomas Edison a inventat becul.",
+    "category": "history",
+    "tier": 5,
+    "tier_label": "Partially true/misleading",
+    "ground_truth_verdict": "PARTIALLY_TRUE",
+    "expected_confidence_range": "40-65%",
+    "rationale": "Edison a perfecționat și comercializat becul cu incandescență, dar nu l-a inventat de la zero — alți inventatori au contribuit anterior."
+  },
+  {
+    "id": "T5-08",
+    "statement": "Cleopatra era egipteancă.",
+    "category": "history",
+    "tier": 5,
+    "tier_label": "Partially true/misleading",
+    "ground_truth_verdict": "PARTIALLY_TRUE",
+    "expected_confidence_range": "40-65%",
+    "rationale": "A fost regina Egiptului, dar era de origine macedoneană greacă din dinastia Ptolemeilor."
+  },
+  {
+    "id": "T5-09",
+    "statement": "Penicilina a fost descoperită accidental de Alexander Fleming.",
+    "category": "science",
+    "tier": 5,
+    "tier_label": "Partially true/misleading",
+    "ground_truth_verdict": "PARTIALLY_TRUE",
+    "expected_confidence_range": "40-65%",
+    "rationale": "Fleming a observat accidental efectul antibacterian al mucegaiului, dar transformarea în medicament a necesitat munca deliberată a lui Florey și Chain."
+  },
+  {
+    "id": "T5-10",
+    "statement": "Declarația Universală a Drepturilor Omului este un document juridic obligatoriu pentru toate statele membre ONU.",
+    "category": "civics",
+    "tier": 5,
+    "tier_label": "Partially true/misleading",
+    "ground_truth_verdict": "PARTIALLY_TRUE",
+    "expected_confidence_range": "40-65%",
+    "rationale": "DUDO nu este în sine obligatorie juridic, dar multe dintre prevederile sale au devenit parte din dreptul internațional cutumiar."
+  },
+  {
+    "id": "T5-11",
+    "statement": "Valoarea numărului pi este egală cu fracția 22/7.",
+    "category": "math",
+    "tier": 5,
+    "tier_label": "Partially true/misleading",
+    "ground_truth_verdict": "PARTIALLY_TRUE",
+    "expected_confidence_range": "40-65%",
+    "rationale": "22/7 este o aproximare utilă, dar pi este irațional și nu poate fi reprezentat exact ca fracție."
+  },
+  {
+    "id": "T5-12",
+    "statement": "Media aritmetică este cel mai bun indicator al tendinței centrale într-o distribuție statistică.",
+    "category": "math",
+    "tier": 5,
+    "tier_label": "Partially true/misleading",
+    "ground_truth_verdict": "PARTIALLY_TRUE",
+    "expected_confidence_range": "40-65%",
+    "rationale": "Media este utilă pentru distribuții simetrice, dar poate fi puternic distorsionată de valori extreme."
+  },
+  {
+    "id": "T5-13",
+    "statement": "Aceeași față a Lunii este vizibilă de pe Pământ deoarece Luna nu se rotește.",
+    "category": "astronomy",
+    "tier": 5,
+    "tier_label": "Partially true/misleading",
+    "ground_truth_verdict": "PARTIALLY_TRUE",
+    "expected_confidence_range": "40-65%",
+    "rationale": "Este adevărat că vedem aceeași față, dar cauza este blocarea gravitațională — Luna se rotește sincron cu orbita sa."
+  },
+  {
+    "id": "T5-14",
+    "statement": "Dreptul la educație este garantat tuturor copiilor din lume prin convenții internaționale.",
+    "category": "civics",
+    "tier": 5,
+    "tier_label": "Partially true/misleading",
+    "ground_truth_verdict": "PARTIALLY_TRUE",
+    "expected_confidence_range": "40-65%",
+    "rationale": "Dreptul este consacrat în Convenția ONU privind Drepturile Copilului, dar milioane de copii nu au acces efectiv la educație."
+  },
+  {
+    "id": "T5-15",
+    "statement": "Metalele sunt bune conductoare de căldură, iar nonmetalele nu conduc căldura.",
+    "category": "science",
+    "tier": 5,
+    "tier_label": "Partially true/misleading",
+    "ground_truth_verdict": "PARTIALLY_TRUE",
+    "expected_confidence_range": "40-65%",
+    "rationale": "Majoritatea metalelor conduc bine căldura, dar există excepții notabile — diamantul, un nemetal, este un excelent conductor termic."
+  },
+
+  {
+    "id": "T6-01",
+    "statement": "Roșiile sunt legume.",
+    "category": "science",
+    "tier": 6,
+    "tier_label": "Ambiguous/context-dependent",
+    "ground_truth_verdict": "AMBIGUOUS",
+    "expected_confidence_range": "30-55%",
+    "rationale": "Botanic sunt fructe, culinar sunt legume, iar juridic au fost clasificate ca legume — răspunsul depinde de context."
+  },
+  {
+    "id": "T6-02",
+    "statement": "Apa este cel mai bun solvent din natură.",
+    "category": "science",
+    "tier": 6,
+    "tier_label": "Ambiguous/context-dependent",
+    "ground_truth_verdict": "AMBIGUOUS",
+    "expected_confidence_range": "30-55%",
+    "rationale": "Apa este numită 'solventul universal', dar 'cel mai bun' depinde de substanța care trebuie dizolvată."
+  },
+  {
+    "id": "T6-03",
+    "statement": "Cel mai mare oraș din Europa este Moscova.",
+    "category": "geography",
+    "tier": 6,
+    "tier_label": "Ambiguous/context-dependent",
+    "ground_truth_verdict": "AMBIGUOUS",
+    "expected_confidence_range": "30-55%",
+    "rationale": "Depinde de criteriu: Moscova ca populație urbană, Istanbul dacă includem partea europeană, sau Londra ca arie metropolitană."
+  },
+  {
+    "id": "T6-04",
+    "statement": "Cel mai lung râu din lume este Nilul.",
+    "category": "geography",
+    "tier": 6,
+    "tier_label": "Ambiguous/context-dependent",
+    "ground_truth_verdict": "AMBIGUOUS",
+    "expected_confidence_range": "30-55%",
+    "rationale": "Unele măsurători recente plasează Amazonul ca mai lung; rezultatul depinde de metodologia de măsurare a izvorului."
+  },
+  {
+    "id": "T6-05",
+    "statement": "Primul calculator electronic din istorie a fost ENIAC.",
+    "category": "history",
+    "tier": 6,
+    "tier_label": "Ambiguous/context-dependent",
+    "ground_truth_verdict": "AMBIGUOUS",
+    "expected_confidence_range": "30-55%",
+    "rationale": "Depinde de definiția 'calculator electronic': Colossus (1943) a precedat ENIAC (1945), iar ABC-ul lui Atanasoff are și el pretenții."
+  },
+  {
+    "id": "T6-06",
+    "statement": "Opt pahare de apă pe zi sunt necesare pentru sănătatea optimă.",
+    "category": "health",
+    "tier": 6,
+    "tier_label": "Ambiguous/context-dependent",
+    "ground_truth_verdict": "AMBIGUOUS",
+    "expected_confidence_range": "30-55%",
+    "rationale": "Regula '8×8' nu are o bază științifică solidă; necesarul de apă variază în funcție de individ, climă și activitate fizică."
+  },
+  {
+    "id": "T6-07",
+    "statement": "Cafeaua este dăunătoare pentru sănătate.",
+    "category": "health",
+    "tier": 6,
+    "tier_label": "Ambiguous/context-dependent",
+    "ground_truth_verdict": "AMBIGUOUS",
+    "expected_confidence_range": "30-55%",
+    "rationale": "Consumul moderat are beneficii demonstrate, dar consumul excesiv poate cauza probleme — răspunsul depinde de cantitate și individ."
+  },
+  {
+    "id": "T6-08",
+    "statement": "Există apă pe Marte.",
+    "category": "astronomy",
+    "tier": 6,
+    "tier_label": "Ambiguous/context-dependent",
+    "ground_truth_verdict": "AMBIGUOUS",
+    "expected_confidence_range": "30-55%",
+    "rationale": "Există dovezi ale apei sub formă de gheață la poli și posibil apă sărată subterană, dar nu apă lichidă la suprafață."
+  },
+  {
+    "id": "T6-09",
+    "statement": "Universul are o margine.",
+    "category": "astronomy",
+    "tier": 6,
+    "tier_label": "Ambiguous/context-dependent",
+    "ground_truth_verdict": "AMBIGUOUS",
+    "expected_confidence_range": "30-55%",
+    "rationale": "Universul observabil are o limită, dar universul în ansamblu poate fi infinit — răspunsul depinde de definiție."
+  },
+  {
+    "id": "T6-10",
+    "statement": "Limba oficială a Statelor Unite ale Americii este engleza.",
+    "category": "civics",
+    "tier": 6,
+    "tier_label": "Ambiguous/context-dependent",
+    "ground_truth_verdict": "AMBIGUOUS",
+    "expected_confidence_range": "30-55%",
+    "rationale": "SUA nu au o limbă oficială la nivel federal, deși engleza este limba de facto; unele state au adoptat-o oficial."
+  },
+  {
+    "id": "T6-11",
+    "statement": "Împărțirea la zero este imposibilă.",
+    "category": "math",
+    "tier": 6,
+    "tier_label": "Ambiguous/context-dependent",
+    "ground_truth_verdict": "AMBIGUOUS",
+    "expected_confidence_range": "30-55%",
+    "rationale": "În aritmetica standard da, dar în sfera Riemann sau alte cadre matematice extinse, se poate defini."
+  },
+  {
+    "id": "T6-12",
+    "statement": "Infinitul este un număr.",
+    "category": "math",
+    "tier": 6,
+    "tier_label": "Ambiguous/context-dependent",
+    "ground_truth_verdict": "AMBIGUOUS",
+    "expected_confidence_range": "30-55%",
+    "rationale": "În aritmetica standard nu este un număr, dar în numerele cardinale sau suprarealele, infinitul poate fi tratat ca atare."
+  },
+  {
+    "id": "T6-13",
+    "statement": "Vârsta majoratului este de 18 ani.",
+    "category": "civics",
+    "tier": 6,
+    "tier_label": "Ambiguous/context-dependent",
+    "ground_truth_verdict": "AMBIGUOUS",
+    "expected_confidence_range": "30-55%",
+    "rationale": "Variază între 15 și 21 de ani în funcție de țară și de domeniu juridic (vot, alcool, conducere auto)."
+  },
+  {
+    "id": "T6-14",
+    "statement": "Virusurile sunt organisme vii.",
+    "category": "science",
+    "tier": 6,
+    "tier_label": "Ambiguous/context-dependent",
+    "ground_truth_verdict": "AMBIGUOUS",
+    "expected_confidence_range": "30-55%",
+    "rationale": "Depinde de definiția vieții: virusurile au material genetic și evoluează, dar nu metabolizează independent."
+  },
+  {
+    "id": "T6-15",
+    "statement": "Evul Mediu a fost o perioadă de stagnare culturală și științifică în Europa.",
+    "category": "history",
+    "tier": 6,
+    "tier_label": "Ambiguous/context-dependent",
+    "ground_truth_verdict": "AMBIGUOUS",
+    "expected_confidence_range": "30-55%",
+    "rationale": "Narațiunea 'Epocilor Întunecate' este contestată — au existat progrese semnificative, dar ritmul a variat regional."
+  }
+]

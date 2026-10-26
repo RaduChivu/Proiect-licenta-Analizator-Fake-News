@@ -1,0 +1,152 @@
+[
+  {
+    "url": "https://www.bbc.com/news/world-asia-55218443",
+    "question": null,
+    "domain": "bbc.com",
+    "tier": "trusted",
+    "trust_score": 98.0,
+    "title": "Mt Everest grows by nearly a metre to new height - BBC",
+    "snippet": "The world's highest mountain Mount Everest is 0.86m higher than had been previously officially calculated, Nepal and China have jointly ... (data publicării: 8 dec. 2020)",
+    "reason": "Sursă recunoscută cu scor 98/100 din lista de surse de încredere."
+  },
+  {
+    "url": "https://www.gov.ro",
+    "question": null,
+    "domain": "gov.ro",
+    "tier": "trusted",
+    "trust_score": 95.0,
+    "title": "Guvernul României",
+    "snippet": "Guvernul este autoritatea publică a puterii executive, care funcționează în baza votului de încredere acordat de Parlament și care asigură realizarea politicii ...",
+    "reason": "Sursă recunoscută cu scor 95/100 din lista de surse de încredere."
+  },
+  {
+    "url": "https://www.factual.ro",
+    "question": null,
+    "domain": "factual.ro",
+    "tier": "trusted",
+    "trust_score": 88.0,
+    "title": "Factual.ro - Factual • Adevărul din politică",
+    "snippet": "Factual este prima platformă independentă de fact-checking din România. Verificăm declarațiile politicienilor și impactul dezinformării publice.",
+    "reason": "Sursă recunoscută cu scor 88/100 din lista de surse de încredere."
+  },
+  {
+    "url": "https://www.veridica.ro/en/report-fake-news",
+    "question": null,
+    "domain": "veridica.ro",
+    "tier": "trusted",
+    "trust_score": 88.0,
+    "title": "Report fake news! - Veridica.ro",
+    "snippet": "Use the form below to send us a fake news: Send. Veridica. About Us · Contact · Newsletter · Donations · AIJR · Privacy Policy.",
+    "reason": "Sursă recunoscută cu scor 88/100 din lista de surse de încredere."
+  },
+  {
+    "url": "https://www.digi24.ro/stiri/sci-tech/natura-si-mediu/everestul-nu-este-cel-mai-inalt-varf-muntos-din-lume-893802",
+    "question": null,
+    "domain": "digi24.ro",
+    "tier": "trusted",
+    "trust_score": 85.0,
+    "title": "Everestul nu este cel mai înalt vârf muntos din lume",
+    "snippet": "În ciuda faptului că altitudine este mai mică 2580 m, vârful lui Chimborazo este la 6.384,4 km depărtare de centrul Pământului, cu 2.168 m mai ... (data publicării: 18 mar. 2018)",
+    "reason": "Sursă recunoscută cu scor 85/100 din lista de surse de încredere."
+  },
+  {
+    "url": "https://hotnews.ro/k2-povestea-muntelui-salbatic-tragedii-si-victorii-pe-un-monument-fantastic-din-piatra-zapada-si-gheata-214687",
+    "question": null,
+    "domain": "hotnews.ro",
+    "tier": "trusted",
+    "trust_score": 83.0,
+    "title": "K2 - Povestea ”muntelui sălbatic” - Tragedii și victorii pe un ...",
+    "snippet": "K2 este un munte pe care se ajunge greu, dar se moare ușor. Pe al doilea cel mai înalt vârf al lumii au ajuns de peste 10 ori mai puțini ... (data publicării: 23 ian. 2021)",
+    "reason": "Sursă recunoscută cu scor 83/100 din lista de surse de încredere."
+  },
+  {
+    "url": "https://stirileprotv.ro/stiri/stiinta/muntele-everest-a-crescut-in-inaltime-cu-pana-la-cateva-zeci-de-metri-cercetatorii-au-gasit-explicatia.html",
+    "question": null,
+    "domain": "stirileprotv.ro",
+    "tier": "trusted",
+    "trust_score": 82.0,
+    "title": "Muntele Everest a crescut în înălţime cu până la câteva ...",
+    "snippet": "Dai a observat un fel de anomalie în cazul Everestului, vârful său fiind cu aproximativ 250 de metri mai înalt decât ceilalţi munţi cei mai înalţi din Himalaya.",
+    "reason": "Sursă recunoscută cu scor 82/100 din lista de surse de încredere."
+  },
+  {
+    "url": "https://ro.wikipedia.org/wiki/Everest",
+    "question": "Este Everestul efectiv considerat ca fiind un munte?",
+    "domain": "ro.wikipedia.org",
+    "tier": "trusted",
+    "trust_score": 72.0,
+    "title": "Everest",
+    "snippet": "Vârful Everest este cel mai înalt punct de pe Pământ, cu o altitudine de 8.848,86 m deasupra nivelului mării. Se află în Munții Himalaya, pe granița dintre Nepal și Tibet (China). În nepaleză numele muntelui este सगरमाथा, Sagarmāthā (Mama oceanului), iar în Tibet este cunoscut sub numele de Chomolungma (mama universului). Numele din limba engleză, Everest, a fost dat în onoarea topografului britanic Sir George Everest.",
+    "reason": "Sursă recunoscută cu scor 72/100 din lista de surse de încredere."
+  },
+  {
+    "url": "https://www.reddit.com/r/todayilearned/comments/c8f478/til_mt_everest_is_actually_not_the_tallest/?tl=ro",
+    "question": "Există dovezi care să confirme măsurațiile realizate?",
+    "domain": "reddit.com",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Am aflat azi că Everestul de fapt nu e cel mai înalt munte de pe ...",
+    "snippet": "Cel mai înalt munte, măsurat așa, e Muntele Chimborazo. Vârful lui e punctul cel mai depărtat de centrul Pământului. LazyFairAttitude. • acum 7 ani.",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://useit.ro/stiinta/natura/care-e-cel-mai-inalt-munte-din-lume-de-fapt-unii-experti-nu-cred-ca-e-everest-19764.html",
+    "question": null,
+    "domain": "useit.ro",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Care e cel mai înalt munte din lume, de fapt. Unii experți nu cred că ...",
+    "snippet": "... cel mai înalt munte măsurat de la nivelul mării / Shutterstock. Cele mai citite. (data publicării: 21 dec. 2022)",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://www.facebook.com/CasaVivArt/photos/%C5%9Ftia%C5%A3i-c%C4%83muntele-mauna-kea-este-cel-mai-%C3%AEnalt-munte-din-lume-chiar-mai-%C3%AEnalt-dec/1838049986348499",
+    "question": null,
+    "domain": "facebook.com",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Ştiaţi că..... Muntele Mauna Kea este cel mai înalt munte din lume ...",
+    "snippet": "Everestul este considerat cel mai înalt munte măsurat de la nivelul mării. Muntele Mauna Kea are 9999 m, dar 6000 dintre aceştea sunt sub ... (data publicării: 25 feb. 2021)",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://codmunte.wordpress.com/2015/05/23/articol-prima-parte-cel-mai-inalt-varf-de-la-este",
+    "question": null,
+    "domain": "codmunte.wordpress.com",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "ARTICOL. Prima parte – CEL MAI INALT VARF DE LA… ESTE",
+    "snippet": "In functie de criteriu baza, varful Mauna Kea din Hawaii este cel mai inalt munte masurat de la baza sa; ridicandu-se la peste 10100m ... (data publicării: 23 mai 2015)",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://noi.md/md/in-lume/record-neasteptat-everest-a-fost-depasit-de-un-munte-cu-peste-2-500-de-metri-mai-scund",
+    "question": null,
+    "domain": "noi.md",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Everest a fost depășit de un munte cu peste 2.500 de metri mai scund",
+    "snippet": "Astfel, Everestul rămîne cel mai înalt munte măsurat de la nivelul mării, în timp ce Chimborazo este punctul de pe uscat aflat cel mai departe ... (data publicării: 2 iun. 2026)",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://abovethehimalaya.com/ro/blog/top-10-highest-mountains-world.html",
+    "question": null,
+    "domain": "abovethehimalaya.com",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Top 10 cei mai înalți munți din lume - Above the Himalaya",
+    "snippet": "Măsurarea celui mai înalt vârf, Muntele Everest are 8848 m (29,029 ft.) deasupra nivelului mării. Muntele Everest este numit „Sagarmatha” în Nepal; tibetan ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "http://www.tvr.ro/muntele-everest-continua-sa-creasca-dar-pana-la-ce-inal-ime-va-ajunge_48552.html",
+    "question": null,
+    "domain": "tvr.ro",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Muntele Everest continuă să crească. Dar până la ce înălțime va ...",
+    "snippet": "Cu o înălțime de 8.849 de metri, Everest este cel mai înalt munte din lume. Dar va fi mereu așa? Aurora Elmore se apropia de baza de sud a ... (data publicării: 1 nov. 2024)",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  }
+]

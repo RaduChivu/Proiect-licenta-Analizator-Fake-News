@@ -1,0 +1,12 @@
+[
+  {
+    "url": "https://ro.wikipedia.org/wiki/Taiwan",
+    "question": "Este Turnul Taipei 101 o construcție reală?",
+    "domain": "ro.wikipedia.org",
+    "tier": "trusted",
+    "trust_score": 72.0,
+    "title": "Taiwan",
+    "snippet": "Taiwan (chineză tradițională:臺灣; chineză simplificată:台湾; pinyin: Táiwān), numit oficial Republica China (RC), este un stat din Asia de Est. Insula principală a Taiwanului, cunoscută și sub numele de Formosa, este situată între Marea Chinei de Est și Marea Chinei de Sud, în nord-vestul Oceanului Pacific, având Republica Populară Chineză la nord-vest, Japonia la nord-est și Filipine la sud. Teritoriul are o suprafață de 35.808 kilometri pătrați și este caracterizat de lanțuri muntoase care domină cele două treimi estice, în timp ce câmpiile din treimea vestică concentrează cea mai mare parte a populației, puternic urbanizate. Teritoriile aflate sub controlul Republicii China includ, în total, 168 de insule, cu o suprafață cumulată de 36.193 kilometri pătrați. Cea mai mare aglomerare metropolitană este formată din Taipei (capitala), Noul Taipei și Keelung.",
+    "reason": "Sursă recunoscută cu scor 72/100 din lista de surse de încredere."
+  }
+]

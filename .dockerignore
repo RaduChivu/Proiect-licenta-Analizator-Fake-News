@@ -1,0 +1,20 @@
+# Medii virtuale și cache-uri Python
+venv/
+__pycache__/
+*.pyc
+.claude/
+
+# Rezultate și date de lucru (nu aparțin imaginii)
+out/
+benchmark/out/
+
+# Configurare cu secrete (montată ca volum, nu copiată în imagine)
+config/api_keys.yaml
+
+# Fișiere de sistem și documente
+.DS_Store
+*.docx
+*.pdf
+Capitolul_*
+fig_*.png
+README.md

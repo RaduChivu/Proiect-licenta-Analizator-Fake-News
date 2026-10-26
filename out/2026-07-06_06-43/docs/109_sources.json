@@ -1,0 +1,12 @@
+[
+  {
+    "url": "https://ro.wikipedia.org/wiki/Vitamina_C",
+    "question": "Este vitamina C efectivă împotriva răcelii?",
+    "domain": "ro.wikipedia.org",
+    "tier": "trusted",
+    "trust_score": 72.0,
+    "title": "Vitamina C",
+    "snippet": "Vitamina C este un nutrient esențial vieții, solubil în apă, implicat în producția de gluco-corticosteroizi și de anumiți neurotransmițători (substanțe care permit transmisia influxului nervos), în metabolismul glucozei, al colagenului, al acidului folic și al anumitor aminoacizi, în neutralizarea radicalilor liberi și a nitrozaminelor, în reacții imunologice, care facilitează absorbția fierului la nivelul tubului digestiv.",
+    "reason": "Sursă recunoscută cu scor 72/100 din lista de surse de încredere."
+  }
+]

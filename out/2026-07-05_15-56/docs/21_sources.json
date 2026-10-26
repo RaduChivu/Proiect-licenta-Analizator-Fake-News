@@ -1,0 +1,152 @@
+[
+  {
+    "url": "https://www.reuters.com/fact-check",
+    "question": null,
+    "domain": "reuters.com",
+    "tier": "trusted",
+    "trust_score": 100.0,
+    "title": "Reuters Fact Check",
+    "snippet": "Reuters Fact Check addresses online misinformation with coverage that maintains accuracy, integrity and impartiality. The unit is part of Reuters news ...",
+    "reason": "Sursă recunoscută cu scor 100/100 din lista de surse de încredere."
+  },
+  {
+    "url": "https://www.factcheck.org",
+    "question": null,
+    "domain": "factcheck.org",
+    "tier": "trusted",
+    "trust_score": 93.0,
+    "title": "FactCheck.org - A Project of The Annenberg Public Policy Center",
+    "snippet": "Home; Articles. FactCheck Posts · SciCheck · En Español · Project 2025 series · Debunking Viral Claims. Ask a Question. Ask FactCheck · Ask SciCheck.",
+    "reason": "Sursă recunoscută cu scor 93/100 din lista de surse de încredere."
+  },
+  {
+    "url": "https://www.veridica.ro",
+    "question": null,
+    "domain": "veridica.ro",
+    "tier": "trusted",
+    "trust_score": 88.0,
+    "title": "Veridica",
+    "snippet": "Platformă anti dezinformare și fake news - analize, știri ...: Veridica este o publicație specializată în monitorizarea, analiza și demontarea campaniilor de fake news, dezinformare și manipulare din Europa Centrală și ...",
+    "reason": "Sursă recunoscută cu scor 88/100 din lista de surse de încredere."
+  },
+  {
+    "url": "https://www.factual.ro",
+    "question": null,
+    "domain": "factual.ro",
+    "tier": "trusted",
+    "trust_score": 88.0,
+    "title": "Factual.ro - Factual • Adevărul din politică",
+    "snippet": "Factual este prima platformă independentă de fact-checking din România. Verificăm declarațiile politicienilor și impactul dezinformării publice.",
+    "reason": "Sursă recunoscută cu scor 88/100 din lista de surse de încredere."
+  },
+  {
+    "url": "https://hotnews.ro/patru-elemente-chimice-noi-au-fost-adaugate-in-tabelul-lui-mendeleev-completand-randul-sapte-490507",
+    "question": null,
+    "domain": "hotnews.ro",
+    "tier": "trusted",
+    "trust_score": 83.0,
+    "title": "Patru elemente chimice noi au fost adaugate in Tabelul lui ...",
+    "snippet": "IUPAC a initiat procesul de formalizare a numelor si simbolurilor pentru aceste elemente, denumite provizoriu ununtrium, (Uut sau elementul 113) ... (data publicării: 4 ian. 2016)",
+    "reason": "Sursă recunoscută cu scor 83/100 din lista de surse de încredere."
+  },
+  {
+    "url": "https://stirileprotv.ro/stiri/stiinta/oxigenul-intunecat-pune-la-indoiala-tot-ceea-ce-stiam-despre-originea-vietii-pe-pamant-o-descoperire-stupefianta.html",
+    "question": null,
+    "domain": "stirileprotv.ro",
+    "tier": "trusted",
+    "trust_score": 82.0,
+    "title": "”Oxigenul întunecat” pune la îndoială tot ceea ce știam despre ...",
+    "snippet": "Potrivit cercetătorilor aflaţi la originea descoperirii, \"oxigenul întunecat\" ar fi legat de prezenţa în abisuri a unor noduli polimetalici, acumulări minerale ...",
+    "reason": "Sursă recunoscută cu scor 82/100 din lista de surse de încredere."
+  },
+  {
+    "url": "https://adevarul.ro/stiri-externe/republica-moldova",
+    "question": null,
+    "domain": "adevarul.ro",
+    "tier": "trusted",
+    "trust_score": 80.0,
+    "title": "Republica Moldova - ultimele știri | adevarul.ro",
+    "snippet": "Maia Sandu, întrebată dacă ia în calcul funcția de premier după încheierea mandatului de președinte al R. Moldova: „Nu mă gândesc la ce voi face după”.",
+    "reason": "Sursă recunoscută cu scor 80/100 din lista de surse de încredere."
+  },
+  {
+    "url": "https://ro.wikipedia.org/wiki/Oxigen",
+    "question": "Este oxigenul considerat o substantă chimică?",
+    "domain": "ro.wikipedia.org",
+    "tier": "trusted",
+    "trust_score": 72.0,
+    "title": "Oxigen - Wikipedia",
+    "snippet": "Oxigenul este un element chimic cu simbolul O și numărul atomic 8. Face parte din grupa calcogenilor și este un element nemetalic foarte reactiv și un agent ...",
+    "reason": "Sursă recunoscută cu scor 72/100 din lista de surse de încredere."
+  },
+  {
+    "url": "https://www.academia.edu/120818950/DEMENTA_DIGITALA",
+    "question": null,
+    "domain": "academia.edu",
+    "tier": "unknown",
+    "trust_score": 75.0,
+    "title": "(PDF) DEMENTA DIGITALA - Academia.edu",
+    "snippet": "Oxigenul este un metal? Și două exemple de întrebări dificile: Danemarca este mai mare decât Costa Rica? Numărul atomic al criptonului este 26? După primele ...",
+    "reason": "Domeniu necunoscut. TLD oficial/guvernamental (.edu)."
+  },
+  {
+    "url": "https://phet.colorado.edu/ro",
+    "question": null,
+    "domain": "phet.colorado.edu",
+    "tier": "unknown",
+    "trust_score": 75.0,
+    "title": "PhET",
+    "snippet": "Simulări online gratuite de fizică, chimie, biologie, științele ...: Simulările PhET se bazează pe cercetări educaționale extinse și implică elevii datorită unui mediu intuitiv, de tipul unui joc, în care elevii învață prin ...",
+    "reason": "Domeniu necunoscut. TLD oficial/guvernamental (.edu)."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=9tKcJxYbBPw",
+    "question": null,
+    "domain": "youtube.com",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Chemistry Grade 8 Lesson",
+    "snippet": "Oxygen | WinSchool - YouTube: SUBSCRIBE | LIKE | SHARE | WinSchool își propune să digitalizeze procesul de învățare. Materia școlară trebuie să fie ușor de urmărit, ... (data publicării: 5 nov. 2013)",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://www.anm.ro/_/_PRO/pro_1285_23.12.08.pdf",
+    "question": null,
+    "domain": "anm.ro",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "[PDF] Oxigenul nu este inflamabil dar favorizează arderile şi de aceea nu ...",
+    "snippet": "Oxigenul medicinal poate fi utilizat în timpul sarcinii sub stricta supraveghere a medicului. Oxigenul poate fi administrat la femei care alăptează.",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://www.siad.com/ro/oxigen",
+    "question": null,
+    "domain": "siad.com",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": null,
+    "snippet": null,
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://www.aiche.org/sites/default/files/beacon-article/2017-01-Beacon-Romanian.pdf",
+    "question": null,
+    "domain": "aiche.org",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "[PDF] Oxigenul – necesar vieţii dar periculos dacă nu este controlat! - AIChE",
+    "snippet": "După o lucrare de ȋntreţinere, o conductă pentru oxigen a fost degresată și uscată prin suflare. Cu toate acestea nu s-a folosit azot.",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://www.roblox.com",
+    "question": null,
+    "domain": "roblox.com",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Roblox",
+    "snippet": "Roblox is the ultimate virtual universe that lets you create, share experiences with friends, and be anything you can imagine. Join millions of people and ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "url": "https://en.wikipedia.org/wiki/Proof_of_Fermat%27s_Last_Theorem_for_specific_exponents",
+    "question": null,
+    "domain": "en.wikipedia.org",
+    "tier": "trusted",
+    "trust_score": 72.0,
+    "title": "Proof of Fermat's Last Theorem for specific exponents - Wikipedia",
+    "snippet": "\"Fermat's Last Theorem: Proof for n = 3\". Retrieved 2009-05-23. ↑ J. J. ... \"Fermat's Last Theorem: Proof for n = 5\". Retrieved 2009-05-23 ...",
+    "reason": "Sursă recunoscută cu scor 72/100 din lista de surse de încredere."
+  },
+  {
+    "url": "https://www.reddit.com/r/explainlikeimfive/comments/1m2hcwd/eli5_how_was_fermats_last_theorem_proved",
+    "question": "A fost demonstrat ultimul teorem al lui Fermat vreodată?",
+    "domain": "reddit.com",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "ELI5 How was Fermat's last theorem proved?",
+    "snippet": "r/explainlikeimfive: Explain Fermat's Last Theorem proof simply. Clear search. Ask. Explain Fermat's Last Theorem proof simply. How does ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=QMIbUMch6z4",
+    "question": null,
+    "domain": "youtube.com",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Fermat's last theorem proof overview | Proof by Sir Andrew Wiles",
+    "snippet": "Fermat's last theorem proof overview | Proof by Sir Andrew Wiles.",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://www.quora.com/What-is-Fermats-last-theorem-and-what-is-the-proof-of-it",
+    "question": null,
+    "domain": "quora.com",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "What is Fermat's last theorem, and what is the proof of it? - Quora",
+    "snippet": "What does Fermat's Last Theorem proof look like? Profile photo for Dana F Anderson.",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://www.facebook.com/groups/1567682496877142/posts/3466392253672814",
+    "question": null,
+    "domain": "facebook.com",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Fermat's last theorem proof too large for margin - Facebook",
+    "snippet": "... Fermat's Last Theorem Proof is an Incorrect Solution, and then Now I have the right to conclude:Fermat's Last Theorem Proof was a simple ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://dokumen.pub/algebraic-number-theory-and-fermats-last-theorem-5nbsped-9781032602257-9781032610931-9781003462002.html",
+    "question": null,
+    "domain": "dokumen.pub",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Algebraic Number Theory and Fermat's Last Theorem [5&nbsp",
+    "snippet": "| Fermat's last theorem. Classification: LCC QA247 .S76 2025 (print) | LCC QA247 (ebook) | DDC 512.7/4--dc23/eng/20240705 LC record available at https ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "http://grid01.ciirc.cvut.cz/~mptp/prfgld2.pdf",
+    "question": null,
+    "domain": "grid01.ciirc.cvut.cz",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "[PDF] Proofgold",
+    "snippet": "Blockchain for Formal Methods: Possible applications: Fermat's Last Theorem, Classification of Finite. Simple Groups. Chad E. Brown, Thibault Gauthier, Cezary Kaliszyk, Josef Urban.",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://www.scribd.com/document/507768734/IBDP-mathematics-HL-curriculum-2019-2021-Revised",
+    "question": null,
+    "domain": "scribd.com",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "IBDP Mathematics HL Curriculum Overview | PDF - Scribd",
+    "snippet": "only straightedge and compass. Some historically recent proofs: four colour theorem, Fermat's last theorem, classification of finite simple groups, the ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  }
+]

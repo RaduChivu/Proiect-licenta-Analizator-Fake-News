@@ -1,0 +1,152 @@
+[
+  {
+    "url": "https://www.factual.ro/dezinformari-rs/fals-pamantul-tanar",
+    "question": null,
+    "domain": "factual.ro",
+    "tier": "trusted",
+    "trust_score": 88.0,
+    "title": "FALS | Pământul tânăr - Factual • Adevărul din politică",
+    "snippet": "Peste 5 miliarde de ani, Soarele se va transforma într-o stea rece, iar la alte câteva miliarde de ani după, va ajunge la aproximativ ... (data publicării: 31 ian. 2024)",
+    "reason": "Sursă recunoscută cu scor 88/100 din lista de surse de încredere."
+  },
+  {
+    "url": "https://ro.wikipedia.org/wiki/Unitate_astronomic%C4%83",
+    "question": "Este Soarele un corp ceresc?",
+    "domain": "ro.wikipedia.org",
+    "tier": "trusted",
+    "trust_score": 72.0,
+    "title": "Unitate astronomică",
+    "snippet": "Unitatea astronomică (prescurtat ua, au sau AU) este o unitate de măsură a lungimii și este egală cu distanța Soare-Terra.",
+    "reason": "Sursă recunoscută cu scor 72/100 din lista de surse de încredere."
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Formation_and_evolution_of_the_Solar_System",
+    "question": null,
+    "domain": "en.wikipedia.org",
+    "tier": "trusted",
+    "trust_score": 72.0,
+    "title": "Formation and evolution of the Solar System",
+    "snippet": "The formation of the Solar System began about 4.6 billion years ago with the gravitational collapse of a small part of a giant molecular cloud.",
+    "reason": "Sursă recunoscută cu scor 72/100 din lista de surse de încredere."
+  },
+  {
+    "url": "https://nso.edu/research/science-research/sun-as-a-star",
+    "question": null,
+    "domain": "nso.edu",
+    "tier": "unknown",
+    "trust_score": 75.0,
+    "title": "Sun as a Star",
+    "snippet": "The Sun serves as among the test beds for Einstein's theory of General Relativity. The nature of subatomic particles called neutrinos—the byproducts of nuclear ...",
+    "reason": "Domeniu necunoscut. TLD oficial/guvernamental (.edu)."
+  },
+  {
+    "url": "https://www.jpl.nasa.gov/edu/resources/project/model-how-the-solar-system-formed",
+    "question": null,
+    "domain": "jpl.nasa.gov",
+    "tier": "unknown",
+    "trust_score": 75.0,
+    "title": "Model How the Solar System Formed – Science Project",
+    "snippet": "Step 1: Get to know our solar system · Step 2: Form a nebula · Step 3: Add new elements · Step 4: Introduce orbital motion · Step 5: Repeat the process · Step 6: ...",
+    "reason": "Domeniu necunoscut. TLD oficial/guvernamental (.gov)."
+  },
+  {
+    "url": "https://destepti.ro/stelele-si-clasificarea-lor",
+    "question": null,
+    "domain": "destepti.ro",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Stelele si clasificarea lor",
+    "snippet": "In functie de stralucirea lor absoluta, cat si in functie de spectrele pe care le au stelele sunt: normale, gigante, pitice albe si subpitice. (data publicării: 4 mar. 2013)",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://www.isjbraila.ro/file_comp/resedu/1605683495_UNIVERSUL%20SI%20SISTEMUL%20SOLAR_CILIBIU%20RAMONA.doc",
+    "question": null,
+    "domain": "isjbraila.ro",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "UNIVERSUL ȘI SISTEMUL SOLAR_lecție interactivă, autor",
+    "snippet": "Stelele degajă căldură şi lumină, fiind singurele corpuri cereşti care au căldură şi lumină proprii. ... Cometele - sunt corpuri cerești care au infățisarea unor ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://brainly.ro/tema/146748",
+    "question": null,
+    "domain": "brainly.ro",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Stelele sunt corpuri ceresti de forma .... alcatuite din ...",
+    "snippet": "Stelele sunt corpuri ceresti de forma sferica alcatuite din plasma.Noaptea apar pe bolta cereasca sub forma unor puncte stralucitoare deoarece ... (data publicării: 30 aug. 2014)",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://www.scientia.ro/univers/47-astronomie/2506-astronomia-pe-intelesul-tuturor.html",
+    "question": null,
+    "domain": "scientia.ro",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Astronomia pe înţelesul tuturor",
+    "snippet": "Nu totdeauna, stelele sunt formate dintr-un singur corp (stele simple), ci din mai multe corpuri (stele multiple). Pe bolta cerească se pot ... (data publicării: 20 oct. 2011)",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://liceunet.ro/mituri-ale-literaturii-romana/mitul-soarelui",
+    "question": null,
+    "domain": "liceunet.ro",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Mitul soarelui",
+    "snippet": "Mitul soarelui este unul dintre cele mai străvechi din întreaga lume. Este cunoscut faptul că, încă din cele mai vechi timpuri, omul obișnuia să venereze ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://infocultural.eu/legenda-soarelui-si-a-lunii",
+    "question": null,
+    "domain": "infocultural.eu",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Legenda Soarelui și a Lunii",
+    "snippet": "În mitologia nordică, Soarele și Luna sunt personificate de doi frați: Sól, zeița Soarelui, și Máni, zeul Lunii. Ei au fost sortiți să străbată cerul în fiecare ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=-HkwRpuDL8o",
+    "question": null,
+    "domain": "youtube.com",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Cea mai importantă stea. Soarele.",
+    "snippet": "Soarele este cea mai importantă stea care luminează și întreține viața pe planeta #Pământ, fiind totodată și cea mai apropiata stea de noi. (data publicării: acum 6 ani)",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://ro.scribd.com/document/23186785/mitologia-soarelui",
+    "question": null,
+    "domain": "ro.scribd.com",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Mitologia Soarelui | PDF",
+    "snippet": "Documentul prezintă mitologia solară din cultura greacă antică. Este analizată venerarea soarelui în spațiul egean și sunt descrise divinitățile solare ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://stiintasitehnica.com/de-ce-aceasta-stea-de-30-de-ori-mai-mare-decat-soarele-ii-intriga-atat-de-mult-pe-astronomi",
+    "question": null,
+    "domain": "stiintasitehnica.com",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "De ce această stea de 30 de ori mai mare decât Soarele îi ...",
+    "snippet": "Steaua gigantică J0524-0336, de aproximativ treizeci de ori mai mare decât Soarele, pare totuși să se abate de la această regulă. Observațiile, ... (data publicării: 20 aug. 2024)",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://ibn.idsi.md/sites/default/files/imag_file/Soarele%20steaua%20noastra%20cea%20de%20toate%20zilele.pdf",
+    "question": null,
+    "domain": "ibn.idsi.md",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Astronomie 35 SOARELE, STEAUA NOASTRĂ CEA DE ...",
+    "snippet": "de Z Mouradian · 2006 — Rezumat: Se prezintă evoluţia temporală a Soarelui precum şi structura sa internă. Se arată care sunt procesele fizice caracteristice ale fiecărui strat ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  }
+]

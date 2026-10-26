@@ -1,0 +1,152 @@
+[
+  {
+    "url": "http://gov.ro/en/government/government",
+    "question": null,
+    "domain": "gov.ro",
+    "tier": "trusted",
+    "trust_score": 95.0,
+    "title": null,
+    "snippet": null,
+    "reason": "Sursă recunoscută cu scor 95/100 din lista de surse de încredere."
+  },
+  {
+    "url": "https://www.factual.ro/dezinformari-rs/fals-praful-din-sahara-ar-fi-fabricat-artificial",
+    "question": null,
+    "domain": "factual.ro",
+    "tier": "trusted",
+    "trust_score": 88.0,
+    "title": "FALS | Praful din Sahara ar fi fabricat artificial - Factual.ro",
+    "snippet": "În timpul lunilor de primăvară-vară, praful saharian este suflat de pe continentul african. Particulele de praf sunt rareori derivate din dunele ... (data publicării: 6 mai 2024)",
+    "reason": "Sursă recunoscută cu scor 88/100 din lista de surse de încredere."
+  },
+  {
+    "url": "https://www.veridica.ro",
+    "question": null,
+    "domain": "veridica.ro",
+    "tier": "trusted",
+    "trust_score": 88.0,
+    "title": "Veridica",
+    "snippet": "Platformă anti dezinformare și fake news - analize, știri ...: Veridica este o publicație specializată în monitorizarea, analiza și demontarea campaniilor de fake news, dezinformare și manipulare din Europa Centrală și ...",
+    "reason": "Sursă recunoscută cu scor 88/100 din lista de surse de încredere."
+  },
+  {
+    "url": "https://www.digi24.ro/stiri/externe/aproape-50-de-oameni-au-murit-de-sete-in-desertul-sahara-dupa-ce-camionul-in-care-se-aflau-s-a-defectat-exista-doar-2-supravietuitori-3802759",
+    "question": null,
+    "domain": "digi24.ro",
+    "tier": "trusted",
+    "trust_score": 85.0,
+    "title": "Aproape 50 de oameni au murit de sete în deşertul Sahara ...",
+    "snippet": "Aproape 50 de oameni au murit de sete în deşertul Sahara după ce camionul în care se aflau s-a defectat. Există doar 2 supravieţuitori. Data ... (data publicării: 5 iun. 2026)",
+    "reason": "Sursă recunoscută cu scor 85/100 din lista de surse de încredere."
+  },
+  {
+    "url": "https://ro.wikipedia.org/wiki/De%C8%99ertul_Gobi",
+    "question": "Este Deșertul Sahara efectiv un deșert?",
+    "domain": "ro.wikipedia.org",
+    "tier": "trusted",
+    "trust_score": 72.0,
+    "title": "Deșertul Gobi",
+    "snippet": "Deșertul Gobi (în mongolă, Говь, chineza 戈壁; pinyin gēbì), mai demult denumit și Șamo, este un deșert din Asia Centrală, fiind al șaselea dintre cele mai mari deșerturi din lume. Acesta este caracterizat prin absența aproape completă a dunelor (3%), din această cauză, deșertul Gobi fiind considerat de către unii geografi ca semideșert.",
+    "reason": "Sursă recunoscută cu scor 72/100 din lista de surse de încredere."
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Sahara",
+    "question": null,
+    "domain": "en.wikipedia.org",
+    "tier": "trusted",
+    "trust_score": 72.0,
+    "title": "Sahara - Wikipedia",
+    "snippet": "With an area of 9,200,000 square kilometres (3,600,000 sq mi), it is the largest hot desert in the world and the third-largest desert overall, smaller only than ...",
+    "reason": "Sursă recunoscută cu scor 72/100 din lista de surse de încredere."
+  },
+  {
+    "url": "https://guvernometru.factual.ro",
+    "question": null,
+    "domain": "guvernometru.factual.ro",
+    "tier": "unknown",
+    "trust_score": 74.8,
+    "title": "Guvernometru",
+    "snippet": "Cheltuielile apar a fi în sumă mai mare decât promisiunea din programul de guvernare, fiind estimate la 278.8 miliarde lei (+2%). Considerăm promisiunea ...",
+    "reason": "Domeniu necunoscut. Subdomeniu al sursei de încredere factual.ro."
+  },
+  {
+    "url": "https://www.travel-time.ro/desertul-sahara-cel-mai-mare-de-pe-pamant",
+    "question": "Există dovezi concrete care susțin afirmația conform căruia Deșertul Sahara este cel mai mare deșert al lumii?",
+    "domain": "travel-time.ro",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Desertul Sahara – cel mai mare de pe pamant",
+    "snippet": "Ocupa aproximativ 9 milioane de km patrati, iar suprafata totala este la fel de mare ca continentul Statelor Unite. In Desertul Sahara se gasesc regiunile cele ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://turismistoric.ro/care-este-cel-mai-mare-desert-de-pe-terra-nu-nu-este-sahara",
+    "question": null,
+    "domain": "turismistoric.ro",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Care este cel mai mare deșert de pe Terra? Nu este Sahara!",
+    "snippet": "Deșertul polar antarctic: 14 milioane km² · Deșertul polar arctic: 13,7 milioane km² · Deșertul Sahara: 9,2 milioane km² · Deșertul Arabiei: 2,3 ... (data publicării: 2 nov. 2021)",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=cKbQgmNlBRE",
+    "question": null,
+    "domain": "youtube.com",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Impotmoliti in cel mai mare desert de nisip din lume",
+    "snippet": "Desertul Rub Al-Khali este cel mai mare desert de nisip din lume. Si unul din cele mai periculoase. Insa nu trebuie sa subestimam pericolele ... (data publicării: acum 2 ani)",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://www.worldometers.info/ro/geografie/cele-mai-mari-tari-din-lume",
+    "question": null,
+    "domain": "worldometers.info",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Cele mai mari țări din lume după suprafață",
+    "snippet": "Lista țărilor (și a dependențelor) clasificate după suprafață ; 1, Rusia, 17.098.242 ; 2, Canada, 9.984.670 ; 3, China, 9.706.961 ; 4, Statele Unite, 9.372.610 ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://ro.scribd.com/document/652983674/Lista-%C8%9A%C4%83rilor-Dup%C4%83-Suprafa%C8%9B%C4%83-Wikipedia",
+    "question": null,
+    "domain": "ro.scribd.com",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Lista Țărilor După Suprafață - Wikipedia | PDF",
+    "snippet": "suprafața Pământului. În această listă sunt cuprinse toate statele suverane. și recunoscute ca atare la nivel internațional. Teritoriile care nu fac parte ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://www.descopera.ro/?p=20904502",
+    "question": null,
+    "domain": "descopera.ro",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Test de cultură generală. Care este cel mai mare deșert ...",
+    "snippet": "Deoarece are parte de extrem de puține precipitații, Antarctica este, din punct de vedere tehnic, cel mai mare deșert din lume, conform ... (data publicării: 25 iul. 2025)",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://www.reddit.com/r/todayilearned/comments/2059or/til_antarctica_is_officially_considered_a_desert/?tl=ro",
+    "question": null,
+    "domain": "reddit.com",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Am aflat azi că Antarctica e considerată oficial deșert, ceea ce o ...",
+    "snippet": "Am aflat azi că Antarctica e considerată oficial deșert, ceea ce o face cel mai mare deșert din lume. r/todayilearned - Am aflat azi că Antarctica e ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://www.facebook.com/AtlasulRO/videos/antarctica-cel-mai-mare-de%C8%99ert-din-lume/1334562610970079",
+    "question": null,
+    "domain": "facebook.com",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Cel mai mare deșert din lume",
+    "snippet": "Antarctica | Atlasul: Cel mai mare deșert din lume: Antarctica ... Foarte frumos documentar! Un ținut misterios de gheață, asta este Antarctica. Totodată este și ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  }
+]

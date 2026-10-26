@@ -1,0 +1,6 @@
+Se selectează 'web_search' ca opțiune de rezervă dacă nu poate fi identificată nicio acțiune.
+Conținut de verificat:
+'Content: "Bucharest is the capital of Romania."'
+Se verifică afirmațiile...
+Answering question: Este orașul București situat pe teritoriul României?
+Se caută în google cu interogarea: "orașele capitale ale României"

@@ -1,0 +1,120 @@
+Se selectează 'web_search' ca opțiune de rezervă dacă nu poate fi identificată nicio acțiune.
+Conținut de verificat:
+'Content: "Romania joined the European Union on January 1st, 2007."'
+Se verifică afirmațiile...
+Answering question: A fost adoptata o decizie oficială privind aderarea Romaniei la Uniunea Europeană?
+Se caută în google cu interogarea: "Decizia de admitere a României în UE din 2006"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "Decizia de admitere a României în UE din 2006"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=Decizia+de+admitere+a+Rom%C3%A2niei+%C3%AEn+UE+din+2006&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "Tratatul de aderare al României la Uniunea Europeană datat 25 aprilie 2005"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "Tratatul de aderare al României la Uniunea Europeană datat 25 aprilie 2005"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=Tratatul+de+aderare+al+Rom%C3%A2niei+la+Uniunea+European%C4%83+datat+25+aprilie+2005&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "Adunarea Constituantă română și ratificarea Tratatului de aderare la UE"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "Adunarea Constituantă română și ratificarea Tratatului de aderare la UE"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=Adunarea+Constituant%C4%83+rom%C3%A2n%C4%83+%C8%99i+ratificarea+Tratatului+de+aderare+la+UE&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Answering question: La ce dată a fost semnat tratatul de aderare dintre România și Uniunea Europeană?
+Se caută în google cu interogarea: "tratat de aderare românia UE semnarea data"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "tratat de aderare românia UE semnarea data"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=tratat+de+aderare+rom%C3%A2nia+UE+semnarea+data&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "românia UE membru din 2007"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "românia UE membru din 2007"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=rom%C3%A2nia+UE+membru+din+2007&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "semnatura tratatului de aderare româniei la UE"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "semnatura tratatului de aderare româniei la UE"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=semnatura+tratatului+de+aderare+rom%C3%A2niei+la+UE&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Answering question: Cine era președintele României la momentul aderării la UE?
+Se caută în google cu interogarea: "președinții României în 2007"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "președinții României în 2007"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=pre%C8%99edin%C8%9Bii+Rom%C3%A2niei+%C3%AEn+2007&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "prim-ministrul și președintele României în ianuarie 2007"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "prim-ministrul și președintele României în ianuarie 2007"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=prim-ministrul+%C8%99i+pre%C8%99edintele+Rom%C3%A2niei+%C3%AEn+ianuarie+2007&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "data aderării României la Uniunea Europeană"
+S-au obținut 5 rezultat(e) noi:
+	1. https://www.old.ipn.md/ro/la-strasbourg-va-fi-anuntata-astazi-data-aderarii-romaniei-la-7965_961434.html
+	2. https://sintact.ro/legislatie/monitorul-oficial/legea-87-2026-pentru-completarea-ordonantei-de-urgenta-a-guvernului-nr-17048624
+	3. https://www.senat.ro/Legis/PDF/2005/05L306EM.pdf?nocache=true
+	4. https://lege5.ro/Gratuit/geydcnzvgi/ordonanta-de-urgenta-nr-119-2006-privind-unele-masuri-necesare-pentru-aplicarea-unor-regulamente-comunitare-de-la-data-aderarii-romaniei-la-uniunea-europeana?pid=30124680
+	5. https://www.ugb.ro/Juridica/Issue22013/4._Provocarile_UE_pentru_RO.Nita_Nelu.RO.pdf
+Got answer: Președintele Româieii la momentul aderării la UE era Traian Băsescu. Acest lucru se confirmă și din articolul publicat de Institutul pentru Politici Publice Naționale, care menționează că comemorarea evenimentului urma să aibă loc la Strasbourg pe 26 septembrie 2006, când Comisia Europeană avea să prezinte oficial data aderării României la Uniunea Europeană ("La Strasbourg va fi anunţată astăzi data aderării României la...").
+Answering question: Care au fost principalele motive pentru care România a decis să se alăture UE?
+Se caută în google cu interogarea: "motivele intrarii Romaniei în Uniunea Europeană"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "motivele intrarii Romaniei în Uniunea Europeană"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=motivele+intrarii+Romaniei+%C3%AEn+Uniunea+European%C4%83&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "cauzele aderării României la UE din 2007"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "cauzele aderării României la UE din 2007"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=cauzele+ader%C4%83rii+Rom%C3%A2niei+la+UE+din+2007&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "deciziile politice care au condus la aderarea Romaniei la UE"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "deciziile politice care au condus la aderarea Romaniei la UE"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=deciziile+politice+care+au+condus+la+aderarea+Romaniei+la+UE&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Answering question: Existau obstacole majore pe calea aderarii Romaniei la UE?
+Se caută în google cu interogarea: "România și Uniunea Europeană - data aderare"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "România și Uniunea Europeană - data aderare"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=Rom%C3%A2nia+%C8%99i+Uniunea+European%C4%83+-+data+aderare&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "Obstacole aderare României la UE"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "Obstacole aderare României la UE"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=Obstacole+aderare+Rom%C3%A2niei+la+UE&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "istoricul aderării României la UE"
+S-au obținut 5 rezultat(e) noi:
+	1. https://prezi.com/p/y2lw90vb0x_g/romania-in-uniunea-europeana/
+	2. https://pubhtml5.com/rfux/uhps/EPAS_-_Liceul_Stefan_Procopiu_Vaslui/11
+	3. http://www.lspvs.ro/documente/proc20.pdf
+	4. https://pubhtml5.com/rfux/eeqz/Procopienii_nr._20/
+	5. http://www.lspvs.ro/documente/proc18.pdf
+Got answer: Înainte de a se alătura oficial Uniunii Europene, Romania a trebuit să depășească mai multe etape și să îndeplinească condițiile necesare pentru aderare, printre care și adoptarea legilor europene și reformele economice.
+Answering question: Cum a fost primită aderarea Romaniei la UE de către ceilalți membri ai UE?
+Se caută în google cu interogarea: "adeziunea României la Uniunea Europeană în 2007"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "adeziunea României la Uniunea Europeană în 2007"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=adeziunea+Rom%C3%A2niei+la+Uniunea+European%C4%83+%C3%AEn+2007&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "reacții statele membre ale UE la aderarea României"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "reacții statele membre ale UE la aderarea României"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=reac%C8%9Bii+statele+membre+ale+UE+la+aderarea+Rom%C3%A2niei&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "documentele oficiale privind aderarea României la UE din 2005 și 2006"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "documentele oficiale privind aderarea României la UE din 2005 și 2006"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=documentele+oficiale+privind+aderarea+Rom%C3%A2niei+la+UE+din+2005+%C8%99i+2006&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Answering question: Au existat proteste sau manifestații publice împotriva aderării Romaniei la UE?
+Se caută în google cu interogarea: "proteste Romania UE 2006-2007"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "proteste Romania UE 2006-2007"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=proteste+Romania+UE+2006-2007&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "manifestatiuni impotrivă aderare România UE 2007"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "manifestatiuni impotrivă aderare România UE 2007"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=manifestatiuni+impotriv%C4%83+aderare+Rom%C3%A2nia+UE+2007&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "evenimente politice România ianuarie 2007"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "evenimente politice România ianuarie 2007"

@@ -1,0 +1,12 @@
+[
+  {
+    "url": "https://ro.wikipedia.org/wiki/Metal",
+    "question": "Sunt metalele efectiv conductor de căldură?",
+    "domain": "ro.wikipedia.org",
+    "tier": "trusted",
+    "trust_score": 72.0,
+    "title": "Metal",
+    "snippet": "Metalele sunt elemente chimice cu proprietăți fizice specifice, precum: luciu caracteristic, bun conductor de căldură și electricitate, ductil și maleabil, și solid la temperatură obișnuită (cu excepția mercurului).\nÎn tabelul periodic al elementelor 80% sunt metale, unde însă trebuie amintit că trecerea de la categoria metale la nemetale nu se produce brusc ci treptat fiind o serie de elemente de tranziție între cele două categorii numite semimetale.\nProprietatea metalelor de a fi buni conductori de electricitate se datorează structurii atomice a lor, având electroni liberi care la apariția unei diferențe de potențial vor avea o mișcare dirijată.",
+    "reason": "Sursă recunoscută cu scor 72/100 din lista de surse de încredere."
+  }
+]

@@ -1,0 +1,197 @@
+Se selectează 'web_search' ca opțiune de rezervă dacă nu poate fi identificată nicio acțiune.
+Conținut de verificat:
+'Content: "Romania joined the European Union in 2007."'
+Se verifică afirmațiile...
+Answering question: A existat vreodată un acord formal și oficial care să permită României să devină membru al Uniunii Europene?
+Se caută în google cu interogarea: "acord de aderare românia uniunea europeană 1999"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "acord de aderare românia uniunea europeană 1999"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=acord+de+aderare+rom%C3%A2nia+uniunea+european%C4%83+1999&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "tratatul de la nicea și românia"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "tratatul de la nicea și românia"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=tratatul+de+la+nicea+%C8%99i+rom%C3%A2nia&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "data intrarii în UE pentru românia"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "data intrarii în UE pentru românia"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=data+intrarii+%C3%AEn+UE+pentru+rom%C3%A2nia&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Answering question: Data menționată, 2007, corespunde cu efectiva aderare a României la UE?
+Se caută în google cu interogarea: "data oficială despre data aderarii Romaniei la Uniunea Europeană"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "data oficială despre data aderarii Romaniei la Uniunea Europeană"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=data+oficial%C4%83+despre+data+aderarii+Romaniei+la+Uniunea+European%C4%83&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "anul în care Romania s-a alăturat UE"
+S-au obținut 2 rezultat(e) noi:
+	1. http://www.fjinter.ro/service/ro/index.html
+	2. http://www.fjinter.ro/ro/index.html
+Se caută în google cu interogarea: "istoricul aderării României la Uniunea Europeană"
+S-au obținut 5 rezultat(e) noi:
+	1. http://www.hamangiu.ro/upload/cuprins_extras/manual-de-drept-al-uniunii-europene_cuprins.pdf
+	2. https://prezi.com/p/yjumzwhuksvf/de-ce-suntem-europeni/
+	3. https://www.librariaonline.ro/rasfoieste-editie-digitala/manual-de-drept-al-uniunii-europene-radu-razvan-horatiu-hamangiu-attachment-1.pdf
+	4. https://www.martorincomod.ro/incendiu-in-cartierul-henri-coanda-9-persoane-inclusiv-3-minori-au-fost-internate-la-urgente/
+	5. https://www.hamangiu.ro/manual-de-drept-al-uniunii-europene?srsltid=AfmBOooEzSO0xI1IY0FK0fRHKduc6xixL05KwBXrCSvC2zHJzlE6qv8k
+Got answer: Da, data menționată, 2007, corespunde cu efectiva aderarea României la Uniunea Europeană, conform informațiilor prezentate în articol de pe site-ul F&J Europe Industry Park. ("F&J Europe, China Enterprise Pack (ECEP) a fost infiintata in anul 2007, anul in care Romania s-a alaturat UE.")
+Answering question: Există dovezi documentale care să confirme aderarea României la UE în anul 2007?
+Se caută în google cu interogarea: "România și-a ratificat Tratatul de aderare la Uniunea Europeană în 2007"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "România și-a ratificat Tratatul de aderare la Uniunea Europeană în 2007"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=Rom%C3%A2nia+%C8%99i-a+ratificat+Tratatul+de+aderare+la+Uniunea+European%C4%83+%C3%AEn+2007&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "Data intrării României în Uniunea Europeană"
+S-au obținut 5 rezultat(e) noi:
+	1. https://www.economistul.ro/opinii-si-analize/politica-si-politicianism-in-procesul-integrarii-europene-a-romaniei-68747/
+	2. https://www.ansvsa.ro/wp-content/uploads/2019/08/Proiect_Ordin_abrogare_Ordin_MAAP_333_2002-28.08.2019.pdf
+	3. https://www.cdep.ro/interpel/2013/r490A.pdf
+	4. https://www.senat.ro/legis/PDF/2006/06L793EM.PDF?nocache=true
+	5. https://psnews.ro/pricopie-semnal-de-alarma-inainte-de-anuntul-de-la-cotroceni-nu-mai-mergeti-dupa-vedete-ce-spune-despre-tomac/
+Se caută în google cu interogarea: "Tratatul de aderare al României la UE din 2005"
+S-au obținut 1 rezultat(e) noi:
+	1. https://gold.uclg.org/sites/default/files/field-document/romania_2023_ro.pdf
+Se caută în google cu interogarea: "Decizia Parlamentului European privind admiterea României ca membru al UE"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "Decizia Parlamentului European privind admiterea României ca membru al UE"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=Decizia+Parlamentului+European+privind+admiterea+Rom%C3%A2niei+ca+membru+al+UE&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Got answer: În conformitate cu rezultatul căutărilor mele, nu există nicio dovadă concludentă care să susțină afirmația potrivit căreia România s-ar fi alăturat Uniunii Europene în anul 2007. Adevărata dată de aderare este 1 ianuarie 2007, dar textele din articolul citat nu confirmă această informație direct.
+Answering question: Cine a luat decizia oficială privind aderarea României la UE?
+Se caută în google cu interogarea: "Decretul nr. 29/2005 pentru ratificarea Tratatului de aderare al României la Uniunea Europeană"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "Decretul nr. 29/2005 pentru ratificarea Tratatului de aderare al României la Uniunea Europeană"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=Decretul+nr.+29%2F2005+pentru+ratificarea+Tratatului+de+aderare+al+Rom%C3%A2niei+la+Uniunea+European%C4%83&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "Hotărârea Parlamentului European din 25 aprilie 2005 cu privire la acceptarea aderării României la Uniunea Europeană"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "Hotărârea Parlamentului European din 25 aprilie 2005 cu privire la acceptarea aderării României la Uniunea Europeană"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=Hot%C4%83r%C3%A2rea+Parlamentului+European+din+25+aprilie+2005+cu+privire+la+acceptarea+ader%C4%83rii+Rom%C3%A2niei+la+Uniunea+European%C4%83&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "Tratatul de aderare al României la Uniunea Europeană semnat în 25 aprilie 2006 și intrat în vigoare în ianuarie 2007"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "Tratatul de aderare al României la Uniunea Europeană semnat în 25 aprilie 2006 și intrat în vigoare în ianuarie 2007"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=Tratatul+de+aderare+al+Rom%C3%A2niei+la+Uniunea+European%C4%83+semnat+%C3%AEn+25+aprilie+2006+%C8%99i+intrat+%C3%AEn+vigoare+%C3%AEn+ianuarie+2007&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Answering question: Este posibil ca România să fi semnat tratatul de aderare anterior anului 2007?
+Se caută în google cu interogarea: "Tratatul de aderare al Romaniei la UE dată de semnare și data intrarii în vigoare"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "Tratatul de aderare al Romaniei la UE dată de semnare și data intrarii în vigoare"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=Tratatul+de+aderare+al+Romaniei+la+UE+dat%C4%83+de+semnare+%C8%99i+data+intrarii+%C3%AEn+vigoare&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "Data aderării României la Uniunea Europeană"
+S-au obținut 5 rezultat(e) noi:
+	1. https://www.old.ipn.md/ro/la-strasbourg-va-fi-anuntata-astazi-data-aderarii-romaniei-la-7965_961434.html
+	2. https://lege5.ro/Gratuit/geydcnzvgi/ordonanta-de-urgenta-nr-119-2006-privind-unele-masuri-necesare-pentru-aplicarea-unor-regulamente-comunitare-de-la-data-aderarii-romaniei-la-uniunea-europeana?pid=30124680
+	3. https://sintact.ro/legislatie/monitorul-oficial/legea-87-2026-pentru-completarea-ordonantei-de-urgenta-a-guvernului-nr-17048624
+	4. https://www.senat.ro/Legis/PDF/2005/05L306EM.pdf?nocache=true
+	5. https://www.ugb.ro/Juridica/Issue22013/4._Provocarile_UE_pentru_RO.Nita_Nelu.RO.pdf
+Se caută în google cu interogarea: "Protocolul privind termenii pentru aderarea României la UE"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "Protocolul privind termenii pentru aderarea României la UE"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=Protocolul+privind+termenii+pentru+aderarea+Rom%C3%A2niei+la+UE&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Got answer: Nu este posibil ca România să fi semnat tratatul de aderare anterior anului 2007, deoarece articolul din sursa menționată precizează că data aderării României la UE urma să fie anunțată pe 26 septembrie 2003, ceea ce confirmă faptul că procesul de aderare și integrarea în UE au început cu mai mulți ani înainte de 2007. ("Comisia Europeana prezintă miercuri, 26 septembrie, în sediul ei din Bruxelles, raportul privind stadiul pregătirii pentru aderarea României la Uniunea Europeană.")
+Answering question: Sunt existente alte condiții sau termeni specifici legați de aderarea României la UE?
+Se caută în google cu interogarea: "condiții aderare Romania Uniunea Europeană"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "condiții aderare Romania Uniunea Europeană"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=condi%C8%9Bii+aderare+Romania+Uniunea+European%C4%83&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "termeni aderare Romania UE 2007"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "termeni aderare Romania UE 2007"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=termeni+aderare+Romania+UE+2007&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "documente oficial romania UE"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "documente oficial romania UE"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=documente+oficial+romania+UE&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Answering question: Au existat vreo opoziție sau contestații față de aderarea României la UE?
+Se caută în google cu interogarea: "opozitia romaniei la ue în 2007"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "opozitia romaniei la ue în 2007"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=opozitia+romaniei+la+ue+%C3%AEn+2007&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "contestatiile privind aderarea romaniei la uniunea europeană"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "contestatiile privind aderarea romaniei la uniunea europeană"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=contestatiile+privind+aderarea+romaniei+la+uniunea+european%C4%83&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "reacțiile politice și sociale la intrarea româniei în ue"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "reacțiile politice și sociale la intrarea româniei în ue"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=reac%C8%9Biile+politice+%C8%99i+sociale+la+intrarea+rom%C3%A2niei+%C3%AEn+ue&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Answering question: Cum a afectat aderarea României la UE economia și politicile naționale ale țării respective?
+Se caută în google cu interogarea: "impactul aderarii Romaniei la UE asupra economie si politici nationale"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "impactul aderarii Romaniei la UE asupra economie si politici nationale"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=impactul+aderarii+Romaniei+la+UE+asupra+economie+si+politici+nationale&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "modificari legislative adoptate de Romania dupa intrare în UE"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "modificari legislative adoptate de Romania dupa intrare în UE"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=modificari+legislative+adoptate+de+Romania+dupa+intrare+%C3%AEn+UE&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "analize privind efectele aderarii Romaniei la Uniunea Europeana pe plan economic si politic"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "analize privind efectele aderarii Romaniei la Uniunea Europeana pe plan economic si politic"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=analize+privind+efectele+aderarii+Romaniei+la+Uniunea+Europeana+pe+plan+economic+si+politic&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Answering question: Exista vreo evaluare publică sau raport oficial referitoare la procesul de aderare a României la UE?
+Se caută în google cu interogarea: "evaluarea procesului de aderare a României la Uniunea Europeană"
+S-au obținut 1 rezultat(e) noi:
+	1. https://momsimobiliaria.pt/noapte/dequ
+Se caută în google cu interogarea: "rapoarte oficiale privind aderarea României la UE în 2007"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "rapoarte oficiale privind aderarea României la UE în 2007"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=rapoarte+oficiale+privind+aderarea+Rom%C3%A2niei+la+UE+%C3%AEn+2007&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "studii și analize despre integrarea României în UE din 2007"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "studii și analize despre integrarea României în UE din 2007"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=studii+%C8%99i+analize+despre+integrarea+Rom%C3%A2niei+%C3%AEn+UE+din+2007&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Got answer: Răspunsul este NEGATIV, deoarece nu am găsit nicio evaluare publică sau raport oficial care să conțină o analiză detaliată asupra procesului de aderare a României la UE în cadrul rezultatelor căutate. Citatul din sursă pare a fi neînsemnat și lipsit de relevanță pentru problema ridicată.
+Answering question: Potrivit datelor disponibile, România nu a mai rămas membru al UE după anul 2007?
+Se caută în google cu interogarea: "România și Uniunea Europeană în 2007"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "România și Uniunea Europeană în 2007"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=Rom%C3%A2nia+%C8%99i+Uniunea+European%C4%83+%C3%AEn+2007&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "Data aderarii Romaniei la UE"
+S-au obținut 5 rezultat(e) noi:
+	1. https://romania.representation.ec.europa.eu/romania-uniunea-europeana_ro
+	2. https://www.news.ro/externe/alegeri-prezidentiale-si-referendum-in-moldova-experienta-romaniei-de-aderare-la-ue-pusa-la-dispozitia-chisinaului-ce-a-insemnat-pentru-romania-integrarea-in-ue-1922400618002024100821762863
+	3. https://www.adrnordest.ro/user/file/partnerships%20delegation/Anexa%201%20-%20Strategia%20de%20comunicare%20DCE.pdf
+	4. https://hotnews.ro/tarile-ue-sceptice-in-privinta-aderarii-romaniei-829600
+	5. https://www.juridice.ro/395799/modificarea-oug-privind-unele-masuri-necesare-pentru-aplicarea-unor-regulamente-comunitare-de-la-data-aderarii-romaniei-la-ue-proiect.html
+Se caută în google cu interogarea: "Stadiul actual al relațiilor dintre România și UE"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "Stadiul actual al relațiilor dintre România și UE"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=Stadiul+actual+al+rela%C8%9Biilor+dintre+Rom%C3%A2nia+%C8%99i+UE&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Got answer: Răspunsul este negativ, pentru că potrivit informației furnizate de sursa menționată, România a aderat la Uniunea Europeană în 2007 și încă este un membru actual al acesteia. ("...de la data aderării României la UE (2007)...")
+Afirmația 'Romania joined the European Union in 2007.' este not enough information.
+Justificare: Concluzia noastră este că nu putem verifica afirmația inițială "România s-a alăturat Uniunii Europene în 2007" datorită lipsei de dovezi concludente. Datele furnizate par a fi contradictorii și nu există evaluări publice sau rapoarte oficiale care să susțină acest lucru.
+Scor credibilitate surse: Fără surse (N/A) [inconclusive]
+Veredictu general al conținutului este: not enough information
+Verificarea factuală a durat 3:08 min.
+Conținut de verificat:
+'Content: "Romania joined the European Union in 2007."'
+Se verifică afirmațiile...
+Answering question: A existat vreodată un acord formal și oficial care să permită României să devină membru al UE?
+Se caută în google cu interogarea: "acord de aderare românia ue"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "acord de aderare românia ue"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=acord+de+aderare+rom%C3%A2nia+ue&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "tratatul de la londra românia"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "tratatul de la londra românia"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=tratatul+de+la+londra+rom%C3%A2nia&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Answering question: Data menționată (anul 2007) corespunde cu realitatea privind aderarea României la UE?

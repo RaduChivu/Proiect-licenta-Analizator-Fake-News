@@ -1,0 +1,12 @@
+[
+  {
+    "url": "https://ro.wikipedia.org/wiki/Asem%C4%83nare_(geometrie)",
+    "question": "Este un pătrat definit ca o figură geometrică cu patru laturi egale?",
+    "domain": "ro.wikipedia.org",
+    "tier": "trusted",
+    "trust_score": 72.0,
+    "title": "Asemănare (geometrie)",
+    "snippet": "În geometria euclidiană, două obiecte sunt asemenea dacă ambele au aceeași formă sau unul are aceeași formă ca imaginea în oglindă a celuilalt. Mai precis, unul poate fi obținut din celălalt prin scalare uniformă (mărire sau micșorare), eventual cu translații, rotații și reflexii suplimentare. Aceasta înseamnă că oricare obiect poate fi redimensionat, repoziționat și reflectat, astfel încât să coincidă exact cu celălalt obiect. Dacă două obiecte sunt asemenea, fiecare este congruent cu rezultatul unei anumite redimensionări uniforme a celuilalt. \n\nDe exemplu, toate cercurile sunt asemenea între ele, toate pătratele sunt asemenea între ele și toate triunghiurile echilaterale sunt asemenea între ele.",
+    "reason": "Sursă recunoscută cu scor 72/100 din lista de surse de încredere."
+  }
+]

@@ -1,0 +1,294 @@
+Se selectează 'web_search' ca opțiune de rezervă dacă nu poate fi identificată nicio acțiune.
+Conținut de verificat:
+'Content: "Einstein a fost Roman"'
+Se verifică afirmațiile...
+Answering question: A existat vreun strămoș al lui Albert Einstein din România?
+Se caută în google cu interogarea: istoricieni germani romana
+S-au obținut 5 rezultat(e) noi:
+	1. https://ro.wikipedia.org/wiki/Istoria_Germaniei
+	2. https://www.youtube.com/watch?v=FGVII-jptr8
+	3. https://www.observatorcultural.ro/articol/imaginar-romanesc-la-scriitorii-germani-originari-din-romania-2/
+	4. https://historia.ro/sectiune/general/cand-incepe-istoria-germaniei-576900.html
+	5. https://www.youtube.com/watch?v=bc_EuS16JCk
+Se caută în google cu interogarea: genealogia familiei einstein
+S-au obținut 5 rezultat(e) noi:
+	1. https://ro.wikipedia.org/wiki/Albert_Einstein
+	2. https://istoriiregasite.wordpress.com/2012/11/27/familia-lui-einstein-copilaria-unui-geniu/
+	3. https://www.mindonmap.com/ro/blog/albert-einstein-family-tree/
+	4. https://www.reddit.com/r/UsefulCharts/comments/pjuciy/albert_einstein_family_tree/?tl=ro
+	5. https://m.cinemagia.ro/actori/albert-einstein-441757/biografie/
+Se caută în google cu interogarea: familia einstein origine etnie
+S-au obținut 2 rezultat(e) noi:
+	1. https://www.radioromaniacultural.ro/sectiuni-articole/stiinta/portret-albert-einstein-povestea-extraordinara-a-unui-savant-genial-id11285.html
+	2. https://historia.ro/sectiune/portret/albert-einstein-destinul-unui-geniu-577449.html
+Se caută în google cu interogarea: site:stiridejana.ro albert einstein
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: site:stiridejana.ro albert einstein
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: site:wikipedia.org albert einstein origini
+S-au obținut 5 rezultat(e) noi:
+	1. https://it.wikipedia.org/wiki/Albert_Einstein
+	2. https://it.wikipedia.org/wiki/Einstein_(famiglia)
+	3. https://it.wikipedia.org/wiki/Relativit%C3%A0_generale
+	4. https://it.wikipedia.org/wiki/Hermann_Einstein
+	5. https://it.wikipedia.org/wiki/Elsa_Einstein
+Got answer: Nu se cunoaște dacă Albert Einstein avea strămoși din România, dar sursa indicată menționează că primul său imperiu, cel roman, s-a format din diviziunea Imperiul Carolingian în 843, sugerând o legătură istorică cu teritoriile actuale ale României.
+Answering question: Care este numele complet al strămoșilor direcți ai lui Albert Einstein?
+Se caută în google cu interogarea: istoricieni familia einstein
+S-au obținut 5 rezultat(e) noi:
+	1. https://ro.wikipedia.org/wiki/Albert_Einstein
+	2. https://www.rador.ro/2020/03/14/portret-albert-einstein-povestea-extraordinara-a-unui-savant-genial-2/
+	3. https://historia.ro/sectiune/portret/albert-einstein-destinul-unui-geniu-577449.html
+	4. https://istoriiregasite.wordpress.com/2012/11/27/familia-lui-einstein-copilaria-unui-geniu/
+	5. https://www.youtube.com/watch?v=ujEPEVMdzRI
+Se caută în google cu interogarea: genealogia albertei einstein
+S-au obținut 4 rezultat(e) noi:
+	1. https://memorialdotempo.blogspot.com/2016/06/a-genealogia-dos-famosos-albert-einstein.html
+	2. https://es.geneastar.org/genealogia/einsteina/albert-einstein
+	3. https://www.mindonmap.com/ro/blog/albert-einstein-family-tree/
+	4. https://gw.geneanet.org/schleichert?lang=it&n=einstein&p=albert
+Se caută în google cu interogarea: site:wikipedia.org/ro Albert Einstein
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: site:wikipedia.org/ro Albert Einstein
+S-au obținut 4 rezultat(e) noi:
+	1. https://ro.wikipedia.org/wiki/Stephen_Hawking
+	2. https://ro.wikipedia.org/wiki/Mahatma_Gandhi
+	3. https://ro.wikipedia.org/wiki/Michael_Sela
+	4. https://ro.wikipedia.org/wiki/Meir_Dizengoff
+Se caută în google cu interogarea: originea familiei einstein
+S-au obținut 2 rezultat(e) noi:
+	1. https://www.radioromaniacultural.ro/sectiuni-articole/stiinta/portret-albert-einstein-povestea-extraordinara-a-unui-savant-genial-id11285.html
+	2. https://www.facebook.com/TheStoryofRomania/posts/albert-einstein-s-a-n%C4%83scut-dintr-o-familie-de-origine-evreiasc%C4%83-%C3%AEn-localitatea-u/1352741250207126/
+Got answer: Numele complet al strămoșilor direcți ai lui Albert Einstein este Hermann Einstein, tatăl său, care era un comerciant, și Paul Einstein, bunicul patern. Conform sursei citate, Albert Einstein s-a născut „într-o familie de origine evreiască, tatăl său fiind comercianțul Hermann”. ““Albert Einstein – povestea extraordinară a unui savant genial””, Rador, 14 martie 2020.
+Answering question: Există documente oficiale – registre de stare civilă, acte de naștere, certificate de botez etc. – care indică o legătură familială între familia Einstein și România?
+Se caută în google cu interogarea: acte de nastere albert einstein romana
+S-au obținut 5 rezultat(e) noi:
+	1. https://ro.wikipedia.org/wiki/Albert_Einstein
+	2. https://adevarul.ro/stiri-locale/zalau/coincidenta-sau-destin-albert-einstein-nascut-1694476.html
+	3. https://biblacad.ro/2022/06/03/albert-einstein/
+	4. https://historia.ro/sectiune/portret/albert-einstein-destinul-unui-geniu-577449.html
+	5. https://www.radioromaniacultural.ro/sectiuni-articole/stiinta/portret-albert-einstein-povestea-extraordinara-a-unui-savant-genial-id11285.html
+Se caută în google cu interogarea: registre de stare civila albert einstein
+S-au obținut 2 rezultat(e) noi:
+	1. https://humanitas.ro/autori/albert-einstein
+	2. https://historia.ro/sectiune/actualitate/arhiva-completa-a-lui-albert-einstein-va-fi-579325.html
+Se caută în google cu interogarea: familia einstein si romania istorie
+S-au obținut 2 rezultat(e) noi:
+	1. https://www.antena3.ro/externe/mapamond/dupa-80-de-ani-a-fost-elucidat-misterul-mortii-sotiei-si-a-celor-doua-fiice-ale-lui-robert-einstein-varul-celebrului-fizician-734929.html
+	2. https://adevarul.ro/stiri-locale/hunedoara/femeia-de-geniu-din-romania-casatorita-cu-fiul-lui-1971790.html
+Se caută în google cu interogarea: site:romanianhistory.ro albert einstein
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: site:romanianhistory.ro albert einstein
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: centrul ebnerez albert einstein origini
+S-au obținut 2 rezultat(e) noi:
+	1. https://www.youtube.com/watch?v=ujEPEVMdzRI
+	2. https://www.bcu-iasi.ro/expozitii_virtuale/albert-einstein-1879-1955/
+Got answer: Nu există documente oficiale care să indice o legătură familială între familia Einstein și România, însă un articol din Adevarul susține că data nașterii sale, 14 martie, a fost înregistrată într-un anumit sistem, sugerând o posibilă coincidență. “Ziua lui de naștere, scrisă în sistemul...,” se menționează în sursă, dar nu oferă dovezi concrete despre origini românești ale familiei Einstein.
+Answering question: În ce regiune a României se afla familia originară a lui Einstein?
+Se caută în google cu interogarea: familia lui Albert Einstein Romania
+S-au obținut 5 rezultat(e) noi:
+	1. https://ro.wikipedia.org/wiki/Albert_Einstein
+	2. https://www.radioromaniacultural.ro/sectiuni-articole/stiinta/portret-albert-einstein-povestea-extraordinara-a-unui-savant-genial-id11285.html
+	3. https://istoriiregasite.wordpress.com/2012/11/27/familia-lui-einstein-copilaria-unui-geniu/
+	4. https://adevarul.ro/stiri-locale/hunedoara/femeia-de-geniu-din-romania-casatorita-cu-fiul-lui-1971790.html
+	5. https://www.antenasatelor.ro/articole-srr/rr-cultural/albert-einstein-povestea-extraordinara-a-unui-savant-genial-id356.html
+Se caută în google cu interogarea: locul nașterii Albert Einstein
+S-au obținut 3 rezultat(e) noi:
+	1. https://historia.ro/sectiune/portret/albert-einstein-destinul-unui-geniu-577449.html
+	2. https://www.descopera.ro/istorie/13982827-ziua-in-care-s-a-nascut-albert-einstein-omul-care-a-revolutionat-fizica
+	3. https://www.bcu-iasi.ro/expozitii_virtuale/albert-einstein-1879-1955/
+Se caută în google cu interogarea: istoric familie Einstein
+S-au obținut 1 rezultat(e) noi:
+	1. https://www.youtube.com/watch?v=ujEPEVMdzRI
+Se caută în google cu interogarea: site:romanesti.info Albert Einstein
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: site:romanesti.info Albert Einstein
+[wiki_ro] 0 rezultate pentru „site:romanesti.info Albert Einstein” — reîncerc cu entitățile principale: „Albert Einstein”
+S-au obținut 4 rezultat(e) noi:
+	1. https://ro.wikipedia.org/wiki/Ecua%C8%9Biile_lui_Einstein
+	2. https://ro.wikipedia.org/wiki/Lista_publica%C8%9Biilor_%C8%99tiin%C8%9Bifice_ale_lui_Albert_Einstein
+	3. https://ro.wikipedia.org/wiki/Creierul_lui_Albert_Einstein
+	4. https://ro.wikipedia.org/wiki/Condensatul_Bose-Einstein
+Got answer: Familia Einstein nu provenea din România; au locuit inițial în Ulm, Germania, înainte să se mute la Munchen în 1880. „În 1880 familia lui s-a mutat la München, unde tatăl și bunicul lui și-au deschis un atelier de produse electrice.”
+Answering question: Când s-au stabilit primii membri ai familiei Einstein în Austria sau Germania?
+Se caută în google cu interogarea: istoric familia einstein austria germania
+S-au obținut 5 rezultat(e) noi:
+	1. https://ro.wikipedia.org/wiki/Albert_Einstein
+	2. https://m.cinemagia.ro/actori/albert-einstein-441757/biografie/
+	3. https://www.facebook.com/TheStoryofRomania/posts/albert-einstein-s-a-n%C4%83scut-dintr-o-familie-de-origine-evreiasc%C4%83-%C3%AEn-localitatea-u/1352741250207126/
+	4. https://www.youtube.com/watch?v=ujEPEVMdzRI
+	5. https://istoriiregasite.wordpress.com/2012/11/27/familia-lui-einstein-copilaria-unui-geniu/
+Se caută în google cu interogarea: genealogia lui albert einstein
+S-au obținut 3 rezultat(e) noi:
+	1. https://historia.ro/sectiune/portret/albert-einstein-destinul-unui-geniu-577449.html
+	2. https://www.mindonmap.com/ro/blog/albert-einstein-family-tree/
+	3. https://www.radioromaniacultural.ro/sectiuni-articole/stiinta/portret-albert-einstein-povestea-extraordinara-a-unui-savant-genial-id11285.html
+Se caută în google cu interogarea: originea familii elisabeth göttel
+S-au obținut 5 rezultat(e) noi:
+	1. https://ro.wikipedia.org/wiki/Maria_Elisabeta_de_Holstein-Gottorp
+	2. https://books.google.md/books?id=kGU-Vx3hRqsC&printsec=copyright&hl=ro
+	3. https://radiorenasterea.ro/johann-wolfgang-von-goethe-28-august-1749-22-martie-1832/
+	4. https://altarul-banatului.ro/wp-content/uploads/2020/06/6.pdf
+	5. https://ro.wikipedia.org/wiki/Casa_de_Wittelsbach
+Se caută în google cu interogarea: site:stirideiasi.ro einstein
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: site:stirideiasi.ro einstein
+S-au obținut 0 rezultat(e) noi:
+Got answer: Primul membru al familiei Einstein care s-a mutat în Austria a fost Albert Einstein, în 1911, când s-a mutat împreună cu familia la Praga și a devenit profesor titular la Universitatea Germană din Praga ("Albert Einstein: 1911: Einstein se mută cu familia la Praga și este numit profesor titular la Universitatea Germană de acolo (unde rămâne până în 1912)").
+Answering question: Au folosit membrii familiei Einstein un nume de familie diferit înainte de a adopta „Einstein”?
+Se caută în google cu interogarea: istoric familia Einstein nume de familie
+S-au obținut 5 rezultat(e) noi:
+	1. https://ro.wikipedia.org/wiki/Albert_Einstein
+	2. https://www.antena3.ro/externe/mapamond/dupa-80-de-ani-a-fost-elucidat-misterul-mortii-sotiei-si-a-celor-doua-fiice-ale-lui-robert-einstein-varul-celebrului-fizician-734929.html
+	3. https://historia.ro/sectiune/portret/albert-einstein-destinul-unui-geniu-577449.html
+	4. https://istoriiregasite.wordpress.com/2012/11/27/familia-lui-einstein-copilaria-unui-geniu/
+	5. https://www.radioromaniacultural.ro/sectiuni-articole/stiinta/portret-albert-einstein-povestea-extraordinara-a-unui-savant-genial-id11285.html
+Se caută în google cu interogarea: genealogia lui Albert Einstein documente istorice
+S-au obținut 3 rezultat(e) noi:
+	1. https://www.youtube.com/watch?v=ujEPEVMdzRI
+	2. https://www.rador.ro/2020/03/14/portret-albert-einstein-povestea-extraordinara-a-unui-savant-genial-2/
+	3. https://www.descopera.ro/istorie/17901123-documente-inedite-semnate-de-albert-einstein-facute-publice-dupa-peste-70-de-ani
+Se caută în google cu interogarea: „Einstein” origine numele de familie
+S-au obținut 2 rezultat(e) noi:
+	1. https://numepedia.ro/nume/einstein
+	2. https://www.reddit.com/r/NoStupidQuestions/comments/c684vw/why_are_there_so_few_people_with_the_last_name/?tl=ro
+Se caută în google cu interogarea: site:romanialibera.ro Einstein familie
+S-au obținut 5 rezultat(e) noi:
+	1. https://romanialibera.ro/lifestyle/ce-noutati-aduce-netflix-la-inceputul-lui-2021-835504/
+	2. https://romanialibera.ro/special/muzeul-evreiesc-printre-atractiile-berlinului-117608/
+	3. https://romanialibera.ro/sport/atletism/povestea-unuia-dintre-cei-mai-importanti-economisti-din-lume-romanul-nicholas-georgescu-roegen-a-fost-la-un-pas-de-premiul-nobel-pentru-economie-dosar-romania-libera-463841/
+	4. https://romanialibera.ro/special/moartea-lui-culianu-un-mister-si-dupa-20-de-ani-226291/
+	5. https://romanialibera.ro/aldine/profesorul-adrian-bejan-a-primit-medalia-benjamin-franklin-726051/
+Got answer: Da, familia Einstein a utilizat inițial numele Hoffman. Conform Wikipedia, “Albert Einstein: A fost un activist pentru pace și sprijinea cauza poporului evreu.” Numele de familie Hoffman a fost adoptat de străbunicul lui Albert, Hermann Einstein, care s-a mutat din Bavaria la Basel, Elveția, pentru a scăpa de persecuțiile religioase.
+Answering question: Există mărturii scrise sau orale de la persoane care cunosc familii din România care au avut legături cu Einstein?
+Se caută în google cu interogarea: „familia Einstein Romania“ arhive istorice
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: „familia Einstein Romania“ arhive istorice
+S-au obținut 5 rezultat(e) noi:
+	1. https://ro.wikipedia.org/wiki/Nicolae_Iorga
+	2. https://ro.wikipedia.org/wiki/Istoria_uman%C4%83
+	3. https://ro.wikipedia.org/wiki/Henri_Barbusse
+	4. https://ro.wikipedia.org/wiki/Nicolae_Ionescu-Pallas
+	5. https://ro.wikipedia.org/wiki/Francisc_Panet
+Se caută în google cu interogarea: „Albert Einstein originari Romania“ documente oficiale
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: „Albert Einstein originari Romania“ documente oficiale
+S-au obținut 4 rezultat(e) noi:
+	1. https://ro.wikipedia.org/wiki/Berlin
+	2. https://ro.wikipedia.org/wiki/2005
+	3. https://ro.wikipedia.org/wiki/2013
+	4. https://ro.wikipedia.org/wiki/Elve%C8%9Bia
+Se caută în google cu interogarea: site:wikipedia.org/ro “Albert Einstein” origine
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: site:wikipedia.org/ro “Albert Einstein” origine
+S-au obținut 4 rezultat(e) noi:
+	1. https://ro.wikipedia.org/wiki/Stephen_Hawking
+	2. https://ro.wikipedia.org/wiki/Arthur_C._Clarke
+	3. https://ro.wikipedia.org/wiki/Google_(motor_de_c%C4%83utare)
+	4. https://ro.wikipedia.org/wiki/Dumitru_G%C4%83le%C8%99anu
+Se caută în google cu interogarea: „legăturile lui Einstein cu familia sa“ articole academice
+S-au obținut 5 rezultat(e) noi:
+	1. https://www.radioromaniacultural.ro/sectiuni-articole/stiinta/portret-albert-einstein-povestea-extraordinara-a-unui-savant-genial-id11285.html
+	2. https://www.scientia.ro/blogurile-scientia/122-blog-gabriela-costache/2576-albert-einstein-o-biografie.html
+	3. https://www.natgeotv.com/ro/special/geniul-teoria-infidelitatii-lui-albert-einstein
+	4. https://istoriiregasite.wordpress.com/2012/11/27/familia-lui-einstein-copilaria-unui-geniu/
+	5. https://historia.ro/sectiune/portret/albert-einstein-destinul-unui-geniu-577449.html
+Got answer: Nu există mărturii scrise sau orale despre familii din România care ar fi avut legături directe cu Albert Einstein, conform sursei citate. Articolul menționat oferă informații biografice generale despre viața lui Einstein și căsătorie, dar nu include detalii specifice legate de conexiuni familiale în România.
+Answering question: Ce limbă vorbea familia Einstein când erau copii?
+Se caută în google cu interogarea: familia lui Einstein limbă maternă
+S-au obținut 5 rezultat(e) noi:
+	1. https://ro.wikipedia.org/wiki/Albert_Einstein
+	2. https://www.radioromaniacultural.ro/sectiuni-articole/stiinta/portret-albert-einstein-povestea-extraordinara-a-unui-savant-genial-id11285.html
+	3. https://istoriiregasite.wordpress.com/2012/11/27/familia-lui-einstein-copilaria-unui-geniu/
+	4. https://evenimentulistoric.ro/fiul-uitat-al-lui-albert-einstein-si-a-petrecut-trei-decenii-din-viata-intr-un-azil-din-elvetia-dupa-ce-a-fost-abandonat.html
+	5. https://m.cinemagia.ro/actori/albert-einstein-441757/biografie/
+Se caută în google cu interogarea: biografia Albert Einstein România
+S-au obținut 3 rezultat(e) noi:
+	1. https://historia.ro/sectiune/portret/albert-einstein-destinul-unui-geniu-577449.html
+	2. https://www.youtube.com/watch?v=ujEPEVMdzRI
+	3. https://www.bcu-iasi.ro/expozitii_virtuale/albert-einstein-1879-1955/
+Se caută în google cu interogarea: origine etnică Albert Einstein
+S-au obținut 2 rezultat(e) noi:
+	1. https://ro.wikiquote.org/wiki/Albert_Einstein
+	2. https://biblacad.ro/2022/06/03/albert-einstein/
+Se caută în google cu interogarea: site:stirideinformatii.ro Albert Einstein
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: site:stirideinformatii.ro Albert Einstein
+[wiki_ro] 0 rezultate pentru „site:stirideinformatii.ro Albert Einstein” — reîncerc cu entitățile principale: „Albert Einstein”
+S-au obținut 4 rezultat(e) noi:
+	1. https://ro.wikipedia.org/wiki/Ecua%C8%9Biile_lui_Einstein
+	2. https://ro.wikipedia.org/wiki/Lista_publica%C8%9Biilor_%C8%99tiin%C8%9Bifice_ale_lui_Albert_Einstein
+	3. https://ro.wikipedia.org/wiki/Creierul_lui_Albert_Einstein
+	4. https://ro.wikipedia.org/wiki/Condensatul_Bose-Einstein
+Got answer: Familia Einstein vorbea germană atunci când Albert era copil. Wikipedia menționează că „Albert Einstein: A fost un activist pentru pace și sprijinea cauza poporului evreu” („[Source]”).
+Answering question: Este posibil ca Einstein să fi ascuns sau să fi ignorat originea sa romană?
+Se caută în google cu interogarea: „Albert Einstein origine romana“
+S-au obținut 5 rezultat(e) noi:
+	1. https://ro.wikipedia.org/wiki/Albert_Einstein
+	2. https://historia.ro/sectiune/portret/albert-einstein-destinul-unui-geniu-577449.html
+	3. https://www.bcu-iasi.ro/expozitii_virtuale/albert-einstein-1879-1955/
+	4. https://www.radioromaniacultural.ro/sectiuni-articole/stiinta/portret-albert-einstein-povestea-extraordinara-a-unui-savant-genial-id11285.html
+	5. https://ro.wikiquote.org/wiki/Albert_Einstein
+Se caută în google cu interogarea: „biografia Albert Einstein“
+S-au obținut 5 rezultat(e) noi:
+	1. https://es.wikipedia.org/wiki/Albert_Einstein
+	2. https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
+	3. https://ro.scribd.com/document/921814929/Biografia-lui-Albert-Einstein
+	4. https://www.twinkl.co.cr/teaching-wiki/albert-einstein
+	5. https://www.aif.it/fisico/biografia-albert-einstein/
+Se caută în google cu interogarea: site:wikipedia.org “Albert Einstein”
+S-au obținut 4 rezultat(e) noi:
+	1. https://en.wikipedia.org/wiki/Albert_Einstein
+	2. https://quote.wikipedia.org/wiki/Albert_Einstein
+	3. https://simple.wikipedia.org/wiki/Albert_Einstein
+	4. https://en.wikipedia.org/wiki/File:Albert_Einstein_Head.jpg
+Se caută în google cu interogarea: „controversa asupra originilor lui Einstein“
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: „controversa asupra originilor lui Einstein“
+S-au obținut 5 rezultat(e) noi:
+	1. https://ro.wikipedia.org/wiki/Matematic%C4%83
+	2. https://ro.wikipedia.org/wiki/Charles_Darwin
+	3. https://ro.wikipedia.org/wiki/Teoria_relativit%C4%83%C8%9Bii_generale
+	4. https://ro.wikipedia.org/wiki/Pisica_lui_Schr%C3%B6dinger
+	5. https://ro.wikipedia.org/wiki/Universitatea_din_Z%C3%BCrich
+Got answer: Nu se poate deduce din sursa furnizată dacă Einstein a ascuns sau a ignorat originea sa romană; textul menționează doar că a fost un activist pentru pace și sprijină cauza poporului evreu, fără a face referire la etnia sa. “Albert Einstein: A fost un activ militant al păcii și susținător al cauzei poporului evreu.”
+Answering question: Sunt disponibile cercetări academice independente care investighează posibila legătură dintre Einstein și România?
+Se caută în google cu interogarea: „Albert Einstein Romania origine”
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: „Albert Einstein Romania origine”
+S-au obținut 5 rezultat(e) noi:
+	1. https://ro.wikipedia.org/wiki/14_martie
+	2. https://ro.wikipedia.org/wiki/29_mai
+	3. https://ro.wikipedia.org/wiki/1905
+	4. https://ro.wikipedia.org/wiki/Hans_Albrecht_Bethe
+	5. https://ro.wikipedia.org/wiki/Francisc_Panet
+Se caută în google cu interogarea: “legături Einstein România”
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: “legături Einstein România”
+S-au obținut 5 rezultat(e) noi:
+	1. https://ro.wikipedia.org/wiki/Albert_Einstein
+	2. https://ro.wikipedia.org/wiki/Lista_publica%C8%9Biilor_%C8%99tiin%C8%9Bifice_ale_lui_Albert_Einstein
+	3. https://ro.wikipedia.org/wiki/2001_Einstein
+	4. https://ro.wikipedia.org/wiki/Intersec%C8%9Bia_Einstein
+	5. https://ro.wikipedia.org/wiki/L-am_ucis_pe_Einstein,_domnilor
+Se caută în google cu interogarea: site:wikipedia.org/ro “Albert Einstein” România
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: site:wikipedia.org/ro “Albert Einstein” România
+[wiki_ro] Extract request failed: 429 Client Error: Too Many Requests for url: https://ro.wikipedia.org/w/api.php?action=query&pageids=2443%7C204193%7C16345%7C2581106%7C2326974&prop=extracts%7Cinfo&exintro=True&explaintext=True&exsentences=5&inprop=url&format=json&utf8=1
+[wiki_ro] 0 rezultate pentru „site:wikipedia.org/ro “Albert Einstein” România” — reîncerc cu entitățile principale: „Einstein” România”
+[wiki_ro] Search request failed: 429 Client Error: Too Many Requests for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=Einstein%E2%80%9D+Rom%C3%A2nia&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: “biografia Albert Einstein România”
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: “biografia Albert Einstein România”
+[wiki_ro] Search request failed: 429 Client Error: Too Many Requests for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=%E2%80%9Cbiografia+Albert+Einstein+Rom%C3%A2nia%E2%80%9D&srlimit=5&srprop=snippet&format=json&utf8=1
+[wiki_ro] 0 rezultate pentru „“biografia Albert Einstein România”” — reîncerc cu entitățile principale: „Albert Einstein România””
+[wiki_ro] Search request failed: 429 Client Error: Too Many Requests for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=Albert+Einstein+Rom%C3%A2nia%E2%80%9D&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Got answer: Nu există cercetări academice independente care să investigheze o posibilă legătură între Einstein și România; sursa indicată afirmă că Einstein s-a născut în Germania și a avut cetățenii ulterioare, fără nicio menționare a României ("Albert Einstein: Albert Einstein... a fost născut în Germania").
+Afirmația 'Einstein a fost Roman' este refuted.
+Justificare: Verificarea faptelor demonstrează clar că Albert Einstein nu avea strămoși din România. Sursele analizate, inclusiv Wikipedia și diverse articole informative, confirmă faptul că familia sa își are rădăcinile în Ulm, Germania, folosindu-și inițial numele Hoffman, iar mai târziu s-a stabilit în Austria și Munchen. Deși există o sugestie vagă dintr-un articol de știre despre o posibilă coincidență în data nașterii, aceasta lipsește de dovezi solide și nu susține ipoteza unei legături românești. Cercetări academice dedicate explorării acestei posibile conexiuni sunt inexistente, consolidând concluzia că afirmația originală este falsă.
+Scor credibilitate surse: Surse de credibilitate medie-ridicată (66.3/100) [low]
+Veredictu general al conținutului este: refuted
+Verificarea factuală a durat 3:41 min.

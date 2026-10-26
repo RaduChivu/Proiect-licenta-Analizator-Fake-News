@@ -1,0 +1,12 @@
+[
+  {
+    "url": "https://ro.wikipedia.org/wiki/Atom",
+    "question": "Este atomul considerat cel mai mic element al materiei în cadrul teoriei fizice actualmente acceptate?",
+    "domain": "ro.wikipedia.org",
+    "tier": "trusted",
+    "trust_score": 72.0,
+    "title": "Atom",
+    "snippet": "Un atom este cea mai mică unitate constitutivă a materiei comune care are proprietățile unui element chimic. Orice solid, lichid, gaz și plasmă este compus din atomi neutri sau ionizați. Atomii sunt foarte mici; dimensiuni tipice sunt în jur de 100 pm (o zecime de miliardime dintr-un metru). Atomii nu au limite bine definite și există diferite moduri de a defini dimensiunea, care dau fiecare valori diferite, dar apropiate ca valoare.\nConform ipotezei De Broglie, atomii sunt suficient de mici încât încercarea de a le prezice comportamentul folosind fizica clasică –  de exemplu, ca și cum ar fi niște bile de biliard –  dă predicții vizibil incorecte din cauza efectelor cuantice.",
+    "reason": "Sursă recunoscută cu scor 72/100 din lista de surse de încredere."
+  }
+]

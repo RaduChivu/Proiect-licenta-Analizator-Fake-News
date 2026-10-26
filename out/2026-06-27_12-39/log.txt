@@ -1,0 +1,349 @@
+Se selectează 'web_search' ca opțiune de rezervă dacă nu poate fi identificată nicio acțiune.
+Conținut de verificat:
+'Content: ""The speed of light in vacuum is approximately 299,792 kilometers per second.""'
+Se verifică afirmațiile...
+Conținut de verificat:
+'Content: ""The human DNA contains approximately 3 billion base pairs.""'
+Se verifică afirmațiile...
+Conținut de verificat:
+'Content: "{"verdict": false, "justification": "The current IUPAC official table of elements recognizes 118 confirmed elements as of 2022.", "confidence_score": 1.0}"'
+Se verifică afirmațiile...
+Conținut de verificat:
+'Content: ""The statement is false.""'
+Se verifică afirmațiile...
+Conținut de verificat:
+'Content: ""The statement is false.""'
+Se verifică afirmațiile...
+Conținut de verificat:
+'Content: ""A statement is false. The day on Venus lasts longer than one year.""'
+Se verifică afirmațiile...
+Conținut de verificat:
+'Content: ""Statement is false.""'
+Se verifică afirmațiile...
+Conținut de verificat:
+'Content: ""The statement is TRUE.""'
+Se verifică afirmațiile...
+Answering question: Este viteza luminii în vid o valoare specifică și constantă?
+Conținut de verificat:
+'Content: ""The statement is false.""'
+Se verifică afirmațiile...
+Conținut de verificat:
+'Content: ""The statement is false.""'
+Se verifică afirmațiile...
+Se caută în google cu interogarea: "viteza luminii constante"
+S-au obținut 2 rezultat(e) noi:
+	1. https://enigmatica.ro/teoria-relativitatii-explicata-si-cu-exemple/
+	2. https://www.reddit.com/r/worldbuilding/comments/17hhiss/how_would_you_write_an_evolved_and_sapient/?tl=ro
+Se caută în google cu interogarea: "valoarea vitezei luminii în vid"
+S-au obținut 5 rezultat(e) noi:
+	1. https://www.slideshare.net/slideshow/viteza-luminii/48767040
+	2. https://ro.scribd.com/doc/37213261/Viteza-luminii-in-vid-este-o-important%C4%83-constant%C4%83-fizic%C4%83-universal%C4%83
+	3. https://www.linkmania.ro/topic/507704-fizica-si-chimie-viteza-luminii/
+	4. https://luminaatestat.wordpress.com/viteza-lumini/
+	5. https://ziare.com/magazin/cercetare/depasirea-vitezei-luminii-descoperire-revolutionara-sau-eroare-vezi-opiniile-cercetatorilor-1122811
+Se caută în google cu interogarea: "definiție viteza luminii"
+Conținut de verificat:
+'Content: ""The statement is false.""'
+Se verifică afirmațiile...
+S-au obținut 4 rezultat(e) noi:
+	1. https://ro.scribd.com/document/617107756/REFERAT-FIZICA
+	2. https://www.reddit.com/r/askscience/comments/10y28f/why_does_light_travel_at_the_speed_it_does_and/?tl=ro
+	3. https://www.qreferat.com/referate/diverse/SISTEMUL-METRIC947.php
+	4. https://ro.scribd.com/doc/45732148/Www-referat-ro-sISTEMUL-METRIC-doc68eba
+Conținut de verificat:
+'Content: ""The heaviest natural element is osmium.""'
+Se verifică afirmațiile...
+Conținut de verificat:
+'Content: "{"verdict": false, "justification": "Reptiles have scaly skin, not bones like mammals.", "confidence_score": 1.0}"'
+Se verifică afirmațiile...
+Got answer: Da, viteza luminii în vid este considerată o valoare specifică și constantă, având un valorificat de aproximativ 299,792 kilometri pe secundă, conform teoriilor fizice actuale.
+Answering question: Valorea exactă a vitezei luminii în vid este cunoscută cu precizie?
+Conținut de verificat:
+'Content: ""The statement is TRUE.""'
+Se verifică afirmațiile...
+Conținut de verificat:
+'Content: ""The statement is true.""'
+Se verifică afirmațiile...
+Conținut de verificat:
+'Content: "{"verdict": false, "justification": "Hydrogen is not the simplest element on the periodic table; it has one proton and one electron.", "confidence_score": 1.0}"'
+Se verifică afirmațiile...
+Conținut de verificat:
+'Content: ""A statement is verified as follows: { \"verdict\": false, \"justification\": 'A total solar eclipse can last up to 12 minutes and 28 seconds', \"confidence_score\": 1.0 }""'
+Se verifică afirmațiile...
+Se caută în google cu interogarea: "precizia măsurilor vitezei luminii"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "precizia măsurilor vitezei luminii"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=precizia+m%C4%83surilor+vitezei+luminii&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "măsurațiile precise ale vitezei luminii"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "măsurațiile precise ale vitezei luminii"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=m%C4%83sura%C8%9Biile+precise+ale+vitezei+luminii&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "definiția vitezei luminii în fizică"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "definiția vitezei luminii în fizică"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=defini%C8%9Bia+vitezei+luminii+%C3%AEn+fizic%C4%83&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Answering question: Viteză valorificată în afirmație corespunde valorii acceptate de comunitatea științifică actualmente?
+Answering question: Este estimatul de 3 miliarde de perechi de bază un rezultat obținut prin o analiză recentă a secvenței ADN-ului uman?
+Conținut de verificat:
+'Content: "{"verdict": false, "justification": "Uranus has an axial tilt of about 98 degrees, which is not nearly perpendicular.", "confidence_score": 1.0}"'
+Se verifică afirmațiile...
+Answering question: Este afirmația făcută de un individ sau de o organizație specifică?
+Se caută în google cu interogarea: "valoarea vitezei luminii în vidul actual"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "valoarea vitezei luminii în vidul actual"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=valoarea+vitezei+luminii+%C3%AEn+vidul+actual&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "viteza luminii în conformitate cu IUPAC"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "viteza luminii în conformitate cu IUPAC"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=viteza+luminii+%C3%AEn+conformitate+cu+IUPAC&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "constanta lui c în fizică modernă"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "constanta lui c în fizică modernă"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=constanta+lui+c+%C3%AEn+fizic%C4%83+modern%C4%83&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Answering question: Există dovezi experimentale care să confirme sau infirmă afirmația despre viteza luminii în vid?
+Se caută în google cu interogarea: "analiza recenta secventa dna umana"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "analiza recenta secventa dna umana"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=analiza+recenta+secventa+dna+umana&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "numarul de perechi de baza din ADN-ul uman"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "numarul de perechi de baza din ADN-ul uman"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=numarul+de+perechi+de+baza+din+ADN-ul+uman&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "studii despre lungimea secventei ADN-ului umane"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "studii despre lungimea secventei ADN-ului umane"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=studii+despre+lungimea+secventei+ADN-ului+umane&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Answering question: Care este sursele utilizate pentru calcularea numărului de perechi de bază în ADN-ul uman?
+Answering question: Este tabela oficială a IUPAC publicată pe pagina sa oficială?
+Answering question: Este afirmația "The statement is false" realizată de un individ sau o organizație specifică?
+Se caută în google cu interogarea: "afirmații false declarate de politicieni"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "afirmații false declarate de politicieni"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=afirma%C8%9Bii+false+declarate+de+politicieni&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "organizațiile care emit declarații false"
+Se caută în google cu interogarea: "viteză lumina în vid confirmare experimente"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "viteză lumina în vid confirmare experimente"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "organizațiile care emit declarații false"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=vitez%C4%83+lumina+%C3%AEn+vid+confirmare+experimente&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "măsurarea vitezelor luminii în vid"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=organiza%C8%9Biile+care+emit+declara%C8%9Bii+false&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "indivizi și instituții care fac afirmatii false"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "măsurarea vitezelor luminii în vid"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "indivizi și instituții care fac afirmatii false"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=m%C4%83surarea+vitezelor+luminii+%C3%AEn+vid&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "experimentele lui Michelson-Morley și viteza luminii"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=indivizi+%C8%99i+institu%C8%9Bii+care+fac+afirmatii+false&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Answering question: Există dovezi care să susțină ideea că afirmația este falsă?
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "experimentele lui Michelson-Morley și viteza luminii"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=experimentele+lui+Michelson-Morley+%C8%99i+viteza+luminii&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Answering question: Sunt existente alte teorii fizice care contestă valoarea vitezei luminii în vid?
+Se caută în google cu interogarea: "IUPAC tabel elementelor oficială"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "IUPAC tabel elementelor oficială"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=IUPAC+tabel+elementelor+oficial%C4%83&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "pagina oficială IUPAC elemente"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "pagina oficială IUPAC elemente"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=pagina+oficial%C4%83+IUPAC+elemente&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "numărul de elemente confirmate IUPAC 2022"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "numărul de elemente confirmate IUPAC 2022"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=num%C4%83rul+de+elemente+confirmate+IUPAC+2022&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Answering question: Care este numărul total de elemente chimice recunoscute de IUPAC până în 2022?
+Se caută în google cu interogarea: "numarul de perechi de bază din ADN-ul uman"
+Se caută în google cu interogarea: "afirmația 'The statement is false' autorul"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "numarul de perechi de bază din ADN-ul uman"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=numarul+de+perechi+de+baz%C4%83+din+ADN-ul+uman&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "calcularea numarului de perechi de bază în ADN-ul uman"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "afirmația 'The statement is false' autorul"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=afirma%C8%9Bia+The+statement+is+false+autorul&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "organizații care au făcut afirmația 'The statement is false'"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "calcularea numarului de perechi de bază în ADN-ul uman"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=calcularea+numarului+de+perechi+de+baz%C4%83+%C3%AEn+ADN-ul+uman&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "lungimea genomului uman și numărul de perechi de bază"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "organizații care au făcut afirmația 'The statement is false'"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=organiza%C8%9Bii+care+au+f%C4%83cut+afirma%C8%9Bia+The+statement+is+false&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Answering question: De ce motive se crede că afirmația este falsă?
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "lungimea genomului uman și numărul de perechi de bază"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=lungimea+genomului+uman+%C8%99i+num%C4%83rul+de+perechi+de+baz%C4%83&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Answering question: A fost realizată o analiză exhaustivă a tuturor secvențelor ADN-ului uman pentru a stabili numărul precis de perechi de bază?
+Answering question: Este Venus o planetă cu o perioadă de rotație diferită față de Pământ?
+Se caută în google cu interogarea: "teorii fizice alternative viteza luminii"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "teorii fizice alternative viteza luminii"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=teorii+fizice+alternative+viteza+luminii&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "critici împotriva valorii vitezei luminii"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "critici împotriva valorii vitezei luminii"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=critici+%C3%AEmpotriva+valorii+vitezei+luminii&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "studii recente despre măsurarea vitezei luminii"
+Se caută în google cu interogarea: "afirmatie false în istorie"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "studii recente despre măsurarea vitezei luminii"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=studii+recente+despre+m%C4%83surarea+vitezei+luminii&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Answering question: A fost măsurata viteza luminii în vid în condiții diferite de cele descrise în afirmație?
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "afirmatie false în istorie"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=afirmatie+false+%C3%AEn+istorie&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "dezmințiri despre afirmații false"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "dezmințiri despre afirmații false"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=dezmin%C8%9Biri+despre+afirma%C8%9Bii+false&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "exemplu de afirmații false și consecințele lor"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "exemplu de afirmații false și consecințele lor"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=exemplu+de+afirma%C8%9Bii+false+%C8%99i+consecin%C8%9Bele+lor&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Answering question: Care sunt motivele pentru care se crede că afirmația este falsă?
+Se caută în google cu interogarea: "IUPAC oficiali elmentele chimice confirmate"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "IUPAC oficiali elmentele chimice confirmate"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=IUPAC+oficiali+elmentele+chimice+confirmate&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "numar elemente chimice recunoscute IUPAC 2022"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "numar elemente chimice recunoscute IUPAC 2022"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=numar+elemente+chimice+recunoscute+IUPAC+2022&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "tabloul actual al elementelor chimice IUPAC"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "tabloul actual al elementelor chimice IUPAC"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=tabloul+actual+al+elementelor+chimice+IUPAC&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Answering question: Există dovezi documentare care atestă faptul că IUPAC a stabilit limita la 118 elemente chimice confirmate?
+Se caută în google cu interogarea: "motivele pentru care se considera ca o declaratie este falsă"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "motivele pentru care se considera ca o declaratie este falsă"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=motivele+pentru+care+se+considera+ca+o+declaratie+este+fals%C4%83&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "argumentele împotriva unei declarații false"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "argumentele împotriva unei declarații false"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=argumentele+%C3%AEmpotriva+unei+declara%C8%9Bii+false&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "dezavantaje ale unei afirmații false"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "dezavantaje ale unei afirmații false"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=dezavantaje+ale+unei+afirma%C8%9Bii+false&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Answering question: Există dovezi concrete care să susțină afirmația că afirmația este falsă?
+Se caută în google cu interogarea: "analiza completă a genomului uman și numărul de perechi de bază"
+Se caută în google cu interogarea: Venus rotatie timp lungime
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "analiza completă a genomului uman și numărul de perechi de bază"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=analiza+complet%C4%83+a+genomului+uman+%C8%99i+num%C4%83rul+de+perechi+de+baz%C4%83&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "studii recente despre structura ADN-umane și numărul de perechi de bază"
+S-au obținut 5 rezultat(e) noi:
+	1. https://www.digi24.ro/stiri/sci-tech/descoperiri/studiu-o-zi-dureaza-mai-mult-decat-un-an-pe-planeta-venus-1517371
+	2. https://ro.wikipedia.org/wiki/Venus
+	3. https://www.descopera.ro/stiinta/19714930-cat-dureaza-cea-mai-lunga-zi-din-sistemul-solar-venus-are-raspunsul
+	4. https://www.facebook.com/atlasgeografic/posts/planeta-venus-ascunde-unele-dintre-cele-mai-fascinante-paradoxuri-din-sistemul-s/1344092260421370/
+	5. https://ro.wikipedia.org/wiki/Portal:Venus
+Se caută în google cu interogarea: Perioada de rotație pe Venus
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "studii recente despre structura ADN-umane și numărul de perechi de bază"
+S-au obținut 4 rezultat(e) noi:
+	1. https://hotnews.ro/science-report-care-este-cea-mai-lunga-zi-din-sistemul-solar-venus-detine-raspunsul-195844
+	2. https://ro.wikipedia.org/wiki/Perioad%C4%83_de_rota%C8%9Bie
+	3. https://www.scientia.ro/blogurile-scientia/122-blog-gabriela-costache/2589-sistemul-solar-venus.html
+	4. https://www.youtube.com/watch?v=0zVIgCOr6ok
+Se caută în google cu interogarea: Durata unui zile pe Venus în comparație cu Pământul
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=studii+recente+despre+structura+ADN-umane+%C8%99i+num%C4%83rul+de+perechi+de+baz%C4%83&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "numărul exact de perechi de bază în genomul uman"
+S-au obținut 4 rezultat(e) noi:
+	1. https://www.facebook.com/atlasgeografic/posts/durata-unui-an-difer%C4%83-considerabil-%C3%AEn-sistemul-solar-deoarece-fiecare-planet%C4%83-se/1468461831317745/
+	2. https://www.reddit.com/r/spaceporn/comments/1soc4t1/length_of_a_day_on_each_planet_in_our_solar_system/?tl=ro
+	3. https://www.youtube.com/watch?v=rJcxUu95H5o
+	4. https://www.storyboardthat.com/ro/space-words/venus
+Se caută în google cu interogarea: Rotația planetei Venus și durata unei zile
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "numărul exact de perechi de bază în genomul uman"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=num%C4%83rul+exact+de+perechi+de+baz%C4%83+%C3%AEn+genomul+uman&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Answering question: Sunt existente diferențe între structura ADN-ului masculin și cel feminin care ar influența numărul de perechi de bază?
+S-au obținut 5 rezultat(e) noi:
+	1. https://www.facebook.com/atlasgeografic/posts/planeta-venus-ascunde-unele-dintre-cele-mai-fascinante-paradoxuri-din-sistemul-s/1344092260421370/
+	2. https://www.g4media.ro/studiu-o-zi-dureaza-mai-mult-decat-un-an-pe-planeta-venus.html
+	3. https://www.storyboardthat.com/ro/space-words/venus
+	4. https://www.scientia.ro/univers/47-astronomie/351-mercur-si-venus.html
+	5. https://www.youtube.com/watch?v=0zVIgCOr6ok
+Se caută în google cu interogarea: "motivele pentru care se crede ca o declaratie este falsa"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "motivele pentru care se crede ca o declaratie este falsa"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=motivele+pentru+care+se+crede+ca+o+declaratie+este+falsa&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "argumente impotriva unei affirmatii false"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "argumente impotriva unei affirmatii false"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=argumente+impotriva+unei+affirmatii+false&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "dezavantaje ale afirmatiilor false"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "dezavantaje ale afirmatiilor false"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=dezavantaje+ale+afirmatiilor+false&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Answering question: A fost evaluat și analizat conținutul afirmației de către experți sau specialiști?
+Se caută în google cu interogarea: "măsurarea vitezei luminii în conditii diverse decât în vid"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "măsurarea vitezei luminii în conditii diverse decât în vid"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=m%C4%83surarea+vitezei+luminii+%C3%AEn+conditii+diverse+dec%C3%A2t+%C3%AEn+vid&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "viteză luminii în mediu dens"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "viteză luminii în mediu dens"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=vitez%C4%83+luminii+%C3%AEn+mediu+dens&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "experimente care au testat viteza luminii în spațiul cosmic"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "experimente care au testat viteza luminii în spațiul cosmic"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=experimente+care+au+testat+viteza+luminii+%C3%AEn+spa%C8%9Biul+cosmic&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Answering question: Dacă da, cum au variat rezultatele măsurătorilor efectuate în diverse condiții?
+Se caută în google cu interogarea: "IUPAC oficiali stabilirea numărului de elemente chimice confirmate"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "IUPAC oficiali stabilirea numărului de elemente chimice confirmate"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=IUPAC+oficiali+stabilirea+num%C4%83rului+de+elemente+chimice+confirmate&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "documentele IUPAC privind lista elementelor chimice confirmate"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "documentele IUPAC privind lista elementelor chimice confirmate"

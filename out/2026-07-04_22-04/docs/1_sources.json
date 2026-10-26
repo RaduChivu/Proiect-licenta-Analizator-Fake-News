@@ -1,0 +1,12 @@
+[
+  {
+    "url": "https://ro.wikipedia.org/wiki/Capital%C4%83",
+    "question": "Este orașul București o localitate reală?",
+    "domain": "ro.wikipedia.org",
+    "tier": "trusted",
+    "trust_score": 72.0,
+    "title": "Capitală",
+    "snippet": "Capitala sau capitala politică a unei țări sau a unei alte entități politice este orașul ce conține sediul guvernului. \nIstoric, a fost și locul în care au fost concentrate diverse instituții economice în scopul protecției. \nO țară poate avea mai mult de o capitală oficială simultan. Sediul guvernului poate fi separat de celălalte capitale, sau se poate muta sezonier. Diferite filiale ale guvernului pot fi situate în diferite orașe.",
+    "reason": "Sursă recunoscută cu scor 72/100 din lista de surse de încredere."
+  }
+]

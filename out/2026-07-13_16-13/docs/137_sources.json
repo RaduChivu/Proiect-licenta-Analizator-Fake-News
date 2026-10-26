@@ -1,0 +1,12 @@
+[
+  {
+    "url": "https://ro.wikipedia.org/wiki/Univers",
+    "question": "Este afirmat faptul că există un univers?",
+    "domain": "ro.wikipedia.org",
+    "tier": "trusted",
+    "trust_score": 72.0,
+    "title": "Univers",
+    "snippet": "Universul (lat. universum) este totalitatea spațiului și timpului, a tuturor formelor de materie și energie. În timp ce dimensiunea întregului Univers nu este cunoscută, universul observabil poate fi măsurat și este estimat în prezent la 93 miliarde de ani-lumină în diametru. \nCele mai vechi modele științifice ale Universului au fost dezvoltate de filosofi antici greci și indieni și au fost geocentrice, plasând Pământul în centrul Universului. De-a lungul secolelor, observațiile astronomice mai precise l-au determinat pe Nicolaus Copernicus să dezvolte modelul heliocentric cu Soarele în centrul Sistemului Solar.",
+    "reason": "Sursă recunoscută cu scor 72/100 din lista de surse de încredere."
+  }
+]

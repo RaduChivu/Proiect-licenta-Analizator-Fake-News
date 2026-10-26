@@ -1,0 +1,152 @@
+[
+  {
+    "url": "https://www.factual.ro/declaratii/fals-ambasadorul-rusiei-sustine-ca-basarabia-nu-a-facut-parte-din-statul-roman-independent",
+    "question": null,
+    "domain": "factual.ro",
+    "tier": "trusted",
+    "trust_score": 88.0,
+    "title": "FALS | Ambasadorul Rusiei susține că Basarabia nu a făcut parte ...",
+    "snippet": "Giurescu argumentează că Imperiul Otoman, în calitatea sa de putere suzerană, nu avea și dreptul legal de a ceda teritorii ale Moldovei, ... (data publicării: 1 apr. 2026)",
+    "reason": "Sursă recunoscută cu scor 88/100 din lista de surse de încredere."
+  },
+  {
+    "url": "https://www.veridica.ro/autori/veridica",
+    "question": null,
+    "domain": "veridica.ro",
+    "tier": "trusted",
+    "trust_score": 88.0,
+    "title": "Veridica.ro",
+    "snippet": "©2026 Veridica.ro. Toate drepturile rezervate. Veridica™ este o publicație a Asociației Alianța Internațională a Jurnaliștilor Români. Soluție web Treeworks.",
+    "reason": "Sursă recunoscută cu scor 88/100 din lista de surse de încredere."
+  },
+  {
+    "url": "https://ro.wikipedia.org/wiki/Imperiul_Otoman",
+    "question": "Dacă da, la ce dată și unde s-a format?",
+    "domain": "ro.wikipedia.org",
+    "tier": "trusted",
+    "trust_score": 72.0,
+    "title": "Imperiul Otoman",
+    "snippet": "Imperiul Otoman (în limba turcă otomană: دولتِ عَليه عُثمانيه, Devlet-i Aliye-i Osmaniye, „Sublimul Stat Otoman”; limba turcă modernă: Osmanlı Devleti sau Osmanlı Imparatorluğu, adesea numit și Turcia Otomană) a fost o supraputere imperială, care și-a manifestat dominația în zona mediteraneană și care a existat din 1299 până în 1922. Inițial, a fost un stat islamic sunnit fondat de turcii oghuzi, sub conducerea lui Osman I, în nord-vestul Anatoliei, în 1299.\nOdată cu ascensiunea otomanilor sub Murad I și cucerirea Peninsulei Balcanice între 1362-1389, și căderea Constantinopolului, de către Mehmed al II-lea în 1453, Sultanatul Otoman s-a transformat într-un imperiu. În 1453, după ce turcii au cucerit Constantinopolul (orașul Istanbul din zilele noastre), fosta capitală a Imperiului Bizantin, a devenit a treia capitală a Imperiului Otoman. Între secolele al XVI-lea și al XVII-lea, Imperiul Otoman a fost una dintre cele mai puternice entități politice și statale ale lumii, țările europene simțindu-se amenințate neîncetat de înaintarea continuă a acestuia prin Balcani și spre sudul Uniunii Polono-Lituaniene.",
+    "reason": "Sursă recunoscută cu scor 72/100 din lista de surse de încredere."
+  },
+  {
+    "url": "https://blog.factual.ro/tag/matei-gheboianu",
+    "question": null,
+    "domain": "blog.factual.ro",
+    "tier": "unknown",
+    "trust_score": 74.8,
+    "title": "Matei Gheboianu - Blogul Factual",
+    "snippet": "... Imperiul Rus și Imperiul Otoman. Chiar dacă România nu a obținut teritorii în urma acelor lupte, totuși armata română a participat (cu ... (data publicării: 16 nov. 2022)",
+    "reason": "Domeniu necunoscut. Subdomeniu al sursei de încredere factual.ro."
+  },
+  {
+    "url": "https://www.reddit.com/r/imaginarymaps/comments/182vy4l/per_capita_personal_income_nominal_for_each/?tl=ro",
+    "question": "A fost creat vreodată un stat sau o entitate politică denumită Imperiul Otoman?",
+    "domain": "reddit.com",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Venitul personal pe cap de locuitor (nominal) pentru fiecare Sanjak ...",
+    "snippet": "E mai mult o referire la modul în care majoritatea Marilor Viziri greci istorici ai Imperiului Otoman erau din Cipru sau aveau origini cipriote.",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://www.slideshare.net/slideshow/cronici-turcesti-privind-tarile-romanesti/30641265",
+    "question": null,
+    "domain": "slideshare.net",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Cronici turcesti privind tarile romanesti | PDF - Slideshare",
+    "snippet": "... istorici ai Imperiului otoman ca Dimitrie Cantemir 24, Hammer 231 ?inkeisen 26, Iorga 27, iar in ultima vreme o important/ deosebit/ a fost acordatI acestor ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://www.artmark.ro/ro/lot/cronica-sultanilor-otomani-a-lui-leunclavius-inclusiv-despre-luptele-cu-voievozii-romani-mircea-cel-batran-vlad-tepes-dracula-stefan-cel-mare-etc-frankfurt-1596-ro-6689?srsltid=AfmBOormKNsfMOrsnNSVgFAPkgEEFcx5YbnmBTh0CwtEWllbMr4gV76Q",
+    "question": null,
+    "domain": "artmark.ro",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "\"Cronica Sultanilor Otomani\" a lui Leunclavius, inclusiv despre ...",
+    "snippet": "\"Annales Sultanorum Othmanidarum\", scrisă de eruditul umanist german, Johannes Leunclavius, considerat unul din cei mai mari istorici ai imperiului Otoman ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://www.observatorcultural.ro/articol/saga-cantemirestilor",
+    "question": null,
+    "domain": "observatorcultural.ro",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Saga Cantemireştilor | Observator Cultural",
+    "snippet": "... istorici ai imperiului otoman…ca el! Curat „fanariot” ! Răspunde. 102009. Anti-fanariotul iulie 4, 2011 la 5:43 pm. observatia mi se pare ... (data publicării: 1 iul. 2011)",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://www.edupedu.ro/romania-a-primit-o-replica-a-lucrarii-cartea-stiintei-muzicii-scrisa-de-dimitrie-cantemir-omagiat-intr-un-eveniment-la-ateneul-roman-varianta-originala-a-cartii-se-afla-la-istanbu",
+    "question": null,
+    "domain": "edupedu.ro",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "România a primit o replică a lucrării „Cartea științei muzicii” scrisă ...",
+    "snippet": "... istorici ai Imperiului Otoman, autorul volumului 'Istoria ascensiunii şi căderii Curţii Otomane'”. „Astăzi, o copie a cărţii va fi predată ... (data publicării: 28 sept. 2023)",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=RczatKuC0Lw",
+    "question": null,
+    "domain": "youtube.com",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Istoria Imperiului Otoman - Ep I - Inceputurile - Osman si Orhan I",
+    "snippet": "Astazi vorbim despre istoria Imperiului Otoman,mai exact despre inceputurile lui,sub conducerea lui Osman I si apoi a fiului sau,Orhan I. (data publicării: 10 apr. 2023)",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://historia.ro/sectiune/general/inceputurile-imperiului-otoman-luptele-pentru-575084.html",
+    "question": "Există dovezi care să confirme faptul că Imperiul Otoman a existat cel puțin 600 de ani?",
+    "domain": "historia.ro",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Începuturile imperiului otoman",
+    "snippet": "luptele pentru putere în Asia Mică: Însă istoria imperiului otoman, deși începe odată cu Osman I, își are originile în luptele pentru putere din Asia Mică dintre bizantini, pe de o parte, și ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://www.amazon.com/-/he/Lord-Kinross/dp/9737364120",
+    "question": null,
+    "domain": "amazon.com",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Istoria Imperiului Otoman",
+    "snippet": "9789737364128: Lord ... - Amazon.com: Istoria Imperiului Otoman. Marirea si decaderea Imperiului Turc Aceasta carte prezinta spectaculoasa marire si decadere a unuia dintre cele mai mari imperii ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://www.turkeyivisa.org/ro/history-of-ottoman-empire-in-turkey",
+    "question": null,
+    "domain": "turkeyivisa.org",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Istoria Imperiului Otoman în Turcia",
+    "snippet": "Imperiul Otoman a fost condus de 36 de sultani între 1299 și 1922. Timp de secole, sultanul otoman principal a locuit în luxosul palat Topkapi, ... (data publicării: 28 mai 2025)",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://liceunet.ro/mari-imperii/otoman",
+    "question": null,
+    "domain": "liceunet.ro",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Imperiul Otoman | Referat pe scurt - Liceunet.ro",
+    "snippet": "Imperiul Otoman reprezintă însăși povestea unui teritoriu vast care s-a făcut cunoscut prin prisma bogățiilor Orientului, a mirajului, a fantasticului ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  },
+  {
+    "url": "https://www.researchgate.net/figure/Emirul-Osman-fondatorul-Imperiului-Otoman-Esad-Kurtovic-Samir-Hajrulahovic-Historija_fig10_281742036",
+    "question": null,
+    "domain": "researchgate.net",
+    "tier": "unknown",
+    "trust_score": 50.0,
+    "title": "Emirul Osman, fondatorul Imperiului Otoman Esad Kurtovič, Samir...",
+    "snippet": "Emirul Osman, fondatorul Imperiului Otoman Esad Kurtovič, Samir Hajrulahovič, Historija Istorija Povijest. Udžbenik sa čitankom za drugi razred Gimnazije ...",
+    "reason": "Domeniu necunoscut, scor euristic calculat pe baza structurii URL-ului."
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "url": "https://ro.wikipedia.org/wiki/Integral%C4%83",
+    "question": "A fost construit un calculatoare electronic înainte de ENIAC?",
+    "domain": "ro.wikipedia.org",
+    "tier": "trusted",
+    "trust_score": 72.0,
+    "title": "Integrală",
+    "snippet": "În analiza matematică, integrala unei funcții este o generalizare a noțiunilor de arie, masă, volum și sumă. Procesul de determinare a unei integrale se numește integrare. Spre deosebire de noțiunea înrudită de derivată, există mai multe definiții posibile ale integralei, fiecare cu suportul său tehnic. Acestea sunt însă compatibile. Oricare două moduri de integrare a unei funcții vor da aceleași rezultate când ambele sunt definite.",
+    "reason": "Sursă recunoscută cu scor 72/100 din lista de surse de încredere."
+  }
+]

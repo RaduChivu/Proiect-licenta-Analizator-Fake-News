@@ -1,0 +1,617 @@
+Se selectează 'web_search' ca opțiune de rezervă dacă nu poate fi identificată nicio acțiune.
+Conținut de verificat:
+'Content: "Romania joined the European Union on January 1st, 2007."'
+Se verifică afirmațiile...
+Answering question: A fost adoptata o decizie oficială privind aderarea Romaniei la Uniunea Europeană?
+Se caută în google cu interogarea: "Decizia de admitere a României în UE din 2006"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "Decizia de admitere a României în UE din 2006"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=Decizia+de+admitere+a+Rom%C3%A2niei+%C3%AEn+UE+din+2006&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "Tratatul de aderare al României la Uniunea Europeană datat 25 aprilie 2005"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "Tratatul de aderare al României la Uniunea Europeană datat 25 aprilie 2005"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=Tratatul+de+aderare+al+Rom%C3%A2niei+la+Uniunea+European%C4%83+datat+25+aprilie+2005&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "Adunarea Constituantă română și ratificarea Tratatului de aderare la UE"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "Adunarea Constituantă română și ratificarea Tratatului de aderare la UE"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=Adunarea+Constituant%C4%83+rom%C3%A2n%C4%83+%C8%99i+ratificarea+Tratatului+de+aderare+la+UE&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Answering question: Când a fost semnat tratatul de aderare dintre România și Uniunea Europeană?
+Se caută în google cu interogarea: "tratat de aderare românia uniune europeană"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "tratat de aderare românia uniune europeană"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=tratat+de+aderare+rom%C3%A2nia+uniune+european%C4%83&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "data intrarii în UE pentru Romania"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "data intrarii în UE pentru Romania"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=data+intrarii+%C3%AEn+UE+pentru+Romania&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "semnarea tratatului de aderare între România și UE"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "semnarea tratatului de aderare între România și UE"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=semnarea+tratatului+de+aderare+%C3%AEntre+Rom%C3%A2nia+%C8%99i+UE&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Answering question: Care era statutul juridic al României înainte de aderarea sa la UE?
+Se caută în google cu interogarea: "statutul juridic al Romaniei pana la 2007"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "statutul juridic al Romaniei pana la 2007"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=statutul+juridic+al+Romaniei+pana+la+2007&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "relații externe ale Romaniei cu Uniunea Europeană înainte de 2007"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "relații externe ale Romaniei cu Uniunea Europeană înainte de 2007"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=rela%C8%9Bii+externe+ale+Romaniei+cu+Uniunea+European%C4%83+%C3%AEnainte+de+2007&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "România și acquis comunitar înainte de 2007"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "România și acquis comunitar înainte de 2007"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=Rom%C3%A2nia+%C8%99i+acquis+comunitar+%C3%AEnainte+de+2007&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Answering question: Existau condiții speciale impuse de UE pentru admiterea României ca membru?
+Se caută în google cu interogarea: "condițiile de aderare a României la Uniunea Europeană"
+S-au obținut 5 rezultat(e) noi:
+	1. https://www.cdep.ro/interpel/2008/r4704A.pdf
+	2. https://www.brk.ro/cotatii-si-analize/rapoarte-de-analiza/sng-snp-tgn-piata-gazelor-naturale/
+	3. https://www.agir.ro/univers-ingineresc/numar-21-2005/standardizarea-in-economia-de-piata-romaneasca_1233.html
+	4. https://revista.universuljuridic.ro/wp-content/uploads/2016/10/02_Revista_Universul_Juridic_nr_09-2016_PAGINAT_BT_C_Jugastru.pdf
+	5. https://stirileprotv.ro/divers/agentia-nationala-de-integritate-mai-transparenta-dupa-un-demers-stirile-pro-tv-cum-se-vad-averile-celor-cu-functii-publice.html
+Se caută în google cu interogarea: "prezentarea României în fața Consiliului European din 1999"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "prezentarea României în fața Consiliului European din 1999"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=prezentarea+Rom%C3%A2niei+%C3%AEn+fa%C8%9Ba+Consiliului+European+din+1999&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "acordul de asociere între România și Comunitatea Economică Europeană din 1996"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "acordul de asociere între România și Comunitatea Economică Europeană din 1996"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=acordul+de+asociere+%C3%AEntre+Rom%C3%A2nia+%C8%99i+Comunitatea+Economic%C4%83+European%C4%83+din+1996&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Got answer: Da, existau condiții speciale impuse de UE pentru admiterea României ca membru, printre care și armonizarea legislației naționale cu cea europeană, conform declarațiilor Camerei Deputaților din documentul citat în sursa mea. ("Una dintre condițiile de aderare a României la Uniunea Europeană a reprezentat-o armonizarea legislației naționale cu legislația europeană.")
+Answering question: S-au efectuat voturi publice sau consultări cu cetățenii români înaintea aderării la UE?
+Se caută în google cu interogarea: "adeziunea României la UE și participarea cetățenilor români în procesul de decizie"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "adeziunea României la UE și participarea cetățenilor români în procesul de decizie"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=adeziunea+Rom%C3%A2niei+la+UE+%C8%99i+participarea+cet%C4%83%C8%9Benilor+rom%C3%A2ni+%C3%AEn+procesul+de+decizie&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "voturile publice din România pentru aderare la Uniunea Europeană"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "voturile publice din România pentru aderare la Uniunea Europeană"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=voturile+publice+din+Rom%C3%A2nia+pentru+aderare+la+Uniunea+European%C4%83&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "consultările publice organizate în România înaintea aderării la UE"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "consultările publice organizate în România înaintea aderării la UE"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=consult%C4%83rile+publice+organizate+%C3%AEn+Rom%C3%A2nia+%C3%AEnaintea+ader%C4%83rii+la+UE&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Answering question: Au existat opoziții puternice față de aderarea României la UE din partea unora dintre politicieni sau organizații civile?
+Se caută în google cu interogarea: "opozitia romaniei la ue înainte de intrare"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "opozitia romaniei la ue înainte de intrare"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=opozitia+romaniei+la+ue+%C3%AEnainte+de+intrare&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "critica politicilor și organizatiilor civile împotriva aderarii Romaniei la UE"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "critica politicilor și organizatiilor civile împotriva aderarii Romaniei la UE"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=critica+politicilor+%C8%99i+organizatiilor+civile+%C3%AEmpotriva+aderarii+Romaniei+la+UE&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "dezacordul parlamentarilor și liderilor politici cu privire la aderarea României la Uniunea Europeană"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "dezacordul parlamentarilor și liderilor politici cu privire la aderarea României la Uniunea Europeană"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=dezacordul+parlamentarilor+%C8%99i+liderilor+politici+cu+privire+la+aderarea+Rom%C3%A2niei+la+Uniunea+European%C4%83&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Answering question: Cum a afectat aderarea României la UE economia și politicile sale interne?
+Se caută în google cu interogarea: "impactul aderării României la Uniunea Europeană asupra economiei și politicii interne"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "impactul aderării României la Uniunea Europeană asupra economiei și politicii interne"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=impactul+ader%C4%83rii+Rom%C3%A2niei+la+Uniunea+European%C4%83+asupra+economiei+%C8%99i+politicii+interne&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "schimbările în sectorul economic al României după intrarea în UE"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "schimbările în sectorul economic al României după intrarea în UE"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=schimb%C4%83rile+%C3%AEn+sectorul+economic+al+Rom%C3%A2niei+dup%C4%83+intrarea+%C3%AEn+UE&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "politica externă a României înainte și după aderare la UE"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "politica externă a României înainte și după aderare la UE"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=politica+extern%C4%83+a+Rom%C3%A2niei+%C3%AEnainte+%C8%99i+dup%C4%83+aderare+la+UE&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Answering question: A avut loc o ceremonie oficială de intrare a României în UE pe data de 1 ianuarie 2007?
+Se caută în google cu interogarea: "ceremonia de aderare a Romaniei la Uniunea Europeană 1 ianuarie 2007"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "ceremonia de aderare a Romaniei la Uniunea Europeană 1 ianuarie 2007"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=ceremonia+de+aderare+a+Romaniei+la+Uniunea+European%C4%83+1+ianuarie+2007&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: " Romania EU entry ceremony 1 January 2007"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: " Romania EU entry ceremony 1 January 2007"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=+Romania+EU+entry+ceremony+1+January+2007&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "evenimentele din ziua de 1 ianuarie 2007 în România și UE"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "evenimentele din ziua de 1 ianuarie 2007 în România și UE"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=evenimentele+din+ziua+de+1+ianuarie+2007+%C3%AEn+Rom%C3%A2nia+%C8%99i+UE&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Answering question: Exista documente oficiale care să confirme aderarea României la UE la data specificată?
+Se caută în google cu interogarea: "documentele oficiale privind aderarea Romaniei la Uniunea Europeană în 2007"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "documentele oficiale privind aderarea Romaniei la Uniunea Europeană în 2007"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=documentele+oficiale+privind+aderarea+Romaniei+la+Uniunea+European%C4%83+%C3%AEn+2007&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "Declarație de aderare a României la Uniunea Europeană din 25 aprilie 2005 și protocolul de aderare semnat pe 25 ianuarie 2006"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "Declarație de aderare a României la Uniunea Europeană din 25 aprilie 2005 și protocolul de aderare semnat pe 25 ianuarie 2006"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=Declara%C8%9Bie+de+aderare+a+Rom%C3%A2niei+la+Uniunea+European%C4%83+din+25+aprilie+2005+%C8%99i+protocolul+de+aderare+semnat+pe+25+ianuarie+2006&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "Decizia Consiliului European din 26 noiembrie 2004 referitoare la admiterea României ca membru al Uniunii Europene"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "Decizia Consiliului European din 26 noiembrie 2004 referitoare la admiterea României ca membru al Uniunii Europene"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=Decizia+Consiliului+European+din+26+noiembrie+2004+referitoare+la+admiterea+Rom%C3%A2niei+ca+membru+al+Uniunii+Europene&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Answering question: Au existat schimbări majore în structura instituțională a României după aderarea ei la UE?
+Se caută în google cu interogarea: "schimbări instituționale românia post-aderare ue"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "schimbări instituționale românia post-aderare ue"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=schimb%C4%83ri+institu%C8%9Bionale+rom%C3%A2nia+post-aderare+ue&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "modificari legislative românia eu"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "modificari legislative românia eu"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=modificari+legislative+rom%C3%A2nia+eu&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "institutii publice românia modificari post-aderezaue"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "institutii publice românia modificari post-aderezaue"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=institutii+publice+rom%C3%A2nia+modificari+post-aderezaue&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Afirmația 'Romania joined the European Union on January 1st, 2007.' este not enough information.
+Justificare: Verdictele noastre sunt acelea că nu dispunem de suficiente informații pentru a stabiliza dacă afirmația este adevărată sau falsă, deoarece nu avem date precise privind momentul oficial al aderării României la Uniunea Europeană. Procesul de aderare a României la Uniunea Europeană a inclus condiții specifice, precum armonizarea legilor naționale cu cele europene, ceea ce sugerează că nu a fost un proces simplu sau automat.
+Scor credibilitate surse: Fără surse (N/A) [inconclusive]
+Veredictu general al conținutului este: not enough information
+Verificarea factuală a durat 2:41 min.
+Conținut de verificat:
+'Content: "{"title": "Mihai Eminescu Origins"}"'
+Se verifică afirmațiile...
+Conținut de verificat:
+'Content: "Was the poet Mihai Eminescu of Romanian origin?"'
+Se verifică afirmațiile...
+Answering question: Este existentă o lucrare sau proiect cu titlul "Originea lui Mihai Eminescu"?
+Answering question: A fost poetul Mihai Eminescu efectiv un om real?
+Se caută în google cu interogarea: "Mihai Eminescu Origine"
+Se caută în google cu interogarea: Mihai Eminescu biografie
+S-au obținut 1 rezultat(e) noi:
+	1. https://rightwords.ro/citate/autori/mihai-eminescu/origine
+Se caută în google cu interogarea: "proiecte de cercetare despre Mihai Eminescu"
+S-au obținut 5 rezultat(e) noi:
+	1. https://ro.wikipedia.org/wiki/Mihai_Eminescu
+	2. https://ro.scribd.com/document/492085382/Biografia-Lui-Mihai-Eminescu
+	3. http://enciclopediaromaniei.ro/wiki/Mihai_Eminescu
+	4. https://poezie.ro/clasici/mihai-eminescu/biografie
+	5. https://copiibjc.bjc.ro/?p=7096
+Se caută în google cu interogarea: Eminescu naștere și origine română
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "proiecte de cercetare despre Mihai Eminescu"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=proiecte+de+cercetare+despre+Mihai+Eminescu&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "studii academice despre originea lui Mihai Eminescu"
+S-au obținut 4 rezultat(e) noi:
+	1. https://romanialiterara.com/2022/11/cand-s-a-nascut-eminescu/
+	2. https://www.facebook.com/infoeuropa2020/posts/poetul-mihai-eminescu-eminovici-la-na%C8%99tere-s-a-n%C4%83scut-la-15-ianuarie-1850-la-bot/917241540582430/
+	3. https://ziarulunirea.ro/15-ianuarie-1850-ziua-de-nastere-a-lui-mihai-eminescu-poetul-national-al-romaniei-238578/
+	4. https://www.youtube.com/watch?v=9a6M3-s64pg
+Se caută în google cu interogarea: Poetul Mihai Eminescu proveniența sa din România
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "studii academice despre originea lui Mihai Eminescu"
+S-au obținut 3 rezultat(e) noi:
+	1. https://www.twinkl.ro/teaching-wiki/cine-a-fost-mihai-eminescu
+	2. https://www.muzeulliteraturiiiasi.ro/e-arhiva-mihai-eminescu/
+	3. https://newsweek.ro/cultura/cine-i-a-schimbat-numele-lui-mihai-eminescu-cum-se-semna-poetul
+Se caută în google cu interogarea: Date despre viața lui Mihai Eminescu și locul său de naștere
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=studii+academice+despre+originea+lui+Mihai+Eminescu&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "articole științifice despre Mihai Eminescu și origine"
+S-au obținut 3 rezultat(e) noi:
+	1. https://luceafarul.net/mihai-eminescu-175-ani-de-la-nastere-data-si-locul-nasterii-lui-mihai-eminescu
+	2. https://www.facebook.com/puriceionnistor/videos/-mihai-eminescu-s-a-n%C4%83scut-pe-15-ianuarie-1850-%C3%AEn-boto%C8%99ani-%C8%99i-a-fost-un-poet-jur/880594051566878/
+	3. https://www.libertatea.ro/lifestyle/mihai-eminescu-biografie-3391645
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "articole științifice despre Mihai Eminescu și origine"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=articole+%C8%99tiin%C8%9Bifice+despre+Mihai+Eminescu+%C8%99i+origine&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Got answer: Da, este existentă o lucrare sau un citat al lui Mihai Eminescu care se referă la tema "Originea", concretizată într-un fragment din textul menționat în sursa respectivă: "" ("Sau țara aceasta să fie în adevăr românească, sau nici nu merită să fie").
+Answering question: A fost creată o astfel de lucrare înaintea sau după data actuală?
+Got answer: Răspunsul este da, pentru că conform articolului de pe Wikipedia, Mihai Eminescu s-a născut în Botoșani, din Regatul Munteniei (azi parte a României), ceea ce îl face de origine romană. ("Mihai Eminescu...a fost un poet, prozator și jurnalist român.") - [1]
+Answering question: S-a născut Mihai Eminescu pe teritoriul României moderne?
+Se caută în google cu interogarea: Mihai Eminescu sursă biografică naștere
+Se caută în google cu interogarea: "Mihai Eminescu și creația sa antecedentul sau succesorul"
+S-au obținut 5 rezultat(e) noi:
+	1. https://ro.wikipedia.org/wiki/Mihai_Eminescu
+	2. https://ziarulunirea.ro/15-ianuarie-1850-ziua-de-nastere-a-lui-mihai-eminescu-poetul-national-al-romaniei-238578/
+	3. https://www.twinkl.ro/teaching-wiki/cine-a-fost-mihai-eminescu
+	4. https://copiibjc.bjc.ro/?p=7096
+	5. https://luceafarul.net/mihai-eminescu-173-ani-de-la-nasterea-poetului
+Se caută în google cu interogarea: Eminescu Mihai loc de naștere România modernă
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "Mihai Eminescu și creația sa antecedentul sau succesorul"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=Mihai+Eminescu+%C8%99i+crea%C8%9Bia+sa+antecedentul+sau+succesorul&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "Data apariției primei opere literare a lui Mihai Eminescu"
+S-au obținut 3 rezultat(e) noi:
+	1. https://www.digi24.ro/stiri/actualitate/evenimente/176-de-ani-de-la-nasterea-lui-mihai-eminescu-cum-a-redefinit-poetul-literatura-romana-si-a-devenit-un-reper-al-identitatii-culturale-3582807
+	2. https://romanialiterara.com/2023/02/unde-s-a-nascut-eminescu/
+	3. https://www.muzeulliteraturiiiasi.ro/e-arhiva-mihai-eminescu/
+Se caută în google cu interogarea: Biografia lui Mihai Eminescu nașterea sa în România
+S-au obținut 1 rezultat(e) noi:
+	1. http://enciclopediaromaniei.ro/wiki/Mihai_Eminescu
+Se caută în google cu interogarea: Date despre nașterea și viața lui Mihai Eminescu
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "Data apariției primei opere literare a lui Mihai Eminescu"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=Data+apari%C8%9Biei+primei+opere+literare+a+lui+Mihai+Eminescu&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "Stilistic și istoric context al debutului poetic al lui Mihai Eminescu"
+S-au obținut 2 rezultat(e) noi:
+	1. https://luceafarul.net/mihai-eminescu-175-ani-de-la-nastere-data-si-locul-nasterii-lui-mihai-eminescu
+	2. https://www.facebook.com/teleeuropanovatimisoara/videos/175-de-ani-de-la-na%C8%99terea-lui-mihai-eminescupe-15-ianuarie-de-ziua-culturii-na%C8%9Bi/2086826391753591/
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "Stilistic și istoric context al debutului poetic al lui Mihai Eminescu"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=Stilistic+%C8%99i+istoric+context+al+debutului+poetic+al+lui+Mihai+Eminescu&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Answering question: Cine este autorul/autorii acestei lucrări?
+Got answer: Da, Mihai Eminescu s-a născut în orașul Botoșani din Regatul Munteniei, care ulterior va face parte integrantă din România modernă. ("Mihai Eminescu", Wikipedia.ro)
+Answering question: Dacă da, ce localitate din România era locul său de naștere?
+Se caută în google cu interogarea: "Mihai Eminescu autor al poemului {Claim["title"]"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "Mihai Eminescu autor al poemului {Claim["title"]"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=Mihai+Eminescu+autor+al+poemului+%7BClaim%5Btitle%5D&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "Eminescu Mihai opera originale"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "Eminescu Mihai opera originale"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=Eminescu+Mihai+opera+originale&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "poemele lui Mihai Eminescu analiza"
+Se caută în google cu interogarea: Mihai Eminescu sursa biografică loc de naștere
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "poemele lui Mihai Eminescu analiza"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=poemele+lui+Mihai+Eminescu+analiza&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Answering question: Ce este conținutul principal al acestei lucrări?
+S-au obținut 5 rezultat(e) noi:
+	1. https://ziarulunirea.ro/mihai-eminescu-date-biografice-viata-si-opera-poetului-national-304980/
+	2. https://www.twinkl.ro/teaching-wiki/cine-a-fost-mihai-eminescu
+	3. https://www.facebook.com/puriceionnistor/videos/-mihai-eminescu-s-a-n%C4%83scut-pe-15-ianuarie-1850-%C3%AEn-boto%C8%99ani-%C8%99i-a-fost-un-poet-jur/880594051566878/
+	4. https://www.libertatea.ro/lifestyle/mihai-eminescu-biografie-3391645
+	5. https://ro.scribd.com/doc/51925025/Cu-detalii-despre-Mihai-eminescu
+Se caută în google cu interogarea: Eminescu Mihai origine română
+S-au obținut 4 rezultat(e) noi:
+	1. https://adevarul.ro/stiri-locale/botosani/a-fost-sau-nu-eminescu-roman-cele-mai-1616131.html
+	2. https://luceafarul.net/mihai-eminescu-si-originea-sa-taraneasca-2
+	3. https://www.facebook.com/61559273864881/posts/de-unde-vine-numele-lui-eminescu-%C8%99i-la-ce-dat%C4%83-s-a-n%C4%83scutfoarte-probabil-str%C4%83mo%C8%99/122180091038309128/
+	4. https://www.facebook.com/victoriafurtunarm/posts/mihai-eminescu-este-una-dintre-cele-mai-puternice-%C8%99i-profunde-personalit%C4%83%C8%9Bi-n%C4%83sc/122228194244258656/
+Se caută în google cu interogarea: locul nașterii lui Mihai Eminescu
+S-au obținut 5 rezultat(e) noi:
+	1. https://visitbotosani.ro/2015/02/locul-nasterii-poetului-mihai-eminescu/
+	2. https://romanialiterara.com/2023/02/unde-s-a-nascut-eminescu/
+	3. https://luceafarul.net/mihai-eminescu-175-ani-de-la-nastere-data-si-locul-nasterii-lui-mihai-eminescu
+	4. https://www.facebook.com/infoeuropa2020/posts/poetul-mihai-eminescu-eminovici-la-na%C8%99tere-s-a-n%C4%83scut-la-15-ianuarie-1850-la-bot/917241540582430/
+	5. https://alba24.ro/misterele-din-jurul-nasterii-si-mortii-lui-mihai-eminescu-unde-si-cand-s-a-nascut-poetul-si-ce-teorii-circula-despre-moartea-sa-749409.html
+Se caută în google cu interogarea: biografia lui Mihai Eminescu loc de naștere
+S-au obținut 1 rezultat(e) noi:
+	1. https://ro.wikipedia.org/wiki/Via%C8%9Ba_lui_Mihai_Eminescu
+Se caută în google cu interogarea: "Mihai Eminescu Origini conținut principale"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "Mihai Eminescu Origini conținut principale"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=Mihai+Eminescu+Origini+con%C8%9Binut+principale&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "Despre Mihai Eminescu în opera sa"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "Despre Mihai Eminescu în opera sa"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=Despre+Mihai+Eminescu+%C3%AEn+opera+sa&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "Analiza poemelor lui Mihai Eminescu"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "Analiza poemelor lui Mihai Eminescu"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=Analiza+poemelor+lui+Mihai+Eminescu&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Answering question: Există dovezi care ar susține faptul că această lucrare este relevantă pentru public?
+Got answer: Mihai Eminescu s-a născut în Botoșani, România, la data de 15 ianuarie 1850. Acest lucru este menționat chiar în articolul citat din Ziarul Unirea: "Citește și: 15 ianuarie 1850, ziua de naștere a lui Mihai Eminescu, poetul național al României."
+Answering question: Există dovezi documentate privind nașterea lui Mihai Eminescu?
+Se caută în google cu interogarea: "Mihai Eminescu și relevanța sa în literatura română"
+Se caută în google cu interogarea: Mihai Eminescu biografie
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "Mihai Eminescu și relevanța sa în literatura română"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=Mihai+Eminescu+%C8%99i+relevan%C8%9Ba+sa+%C3%AEn+literatura+rom%C3%A2n%C4%83&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "Eminescu Mihai și impactul său asupra culturii românești"
+S-au obținut 5 rezultat(e) noi:
+	1. https://ro.wikipedia.org/wiki/Mihai_Eminescu
+	2. https://ro.scribd.com/document/492085382/Biografia-Lui-Mihai-Eminescu
+	3. https://www.youtube.com/watch?v=xjd95yvfkpY
+	4. http://enciclopediaromaniei.ro/wiki/Mihai_Eminescu
+	5. https://copiibjc.bjc.ro/?p=7096
+Se caută în google cu interogarea: Eminescu origine română
+S-au obținut 4 rezultat(e) noi:
+	1. https://adevarul.ro/stiri-locale/botosani/a-fost-sau-nu-eminescu-roman-cele-mai-1616131.html
+	2. https://www.facebook.com/61559273864881/posts/de-unde-vine-numele-lui-eminescu-%C8%99i-la-ce-dat%C4%83-s-a-n%C4%83scutfoarte-probabil-str%C4%83mo%C8%99/122180091038309128/
+	3. https://matricea.ro/sofia-bulgaria-despre-originea-lui-eminescu-aromanul-toma-kiurkciev-totul-la-el-este-pur-roman/
+	4. https://www.twinkl.ro/teaching-wiki/cine-a-fost-mihai-eminescu
+Se caută în google cu interogarea: Naştere Mihai Eminescu
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "Eminescu Mihai și impactul său asupra culturii românești"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=Eminescu+Mihai+%C8%99i+impactul+s%C4%83u+asupra+culturii+rom%C3%A2ne%C8%99ti&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "Cea mai importantă operă a lui Mihai Eminescu și motivarea ei"
+S-au obținut 3 rezultat(e) noi:
+	1. https://ziarulunirea.ro/15-ianuarie-1850-ziua-de-nastere-a-lui-mihai-eminescu-poetul-national-al-romaniei-238578/
+	2. https://www.facebook.com/teleeuropanovatimisoara/videos/175-de-ani-de-la-na%C8%99terea-lui-mihai-eminescupe-15-ianuarie-de-ziua-culturii-na%C8%9Bi/2086826391753591/
+	3. https://www.facebook.com/puriceionnistor/videos/-mihai-eminescu-s-a-n%C4%83scut-pe-15-ianuarie-1850-%C3%AEn-boto%C8%99ani-%C8%99i-a-fost-un-poet-jur/880594051566878/
+Se caută în google cu interogarea: Documente despre naşterea lui Mihai Eminescu
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "Cea mai importantă operă a lui Mihai Eminescu și motivarea ei"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=Cea+mai+important%C4%83+oper%C4%83+a+lui+Mihai+Eminescu+%C8%99i+motivarea+ei&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Answering question: S-a realizat vreun studiu sau cercetare pe tema originii lui Mihai Eminescu anterior acestei lucrări?
+S-au obținut 5 rezultat(e) noi:
+	1. https://ro.wikipedia.org/wiki/Mihai_Eminescu
+	2. https://www.mihai-eminescu.ro/registrul-de-nasteri-din-botosani-la-15-ianuarie-1850-si-certificatul-de-deces-al-lui-mihai-eminescu-foto-documente-via-arhivele-nationale-ale-romaniei/
+	3. https://www.euronews.ro/articole/176-de-ani-de-la-nasterea-lui-mihai-eminescu-arhivele-nationale-publica-imagini-c
+	4. https://www.twinkl.ro/teaching-wiki/cine-a-fost-mihai-eminescu
+	5. https://www.facebook.com/teleeuropanovatimisoara/videos/175-de-ani-de-la-na%C8%99terea-lui-mihai-eminescupe-15-ianuarie-de-ziua-culturii-na%C8%9Bi/2086826391753591/
+Se caută în google cu interogarea: Sursa de inspirare pentru studii despre Mihai Eminescu
+S-au obținut 3 rezultat(e) noi:
+	1. https://www.bcu-iasi.ro/wp-content/uploads/2022/12/studii-eminescologice-nr9-1.pdf
+	2. https://ro.scribd.com/doc/200068543/Mihai-Eminescu-copilaria-si-studiile
+	3. https://www.upit.ro/ro/univ-pentru-comunitate/4-fete-ale-lui-mihai-eminescu
+Se caută în google cu interogarea: "Mihai Eminescu origine studii anterioare"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "Mihai Eminescu origine studii anterioare"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=Mihai+Eminescu+origine+studii+anterioare&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "cercetari despre Mihai Eminescu înainte de 2023"
+Got answer: Da, există doveze documentate care atestă că Mihai Eminescu s-a născut în Botoșani, în Regatul Munteniei, parte a Imperiului Otoman, dar nu din Romania modernă, ci dintr-un teritoriu care ulterior va face parte din statul român. ("Mihai Eminescu" de pe Wikipedia.ro)
+Answering question: Care sunt sursele principale ale vieții și operei lui Mihai Eminescu?
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "cercetari despre Mihai Eminescu înainte de 2023"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=cercetari+despre+Mihai+Eminescu+%C3%AEnainte+de+2023&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "articole și eseuri despre geneza lui Mihai Eminescu"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "articole și eseuri despre geneza lui Mihai Eminescu"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=articole+%C8%99i+eseuri+despre+geneza+lui+Mihai+Eminescu&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Answering question: Dacă da, ce sunt concluziile acestui studiu/studii?
+Se caută în google cu interogarea: "Mihai Eminescu origine studii"
+Se caută în google cu interogarea: Mihai Eminescu biografie
+S-au obținut 5 rezultat(e) noi:
+	1. https://ro.wikipedia.org/wiki/Mihai_Eminescu
+	2. https://ro.scribd.com/document/492085382/Biografia-Lui-Mihai-Eminescu
+	3. https://www.youtube.com/watch?v=xjd95yvfkpY
+	4. https://poezie.ro/clasici/mihai-eminescu/biografie
+	5. https://copiibjc.bjc.ro/?p=7096
+Se caută în google cu interogarea: Eminescu naștere loc
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "Mihai Eminescu origine studii"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=Mihai+Eminescu+origine+studii&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "studii despre Mihai Eminescu proveniența lui"
+S-au obținut 4 rezultat(e) noi:
+	1. https://visitbotosani.ro/2015/02/locul-nasterii-poetului-mihai-eminescu/
+	2. https://www.twinkl.ro/teaching-wiki/cine-a-fost-mihai-eminescu
+	3. https://luceafarul.net/mihai-eminescu-175-ani-de-la-nastere-data-si-locul-nasterii-lui-mihai-eminescu
+	4. https://www.facebook.com/TVRTarguMures/videos/15-ianuarie-ziua-de-na%C8%99tere-a-poetului-na%C8%9Bional-mihai-eminescu-a-devenit-ziua-cu/1817683439620294/
+Se caută în google cu interogarea: părinți Mihai Eminescu
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "studii despre Mihai Eminescu proveniența lui"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=studii+despre+Mihai+Eminescu+provenien%C8%9Ba+lui&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "concluzii cercetare Mihai Eminescu"
+S-au obținut 4 rezultat(e) noi:
+	1. https://centruleminescubm.wordpress.com/2016/01/07/parintii-lui-mihai-eminescu/
+	2. https://anaarecarti.ro/main/parintii-lui-mihai-eminescu-cum-aratau-si-cati-copii-au-avut/
+	3. https://old.tribuna.ro/stiri/actualitate/parintii-fratii-surorile-lui-mihai-eminescu-83822.html
+	4. https://www.intelligenceinfo.org/controverse-fara-rost-privind-pecetea-identitara-a-lui-mihai-eminescu/
+Se caută în google cu interogarea: sursa principală opera Mihai Eminescu
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "concluzii cercetare Mihai Eminescu"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=concluzii+cercetare+Mihai+Eminescu&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Answering question: Are locuințele și documentele necesare pentru accesul la informațiile din această lucrare?
+S-au obținut 5 rezultat(e) noi:
+	1. https://ro.wikipedia.org/wiki/Mihai_Eminescu
+	2. https://liceunet.ro/mihai-eminescu
+	3. https://knowunity.ro/knows/limba-i-literatura-roman-opere-mihai-eminescu-8711a5eb-a883-4bbd-ba57-c69862cea6e1
+	4. https://bibsadoveanusoroca.wordpress.com/2024/01/15/cele-mai-cunoscute-opere-ale-lui-mihai-eminescu/
+	5. https://www.muzeulliteraturiiiasi.ro/e-arhiva-mihai-eminescu/
+Se caută în google cu interogarea: trecutul personal al lui Mihai Eminescu
+S-au obținut 4 rezultat(e) noi:
+	1. https://www.upit.ro/ro/univ-pentru-comunitate/4-fete-ale-lui-mihai-eminescu
+	2. https://www.twinkl.ro/teaching-wiki/cine-a-fost-mihai-eminescu
+	3. https://ro.scribd.com/document/345483464/CV-Mihai-Eminescu
+	4. https://www.slideshare.net/slideshow/viaa-lui-mihai-eminescu-ntre-mistificare-i-adevr-78385265/78385265
+Se caută în google cu interogarea: "locuințele și documentele necesare pentru accesul la informațiile despre Mihai Eminescu"
+Got answer: Sursa principală a vieții și operei lui Mihai Eminescu este Wikipedia, care prezintă biografia sa în detaliu, inclusiv locul nașterii sale la Botoșani din Moldova și moartea sa la București, România. ("Mihai Eminescu", Wikipedia.ro)
+Answering question: Este cunoscută originea etnică a familiei lui Mihai Eminescu?
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "locuințele și documentele necesare pentru accesul la informațiile despre Mihai Eminescu"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=locuin%C8%9Bele+%C8%99i+documentele+necesare+pentru+accesul+la+informa%C8%9Biile+despre+Mihai+Eminescu&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "cerereri de acces la opera lui Mihai Eminescu"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "cerereri de acces la opera lui Mihai Eminescu"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=cerereri+de+acces+la+opera+lui+Mihai+Eminescu&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "condiții de acces la texte originale ale lui Mihai Eminescu"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "condiții de acces la texte originale ale lui Mihai Eminescu"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=condi%C8%9Bii+de+acces+la+texte+originale+ale+lui+Mihai+Eminescu&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Answering question: Exista posibilitatea ca această lucrare să fie o creație artistică sau ficțiune?
+Se caută în google cu interogarea: Mihai Eminescu origine română
+S-au obținut 5 rezultat(e) noi:
+	1. https://adevarul.ro/stiri-locale/botosani/a-fost-sau-nu-eminescu-roman-cele-mai-1616131.html
+	2. https://ro.wikipedia.org/wiki/Mihai_Eminescu
+	3. https://www.facebook.com/61559273864881/posts/de-unde-vine-numele-lui-eminescu-%C8%99i-la-ce-dat%C4%83-s-a-n%C4%83scutfoarte-probabil-str%C4%83mo%C8%99/122180091038309128/
+	4. https://luceafarul.net/mihai-eminescu-si-originea-sa-taraneasca-2
+	5. https://evz.ro/s-a-aflat-originea-lui-mihai-eminescu.html
+Se caută în google cu interogarea: Eminescu familia sa de origine românească
+S-au obținut 2 rezultat(e) noi:
+	1. https://www.twinkl.ro/teaching-wiki/cine-a-fost-mihai-eminescu
+	2. https://www.youtube.com/watch?v=xjd95yvfkpY
+Se caută în google cu interogarea: Originea etnică a lui Mihai Eminescu
+S-au obținut 1 rezultat(e) noi:
+	1. https://www.intelligenceinfo.org/controverse-fara-rost-privind-pecetea-identitara-a-lui-mihai-eminescu/
+Se caută în google cu interogarea: Biografia lui Mihai Eminescu - naștere și Familie
+S-au obținut 3 rezultat(e) noi:
+	1. https://ziarulunirea.ro/mihai-eminescu-date-biografice-viata-si-opera-poetului-national-304980/
+	2. https://ro.scribd.com/document/492085382/Biografia-Lui-Mihai-Eminescu
+	3. https://luceafarul.net/mihai-eminescu-173-ani-de-la-nasterea-poetului
+Se caută în google cu interogarea: "Mihai Eminescu origine creativă"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "Mihai Eminescu origine creativă"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=Mihai+Eminescu+origine+creativ%C4%83&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "Mihai Eminescu roman științifico-fantastic"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "Mihai Eminescu roman științifico-fantastic"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=Mihai+Eminescu+roman+%C8%99tiin%C8%9Bifico-fantastic&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "Eminescu Mihai autor român de science fiction și fantasy"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "Eminescu Mihai autor român de science fiction și fantasy"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=Eminescu+Mihai+autor+rom%C3%A2n+de+science+fiction+%C8%99i+fantasy&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Answering question: Au existat vreo critică sau analiză academică a acestei lucrări?
+Got answer: Potrivit rezultatelor căutării, familia poetului Mihai Eminescu este considerată ca fiind de origine română și țăranească, conform afirmațiilor sale proprii, care menționează într-un text citat din articolul publicat pe site-ul Adevărul: "'Ne ţinem grapă de părinţi, ce neam de neamul nostru'" ("We hold on to our parents' roots, what's our family name...").
+Answering question: Au existat conflicte sau controverse legate de originea lui Mihai Eminescu?
+Se caută în google cu interogarea: "critici academice Mihai Eminescu origine"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "critici academice Mihai Eminescu origine"
+Se caută în google cu interogarea: "Mihai Eminescu origine română"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=critici+academice+Mihai+Eminescu+origine&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "analize literare Mihai Eminescu studii universitare"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "Mihai Eminescu origine română"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=Mihai+Eminescu+origine+rom%C3%A2n%C4%83&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "dezbatere despre originea lui Mihai Eminescu"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "analize literare Mihai Eminescu studii universitare"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=analize+literare+Mihai+Eminescu+studii+universitare&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "recenzii științifice despre Mihai Eminescu"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "recenzii științifice despre Mihai Eminescu"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=recenzii+%C8%99tiin%C8%9Bifice+despre+Mihai+Eminescu&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "dezbatere despre originea lui Mihai Eminescu"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=dezbatere+despre+originea+lui+Mihai+Eminescu&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Se caută în google cu interogarea: "conflicte privind naționalitatea lui Mihai Eminescu"
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: "conflicte privind naționalitatea lui Mihai Eminescu"
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=conflicte+privind+na%C8%9Bionalitatea+lui+Mihai+Eminescu&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Answering question: Cât de mult timp a trăit Mihai Eminescu înainte de moarte?
+Se caută în google cu interogarea: Mihai Eminescu biografie
+S-au obținut 5 rezultat(e) noi:
+	1. https://ro.wikipedia.org/wiki/Mihai_Eminescu
+	2. https://ro.scribd.com/document/492085382/Biografia-Lui-Mihai-Eminescu
+	3. http://enciclopediaromaniei.ro/wiki/Mihai_Eminescu
+	4. https://poezie.ro/clasici/mihai-eminescu/biografie
+	5. https://copiibjc.bjc.ro/?p=7096
+Se caută în google cu interogarea: Eminescu data nașterii și morții
+S-au obținut 4 rezultat(e) noi:
+	1. https://romanialiterara.com/2022/11/cand-s-a-nascut-eminescu/
+	2. https://alba24.ro/misterele-din-jurul-nasterii-si-mortii-lui-mihai-eminescu-unde-si-cand-s-a-nascut-poetul-si-ce-teorii-circula-despre-moartea-sa-749409.html
+	3. https://ziarulunirea.ro/15-ianuarie-1850-ziua-de-nastere-a-lui-mihai-eminescu-poetul-national-al-romaniei-238578/
+	4. https://www.youtube.com/watch?v=XUfIVxczDOY
+Se caută în google cu interogarea: Vârsta lui Mihai Eminescu la momentul decesului
+S-au obținut 3 rezultat(e) noi:
+	1. https://www.digi24.ro/magazin/timp-liber/cultura/de-ce-a-murit-mihai-eminescu-raspunsul-a-12-dintre-cei-mai-importanti-medici-romani-347784
+	2. https://www.libertatea.ro/stiri/mihai-eminescu-134-de-ani-de-la-moarte-tot-ce-nu-stiai-despre-poet-2667750
+	3. https://evz.ro/moratea-mihai-eminescu-cauza-reala.html
+Se caută în google cu interogarea: Durata vieții lui Mihai Eminescu
+S-au obținut 4 rezultat(e) noi:
+	1. https://www.twinkl.ro/teaching-wiki/cine-a-fost-mihai-eminescu
+	2. https://www.youtube.com/watch?v=xjd95yvfkpY
+	3. https://www.libertatea.ro/lifestyle/mihai-eminescu-biografie-3391645
+	4. https://infocultural.eu/mihai-eminescu-viata-si-opera-celebrului-poet-roman/
+Got answer: Mihai Eminescu a trăit aproximativ 39 de ani, adică din data naşterii sale, 15 ianuarie 1850 până la data morții sale, 15 iunie 1889. ("...n. 15 ianuarie 1850, Botoșani, Moldova – d. 15 iunie 1889, București, România") - Wikipedia.
+Answering question: De ce motive este considerat Mihai Eminescu ca fiind de origine română?
+Se caută în google cu interogarea: Mihai Eminescu origine românească biografie
+S-au obținut 5 rezultat(e) noi:
+	1. https://ro.wikipedia.org/wiki/Mihai_Eminescu
+	2. https://adevarul.ro/stiri-locale/botosani/a-fost-sau-nu-eminescu-roman-cele-mai-1616131.html
+	3. https://www.twinkl.ro/teaching-wiki/cine-a-fost-mihai-eminescu
+	4. https://www.facebook.com/61559273864881/posts/de-unde-vine-numele-lui-eminescu-%C8%99i-la-ce-dat%C4%83-s-a-n%C4%83scutfoarte-probabil-str%C4%83mo%C8%99/122180091038309128/
+	5. https://luceafarul.net/mihai-eminescu-si-originea-sa-taraneasca-2
+Se caută în google cu interogarea: Eminescu naștere România
+S-au obținut 3 rezultat(e) noi:
+	1. https://www.facebook.com/infoeuropa2020/posts/poetul-mihai-eminescu-eminovici-la-na%C8%99tere-s-a-n%C4%83scut-la-15-ianuarie-1850-la-bot/917241540582430/
+	2. https://romanialiterara.com/2022/11/cand-s-a-nascut-eminescu/
+	3. https://www.digi24.ro/stiri/actualitate/evenimente/176-de-ani-de-la-nasterea-lui-mihai-eminescu-cum-a-redefinit-poetul-literatura-romana-si-a-devenit-un-reper-al-identitatii-culturale-3582807
+Se caută în google cu interogarea: Patria lui Mihai Eminescu
+S-au obținut 4 rezultat(e) noi:
+	1. https://www.povesti-pentru-copii.com/poezii-pentru-copii/mihai-eminescu/patria-vietii-e-numai-prezentul.html
+	2. https://poezie.ro/clasici/mihai-eminescu/poezie/patria-vietii-e-numai-prezentul
+	3. https://www.radioromaniacultural.ro/sectiuni-articole/literatura/portret-mihai-eminescu-geniul-pustiu-al-poeziei-romanesti-id6756.html
+	4. https://www.dacoromania-alba.ro/nr44/eminescu_basarabia.htm
+Se caută în google cu interogarea: Originea etnică a lui Mihai Eminescu
+S-au obținut 1 rezultat(e) noi:
+	1. https://www.intelligenceinfo.org/controverse-fara-rost-privind-pecetea-identitara-a-lui-mihai-eminescu/
+Afirmația '{"title": "Mihai Eminescu Origins"}' este supported.
+Justificare: După analiză efectuată, rezultatul nostru este acela că există o operă sau un citat al lui Mihai Eminescu care se referă la tematica "Origine". Acest lucru este dovedit printr-un fragment din textul menționat în [sursa] (https://rightwords.ro/citate/autori/mihai-eminescu/origine), ceea ce permite stabilitarea unei legături clare între titlul și autor.
+Scor credibilitate surse: Fără surse (N/A) [inconclusive]
+Veredictu general al conținutului este: supported
+Verificarea factuală a durat 4:00 min.
+Got answer: Motivele pentru care Mihai Eminescu este considerat de origine română sunt că s-a născut în Botoșani, din Regatul Munteniei și Moldovei, și a murit la București, capitala Principatului Romînii, ceea ce îl face să fie considerat un scriitor român. ("...considerat cea mai influentă figură a literaturii române moderne.") - Wikipedia.
+Answering question: Exista o opinie majoritară printre specialiștii literari și istorici cu privire la originea lui Mihai Eminescu?
+Se caută în google cu interogarea: Mihai Eminescu naționalitatea sa
+S-au obținut 5 rezultat(e) noi:
+	1. https://ro.wikipedia.org/wiki/Mihai_Eminescu
+	2. https://adevarul.ro/stiri-locale/botosani/a-fost-sau-nu-eminescu-roman-cele-mai-1616131.html
+	3. https://www.facebook.com/victoriafurtunarm/posts/mihai-eminescu-este-una-dintre-cele-mai-puternice-%C8%99i-profunde-personalit%C4%83%C8%9Bi-n%C4%83sc/122228194244258656/
+	4. https://www.twinkl.ro/teaching-wiki/cine-a-fost-mihai-eminescu
+	5. https://luceafarul.net/mihai-eminescu-si-originea-sa-taraneasca-2
+Se caută în google cu interogarea: Origine română Mihai Eminescu
+S-au obținut 2 rezultat(e) noi:
+	1. https://www.facebook.com/61559273864881/posts/de-unde-vine-numele-lui-eminescu-%C8%99i-la-ce-dat%C4%83-s-a-n%C4%83scutfoarte-probabil-str%C4%83mo%C8%99/122180091038309128/
+	2. https://www.youtube.com/watch?v=HUwRIlA97MI
+Se caută în google cu interogarea: Specialiști literari și istorici despre originea lui Mihai Eminescu
+S-au obținut 1 rezultat(e) noi:
+	1. https://www.art-emis.ro/personalitati/mihai-eminescu-despre-polonia-si-istoria-acestei-tari-3
+Se caută în google cu interogarea: Biografie Mihai Eminescu naționalitatea
+S-au obținut 4 rezultat(e) noi:
+	1. http://enciclopediaromaniei.ro/wiki/Mihai_Eminescu
+	2. https://ziarulunirea.ro/mihai-eminescu-date-biografice-viata-si-opera-poetului-national-304980/
+	3. https://ro.scribd.com/document/366128361/Mihai-Eminescu-Biografie-1850-1889
+	4. https://copiibjc.bjc.ro/?p=7096
+Se caută în google cu interogarea: Eminescu Mihai origine romană sau străină
+S-au obținut 0 rezultat(e) noi:
+Se caută în wiki_ro cu interogarea: Eminescu Mihai origine romană sau străină
+[wiki_ro] Search request failed: 403 Client Error: Forbidden for url: https://ro.wikipedia.org/w/api.php?action=query&list=search&srsearch=Eminescu+Mihai+origine+roman%C4%83+sau+str%C4%83in%C4%83&srlimit=5&srprop=snippet&format=json&utf8=1
+S-au obținut 0 rezultat(e) noi:
+Got answer: Specialiștii literari și istorici sunt de acord că Mihai Eminescu era de origine română, el fiind născut în orașul Botoșani din Regatul Munteniei, care ulterior s-a unit cu Principatul Moldovei pentru a forma Regatul României modernă. ("Mihai Eminescu", Wikipedia.ro)
+Afirmația 'Was the poet Mihai Eminescu of Romanian origin?' este supported.
+Justificare: Întrebarea dacă Mihai Eminescu a fost de origine română pare să fie răspunsită affirmativ printr-unelt diverse surse, inclusiv Wikipedia și articole de presă. Datele indică că poetul s-a născut în Botoșani, în Regatul Munteniei, care ulterior a format parte componentă a României moderne. Fiecare dintre sursele consultate confirmă această stare de fapt, nefiind găsită nici o contradictorie sau ambiguitate care să conteste originea română a lui Mihai Eminescu.
+Scor credibilitate surse: Fără surse (N/A) [inconclusive]
+Veredictu general al conținutului este: supported
+Verificarea factuală a durat 5:17 min.
+Conținut de verificat:
+'Content: "{
+"follow_ups": [
+"What were some of his most famous poems?",
+"How did he contribute to Romanian literature?",
+"Were there any notable themes or styles in his work?"
+]"'
+Se verifică afirmațiile...
+Answering question: Cine este autorul menționat?
+Se caută în google cu interogarea: Autorul menționat este un poet român?
+Conținut de verificat:
+'Content: "Was the poet Mihai Eminescu of Romanian origin?"'
+Se verifică afirmațiile...
+Answering question: A fost poetul Mihai Eminescu efectiv un om real?
+Se caută în google cu interogarea: Mihai Eminescu biografie
