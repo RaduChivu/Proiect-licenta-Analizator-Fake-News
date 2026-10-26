@@ -13,3 +13,4 @@ venv/
 .DS_Store
 .vscode/
 .idea/
+config/api_keys.yaml
